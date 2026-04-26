@@ -2,6 +2,19 @@
 
 This project is a practical starter for the IMT AI Intern engineering test from `AI_Intern_Test_2404.pdf`.
 
+## Documentation
+
+- Implementation report: [docs/implementation-report.md](docs/implementation-report.md)
+
+## Demo Video
+
+- Demo video: `Add your video link here`
+- Suggested content:
+  - dataset preprocessing
+  - OCR fallback example
+  - extracted JSON output
+  - question answering across resumes
+
 ## What the test asks for
 
 Build a user-facing tool that uses an LLM to extract structured information from resumes.
