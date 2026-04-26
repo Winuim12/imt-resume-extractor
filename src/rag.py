@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+import re
 
 from openai import OpenAI
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -24,25 +25,83 @@ def _chunk_text(text: str, chunk_size: int = 900, overlap: int = 150) -> list[st
 
 
 @dataclass
+class ResumeChunk:
+    file_name: str
+    department: str
+    text: str
+    kind: str = "content"
+
+
+@dataclass
 class SimpleResumeIndex:
-    chunks: list[str]
+    chunks: list[ResumeChunk]
     vectorizer: TfidfVectorizer
     matrix: object
 
     @classmethod
     def from_text(cls, text: str) -> "SimpleResumeIndex":
-        chunks = _chunk_text(text)
+        chunks = [
+            ResumeChunk(
+                file_name="uploaded_resume.pdf",
+                department="UNKNOWN",
+                text=chunk,
+                kind="content",
+            )
+            for chunk in _chunk_text(text)
+        ]
         vectorizer = TfidfVectorizer(stop_words="english")
-        matrix = vectorizer.fit_transform(chunks) if chunks else None
+        matrix = vectorizer.fit_transform([chunk.text for chunk in chunks]) if chunks else None
         return cls(chunks=chunks, vectorizer=vectorizer, matrix=matrix)
 
-    def search(self, query: str, top_k: int = 4) -> list[str]:
+    @classmethod
+    def from_documents(cls, documents: list[dict]) -> "SimpleResumeIndex":
+        chunks: list[ResumeChunk] = []
+        for document in documents:
+            summary_text = document.get("summary_text", "").strip()
+            if summary_text:
+                chunks.append(
+                    ResumeChunk(
+                        file_name=document["file_name"],
+                        department=document["department"],
+                        text=summary_text,
+                        kind="summary",
+                    )
+                )
+            for chunk in _chunk_text(document["text"]):
+                chunks.append(
+                    ResumeChunk(
+                        file_name=document["file_name"],
+                        department=document["department"],
+                        text=chunk,
+                        kind="content",
+                    )
+                )
+        vectorizer = TfidfVectorizer(stop_words="english")
+        matrix = vectorizer.fit_transform([chunk.text for chunk in chunks]) if chunks else None
+        return cls(chunks=chunks, vectorizer=vectorizer, matrix=matrix)
+
+    def search(self, query: str, top_k: int = 4) -> list[ResumeChunk]:
         if not self.chunks or self.matrix is None:
             return []
         query_vector = self.vectorizer.transform([query])
         scores = cosine_similarity(query_vector, self.matrix)[0]
+        query_terms = {
+            term.lower()
+            for term in re.findall(r"[A-Za-z0-9+#.\-]+", query)
+            if len(term) > 1
+        }
+        boosted = []
+        for chunk, score in zip(self.chunks, scores):
+            adjusted = float(score)
+            lower_text = chunk.text.lower()
+            overlap_count = sum(1 for term in query_terms if term in lower_text)
+            adjusted += overlap_count * 0.08
+            if chunk.kind == "summary":
+                adjusted += 0.25
+                adjusted += overlap_count * 0.12
+            boosted.append((chunk, adjusted))
         ranked = sorted(
-            zip(self.chunks, scores),
+            boosted,
             key=lambda item: item[1],
             reverse=True,
         )
@@ -51,7 +110,12 @@ class SimpleResumeIndex:
 
 def answer_question(question: str, index: SimpleResumeIndex, top_k: int = 4) -> dict:
     chunks = index.search(question, top_k=top_k)
-    context = "\n\n".join(chunks)
+    context = "\n\n".join(
+        [
+            f"Source file: {chunk.file_name}\nDepartment: {chunk.department}\nContent:\n{chunk.text}"
+            for chunk in chunks
+        ]
+    )
 
     client = OpenAI(
         api_key=settings.resolved_api_key,
@@ -70,5 +134,12 @@ def answer_question(question: str, index: SimpleResumeIndex, top_k: int = 4) -> 
 
     return {
         "answer": response.choices[0].message.content,
-        "chunks": chunks,
+        "chunks": [
+            {
+                "file_name": chunk.file_name,
+                "department": chunk.department,
+                "text": chunk.text,
+            }
+            for chunk in chunks
+        ],
     }

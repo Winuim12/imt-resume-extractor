@@ -22,12 +22,13 @@ Core requirements from the PDF:
 
 To keep the project realistic and finishable in 6-8 hours, this repo is scoped as:
 
-1. `Streamlit` app for upload + extraction + QA
-2. `PyPDF` for text PDFs
-3. `pytesseract` OCR fallback for scanned PDFs
-4. `Ollama` local LLM client for structured extraction and answers
-5. `TF-IDF retrieval` for a simple, explainable RAG baseline
-6. JSON export for extracted candidate profile
+1. Offline preprocessing pipeline for the full dataset
+2. `Streamlit` app for querying the preprocessed corpus
+3. `PyPDF` for text PDFs
+4. `pytesseract` OCR fallback for scanned PDFs
+5. `Ollama` local LLM client for structured extraction and answers
+6. Lightweight local RAG over the preprocessed corpus
+7. One JSON export per PDF
 
 This is enough to demonstrate:
 
@@ -41,14 +42,15 @@ This is enough to demonstrate:
 ## Suggested architecture
 
 ```text
-Upload PDF
+Raw resume PDFs
   -> detect text layer
   -> OCR fallback if needed
   -> clean text
-  -> chunk text for retrieval
-  -> extract structured JSON with LLM
-  -> allow QA over retrieved chunks
-  -> export JSON + latency/debug info
+  -> extract one structured JSON file per PDF
+  -> save plain text and JSON outputs
+  -> Streamlit UI loads the preprocessed corpus
+  -> build a local TF-IDF retrieval index in memory
+  -> answer questions across the whole processed document set
 ```
 
 ## Project structure
@@ -155,8 +157,52 @@ If the original dataset folder names are different, rename them before placing t
 
 The Streamlit app supports two input modes:
 
-1. `Use local dataset`: choose PDFs directly from the required Kaggle folders
-2. `Upload PDF`: upload a file manually for quick testing
+1. `Use local dataset`: choose one or many PDFs directly from the required Kaggle folders
+2. `Upload PDF files`: upload one or many files manually
+
+When a batch is processed:
+
+- each PDF is parsed independently
+- one JSON file is written for each PDF under `outputs/profiles/`
+- the app builds a shared local RAG index across all successfully processed files
+- questions are answered against the whole processed collection, not just one resume
+
+## Preprocess First Workflow
+
+For larger datasets, the recommended workflow is to preprocess the full corpus before opening the UI.
+
+This command:
+
+- reads the PDF dataset
+- extracts plain text
+- creates one JSON profile per PDF
+- saves a manifest for the processed corpus
+
+```bash
+python scripts/preprocess_dataset.py
+```
+
+Useful options:
+
+- `--department HR`
+- `--department INFORMATION-TECHNOLOGY`
+- `--limit 20`
+- `--skip-existing`
+- `--failed-only`
+
+Generated artifacts:
+
+- `outputs/profiles/` for extracted JSON files
+- `outputs/texts/` for extracted plain text
+- `outputs/manifest.json` for corpus metadata
+
+After preprocessing, run:
+
+```bash
+streamlit run app.py
+```
+
+The app then loads the preprocessed corpus and answers questions across all indexed resumes.
 
 ## Batch Evaluation
 

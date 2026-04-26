@@ -7,3 +7,4 @@ scikit-learn>=1.6.0
 pytesseract>=0.3.13
 Pillow>=11.2.0
 PyMuPDF>=1.26.0
+json-repair>=0.39.1

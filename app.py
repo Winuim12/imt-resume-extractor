@@ -1,186 +1,220 @@
-import json
-import tempfile
 from pathlib import Path
+import json
 
 import streamlit as st
 
 from src.config import settings
-from src.dataset_loader import ALLOWED_DEPARTMENTS, dataset_summary, list_dataset_files
-from src.evaluation import make_run_stats
-from src.extractor import extract_resume_profile
-from src.pdf_loader import extract_resume_text
+from src.ingestion import save_uploaded_file
+from src.pipeline import process_resume_file, save_processed_manifest
+from src.preprocessed_store import load_manifest, manifest_path, outputs_dir
 from src.rag import SimpleResumeIndex, answer_question
+from src.dataset_loader import ALLOWED_DEPARTMENTS
 
 
-st.set_page_config(page_title="IMT Resume Extractor", layout="wide")
+st.set_page_config(page_title="IMT Resume RAG", layout="wide")
 
 
-def _save_upload(uploaded_file) -> Path:
-    suffix = Path(uploaded_file.name).suffix or ".pdf"
-    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
-        tmp.write(uploaded_file.getvalue())
-        return Path(tmp.name)
-
-
-def _process_resume(
-    local_path: Path,
-    file_name: str,
-    department: str,
-) -> None:
-    with st.spinner("Reading PDF and extracting candidate data..."):
-        extraction = extract_resume_text(local_path)
-        profile = extract_resume_profile(
-            raw_text=extraction.text,
-            department=department,
+def _load_fallback_index(records: list) -> SimpleResumeIndex:
+    documents = []
+    for record in records:
+        text = Path(record.text_path).read_text(encoding="utf-8")
+        profile = json.loads(Path(record.profile_path).read_text(encoding="utf-8"))
+        skills = ", ".join(profile.get("skills", []))
+        tools = ", ".join(profile.get("tools", []))
+        certifications = ", ".join(profile.get("certifications", []))
+        education = " | ".join(
+            [
+                " - ".join(
+                    [
+                        item.get("degree") or "",
+                        item.get("institution") or "",
+                        item.get("graduation_year") or "",
+                    ]
+                ).strip(" -")
+                for item in profile.get("education", [])
+            ]
         )
-        index = SimpleResumeIndex.from_text(extraction.text)
-        run_stats = make_run_stats(
-            file_name=file_name,
-            department=department,
-            extraction=extraction,
-            profile=profile,
+        experience = " | ".join(
+            [
+                " - ".join(
+                    [
+                        item.get("title") or "",
+                        item.get("company") or "",
+                        item.get("duration") or "",
+                        ", ".join(item.get("responsibilities", [])),
+                    ]
+                ).strip(" -")
+                for item in profile.get("experience", [])
+            ]
         )
-
-    st.session_state.resume_text = extraction.text
-    st.session_state.resume_index = index
-    st.session_state.resume_profile = profile
-    st.session_state.run_stats = run_stats
-    st.session_state.source_file_name = file_name
-
-
-st.title("IMT Resume Extractor")
-st.caption("Structured extraction + lightweight RAG over HR and IT resumes")
-
-summary = dataset_summary()
-dataset_files = list_dataset_files()
-
-with st.sidebar:
-    st.subheader("Settings")
-    top_k = st.slider("Retrieved chunks", min_value=1, max_value=8, value=4)
-    st.caption("LLM provider: Ollama Local")
-    st.caption(f"Active model: {settings.ollama_model}")
-    st.caption(f"Endpoint: {settings.ollama_base_url}")
-    st.subheader("Dataset")
-    st.caption(summary["base_dir"])
-    st.json(summary["departments"])
-
-source_mode = st.radio(
-    "Choose resume source",
-    ["Use local dataset", "Upload PDF"],
-    horizontal=True,
-)
-
-if "resume_text" not in st.session_state:
-    st.session_state.resume_text = ""
-if "resume_index" not in st.session_state:
-    st.session_state.resume_index = None
-if "resume_profile" not in st.session_state:
-    st.session_state.resume_profile = None
-if "run_stats" not in st.session_state:
-    st.session_state.run_stats = None
-if "source_file_name" not in st.session_state:
-    st.session_state.source_file_name = ""
-
-selected_department = None
-selected_dataset_item = None
-
-if source_mode == "Use local dataset":
-    if not dataset_files:
-        st.warning(
-            "No dataset PDFs found yet. Put files under data/HR and data/INFORMATION-TECHNOLOGY."
+        projects = " | ".join(
+            [
+                " - ".join(
+                    [
+                        item.get("name") or "",
+                        item.get("description") or "",
+                        ", ".join(item.get("technologies", [])),
+                    ]
+                ).strip(" -")
+                for item in profile.get("projects", [])
+            ]
         )
-    else:
-        selected_department = st.selectbox(
-            "Department",
-            ALLOWED_DEPARTMENTS,
-        )
-        filtered_items = [
-            item for item in dataset_files if item.department == selected_department
-        ]
-        selected_label = st.selectbox(
-            "Resume file",
-            [item.label for item in filtered_items],
-        )
-        selected_dataset_item = next(
-            item for item in filtered_items if item.label == selected_label
-        )
+        enriched_text = f"""
+Candidate Name: {profile.get('candidate_name') or ''}
+Department: {profile.get('department') or record.department}
+Summary: {profile.get('summary') or ''}
+Skills: {skills}
+Tools: {tools}
+Certifications: {certifications}
+Education: {education}
+Experience: {experience}
+Projects: {projects}
 
-        if st.button("Process Resume", type="primary"):
-            try:
-                _process_resume(
-                    local_path=selected_dataset_item.path,
-                    file_name=selected_dataset_item.path.name,
-                    department=selected_dataset_item.department,
-                )
-            except Exception as exc:
-                st.error(f"Could not process resume: {exc}")
-else:
-    selected_department = st.selectbox(
-        "Department",
-        ALLOWED_DEPARTMENTS,
-    )
-    uploaded_file = st.file_uploader("Upload a resume PDF", type=["pdf"])
-    if uploaded_file and st.button("Process Resume", type="primary"):
-        local_path = _save_upload(uploaded_file)
+Resume Content:
+{text}
+""".strip()
+        summary_text = f"""
+Candidate Name: {profile.get('candidate_name') or ''}
+Department: {profile.get('department') or record.department}
+Skills: {skills}
+Tools: {tools}
+Projects: {projects}
+Summary: {profile.get('summary') or ''}
+""".strip()
+        documents.append(
+            {
+                "file_name": record.file_name,
+                "department": record.department,
+                "text": enriched_text,
+                "summary_text": summary_text,
+            }
+        )
+    return SimpleResumeIndex.from_documents(documents)
+
+
+def _add_uploaded_documents(uploaded_files, department: str) -> dict:
+    processed = []
+    errors = []
+
+    for uploaded_file in uploaded_files:
+        local_path = save_uploaded_file(uploaded_file)
         try:
-            _process_resume(
+            processed_item = process_resume_file(
                 local_path=local_path,
                 file_name=uploaded_file.name,
-                department=selected_department,
+                department=department,
             )
+            processed.append(processed_item)
+            save_processed_manifest([processed_item])
         except Exception as exc:
-            st.error(f"Could not process resume: {exc}")
+            errors.append({"file_name": uploaded_file.name, "error": str(exc)})
 
-col_left, col_right = st.columns([1.2, 1.0])
+    return {"processed": processed, "errors": errors}
 
-with col_left:
-    st.subheader("Structured JSON")
-    if st.session_state.resume_profile:
-        st.json(st.session_state.resume_profile)
-        st.download_button(
-            "Download JSON",
-            data=json.dumps(st.session_state.resume_profile, indent=2),
-            file_name="resume_profile.json",
-            mime="application/json",
-        )
-    else:
-        st.info("Upload a PDF and process it to see the extracted candidate profile.")
 
-with col_right:
-    st.subheader("Run Stats")
-    if st.session_state.run_stats:
-        if st.session_state.source_file_name:
-            st.caption(f"Current file: {st.session_state.source_file_name}")
-        st.json(st.session_state.run_stats)
-    else:
-        st.info("Processing metadata will appear here.")
+st.title("IMT Resume RAG")
+st.caption("Query a preprocessed multi-document resume corpus")
 
-st.subheader("Ask Questions About This Resume")
-question = st.text_input(
-    "Example: What tools has this candidate used, and what evidence supports that?"
-)
+records = load_manifest()
 
-if st.button("Answer Question") and question:
-    if not st.session_state.resume_index:
-        st.warning("Please process a resume first.")
-    else:
+with st.sidebar:
+    st.subheader("Runtime")
+    st.caption("LLM provider: Ollama Local")
+    st.caption(f"Model: {settings.ollama_model}")
+    st.caption(f"Endpoint: {settings.ollama_host}")
+    st.subheader("Corpus")
+    st.caption(f"Manifest: {manifest_path()}")
+    st.caption(f"Outputs: {outputs_dir()}")
+    st.caption("Retrieval mode: TF-IDF local RAG over preprocessed corpus")
+    top_k = st.slider("Retrieved chunks", min_value=1, max_value=12, value=6)
+
+if "fallback_index" not in st.session_state:
+    st.session_state.fallback_index = None
+
+with st.expander("Add New Documents To The Corpus"):
+    upload_department = st.selectbox("Upload department", ALLOWED_DEPARTMENTS)
+    new_uploaded_files = st.file_uploader(
+        "Upload new PDF files to merge into the corpus",
+        type=["pdf"],
+        accept_multiple_files=True,
+        key="corpus_uploader",
+    )
+    if st.button("Preprocess And Merge Documents", disabled=not new_uploaded_files):
         try:
-            with st.spinner("Searching relevant chunks and generating an answer..."):
+            with st.spinner("Processing new documents and updating the corpus..."):
+                merge_result = _add_uploaded_documents(new_uploaded_files, upload_department)
+            st.session_state.fallback_index = None
+            if merge_result["processed"]:
+                st.success(
+                    f"Merged {len(merge_result['processed'])} new document(s) into the corpus."
+                )
+            if merge_result["errors"]:
+                st.warning(f"{len(merge_result['errors'])} file(s) could not be processed.")
+                st.json(merge_result["errors"])
+            st.rerun()
+        except Exception as exc:
+            st.error(f"Could not merge new documents into the corpus: {exc}")
+
+if not records:
+    st.warning(
+        "No preprocessed corpus found yet. Run `python scripts\\preprocess_dataset.py` first."
+    )
+else:
+    col_left, col_right = st.columns([1.15, 0.85])
+
+    with col_left:
+        st.subheader("Preprocessed Documents")
+        table = [
+            {
+                "file_name": record.file_name,
+                "department": record.department,
+                "ingestion_method": record.ingestion_method,
+                "pages": record.page_count,
+                "ingestion_seconds": record.ingestion_seconds,
+                "completion_rate": record.required_field_completion_rate,
+                "profile_json": record.profile_path,
+            }
+            for record in records
+        ]
+        st.dataframe(table, width="stretch")
+
+    with col_right:
+        st.subheader("Corpus Summary")
+        total_files = len(records)
+        ocr_files = sum(1 for record in records if record.ingestion_method == "ocr")
+        avg_completion = round(
+            sum(record.required_field_completion_rate for record in records) / total_files,
+            2,
+        )
+        st.json(
+            {
+                "processed_files": total_files,
+                "ocr_files": ocr_files,
+                "text_layer_files": total_files - ocr_files,
+                "average_completion_rate": avg_completion,
+                "retrieval_mode": "tfidf_rag",
+            }
+        )
+
+    st.subheader("Ask Questions Across The Preprocessed Resume Set")
+    question = st.text_input(
+        "Example: Which candidates mention Python experience, and what evidence supports that?"
+    )
+
+    if st.button("Answer Question") and question:
+        try:
+            if st.session_state.fallback_index is None:
+                st.session_state.fallback_index = _load_fallback_index(records)
+            with st.spinner("Querying the preprocessed local index..."):
                 qa_result = answer_question(
                     question=question,
-                    index=st.session_state.resume_index,
+                    index=st.session_state.fallback_index,
                     top_k=top_k,
                 )
             st.markdown(qa_result["answer"])
             with st.expander("Retrieved Context"):
                 for idx, chunk in enumerate(qa_result["chunks"], start=1):
-                    st.markdown(f"**Chunk {idx}**")
-                    st.write(chunk)
+                    st.markdown(f"**Chunk {idx} | {chunk['file_name']} | {chunk['department']}**")
+                    st.write(chunk["text"])
         except Exception as exc:
             st.error(f"Could not answer the question: {exc}")
-
-with st.expander("Extracted Plain Text"):
-    if st.session_state.resume_text:
-        st.text(st.session_state.resume_text[:12000])
-    else:
-        st.write("No text extracted yet.")

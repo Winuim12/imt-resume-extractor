@@ -11,6 +11,18 @@ Rules:
 """
 
 
+JSON_REPAIR_SYSTEM_PROMPT = """
+You repair malformed model output into valid JSON.
+
+Rules:
+- Return valid JSON only.
+- Do not add markdown fences.
+- Do not explain anything.
+- Do not invent new fields outside the target schema.
+- If a value is unclear, keep the closest faithful value already present in the input.
+"""
+
+
 def build_extraction_prompt(raw_text: str, department: str) -> str:
     return f"""
 Target department: {department}
@@ -69,4 +81,15 @@ Question:
 
 Context:
 {context}
+"""
+
+
+def build_json_repair_prompt(raw_output: str) -> str:
+    return f"""
+Convert the following content into one valid JSON object.
+
+Content:
+\"\"\"
+{raw_output}
+\"\"\"
 """

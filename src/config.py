@@ -17,5 +17,11 @@ class Settings(BaseModel):
     def resolved_api_key(self) -> str:
         return self.ollama_api_key or "ollama"
 
+    @property
+    def ollama_host(self) -> str:
+        if self.ollama_base_url.endswith("/v1"):
+            return self.ollama_base_url[: -len("/v1")]
+        return self.ollama_base_url
+
 
 settings = Settings()
