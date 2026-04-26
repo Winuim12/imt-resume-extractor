@@ -10,11 +10,9 @@ This project is a practical starter for the IMT AI Intern engineering test from 
 
 - Demo video: https://drive.google.com/file/d/1i0oHOyQ0EYDAmRVh3vn8bTZm1owOHkeC/view?usp=sharing
 
-## What the test asks for
+## Core requirements
 
 Build a user-facing tool that uses an LLM to extract structured information from resumes.
-
-Core requirements from the PDF:
 
 1. Support resume files from the Kaggle dataset:
    - `HUMAN RESOURCES`
@@ -26,9 +24,7 @@ Core requirements from the PDF:
 4. Provide a lightweight product UI where users can upload/query documents
 5. Include an evaluation approach if possible
 
-## Recommended scope for a strong submission
-
-To keep the project realistic and finishable in 6-8 hours, this repo is scoped as:
+## Scope
 
 1. Offline preprocessing pipeline for the full dataset
 2. `Streamlit` app for querying the preprocessed corpus
@@ -47,7 +43,7 @@ This is enough to demonstrate:
 - product thinking
 - evaluation thinking
 
-## Suggested architecture
+## Architecture
 
 ```text
 Raw resume PDFs
@@ -302,7 +298,7 @@ In practice, the CSV helps answer:
 - Which model produces more complete structured outputs?
 - Which files fail and need prompt or OCR improvements?
 
-### Recommended evaluation workflow
+### Evaluation workflow
 
 For a short but credible evaluation section in the submission:
 
@@ -351,64 +347,3 @@ For a stronger follow-up version, the next step would be to create a small manua
 - extracted email vs true email
 - skill overlap between prediction and manual annotation
 - answer correctness on a fixed QA set
-
-## What to demo in the final submission
-
-Good demo flow:
-
-1. Upload one HR resume PDF
-2. Show extracted JSON
-3. Ask questions like:
-   - "What recruiting tools has this candidate used?"
-   - "How many years of experience do they appear to have?"
-4. Upload one IS resume PDF
-5. Repeat extraction + QA
-6. Show one scanned PDF case and explain OCR fallback
-
-## Evaluation ideas
-
-The PDF says evaluation is optional but valuable. A good practical section in the README:
-
-1. Extraction validity:
-   - JSON parse success rate
-   - required field completion rate
-2. Retrieval quality:
-   - whether the answer cites relevant chunks
-   - manual spot-check on top-k retrieved chunks
-3. Answer quality:
-   - human review for correctness
-   - exact-match or rubric-based scoring on a small labeled subset
-4. Latency:
-   - parse time
-   - extraction time
-   - answer time
-
-## Suggested delivery strategy
-
-If time is tight, build in this order:
-
-1. PDF text extraction
-2. LLM structured JSON extraction
-3. Streamlit UI
-4. QA over document
-5. OCR fallback
-6. Evaluation section in README
-
-## Submission checklist
-
-- source code in GitHub
-- README with architecture and setup
-- screenshots or short GIF of the app
-- explanation of OCR strategy
-- explanation of extraction schema
-- explanation of evaluation approach
-
-## Honest positioning for interview review
-
-If some parts are partial, say so directly in the README. For example:
-
-- OCR fallback implemented, but quality depends on local Tesseract setup
-- retrieval uses TF-IDF baseline for clarity and speed
-- evaluation uses a small manually reviewed subset due time constraints
-
-That kind of honesty usually reads well when the implementation is otherwise clean and thoughtful.
