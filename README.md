@@ -8,12 +8,7 @@ This project is a practical starter for the IMT AI Intern engineering test from 
 
 ## Demo Video
 
-- Demo video: `Add your video link here`
-- Suggested content:
-  - dataset preprocessing
-  - OCR fallback example
-  - extracted JSON output
-  - question answering across resumes
+- Demo video: https://drive.google.com/file/d/1i0oHOyQ0EYDAmRVh3vn8bTZm1owOHkeC/view?usp=sharing
 
 ## What the test asks for
 
