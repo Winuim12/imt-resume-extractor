@@ -187,6 +187,117 @@ The exported CSV includes:
 - success or error status
 - total runtime
 
+## Evaluation Methodology
+
+This project includes a lightweight but practical evaluation flow designed for an intern take-home scope.
+
+The current evaluation focuses on three questions:
+
+1. Can the system read the resume successfully?
+2. Can the extraction pipeline return a usable structured JSON object?
+3. How stable is the pipeline in terms of completeness and runtime across multiple files?
+
+### What is measured
+
+Each evaluation row in the CSV represents one resume file and contains the following signals:
+
+- `ingestion_method`
+  - `text-layer` if the PDF text could be extracted directly
+  - `ocr` if the pipeline had to fall back to OCR
+- `page_count`
+  - number of pages in the source PDF
+- `ingestion_seconds`
+  - time spent extracting text from the PDF
+- `required_field_completion_rate`
+  - completeness score for core extracted fields
+- `status`
+  - whether the full extraction run succeeded or failed
+- `total_runtime_seconds`
+  - total time for the end-to-end extraction run
+
+### Completeness metric
+
+The current structured extraction completeness score is based on five required fields:
+
+- `candidate_name`
+- `email`
+- `skills`
+- `education`
+- `experience`
+
+The score is calculated as:
+
+```text
+filled_required_fields / 5
+```
+
+Example:
+
+- `1.0` means all required fields were present
+- `0.6` means 3 out of 5 required fields were present
+
+This is not a semantic correctness score. It is a pipeline completeness score that helps identify whether the extraction output is sufficiently usable.
+
+### How to interpret the CSV
+
+In practice, the CSV helps answer:
+
+- Which files succeed consistently?
+- Which resumes require OCR?
+- How much slower are OCR cases than text-layer PDFs?
+- Which model produces more complete structured outputs?
+- Which files fail and need prompt or OCR improvements?
+
+### Recommended evaluation workflow
+
+For a short but credible evaluation section in the submission:
+
+1. Run evaluation on a small balanced subset:
+   - 10 HR resumes
+   - 10 IT resumes
+2. Compute:
+   - success rate
+   - average completion rate
+   - average runtime
+   - OCR vs text-layer counts
+3. Manually review a few extracted JSON outputs
+4. Note common failure cases
+
+### Example commands
+
+Evaluate 10 files total:
+
+```bash
+python scripts/run_evaluation.py --model gpt-oss:20b --limit 10 --output results/eval_10.csv
+```
+
+Evaluate 10 HR files:
+
+```bash
+python scripts/run_evaluation.py --department HR --model gpt-oss:20b --limit 10 --output results/eval_hr_10.csv
+```
+
+Evaluate 10 IT files:
+
+```bash
+python scripts/run_evaluation.py --department INFORMATION-TECHNOLOGY --model gpt-oss:20b --limit 10 --output results/eval_it_10.csv
+```
+
+### Limitations of the current evaluation
+
+The current evaluation is intentionally lightweight. It does not yet measure:
+
+- exact correctness of extracted fields against labeled ground truth
+- semantic accuracy of every answer in the QA interface
+- retrieval precision using annotated relevance judgments
+
+For a stronger follow-up version, the next step would be to create a small manually labeled benchmark and compare:
+
+- extracted name vs true name
+- extracted email vs true email
+- skill overlap between prediction and manual annotation
+- answer correctness on a fixed QA set
+
 ## What to demo in the final submission
 
 Good demo flow:
