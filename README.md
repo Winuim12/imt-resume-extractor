@@ -7,8 +7,14 @@ This project is a practical starter for the IMT AI Intern engineering test from 
 - Implementation report: [docs/implementation-report.md](docs/implementation-report.md)
 
 ## Demo Video
+A short demo (2–4 minutes) showing:
 
-- Demo video: https://drive.google.com/file/d/1i0oHOyQ0EYDAmRVh3vn8bTZm1owOHkeC/view?usp=sharing
+- end-to-end resume parsing
+- structured JSON extraction
+- multi-document question answering
+- OCR fallback for scanned PDFs
+
+Link: https://drive.google.com/file/d/1i0oHOyQ0EYDAmRVh3vn8bTZm1owOHkeC/view?usp=sharing
 
 ## Core requirements
 
