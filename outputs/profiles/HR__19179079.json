@@ -1,0 +1,123 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Experienced Corporate Recruiter who is self\u2011motivated, results driven, highly responsive and able to prioritize effectively to accomplish multiple tasks and stay calm under pressure. Offering over 6 years of recruiting, human resources and staffing experience with a Bachelor's Degree in Human Resources Management. Experience with full life\u2011cycle recruiting of qualified IT professionals including college graduates, experienced software developers, business/technical consultants, sales executives, project managers, and executive level staff.",
+  "total_experience_years": 28.0,
+  "skills": [
+    "Recruiting",
+    "Staffing",
+    "Training",
+    "College Recruiting",
+    "Sourcing",
+    "Phone screens",
+    "Interviewing",
+    "Negotiation",
+    "Recruiting Events",
+    "New Hires",
+    "On\u2011boarding",
+    "HRIS/ATS",
+    "HR Administration",
+    "Employee Issues",
+    "Terminations",
+    "Recruiting Best Practices",
+    "Performance Evaluations",
+    "EEO",
+    "Human Resources Management",
+    "Ms Office Suite"
+  ],
+  "tools": [
+    "Infor Talent Management",
+    "ADP Workforce Now",
+    "MS Office Suite"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Colorado Christian University",
+      "graduation_year": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Recruiting and HR Manager",
+      "company": null,
+      "duration": "06/2015 to Current",
+      "responsibilities": [
+        "Lead end\u2011to\u2011end recruitment for all business units across ENAVATE and Celenia North America.",
+        "Develop and execute recruitment strategies, sourcing, screening, interviewing, and hiring.",
+        "Streamline recruiting processes, update procedures, and maintain ATS.",
+        "Partner with hiring managers to define role requirements and candidate profiles.",
+        "Coordinate interview schedules, provide coaching on interview techniques, and conduct behavioral interviews.",
+        "Negotiate offers, manage employment agencies, and maintain relationships with colleges and universities.",
+        "Oversee onboarding, new hire orientation, and training programs.",
+        "Administer benefits, payroll, and HRIS functions for North America employees.",
+        "Handle terminations, exit interviews, and employee relations."
+      ]
+    },
+    {
+      "title": "Talent Acquisition Specialist",
+      "company": null,
+      "duration": "11/2014 to 05/2015",
+      "responsibilities": [
+        "Recruited shift supervisors and managers across 450+ U.S. locations.",
+        "Sourced talent via CareerBuilder, LinkedIn Recruiter, Indeed, and Snagajob.",
+        "Managed job postings, applicant screening, phone screens, and background checks.",
+        "Generated offer letters and coordinated with hiring managers.",
+        "Implemented recruiting best practices and trained field managers.",
+        "Tracked candidates in Infor Talent Management and CareerBuilder TalentNetwork."
+      ]
+    },
+    {
+      "title": "Manager of Employee Recruitment & Development / Recruitment Specialist",
+      "company": null,
+      "duration": "05/1999 to 10/1999",
+      "responsibilities": [
+        "Recruited software developers, testers, sales managers, and executives for a technology consulting firm.",
+        "Conducted full recruiting lifecycle: phone screens, on\u2011site interviews, offers, and salary negotiations.",
+        "Managed employee referral program and conducted exit interviews.",
+        "Prepared monthly ER&D reports for the Executive Board.",
+        "Supervised HR Generalist and Benefits Administrator."
+      ]
+    },
+    {
+      "title": "Regional HR Manager / Recruiter",
+      "company": null,
+      "duration": "06/1994 to 05/1995",
+      "responsibilities": [
+        "Handled all HR administration for a Denver office of 75 employees.",
+        "Conducted new hire orientations, exit interviews, benefits coordination, and leave administration.",
+        "Managed visa processing and HRIS data entry.",
+        "Advised managers on employee policies and staffing initiatives.",
+        "Recruited IT professionals and managed relationships with contracting agencies."
+      ]
+    },
+    {
+      "title": "Corporate Recruiter / Staffing",
+      "company": null,
+      "duration": "05/1995 to 11/1998",
+      "responsibilities": [
+        "Recruited technical and functional IT professionals from college and open market.",
+        "Represented the firm at job fairs, college campuses, and recruiting events.",
+        "Screened thousands of college resumes and scheduled campus interviews.",
+        "Created training curriculum for college interview presentations.",
+        "Coordinated staffing assignments and maintained staffing pipeline reports."
+      ]
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": null,
+      "duration": "06/1994 to 05/1995",
+      "responsibilities": [
+        "Coordinated recruiting, interview setup, and job offers.",
+        "Conducted new hire orientations and handled employee inquiries on benefits and policies.",
+        "Administered benefits, 401(k), and HRIS database entries.",
+        "Developed employee appreciation programs and coordinated company events."
+      ]
+    }
+  ],
+  "projects": []
+}

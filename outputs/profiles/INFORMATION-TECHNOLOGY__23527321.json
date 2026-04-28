@@ -1,0 +1,155 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Visionary IT leader with 20+ years of experience at Fortune 500 companies, driving SAP strategy, process re\u2011engineering, and analytics initiatives across global manufacturing and pharmaceutical operations.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "SAP",
+    "Business Process Design",
+    "Dispersed Team Management"
+  ],
+  "tools": [
+    "SAP",
+    "SAP APO",
+    "Kinaxis RapidResponse",
+    "JDE"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "University of Maryland",
+      "graduation_year": "2003"
+    },
+    {
+      "degree": "Master of Science, Computer Science",
+      "institution": "New Jersey Institute of Technology",
+      "graduation_year": "1994"
+    },
+    {
+      "degree": "Bachelor of Science, Computer Science",
+      "institution": "New Jersey Institute of Technology",
+      "graduation_year": "1990"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Head, Information Technology and Information Center",
+      "company": null,
+      "duration": "March 2015 - Present",
+      "responsibilities": [
+        "Provide leadership and direction to the GMS Information Center, a team of data scientists and analysts producing high\u2011value analytics for manufacturing.",
+        "Drive strategic initiatives and operational excellence across the IT organization."
+      ]
+    },
+    {
+      "title": "Director, Supply Chain and Logistics Information Technology",
+      "company": null,
+      "duration": "October 2010 - March 2015",
+      "responsibilities": [
+        "Established supply chain technology direction for a global manufacturing organization.",
+        "Created the GMS Information Center to deliver advanced analytics.",
+        "Delivered transformational projects: Demand Planning Solution (SAP APO), Supply Planning and Sales & Operations Planning (Kinaxis RapidResponse), Inventory Optimization (Kinaxis RapidResponse).",
+        "Led delivery and business analysis teams, re\u2011engineered business processes, and supported global sales and operations processes."
+      ]
+    },
+    {
+      "title": "Senior Director, COMET Program",
+      "company": null,
+      "duration": "November 2009 - October 2010",
+      "responsibilities": [
+        "Managed delivery of the global COMET program focused on procurement, employee expense management, and eSourcing.",
+        "Directed rollouts across North America, Europe, and Asia Pacific."
+      ]
+    },
+    {
+      "title": "Director, SAP Center of Excellence",
+      "company": null,
+      "duration": "May 2005 - November 2009",
+      "responsibilities": [
+        "Oversaw a $15MM budget, 75 FTEs, and 30+ offshore consultants.",
+        "Reduced compensation costs by nearly $1MM through offshore utilization.",
+        "Led deployment of SAP ERP for US pharmaceutical business and key solutions in APAC, Europe, and South America.",
+        "Designed and deployed a global SAP template to consolidate the footprint to a single instance.",
+        "Managed integration efforts for US and APAC commercial operations."
+      ]
+    },
+    {
+      "title": "Director, Supply Chain Systems",
+      "company": null,
+      "duration": "January 2002 - May 2005",
+      "responsibilities": [
+        "Implemented SAP for US commercial operations, including Order to Cash and Warehouse Management.",
+        "Provided consultative support for projects in Belgium (APO) and Singapore (R/3)."
+      ]
+    },
+    {
+      "title": "Manager, Commercial and Field Force Systems",
+      "company": null,
+      "duration": "April 1998 - January 2002",
+      "responsibilities": [
+        "Led development of web\u2011based solutions for field forces, including formulary management, account management, CRM, expense management, and managed care account planning.",
+        "Designed training programs for field force personnel."
+      ]
+    },
+    {
+      "title": "Manager, Service Delivery Systems",
+      "company": null,
+      "duration": "April 1997 - May 1998",
+      "responsibilities": [
+        "Implemented outbound call center solutions and script systems for pharmacists supporting disease management programs."
+      ]
+    },
+    {
+      "title": "Manager, Client Services Systems",
+      "company": null,
+      "duration": "February 1994 - April 1997",
+      "responsibilities": [
+        "Implemented marketing and client services applications for global bond operations.",
+        "Implemented portfolio accounting system for Global Advisors subsidiary."
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "company": null,
+      "duration": "January 1992 - February 1994",
+      "responsibilities": [
+        "Led implementation of a new cash management system for Prudential treasury operations."
+      ]
+    },
+    {
+      "title": "PC Coordinator",
+      "company": null,
+      "duration": "January 1990 - January 1992",
+      "responsibilities": [
+        "Provided day\u2011to\u2011day support for PC hardware and software for the Prudential Help Desk."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Demand Planning Solution (SAP APO)",
+      "description": "Implemented a demand planning solution to improve forecasting accuracy for global manufacturing.",
+      "technologies": [
+        "SAP APO"
+      ]
+    },
+    {
+      "name": "Supply Planning and S&OP (Kinaxis RapidResponse)",
+      "description": "Delivered supply planning and sales & operations planning solution to align supply with demand.",
+      "technologies": [
+        "Kinaxis RapidResponse"
+      ]
+    },
+    {
+      "name": "Inventory Optimization (Kinaxis RapidResponse)",
+      "description": "Optimized inventory levels across the supply chain to reduce carrying costs.",
+      "technologies": [
+        "Kinaxis RapidResponse"
+      ]
+    }
+  ]
+}

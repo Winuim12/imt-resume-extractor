@@ -1,0 +1,98 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Proactive Human Resources Business Partner guiding performance management, talent planning and benefits. Decisive with proven success providing employee relations support and oversight for efficient operations. Extensive knowledge and experience developing code of business conduct and ethics policies.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Leadership development",
+    "Collaborative",
+    "Organization and efficiency",
+    "Exemplary verbal and written communication",
+    "Time management",
+    "Conflict mediation",
+    "Self-starter",
+    "HR experience in Technology Field"
+  ],
+  "tools": [
+    "Microsoft Suite",
+    "Oracle based HRIS",
+    "Budget and Accounting Software",
+    "Databases"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Alaska Pacific University",
+      "graduation_year": "2004"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Business Partner",
+      "company": null,
+      "duration": "08/2020 - 01/2021",
+      "responsibilities": [
+        "Primary point of contact for HR department across assigned networks, providing direct assistance or connecting with HR Specialists.",
+        "Advised supervisors on performance management strategies, disciplinary procedures, and separation recommendations.",
+        "Assisted with formal and informal inquiries and investigations with external legal counsel.",
+        "Identified change initiatives to improve network performance and success.",
+        "Collaborated with network leadership on turnover, compliance, training, and evaluation interventions.",
+        "Advised on departmental structure, job creation, analysis, and wage development.",
+        "Represented HR in cross\u2011functional projects, aligning solutions with agency values.",
+        "Ensured staffing levels and recruited qualified staff with the Recruitment and Hiring team.",
+        "Interpreted HR policies, laws, and regulations for employees and management.",
+        "Acted as employee advocate, addressing concerns and facilitating resolutions.",
+        "Collaborated with other HR Business Partners to align practices and share resources.",
+        "Analyzed metrics and data, providing recommendations to executive management.",
+        "Reported quarterly to the Human Resources Manager on KPIs, initiatives, and employee relations actions.",
+        "Maintained knowledge of federal and state HR laws (EEO, ADA, ACA, FMLA, USERRA, etc.)."
+      ]
+    },
+    {
+      "title": "Sr. HR Consultant and TA Specialist",
+      "company": null,
+      "duration": "02/2018 - 04/2020",
+      "responsibilities": [
+        "Developed staffing strategies to fill vacancies and define position allocations.",
+        "Reviewed referral candidates and initiated contact to request applications.",
+        "Planned and executed recruitment events to attract local candidates.",
+        "Facilitated organizational development initiatives for performance management and talent assessment.",
+        "Implemented employee engagement and development activities, presentations, and training.",
+        "Advised clients on appropriate services and secured solutions."
+      ]
+    },
+    {
+      "title": "Human Resources Consultant IV",
+      "company": null,
+      "duration": "05/2014 - 02/2018",
+      "responsibilities": [
+        "Promoted diversity and equal access to opportunity and advancement.",
+        "Facilitated strategic planning through partnerships with leaders.",
+        "Supported senior leadership in executive decision\u2011making with HR reports on metrics and policies.",
+        "Advised on vacation, sick time, benefits, job services, and employment discrepancies.",
+        "Developed hiring and recruitment policies for transparent and merit\u2011based selection.",
+        "Conducted sensitive investigations into workplace misconduct and reported findings.",
+        "Liaised between employees and senior leadership to resolve inquiries and complete contract processing."
+      ]
+    },
+    {
+      "title": "Principal Consultant",
+      "company": null,
+      "duration": "05/2011 - 05/2014",
+      "responsibilities": [
+        "Built a consulting business serving private and public sector clients in Alaska and Arizona.",
+        "Established professional relationships with business leaders and marketed services.",
+        "Created marketing materials, drafted proposals, and bid on contracts (91% awarded).",
+        "Provided organizational management and talent acquisition services.",
+        "Delivered training on time card, payroll processes, and change management.",
+        "Facilitated informal mediation services and workplace investigations.",
+        "Developed performance and absence management policies, processes, and tracking."
+      ]
+    }
+  ],
+  "projects": []
+}

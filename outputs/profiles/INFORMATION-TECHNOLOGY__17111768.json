@@ -1,0 +1,135 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Highly-qualified Department of Defense Program Manager with extensive experience in IT project management, infrastructure technology, and program oversight. Proven track record in leading complex enterprise systems, driving cost-effective solutions, and ensuring compliance with DoD security and acquisition standards.",
+  "total_experience_years": 13.0,
+  "skills": [
+    "Project Management",
+    "Program Management",
+    "IT Infrastructure",
+    "Stakeholder Management",
+    "Risk Management",
+    "Budgeting & Cost Projection",
+    "Financial Reporting",
+    "Requirement Analysis",
+    "Business Proposal Development",
+    "Change Management",
+    "ITIL",
+    "PMP",
+    "Security & Compliance",
+    "DISA Processes",
+    "Team Leadership",
+    "Customer Service"
+  ],
+  "tools": [
+    "Microsoft Project",
+    "DISA milCloud",
+    "VMware",
+    "HP HANA",
+    "SAP BWA",
+    "Oracle",
+    "Microsoft SQL Server",
+    "Oracle Supercluster",
+    "HP 3Par",
+    "NetApp",
+    "EMC Centera",
+    "DIACAP",
+    "STIGs",
+    "SAS",
+    "SCCM",
+    "Active Directory",
+    "SQL Server Management Studio",
+    "PowerShell"
+  ],
+  "certifications": [
+    "CompTIA Security+ (active)",
+    "ITIL Foundation",
+    "PMP Certification Exam Camp (candidate)",
+    "Defense Acquisition University: Fundamentals of System Acquisition Management",
+    "Defense Acquisition University: Engineering Management Workshop",
+    "Defense Acquisition University: DISA Information Systems Engineering Seminar (ISES)",
+    "Defense Acquisition University: Developing a Systems Engineering Plan"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Shippensburg University",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "Associate Technical",
+      "institution": "YTI Career Technical Institute",
+      "graduation_year": "2009"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Millersville University",
+      "graduation_year": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Project Manager System Analysis (SYSANALSYS) [GS-2210-12]",
+      "company": "Company Name",
+      "duration": "January 2010 \u2013 Current",
+      "responsibilities": [
+        "Lead DISA Program Management for DLA's Enterprise Business Systems Test and Development environment, generating $39M annual revenue.",
+        "Serve as primary DISA SME for the Federal Data Center Consolidation Initiative, supporting DCMA, DMDC, OPM, and DFAS.",
+        "Act as Point of Contact for Mission Partners, managing project issues, scope, and risk across operational environments.",
+        "Conduct functional and technical requirement analysis via Service Request Forms.",
+        "Develop and manage project work plans, schedules, and stakeholder meetings.",
+        "Coordinate with DISA Information Assurance to ensure compliance with DIACAP and STIG requirements.",
+        "Oversee budgeting, cost projections, and financial reporting, including AI approvals and funding acceptance.",
+        "Lead transition to operational sustainment, ensuring IOC, FOC, and closeout activities.",
+        "Utilize tools such as Microsoft Project, DISA milCloud, VMware, and various enterprise storage platforms."
+      ]
+    },
+    {
+      "title": null,
+      "company": "Company Name",
+      "duration": "January 2010 \u2013 January 2014",
+      "responsibilities": [
+        "Managed and supported IT projects and systems within the DoD environment.",
+        "Collaborated with stakeholders to define project scope and deliverables.",
+        "Maintained project documentation and status reporting."
+      ]
+    },
+    {
+      "title": "Computer Technician Specialist",
+      "company": "Company Name",
+      "duration": "August 2009 \u2013 January 2010",
+      "responsibilities": [
+        "Managed, provisioned, configured, built, and staged operational computer systems for the Navy/Marine Corps Intranet project."
+      ]
+    },
+    {
+      "title": "IT Specialist STEP (Student Technology Education Program)",
+      "company": "Company Name",
+      "duration": "March 2008 \u2013 August 2009",
+      "responsibilities": [
+        "Reported to Lead Supervisor of DISA Naval service desk support.",
+        "Independently managed and filed data tape entry into appropriate storage drives."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Enterprise Business Systems Test and Development",
+      "description": "Led the development and testing of enterprise business systems for DLA, contributing to a $39M annual revenue stream.",
+      "technologies": []
+    },
+    {
+      "name": "Federal Data Center Consolidation Initiative (FDCCI)",
+      "description": "Served as DISA SME, designing and implementing consolidation plans across multiple DoD agencies.",
+      "technologies": []
+    },
+    {
+      "name": "Federal Acquisition SID Proposal Evaluation",
+      "description": "Member of the System Integration and Delivery proposal evaluation team, negotiating a $45M vendor award.",
+      "technologies": []
+    }
+  ]
+}

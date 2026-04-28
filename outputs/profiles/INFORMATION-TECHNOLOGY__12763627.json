@@ -1,0 +1,137 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": null,
+  "total_experience_years": 14.0,
+  "skills": [
+    "C#",
+    "ASP.NET",
+    "MVC",
+    "SharePoint",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "jQuery",
+    "Bootstrap",
+    "SQL Server",
+    "MySQL",
+    "Oracle",
+    "Visual Studio",
+    "Team Foundation Server",
+    "GitHub",
+    "Visual Source Safe",
+    "JIRA",
+    "Highcharts",
+    "SFTP",
+    "ADP",
+    "Access",
+    ".NET Framework",
+    "MVC 4",
+    "MVC 3.5",
+    "MVC 2.0",
+    ".NET 4.0",
+    ".NET 3.5",
+    ".NET 2.0",
+    "SQL Server 2005",
+    "SQL Server 2008 R2",
+    "SQL Server 2012"
+  ],
+  "tools": [
+    "Visual Studio",
+    "SQL Server Management Studio",
+    "Team Foundation Server",
+    "GitHub",
+    "Visual Source Safe",
+    "JIRA",
+    "Highcharts",
+    "SharePoint",
+    "SFTP",
+    "ADP"
+  ],
+  "certifications": [
+    "RFA"
+  ],
+  "education": [
+    {
+      "degree": "Masters in Computer Science",
+      "institution": "Indiana University Bloomington",
+      "graduation_year": "December 2015"
+    },
+    {
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "institution": "Jawaharlal Nehru Technological University",
+      "graduation_year": "May 2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "ASP.Net Web Developer",
+      "company": "Company Name",
+      "duration": "April 2015 to Current",
+      "responsibilities": [
+        "Migrated IU Print website from ColdFusion to ASP.NET using MVC framework.",
+        "Created a prototype dashboard for IU Print Analytics module using Highcharts."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Company Name",
+      "duration": "July 2011 to July 2014",
+      "responsibilities": [
+        "Designed and developed an application to migrate legacy data to ASP.NET, validating data against business rules.",
+        "Designed storyboard using HTML and CSS and database schema based on customer requirements.",
+        "Performed code reviews and pair programming to improve coding standards.",
+        "Prepared build packages and participated in integration and deployment phases."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "LEDGER",
+      "description": "Web\u2011based application to manage invoice clearance for finance trust accounts, migrating from MS\u2011Access to ASP.NET with added security and business rules.",
+      "technologies": [
+        "ASP.NET",
+        "SQL Server",
+        "MS\u2011Access"
+      ]
+    },
+    {
+      "name": "DEBTS",
+      "description": "Tool to calculate employee equity tax, processing daily flat files via SFTP, validating records, and sending funding files to ADP.",
+      "technologies": [
+        "ASP.NET",
+        "SFTP",
+        "ADP",
+        "SQL Server"
+      ]
+    },
+    {
+      "name": "Supplier Portal",
+      "description": "SharePoint 2010 portal merging seven legacy applications to provide suppliers with business and technical information, built with ASP.NET and SQL Server 2012.",
+      "technologies": [
+        "SharePoint 2010",
+        "ASP.NET",
+        "SQL Server 2012"
+      ]
+    },
+    {
+      "name": "eRFA",
+      "description": "Electronic Request For Agreement application built in SharePoint to streamline multi\u2011approver approval workflows and status tracking.",
+      "technologies": [
+        "SharePoint",
+        "ASP.NET"
+      ]
+    },
+    {
+      "name": "Export Logging Tool",
+      "description": "Web\u2011based application to log export activities, generate reports, and upload bulk data with validation against business rules.",
+      "technologies": [
+        "ASP.NET",
+        "SQL Server"
+      ]
+    }
+  ]
+}

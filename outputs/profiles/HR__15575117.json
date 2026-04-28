@@ -1,0 +1,140 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Dedicated Service Representative Professional motivated to maintain customer satisfaction and contribute to company success.",
+  "total_experience_years": 27.0,
+  "skills": [
+    "Administrative",
+    "Administrative assistant",
+    "Administrative support",
+    "Attorney",
+    "Benefits",
+    "Call center",
+    "Clerical",
+    "Conferences",
+    "Client",
+    "Customer Service",
+    "Data entry",
+    "Databases",
+    "Direct marketing",
+    "Documentation",
+    "Equity",
+    "Filing",
+    "Focus",
+    "Forms",
+    "General office",
+    "Government",
+    "Hiring",
+    "Human Resources",
+    "Insurance",
+    "Director",
+    "Market",
+    "Materials",
+    "Meetings",
+    "Access",
+    "Excel",
+    "Mail",
+    "Outlook",
+    "Network",
+    "Personnel",
+    "Policies",
+    "Presentations",
+    "Processes",
+    "Quality",
+    "Reporting",
+    "Secretarial",
+    "Spanish",
+    "Spreadsheet",
+    "Supervisor",
+    "Supervision",
+    "Tax",
+    "Telephone",
+    "Phone etiquette",
+    "Travel arrangements",
+    "Type",
+    "Word processing"
+  ],
+  "tools": [
+    "Excel",
+    "Access",
+    "Outlook",
+    "Microsoft systems",
+    "Amisys",
+    "Live Support",
+    "Word processing",
+    "Spreadsheet",
+    "Database",
+    "Internet"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Associate in Applied Science Secretarial Science",
+      "institution": "LaGuardia Community College",
+      "graduation_year": "1981"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Senior Specialist",
+      "company": "Xerox Corporation",
+      "duration": "09/2006 \u2013 Current",
+      "responsibilities": [
+        "Provided administrative support for personnel, retirement benefits, and special projects.",
+        "Assisted participants with Medicare/Medicaid eligibility and coverage questions.",
+        "Processed and calculated retirees' pension and tax forms.",
+        "Handled inbound/outbound calls and administrative tasks.",
+        "Supported team meetings by preparing agendas and taking minutes.",
+        "Mentored team members on phone etiquette and quality monitoring."
+      ]
+    },
+    {
+      "title": "Member and Claims Representative",
+      "company": "Amerigroup Corporation",
+      "duration": "08/2001 \u2013 05/2006",
+      "responsibilities": [
+        "Supported bilingual unit during supervisor absences.",
+        "Facilitated care coordination for Medicaid members.",
+        "Assisted in special projects for senior executives.",
+        "Responded to provider inquiries and resolved claims issues."
+      ]
+    },
+    {
+      "title": "Executive Secretary Assistant",
+      "company": "Amerigroup Corporation",
+      "duration": "08/2001 \u2013 05/2006",
+      "responsibilities": [
+        "Performed confidential secretarial duties for call center directors and executives.",
+        "Managed correspondence, scheduled travel, and prepared expense reports.",
+        "Compiled meeting minutes and coordinated presentations.",
+        "Coached new hires on handling supervisor and escalated calls."
+      ]
+    },
+    {
+      "title": "Administrative Secretary",
+      "company": "The Signature Group",
+      "duration": "01/1999 \u2013 02/2001",
+      "responsibilities": [
+        "Managed projects and prepared reports for the inbound unit.",
+        "Scheduled meetings, training, and travel for managers.",
+        "Maintained confidential personnel records and vacation schedules.",
+        "Conducted telephone interviews for bilingual candidates."
+      ]
+    },
+    {
+      "title": "Executive Complaint Professional",
+      "company": "Unknown",
+      "duration": "07/1996 \u2013 01/1999",
+      "responsibilities": [
+        "Acted as consumer advocate and liaison with government agencies.",
+        "Resolved customer complaints via phone and correspondence.",
+        "Reported complaint status to the CEO and senior directors.",
+        "Achieved 95% satisfactory resolution rate."
+      ]
+    }
+  ],
+  "projects": []
+}

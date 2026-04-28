@@ -1,0 +1,123 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Highly motivated Human Resources professional with over 10 years of experience in recruitment, employee relations, and administrative support. Skilled in managing compensation, benefits, onboarding, and compliance while maintaining confidentiality and strong communication.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Accounting",
+    "ADP",
+    "Analytical skills",
+    "AP",
+    "AR",
+    "Benefits",
+    "Billing",
+    "Call center",
+    "Great communication skills",
+    "Interpersonal skills",
+    "Credit",
+    "Clients",
+    "Customer service",
+    "Database",
+    "Detail-oriented",
+    "Employee relations",
+    "Expense reports",
+    "Filing",
+    "Hiring",
+    "Human Resource Management",
+    "Human Resources",
+    "Human resources 1",
+    "Invoice processing",
+    "Leadership",
+    "Ledger",
+    "Logistics",
+    "Mentor",
+    "MS Office Suite",
+    "Office Management",
+    "Oracle",
+    "Organizational Development",
+    "Payroll processing",
+    "Peachtree",
+    "Personnel",
+    "Promotion",
+    "QuickBooks",
+    "Recruitment",
+    "Scheduling",
+    "Spreadsheets",
+    "Telephone",
+    "Website"
+  ],
+  "tools": [
+    "MS Office Suite",
+    "QuickBooks",
+    "Peachtree",
+    "Oracle",
+    "BrassRing",
+    "ADP"
+  ],
+  "certifications": [
+    "PHR certificate",
+    "Member of Society for Human Resource Management (SHRM)"
+  ],
+  "education": [
+    {
+      "degree": "Associates of Science",
+      "institution": "Rasmussen College",
+      "graduation_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant",
+      "company": "Company Name",
+      "duration": "03/2016 \u2013 Current",
+      "responsibilities": [
+        "Sourced and recruited candidates for call center and other departments.",
+        "Managed onboarding and exit interview paperwork.",
+        "Maintained BrassRing system and updated candidate data.",
+        "Compiled reports on drug tests and background checks.",
+        "Conducted initial phone interviews and scheduled job interviews.",
+        "Administered applicant score tests and organized job fairs."
+      ]
+    },
+    {
+      "title": "HR Assistant",
+      "company": "Circle K \u2013 Naples, FL",
+      "duration": "02/2011 \u2013 10/2014",
+      "responsibilities": [
+        "Maintained employee compensation, benefits, PTO, timecards, and promotions.",
+        "Conducted benefit and policy training for new and existing employees.",
+        "Managed background checks and drug test documentation.",
+        "Oversaw HR records for two stores and handled investigations and disciplinary actions.",
+        "Processed exit interview paperwork and payroll timecards.",
+        "Coordinated job postings, resume reviews, telephone interviews, and reference checks."
+      ]
+    },
+    {
+      "title": "AR/AP Representative",
+      "company": "Company Name",
+      "duration": "01/2007 \u2013 01/2010",
+      "responsibilities": [
+        "Processed invoices, credit memos, and purchase orders accurately and timely.",
+        "Reviewed documents for product returns and loaner fees.",
+        "Resolved billing discrepancies and managed vendor payments.",
+        "Conducted collection calls and handled lien, waiver, and NTO documentation.",
+        "Reconciled vendor accounts and maintained accurate financial records."
+      ]
+    },
+    {
+      "title": "Office Assistant",
+      "company": "Company Name",
+      "duration": "01/2004 \u2013 01/2007",
+      "responsibilities": [
+        "Updated customer call database and managed AR/AP ledger.",
+        "Coordinated travel schedules and accommodations for candidates.",
+        "Entered personnel and subcontractor data into central database.",
+        "Evaluated timecards for accuracy and overtime hours."
+      ]
+    }
+  ],
+  "projects": []
+}

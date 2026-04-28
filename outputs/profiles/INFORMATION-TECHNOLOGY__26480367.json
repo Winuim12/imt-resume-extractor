@@ -1,0 +1,131 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Analyst with extensive experience in Information Technology, skilled in troubleshooting hardware and software issues, client and project management, and effective communication with technical and business audiences.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "TCP/IP",
+    "network monitoring",
+    "storage management",
+    "desktop support",
+    "active directory",
+    "software installation",
+    "Windows Server 2000/2003/2008",
+    "Microsoft Office",
+    "Windows XP/Vista/7/8",
+    "network security",
+    "cable patch panel",
+    "fiber optic",
+    "web development",
+    "FrontPage",
+    "HTML",
+    "Python",
+    "troubleshooting",
+    "client support",
+    "project management",
+    "communication",
+    "network configuration",
+    "router configuration",
+    "Domino Server",
+    "remote desktop",
+    "virus removal",
+    "hardware maintenance",
+    "POS equipment",
+    "telecom phone system",
+    "policy development",
+    "training"
+  ],
+  "tools": [
+    "TCP/IP",
+    "network monitoring tools",
+    "storage management tools",
+    "Active Directory",
+    "Windows Server",
+    "Microsoft Office",
+    "FrontPage",
+    "HTML",
+    "Python",
+    "fiber optic tools",
+    "cable patch panel",
+    "Domino Server",
+    "remote desktop tools"
+  ],
+  "certifications": [
+    "Comptia Network",
+    "Comptia A"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "National American University",
+      "graduation_year": "August-05"
+    },
+    {
+      "degree": "Associate/Degree",
+      "institution": "Robeson Community College",
+      "graduation_year": "May-92"
+    }
+  ],
+  "experience": [
+    {
+      "title": "IT Technology Specialist",
+      "company": "Company Name",
+      "duration": "09/2015 to 04/2016",
+      "responsibilities": [
+        "Monitored multiple databases to track company inventory.",
+        "Led key projects resulting in positive outcomes.",
+        "Provided onsite training.",
+        "Provided Tier 1 & Tier 2 support.",
+        "Performed Tier 3 support for operational and maintenance aspects.",
+        "Serviced, repaired, and installed company products including PCs and POS equipment.",
+        "General maintenance and repair of computer systems and peripherals.",
+        "Replaced and installed Cat5 network cable.",
+        "Managed and troubleshot telecom phone system."
+      ]
+    },
+    {
+      "title": "Field Service Tech",
+      "company": "Company Name",
+      "duration": "03/2014 to 04/2015",
+      "responsibilities": [
+        "Provided Tier 1 & Tier 2 support.",
+        "Performed Tier 3 support for operational and maintenance aspects.",
+        "Serviced, repaired, and installed company products including PCs and POS equipment.",
+        "General maintenance and repair of computer systems and peripherals.",
+        "Replaced and installed Cat5 network cable."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "08/2010 to 09/2006",
+      "responsibilities": [
+        "Provided hardware support for PCs, laptops, notebooks, software applications, and OS issues.",
+        "Recommended, scheduled, and implemented system hardware and software upgrades.",
+        "Set up and maintained Active Directory requests, network IDs/email accounts, and remote desktop support.",
+        "Offered website design, layout, and hosting assistance.",
+        "Provided residential customers technical support for hardware and software issues."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "09/2006 to 08/2010",
+      "responsibilities": [
+        "Analyzed network issues leading to T1 line installation.",
+        "Monitored multiple databases for company technology inventory.",
+        "Provided troubleshooting support for computer hardware and software.",
+        "Set up and maintained local area network using cable layout and fiber optic connections.",
+        "Configured and troubleshot routers, PIX, Domino Server, and Windows Server 2003.",
+        "Oversaw staff-related issues related to upgrades, hardware problems, virus, email accounts, remote desktop support, and training.",
+        "Developed policies and procedures for internet access and antivirus installations.",
+        "Trained end users in office applications and security issues.",
+        "Managed PC hardware and software installations at branch offices and facilities."
+      ]
+    }
+  ],
+  "projects": []
+}

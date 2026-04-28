@@ -1,0 +1,155 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "HR professional with expertise in interviewing, employee relations, coaching, event management, handbook development, staffing, and off\u2011boarding.",
+  "total_experience_years": 24.0,
+  "skills": [
+    "academic",
+    "A.I.",
+    "attention to detail",
+    "back-up",
+    "benefits",
+    "benefits administration",
+    "budget",
+    "cash receipts",
+    "coaching",
+    "contracts",
+    "critical thinking",
+    "customer satisfaction",
+    "customer services",
+    "excellent customer service",
+    "employee relations",
+    "event management",
+    "hiring",
+    "HR",
+    "inventory",
+    "layout",
+    "leadership",
+    "meetings",
+    "Excel",
+    "organizational skills",
+    "payroll",
+    "personnel",
+    "policies",
+    "problem-solving",
+    "reconciling",
+    "recruiting",
+    "research",
+    "retail",
+    "sales",
+    "staffing",
+    "store manager",
+    "employee handbooks"
+  ],
+  "tools": [
+    "Excel"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Lourdes College",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Lourdes College",
+      "graduation_year": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant",
+      "company": null,
+      "duration": "September 2015 to Current",
+      "responsibilities": [
+        "Advise managers on organizational policy matters and recommend needed changes.",
+        "Conduct new employee orientation to foster positive attitudes toward organizational objectives.",
+        "Identify staff vacancies and recruit, interview, and select applicants.",
+        "Serve as a link between management and employees by handling questions, interpreting and administering contracts, and helping resolve work\u2011related problems.",
+        "Address inquiries from employees and management regarding new\u2011hire activity and ongoing employee relation issues.",
+        "Created and implemented the exit interview program process.",
+        "Advise top management on appropriate employee corrective actions.",
+        "Create and modify job descriptions within all departments.",
+        "Work with senior\u2011level management to create fair and consistent HR policies and procedures.",
+        "Work with HR advisors and HR representatives on establishing consistent hiring practices.",
+        "Create and manage more than 100 confidential personnel records.",
+        "Facilitate monthly meetings to develop strategies that will positively influence workplace relationships.",
+        "Support 77 employees at all levels, including executive leadership."
+      ]
+    },
+    {
+      "title": "Experience Specialist",
+      "company": null,
+      "duration": "November 2011 to September 2015",
+      "responsibilities": [
+        "Prevented store losses using awareness, attention to detail and integrity.",
+        "Cross\u2011trained and provided back\u2011up for other customer services representatives when needed.",
+        "Generated sales inventory reports in Excel with data from a variety of sources, maintaining a 100% accuracy rate.",
+        "Prepared and sold a broad range of customized merchandise to individuals and commercial accounts.",
+        "Resolved product issues and shared benefits of new technology.",
+        "Successfully interacted with customers and retail buyers to expedite orders.",
+        "Compiled weekly monetary reports and records for store managers.",
+        "Maintained adequate cash supply in cash drawers in multiple checkout stations.",
+        "Managed cash stock and inventory balances accurately."
+      ]
+    },
+    {
+      "title": "Clerk/Store Manager",
+      "company": null,
+      "duration": "June 2002 to January 2012",
+      "responsibilities": [
+        "Was promoted to store manager after 3 weeks as a clerk.",
+        "Managed a team of 7 professionals.",
+        "Reduced and controlled expenses by developing an inventory control process that was later used in all local stores.",
+        "Delivered excellent customer service by greeting and assisting each customer.",
+        "Addressed customer inquiries and resolved complaints.",
+        "Designed and implemented customer satisfaction metrics.",
+        "Stocked and restocked inventory when shipments were received.",
+        "Reorganized the sales floor to meet company demands.",
+        "Directed and supervised employees engaged in sales, inventory\u2011taking and reconciling cash receipts.",
+        "Determined staff promotions and demotions, and terminated employees when necessary.",
+        "Completed weekly schedules according to payroll policies.",
+        "Maintained daily records of all transactions.",
+        "Wrote order supply requests to replenish merchandise.",
+        "Trained staff to deliver outstanding customer service.",
+        "Addressed and corrected sales staff communication issues in a tactful and effective manner."
+      ]
+    },
+    {
+      "title": "Student worker/Multiple departments",
+      "company": null,
+      "duration": "May 2004 to May 2011",
+      "responsibilities": [
+        "Inspired students to translate their academic interests into the real world by taking positive actions.",
+        "Initiated thought\u2011provoking classroom discussions to help students develop their critical thinking abilities.",
+        "Emphasized the importance of academic honesty with students and instructed them on proper citation of research sources.",
+        "Maintained athletics yearly budget with 100% accuracy.",
+        "Counseled undergraduates in regard to educational and professional goals.",
+        "Proctored yearly final exams at the end of each semester.",
+        "Maintained strong ties with alumni to foster long\u2011term support with the school."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "January 2004 to May 2007",
+      "responsibilities": [
+        "Conducted benefits administration for 30 benefit\u2011eligible employees.",
+        "Designed the employee performance evaluation process and merit program.",
+        "Addressed inquiries from employees and management regarding new\u2011hire activity and ongoing employee relation issues.",
+        "Created and implemented the exit interview program process.",
+        "Advise top management on appropriate employee corrective actions.",
+        "Created and modified job descriptions within all departments.",
+        "Worked with senior\u2011level management to create fair and consistent HR policies and procedures.",
+        "Developed 2 employee handbooks, including design and layout.",
+        "Guided the startup and management of all HR operations, systems and programs for a new location within the company.",
+        "Supported 30 employees at all levels, including executive leadership."
+      ]
+    }
+  ],
+  "projects": []
+}

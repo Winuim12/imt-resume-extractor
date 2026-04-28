@@ -1,0 +1,115 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Performance-driven Director of Information Technology with 27+ years of experience leading IT operations, project management, and strategic initiatives in municipal environments. Proven track record in cost reduction, system optimization, and high\u2011availability infrastructure.",
+  "total_experience_years": 27.3,
+  "skills": [
+    "budgeting",
+    "client-server",
+    "customer satisfaction",
+    "DEC",
+    "directing",
+    "GIS",
+    "Help Desk support",
+    "IBM",
+    "IBM Mainframe",
+    "local area network",
+    "leadership",
+    "Microsoft Exchange",
+    "modems",
+    "networking",
+    "PC",
+    "project leadership",
+    "routers",
+    "SAN",
+    "servers",
+    "VoIP",
+    "VAX",
+    "wiring",
+    "VSE",
+    "upgrading",
+    "strategic planning"
+  ],
+  "tools": [
+    "Microsoft Exchange",
+    "IBM Mainframe",
+    "VAX",
+    "DEC",
+    "routers",
+    "modems",
+    "VoIP",
+    "GIS",
+    "SAN",
+    "servers",
+    "network",
+    "PC",
+    "wiring"
+  ],
+  "certifications": [
+    "Certified Chief Information Officer (CIO) \u2013 UNC\u2011Chapel Hill, November 2005"
+  ],
+  "education": [
+    {
+      "degree": "B.S. Industrial Technology (Electronics)",
+      "institution": "North Carolina A&T State University",
+      "graduation_year": "1986"
+    },
+    {
+      "degree": "Certified Chief Information Officer (CIO)",
+      "institution": "UNC\u2011Chapel Hill",
+      "graduation_year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Information Technology",
+      "company": null,
+      "duration": "05/2000 \u2013 01/2014",
+      "responsibilities": [
+        "Directed, planned, and managed IT needs for the City of Greensboro.",
+        "Oversaw Application Services, GIS, Network Services, and Public Safety IT divisions.",
+        "Established IT management guidelines and city\u2011wide strategic policies.",
+        "Implemented VoIP, city\u2011wide fiber optic network, and online payment systems.",
+        "Maintained 98% uptime and 95% customer satisfaction.",
+        "Implemented virtualized server environment and business continuity site."
+      ]
+    },
+    {
+      "title": "Network Services Manager",
+      "company": null,
+      "duration": "07/1998 \u2013 05/2000",
+      "responsibilities": [
+        "Managed Desktop Services Division including Help Desk, LAN, server administration, training, and leasing.",
+        "Implemented client\u2011server environment with Microsoft Exchange.",
+        "Installed 900+ workstations ahead of schedule and under budget.",
+        "Developed $2.8M internal service charge\u2011back structure.",
+        "Created custom Helpdesk Request application with satisfaction surveys."
+      ]
+    },
+    {
+      "title": "Data Communications Analyst",
+      "company": null,
+      "duration": "06/1989 \u2013 07/1998",
+      "responsibilities": [
+        "Installed, maintained, and configured data communication equipment for the City of Greensboro.",
+        "Managed IBM Mainframe, VAX systems, and servers.",
+        "Configured 450+ users on All\u2011In\u2011One system.",
+        "Authored operations manual for IBM Mainframe."
+      ]
+    },
+    {
+      "title": "Electronics Technician",
+      "company": null,
+      "duration": "09/1986 \u2013 06/1989",
+      "responsibilities": [
+        "Repaired, installed, and maintained PCs, servers, modems, and communication equipment.",
+        "Designed network and data communication circuits.",
+        "Installed wiring and communication infrastructure for student registration and campus labs."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,165 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Dedicated IT Manager well\u2011versed in analyzing and mitigating risk and finding cost\u2011effective solutions. Excels at boosting performance and productivity by establishing realistic goals and enforcing deadlines.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Active Directory",
+    "Adobe Acrobat",
+    "backup",
+    "budget",
+    "client/server",
+    "hardware",
+    "client support",
+    "database",
+    "disaster recovery",
+    "Ghost",
+    "LAN",
+    "laptops",
+    "Mac hardware",
+    "Mac",
+    "Microsoft Exchange",
+    "Microsoft Office",
+    "Windows 7",
+    "Windows XP",
+    "NEC",
+    "Novell",
+    "operating systems",
+    "PBX",
+    "peripherals",
+    "policies",
+    "processes",
+    "purchasing",
+    "servers",
+    "SLA",
+    "SQL",
+    "Symantec",
+    "technical support",
+    "phones",
+    "video",
+    "Vista",
+    "web servers",
+    "WAN",
+    "Windows Server"
+  ],
+  "tools": [
+    "VMware",
+    "Acronis Snap Deploy",
+    "SQL Server",
+    "NEC PBX",
+    "Symantec Endpoint Security",
+    "PowerShell",
+    "Microsoft Exchange",
+    "Microsoft Office",
+    "Adobe Acrobat",
+    "Symantec Ghost"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "DePaul University",
+      "graduation_year": "2018"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "DeVry University",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "03/2013 \u2013 Current",
+      "responsibilities": [
+        "Managed a four\u2011person local IT team, allocating resources and enforcing deadlines.",
+        "Drove business KPIs through rapid iteration of customer\u2011facing product features.",
+        "Identified customer pain points and latent needs through end\u2011to\u2011end experience analysis.",
+        "Collaborated with global teams to resolve IT support cases.",
+        "Built and maintained a staff of five, terminating one employee for cause.",
+        "Created and audited inter\u2011team processes, adjusting as required.",
+        "Managed travel and budget for staff on\u2011site visits.",
+        "Owned SaaS customers in North America, Canada and Australia.",
+        "Defined project deliverables and monitored task status.",
+        "Executed proof\u2011of\u2011concept implementations to validate product feasibility."
+      ]
+    },
+    {
+      "title": "IT Administrator",
+      "company": "Company Name",
+      "duration": "06/2011 \u2013 03/2013",
+      "responsibilities": [
+        "Designed and delivered mission\u2011critical infrastructure for high availability, performance and security.",
+        "Maintained security, backup and redundancy strategies.",
+        "Owned IT infrastructure and client/server management across multiple cities.",
+        "Collected, analyzed and reported program metrics and key performance parameters.",
+        "Managed North America production data center (SaaS) and disaster recovery applications.",
+        "Deployed and managed VMware architecture.",
+        "Monitored and automated actions for hardware and web servers.",
+        "Engineered reliable WAN and LAN connectivity.",
+        "Configured and deployed Active Directory and Group Policy.",
+        "Provided client support for production environments.",
+        "SQL administration and NEC PBX deployment."
+      ]
+    },
+    {
+      "title": "Network Administrator",
+      "company": "Company Name",
+      "duration": "02/2010 \u2013 05/2011",
+      "responsibilities": [
+        "Tested, configured and deployed Windows 7 with Acronis Snap Deploy.",
+        "Deployed and tested Microsoft Exchange 2010 in VMware.",
+        "Administered SQL 2005 database for Dentrix and DEXIS software.",
+        "Implemented Group Policies."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": "10/2008 \u2013 05/2011",
+      "responsibilities": [
+        "Managed and provided security administrative support for multiple clients.",
+        "Supported Windows 2003, XP, Vista and Mac operating systems.",
+        "Made purchase decisions for endpoint security solutions.",
+        "Obtained Milestone Advanced Certified Partner status for video surveillance."
+      ]
+    },
+    {
+      "title": "Network Administrator",
+      "company": "Company Name",
+      "duration": "10/2008 \u2013 05/2011",
+      "responsibilities": [
+        "Installed and configured LAN with Windows XP and Vista clients.",
+        "Administered Microsoft Active Directory and Exchange 2003 systems.",
+        "Deployed Symantec endpoint security and implemented disaster recovery.",
+        "Managed desktop applications (Office, Acrobat, ACT) and intranet."
+      ]
+    },
+    {
+      "title": "Network Administrator",
+      "company": "Company Name",
+      "duration": "10/2008 \u2013 12/2009",
+      "responsibilities": [
+        "Provided on\u2011site technical support for Windows 2003/2008 servers, workstations, laptops, Blackberries and iPhones.",
+        "Migrated Exchange 2007 SCR from Exchange 2003 using PowerShell and DAS.",
+        "Managed Windows Server 2008 and Windows 7."
+      ]
+    },
+    {
+      "title": "College of Education Computer Technician",
+      "company": "Company Name",
+      "duration": "07/2006 \u2013 06/2008",
+      "responsibilities": [
+        "Performed PC and Mac hardware and software configurations.",
+        "Troubleshot Novell client issues.",
+        "Installed and maintained peripherals.",
+        "Built images for Symantec Ghost."
+      ]
+    }
+  ],
+  "projects": []
+}

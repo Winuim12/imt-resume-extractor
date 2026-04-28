@@ -1,0 +1,166 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Versatile media professional with background in Communications, Marketing, Human Resources and Technology.",
+  "total_experience_years": 14.0,
+  "skills": [
+    "Adobe Photoshop",
+    "ADP",
+    "Asset Management",
+    "branding",
+    "brochures",
+    "content creation",
+    "Customer Care",
+    "Final Cut Pro",
+    "graphics design",
+    "HR",
+    "Illustrator",
+    "InDesign",
+    "innovation",
+    "inventory management",
+    "Lotus Notes",
+    "marketing",
+    "marketing materials",
+    "Microsoft Office",
+    "SharePoint",
+    "newsletter",
+    "presentations",
+    "process improvement",
+    "project management",
+    "promotional materials",
+    "publications",
+    "quality assurance",
+    "real\u2011time reporting",
+    "recruitment",
+    "RFP",
+    "sales",
+    "storytelling",
+    "employee development",
+    "video production",
+    "web design",
+    "website",
+    "articles"
+  ],
+  "tools": [
+    "ADP",
+    "Lotus Notes",
+    "SharePoint",
+    "Microsoft Office",
+    "Adobe Photoshop",
+    "Final Cut Pro",
+    "Illustrator",
+    "InDesign"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Arts",
+      "institution": "Sacred Heart University",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Western Connecticut State University",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist, US HR Operations",
+      "company": "Company Name",
+      "duration": "09/2015 \u2013 Current",
+      "responsibilities": [
+        "Managed communication for Operations group launches, policy changes, and system outages.",
+        "Designed standard work and job aids for comprehensive training of new employees and contractors.",
+        "Audited job postings and background checks for various positions.",
+        "Conducted monthly new\u2011hire benefits briefings across business units.",
+        "Acted as liaison between HR managers and vendors, resolving system\u2011related issues.",
+        "Provided real\u2011time process improvement feedback on key metrics.",
+        "Re\u2011branded the US HR Operations SharePoint site.",
+        "Managed RFI/RFP for background check and drug screen vendors."
+      ]
+    },
+    {
+      "title": "IT, Marketing and Communications Co\u2011op",
+      "company": "Company Name",
+      "duration": "01/2014 \u2013 05/2015",
+      "responsibilities": [
+        "Updated corporate SharePoint site with articles, graphics, and visual communications.",
+        "Researched and drafted feature stories to promote company activities.",
+        "Co\u2011edited quarterly newsletter and supported internal/external events.",
+        "Collaborated with media professionals and vendors on print, web, and digital communications.",
+        "Led product launches for Digital Asset Management tool, Marketing Toolkit website, and Executive Tradeshows Calendar.",
+        "Created management presentations and maintained the MySikorsky SharePoint site.",
+        "Produced storyboard and video for annual IT All Hands meeting."
+      ]
+    },
+    {
+      "title": "Relationship Coordinator/Marketing Specialist",
+      "company": "Company Name",
+      "duration": "10/2012 \u2013 01/2014",
+      "responsibilities": [
+        "Managed in\u2011house advertising program with print and media collateral.",
+        "Coordinated trade\u2011show activities and marketing campaigns.",
+        "Ordered and tracked marketing collateral for meetings and events.",
+        "Improved marketing programs to increase product awareness.",
+        "Prepared internal promotional publications and supervised distribution.",
+        "Collaborated with graphic designers on brochures and branding.",
+        "Used tracking systems for sales leads and appointments."
+      ]
+    },
+    {
+      "title": "Assistant Head Teller",
+      "company": "Company Name",
+      "duration": "09/2009 \u2013 10/2012",
+      "responsibilities": [
+        "Achieved 100% internal audit score.",
+        "Performed daily and monthly ATM and teller audits.",
+        "Educated customers on retail products and credit options.",
+        "Met or exceeded quarterly sales goals.",
+        "Promoted products while maintaining brand identity.",
+        "Implemented programs to exceed customer participation goals.",
+        "Organized campus events to increase brand awareness.",
+        "Coached peers on program usage to improve workflow efficiency."
+      ]
+    },
+    {
+      "title": "Senior Producer \u2013 2014 SHU Media Exchange",
+      "company": "Company Name",
+      "duration": "2014",
+      "responsibilities": [
+        "Planned and executed an event focused on Connecticut's creative corridor.",
+        "Facilitated panel discussions and networking sessions for 110 attendees."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "US HR Operations SharePoint Re\u2011branding",
+      "description": "Led the redesign and re\u2011branding of the HR Operations SharePoint site to improve usability and brand consistency.",
+      "technologies": [
+        "SharePoint",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Background Check & Drug Screen Vendor RFI/RFP",
+      "description": "Managed the RFI/RFP process for selecting new background check and drug screen vendors.",
+      "technologies": [
+        "RFP",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Digital Asset Management Tool Launch",
+      "description": "Coordinated the launch of a Digital Asset Management tool, including marketing materials and website integration.",
+      "technologies": [
+        "Digital Asset Management",
+        "Marketing Toolkit",
+        "Web Design"
+      ]
+    }
+  ]
+}

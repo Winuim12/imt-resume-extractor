@@ -1,0 +1,176 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Experienced Information Technology Manager committed to maintaining innovative technical skills and up-to-date industry knowledge. My excellent problem solving skills, diagnostic ability and communication skills are assets that allow me to excel and adapt to virtually any situation.",
+  "total_experience_years": 38.0,
+  "skills": [
+    "Accounting",
+    "Backup",
+    "Billing system",
+    "Budget",
+    "Citrix MetaFrame",
+    "Communication",
+    "Hardware",
+    "Contracts",
+    "Client management",
+    "Documentation",
+    "Electrical wiring",
+    "Firewall",
+    "Groupwise",
+    "Help desk",
+    "LAN",
+    "Management",
+    "Access control",
+    "Exchange",
+    "Windows 7",
+    "Office",
+    "Windows 2000",
+    "Windows NT",
+    "Windows XP",
+    "Migration",
+    "NDS",
+    "Network security",
+    "Network",
+    "Novell",
+    "Servers",
+    "Phone system",
+    "Policies",
+    "Problem solving",
+    "Processes",
+    "Routers",
+    "Scheduling",
+    "SQL",
+    "Cisco Switches",
+    "T1",
+    "Telecommunication",
+    "Time management",
+    "Troubleshooting",
+    "Upgrades",
+    "WAN"
+  ],
+  "tools": [
+    "VMware ESXi",
+    "Microsoft Exchange",
+    "Microsoft Office",
+    "Novell Groupwise",
+    "Citrix MetaFrame",
+    "SQL Server",
+    "Cisco Switches",
+    "Cisco Routers",
+    "T1",
+    "Windows Server",
+    "Windows Desktop OS",
+    "VMware"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "McHenry County College",
+      "graduation_year": "1996"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Manager",
+      "company": null,
+      "duration": "01/2007 to Current",
+      "responsibilities": [
+        "Maintain budget and implement new technologies.",
+        "Lead migration of Accounting and Billing system upgrade.",
+        "Manage firewall, network monitoring, and server monitoring.",
+        "Recommend architectural and integration solutions.",
+        "Train IT team on network security and troubleshooting.",
+        "Ensure network, system, and data availability and integrity.",
+        "Manage migrations: Exchange 2003 to 2010, Windows XP/Office 2003 to Windows 7/Office 2010, Office 2010 to 2013, physical servers to VMware ESXi.",
+        "Manage IT vendor and telecommunications contracts.",
+        "Provide documentation for help desk processes.",
+        "Implement company policies, procedures, and standards for data security."
+      ]
+    },
+    {
+      "title": "Technical Project Lead",
+      "company": null,
+      "duration": "11/2005 to 01/2007",
+      "responsibilities": [
+        "Maintain client relationships and technical integrity of infrastructure.",
+        "Manage engineers on client projects, including time management and resource scheduling.",
+        "Migrate Novell 6.0 Cluster with Groupwise to 6.5.",
+        "Ensure timely project completion.",
+        "Manage IT department at client sites, including helpdesk."
+      ]
+    },
+    {
+      "title": "Systems Engineer",
+      "company": null,
+      "duration": "01/2004 to 11/2005",
+      "responsibilities": [
+        "Install, support, and maintain Novell, Windows NT4, 2000, and 2003 servers.",
+        "Patch over 800 servers.",
+        "Implement new infrastructure from the server side.",
+        "Stabilize Novell Groupwise 6.5.",
+        "Implement and maintain SQL Cluster on Windows 2003."
+      ]
+    },
+    {
+      "title": "Network Analyst",
+      "company": null,
+      "duration": "10/2001 to 10/2003",
+      "responsibilities": [
+        "Manage and support Novell 4.x/5.x, Windows NT4, 2000, Citrix MetaFrame XPa, and GroupWise 5.x.",
+        "Provide second\u2011level support for PC and network issues."
+      ]
+    },
+    {
+      "title": "Night Desk Supervisor",
+      "company": null,
+      "duration": "07/2000 to 04/2001",
+      "responsibilities": [
+        "Supervise employees and handle issue escalations.",
+        "Manage projects and ensure on\u2011time completion.",
+        "Maintain client relationships."
+      ]
+    },
+    {
+      "title": "Senior Network Engineer",
+      "company": null,
+      "duration": "08/1999 to 07/2000",
+      "responsibilities": [
+        "Manage LAN/WAN infrastructure.",
+        "Evaluate, purchase, implement, and maintain Novell and Windows NT servers.",
+        "Manage Cisco switches, routers, and WAN T1 connections."
+      ]
+    },
+    {
+      "title": "Network Analyst",
+      "company": null,
+      "duration": "04/1997 to 06/1999",
+      "responsibilities": [
+        "Support 130+ Novell servers and NDS directory.",
+        "Upgrade and maintain servers and workstation clients."
+      ]
+    },
+    {
+      "title": "Network Support Specialist",
+      "company": null,
+      "duration": "11/1993 to 04/1997",
+      "responsibilities": [
+        "Install and support software, hardware, network, phone system, and voicemail.",
+        "Plan company move, network wiring, and phone system upgrade."
+      ]
+    },
+    {
+      "title": "Service Manager",
+      "company": null,
+      "duration": "09/1988 to 11/1993",
+      "responsibilities": [
+        "Install and maintain customer systems and network installations.",
+        "Roll out new systems and supervise technicians."
+      ]
+    }
+  ],
+  "projects": []
+}

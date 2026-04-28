@@ -1,0 +1,148 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Ambitious Human Resources Generalist with 35+ years of experience leading HR strategy, talent acquisition, employee relations, benefits administration, and organizational development for real estate, healthcare/IT, and legal firms.",
+  "total_experience_years": 35.0,
+  "skills": [
+    "HR strategy",
+    "talent acquisition",
+    "employee relations",
+    "benefits administration",
+    "payroll management",
+    "HRIS implementation",
+    "policy development",
+    "training & development",
+    "performance management",
+    "budgeting & financial reporting",
+    "vendor management",
+    "office construction & relocation",
+    "project management",
+    "employee engagement",
+    "wellness programs",
+    "HR analytics",
+    "team building",
+    "leadership development"
+  ],
+  "tools": [
+    "Payroll system",
+    "Leave tracking system",
+    "Recruitment software",
+    "Performance management software",
+    "Windows",
+    "Novell",
+    "HRIS"
+  ],
+  "certifications": [
+    "Senior Professional in Human Resources (SPHR)",
+    "Notary Public for the State of Maryland"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": null,
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of HR",
+      "company": null,
+      "duration": "January 2013 - Present",
+      "responsibilities": [
+        "Directly report to CEO and VP of a 65\u2011year\u2011old real estate property management company.",
+        "Oversee day\u2011to\u2011day operations of HR, administration, and technology with supervision of two staff members.",
+        "Create employee handbook and design comprehensive annual employee survey.",
+        "Research, analyze, and select annual company health benefits.",
+        "Implement and train employees on new payroll system.",
+        "Design and establish training program for maintenance employees.",
+        "Conduct full\u2011cycle recruitment and onboarding program.",
+        "Develop wellness program and preventative health initiatives to reduce healthcare premiums.",
+        "Create annual employee bonus program aligned with company goals.",
+        "Manage office construction build\u2011out and office move, including contractor selection, vendor negotiation, and contract management."
+      ]
+    },
+    {
+      "title": "Vice President and Director of Human Resources and Administration",
+      "company": null,
+      "duration": "January 2006 - January 2013",
+      "responsibilities": [
+        "Report directly to Founder/CEO of a fast\u2011growing healthcare/IT startup.",
+        "Grow company from 45 to 215 employees across 32 states and Puerto Rico.",
+        "Serve as sole HR practitioner until 2011, responsible for all HR and administration functions.",
+        "Design, develop, and implement company\u2011wide initiatives as senior leadership team member.",
+        "Demonstrate talent acquisition and management, coaching, and mentoring.",
+        "Create and deploy monthly two\u2011day onboarding program, reducing turnover from 28% to under 10%.",
+        "Develop and administer employee and cultural surveys, delivering workforce analytics to senior management.",
+        "Lead selection, implementation, and training of custom payroll and leave tracking system and performance management software.",
+        "Create corporate university training program for account managers.",
+        "Manage office space planning, construction build\u2011out, vendor contracts, and equipment leases."
+      ]
+    },
+    {
+      "title": "Business Manager",
+      "company": null,
+      "duration": "January 2001 - January 2006",
+      "responsibilities": [
+        "Oversee office operations for a 21\u2011person law firm, including HR, finance, administration, and IT.",
+        "Handle employee relations, compensation, benefits administration, payroll processing, and recruitment.",
+        "Produce annual and monthly financial reports, statements, and client invoices.",
+        "Manage accounts receivable/payable, petty cash, and bank reconciliations.",
+        "Negotiate vendor contracts, office leases, and equipment purchases.",
+        "Project manage transition from Novell to Windows platform and new telephone system.",
+        "Create company/employee handbook and train staff."
+      ]
+    },
+    {
+      "title": "Vice President/Business Manager",
+      "company": null,
+      "duration": "January 1988 - January 2001",
+      "responsibilities": [
+        "Administer and grow office talent from 18 to over 120 employees, driving income growth from $1.3M to $37M.",
+        "Supervise 14 HR, finance, IT, and administration professionals.",
+        "Lead office relocation, market survey, consultant selection, and $1.9M build\u2011out of 44,000 sq. ft.",
+        "Develop and implement employee handbook, orientation program, and quality\u2011of\u2011life welfare program.",
+        "Create reward and recognition program to improve morale and reduce turnover.",
+        "Forecast annual and quarterly budgets, prepare financial statements, and present plans to corporate headquarters.",
+        "Negotiate client, vendor, and government contracts."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Employee Handbook Development",
+      "description": "Created comprehensive employee handbook for multiple organizations, standardizing policies and procedures.",
+      "technologies": []
+    },
+    {
+      "name": "Annual Employee Survey Implementation",
+      "description": null,
+      "technologies": []
+    },
+    {
+      "name": "Wellness Program Design",
+      "description": "Developed wellness and preventative health programs that reduced healthcare premiums and improved employee well\u2011being.",
+      "technologies": []
+    },
+    {
+      "name": "Payroll System Implementation",
+      "description": "Led selection, implementation, and staff training for new payroll and leave tracking systems.",
+      "technologies": [
+        "Payroll system",
+        "Leave tracking system"
+      ]
+    },
+    {
+      "name": "Office Construction & Relocation",
+      "description": "Managed end\u2011to\u2011end office construction projects, including contractor selection, vendor negotiation, and project scheduling.",
+      "technologies": []
+    },
+    {
+      "name": "GetWellNetwork University",
+      "description": "Established a corporate university training program for account managers, enhancing professional development.",
+      "technologies": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Team-oriented HR professional with a legal background, skilled in interpreting policies, delivering client service, and managing HR processes. Experienced in quantitative research, data analysis, and using HRIS systems such as PeopleSoft, SAP, and Remedy.",
+  "total_experience_years": 24.0,
+  "skills": [
+    "HR policies and procedures",
+    "Employee orientation",
+    "Training and development",
+    "Client service",
+    "Data analysis",
+    "Quantitative research",
+    "Microsoft Office",
+    "PeopleSoft",
+    "SAP",
+    "Remedy",
+    "Accounting",
+    "Benefits",
+    "Clientele management",
+    "Database management",
+    "Delivery",
+    "Department of Health",
+    "Fax",
+    "Filing",
+    "Insurance",
+    "Marketing plan",
+    "Materials",
+    "Payroll",
+    "Policies",
+    "Presentations",
+    "Processes",
+    "Quality assurance",
+    "Research",
+    "Service Level Agreement",
+    "Supervision",
+    "Telephone"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "PeopleSoft 9.1",
+    "SAP",
+    "Remedy"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "Southeastern University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Master of Private Business Law",
+      "institution": "Southeastern University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Customer Service Representative",
+      "company": "Company Name",
+      "duration": "01/2002 \u2013 Current",
+      "responsibilities": [
+        "Responded to inquiries about HR policies and procedures via telephone, email, fax, and walk-ins.",
+        "Logged and tracked all queries in Remedy database to ensure quality assurance.",
+        "Liaised with HR, Visa, Payroll, Accounting, and Travel departments to deliver timely service.",
+        "Educated clients on self\u2011service options.",
+        "Contributed to knowledge base development.",
+        "Researched policies and federal guidelines to provide accurate responses.",
+        "Ran and analyzed daily reports to benchmark employee performance and compliance with the 2\u2011day Service Level Agreement.",
+        "Maintained task tracking and met deadlines and priorities."
+      ]
+    },
+    {
+      "title": "Consultant Project Manager",
+      "company": "Company Name",
+      "duration": "09/2009 \u2013 07/2012",
+      "responsibilities": [
+        "Authored policies and procedures and completed Department of Health licensing requirements for credentialing.",
+        "Wrote business correspondence and collected data for client database.",
+        "Organized client record filing and maintained client records.",
+        "Prepared appointment packages including salary, fringe benefits, and clearance processes.",
+        "Created employee file checklists for application submissions.",
+        "Prepared comprehensive materials for presentations."
+      ]
+    },
+    {
+      "title": "Liaison Officer",
+      "company": "Company Name",
+      "duration": "07/2006 \u2013 04/2009",
+      "responsibilities": [
+        "Organized presentations with business partners to achieve objectives.",
+        "Partnered with physicians to obtain prior authorizations for services.",
+        "Maintained and managed over 100 client accounts.",
+        "Ran reports to evaluate employee productivity and benchmark case\u2011load increases.",
+        "Liaised between clients, physicians, insurers, and management to suggest service improvements.",
+        "Communicated service\u2011related information to clients and upper management.",
+        "Provided feedback to promote quality service."
+      ]
+    }
+  ],
+  "projects": []
+}

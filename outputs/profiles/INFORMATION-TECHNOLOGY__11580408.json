@@ -1,0 +1,174 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Experienced IT Coordinator and Systems Manager with extensive background in network engineering, ERP implementation, database administration, and IT infrastructure management.",
+  "total_experience_years": 27.0,
+  "skills": [
+    "A+ Certified",
+    "Active Directory",
+    "Billing",
+    "Business Process",
+    "C",
+    "Cash Flow",
+    "Cisco",
+    "Cisco Routers",
+    "Hardware",
+    "Network Systems",
+    "Content Management",
+    "Contracts",
+    "Coral",
+    "Databases",
+    "Delivery",
+    "Disaster Recovery",
+    "Email",
+    "ERP",
+    "Extranet",
+    "Financial",
+    "Firewalls",
+    "Internet Marketing",
+    "Laptops",
+    "Lotus",
+    "Microsoft Access",
+    "Microsoft Certified Professional",
+    "Microsoft Exchange",
+    "Office",
+    "Microsoft Office",
+    "Windows",
+    "Navision",
+    "Network Security",
+    "Visio",
+    "Voice Mail",
+    "Website"
+  ],
+  "tools": [
+    "Microsoft Windows",
+    "Microsoft Server",
+    "SCO UNIX",
+    "Microsoft Active Directory",
+    "Microsoft SQL",
+    "Microsoft Access",
+    "Sybase",
+    "Microsoft Navision",
+    "Microsoft Office",
+    "Microsoft Exchange",
+    "WebGui",
+    "Magento",
+    "Cisco",
+    "Fortinet Firewalls",
+    "3Comm",
+    "Netgear",
+    "HP",
+    "Cisco routers",
+    "Cisco switches",
+    "Windows Mobile",
+    "Blackberry",
+    "Android",
+    "iOS",
+    "Sprint Coral",
+    "Nortel",
+    "Free PBX",
+    "VoIP"
+  ],
+  "certifications": [
+    "Microsoft Certified Professional",
+    "Comp-TA A+ Certified",
+    "Microsoft SOL 2000 Design and Administration",
+    "Microsoft Access I",
+    "Microsoft Access II",
+    "Microsoft Access III",
+    "Navision Report Writer I",
+    "Navision Report Writer II",
+    "Microsoft Certified Professional - NT 4.0",
+    "Microsoft Certified Professional - Windows XP / Windows 2003",
+    "Microsoft Certified System Administrator",
+    "Microsoft SQL 2000 Design and Administration"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Curry College",
+      "graduation_year": "1988"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Coordinator",
+      "company": "Company Name",
+      "duration": "May 2000 \u2013 Present",
+      "responsibilities": [
+        "Continually evaluated and implemented new technology to reduce costs and improve business processes.",
+        "Served as sole point of contact for 150 staff, including remote employees.",
+        "Led $300,000 Navision ERP implementation and database migration to SQL 2000.",
+        "Created custom databases for financial institutions to increase revenue.",
+        "Implemented remote control programs for timely customer support.",
+        "Managed onsite installation of industry-specific hardware and software.",
+        "Implemented ACT 2006 CRM database and redesigned corporate website with e-commerce and intranet.",
+        "Developed electronic work order ticket system to improve cash flow.",
+        "Revised service call dispatch to an automated cell\u2011phone system.",
+        "Negotiated vendor contracts and designed company\u2011wide disaster recovery plan.",
+        "Designed network infrastructure and led relocation of corporate headquarters and regional warehouses.",
+        "Maintained Windows 2003 environment, upgraded servers, and ensured software compliance.",
+        "Configured employee systems and coordinated computer training."
+      ]
+    },
+    {
+      "title": "Information Systems Manager",
+      "company": "Company Name",
+      "duration": "Jan 1996 \u2013 Present",
+      "responsibilities": [
+        "Designed proprietary customer\u2011relation database.",
+        "Implemented Microsoft 2003 SBS.",
+        "Led corporate website design and internet marketing campaigns.",
+        "Managed corporate network security and customer Wi\u2011Fi network."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Navision ERP Implementation",
+      "description": "Led $300,000 implementation of Navision ERP system, including database migration to SQL 2000 and custom database development.",
+      "technologies": [
+        "Navision",
+        "SQL 2000",
+        "Microsoft Access"
+      ]
+    },
+    {
+      "name": "Corporate Website Redesign",
+      "description": "Redesigned corporate website to include online shopping cart, customer extranet, and employee intranet.",
+      "technologies": [
+        "WebGui",
+        "Magento",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "name": "Electronic Work Order Ticket System",
+      "description": "Developed electronic work order ticket system to improve cash flow.",
+      "technologies": [
+        "ACT 2006",
+        "CRM"
+      ]
+    },
+    {
+      "name": "Disaster Recovery Plan",
+      "description": "Designed and launched company\u2011wide disaster recovery plan.",
+      "technologies": [
+        "Microsoft Windows 2003",
+        "Backup solutions"
+      ]
+    },
+    {
+      "name": "Network Infrastructure Relocation",
+      "description": "Designed network infrastructure and led relocation of corporate headquarters and regional warehouses.",
+      "technologies": [
+        "Cisco",
+        "Fortinet Firewalls",
+        "Windows Server"
+      ]
+    }
+  ]
+}

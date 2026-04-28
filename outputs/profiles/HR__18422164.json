@@ -1,0 +1,129 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Results\u2011driven professional with comprehensive experience in human resources, customer service, and financial services. Strong problem\u2011solving, strategic thinking, and communication skills, known for self\u2011motivation and teamwork in fast\u2011paced environments.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "articulate",
+    "benefits",
+    "case management",
+    "employee communications",
+    "Human Resources",
+    "payroll",
+    "processing payroll",
+    "personnel",
+    "policies",
+    "processes",
+    "quality",
+    "recruiting",
+    "research",
+    "Staffing",
+    "phone",
+    "workflow",
+    "Workday proficient"
+  ],
+  "tools": [
+    "Workday",
+    "Hire systems",
+    "Identity Manager",
+    "case management / ticketing system"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Masters",
+      "institution": "Northern Kentucky University",
+      "graduation_year": "May 2006"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Northern Kentucky University",
+      "graduation_year": "May 2002"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist",
+      "company": null,
+      "duration": "Jul 2013 \u2013 Current",
+      "responsibilities": [
+        "Serve as primary contact for escalated HR issues (benefits, recruiting, onboarding, relocation, leaves, workforce administration).",
+        "Interpret and articulate customer needs to ensure timely resolution.",
+        "Monitor ticketing queues to meet service level agreements and maintain accurate documentation.",
+        "Seek guidance on complex issues and follow approval processes.",
+        "Support HR analysts and management with special projects.",
+        "Maintain quality service and employee satisfaction.",
+        "Handle sensitive employee data with discretion.",
+        "Prepare and review reports; coordinate mass data uploads.",
+        "Maintain SOPs, job aids, and process documents.",
+        "Recommend process improvements and enhancements.",
+        "Maintain employee records via imaging and indexing.",
+        "Assist with invoice reconciliation and administrative duties."
+      ]
+    },
+    {
+      "title": "Staffing Specialist",
+      "company": null,
+      "duration": "Jun 2008 \u2013 Jun 2013",
+      "responsibilities": [
+        "Act as on\u2011site point of contact for Co\u2011op/Intern program.",
+        "Track applicants in Hire systems and manage onboarding (payroll, Identity Manager accounts, badging).",
+        "Facilitate new hire orientation and process workflow forms.",
+        "Conduct exit interviews and terminate interns from the system.",
+        "Conduct new employee orientation to promote organizational objectives."
+      ]
+    },
+    {
+      "title": "Staffing Coordinator",
+      "company": null,
+      "duration": "Aug 2007 \u2013 Apr 2008",
+      "responsibilities": [
+        "Respond to benefit questions and resolve payroll/benefits/badging issues.",
+        "Coordinate and conduct HR training and workshops.",
+        "Maintain knowledge of HR laws and regulations.",
+        "Escalate customer issues and prepare benefit refunds, workers\u2019 compensation, jury duty, STD/LTD forms.",
+        "Interface with candidates, managers, and associates.",
+        "Produce daily staffing reports.",
+        "Facilitate new employee orientation and conduct phone screens and interviews."
+      ]
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "company": null,
+      "duration": "Sep 2004 \u2013 Aug 2007",
+      "responsibilities": [
+        "Conduct phone interviews and recruit 25 applicants per week.",
+        "Develop relationships with colleges, job fairs, and recruitment agencies.",
+        "Liaise with business line managers to identify and interview qualified candidates.",
+        "Serve as liaison between business lines and HR for recruitment initiatives.",
+        "Handle employee communications, pre\u2011employment screening, and employee information distribution.",
+        "Deliver new employee orientation training."
+      ]
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": null,
+      "duration": "Feb 2001 \u2013 Apr 2004",
+      "responsibilities": [
+        "Answer inbound calls for 401(k) customers and place outbound follow\u2011up calls.",
+        "Process transactions (loans, withdrawals, exchanges) on 401(k) accounts.",
+        "Investigate pending account issues such as address changes and employment status updates."
+      ]
+    },
+    {
+      "title": "Trustee Board Member",
+      "company": null,
+      "duration": "Sep 2014 \u2013 Dec 2015",
+      "responsibilities": [
+        "Assist with church decision\u2011making as appointed by the pastor.",
+        "Serve as financial secretary, processing payroll checks.",
+        "Analyze and amend the church budget.",
+        "Conduct quarterly business meetings and provide financial updates."
+      ]
+    }
+  ],
+  "projects": []
+}

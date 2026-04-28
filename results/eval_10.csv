@@ -1,0 +1,11 @@
+file_name,department,ingestion_method,page_count,ingestion_seconds,required_field_completion_rate,llm_provider,llm_model,status,error,total_runtime_seconds
+10399912.pdf,HR,text-layer,2,0.07,0.6,ollama,gpt-oss:20b,success,,14.39
+10694288.pdf,HR,text-layer,2,0.07,0.6,ollama,gpt-oss:20b,success,,12.53
+11480899.pdf,HR,text-layer,2,0.15,0.6,ollama,gpt-oss:20b,success,,13.16
+11592605.pdf,HR,text-layer,2,0.08,0.6,ollama,gpt-oss:20b,success,,13.54
+11698189.pdf,HR,text-layer,2,0.11,0.6,ollama,gpt-oss:20b,success,,10.07
+11763983.pdf,HR,text-layer,2,0.08,0.6,ollama,gpt-oss:20b,success,,13.64
+11847784.pdf,HR,text-layer,2,0.13,0.6,ollama,gpt-oss:20b,success,,13.73
+12786012.pdf,HR,text-layer,2,0.07,0.6,ollama,gpt-oss:20b,success,,13.5
+13376919.pdf,HR,text-layer,1,0.13,0.6,ollama,gpt-oss:20b,success,,9.67
+13520837.pdf,HR,text-layer,2,0.08,0.6,ollama,gpt-oss:20b,success,,11.93

@@ -1,0 +1,154 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "HR generalist with 3 years of experience and 10 years of management experience seeking a position as an HR Generalist in a company where I can grow further and improve my skills in Human Resources. Extensive background in HR Generalist affairs, including experience in employee recruitment and onboarding, conflict resolution, benefits and compensation, payroll administration, policy development and implementation and training and development.",
+  "total_experience_years": 14.0,
+  "skills": [
+    "accounting",
+    "ADA",
+    "advertising",
+    "benefits",
+    "bookkeeping",
+    "budgeting",
+    "business law",
+    "business research",
+    "business startup",
+    "competitive",
+    "credit",
+    "clients",
+    "delivery",
+    "economics",
+    "employee relations",
+    "training employees",
+    "special events",
+    "senior management",
+    "filling",
+    "finance",
+    "financial",
+    "general manager",
+    "hiring",
+    "HRIS",
+    "human resources",
+    "HR",
+    "inventory",
+    "Italian",
+    "leadership",
+    "law",
+    "letters",
+    "managerial",
+    "managerial accounting",
+    "marketing",
+    "marketing materials",
+    "Excel",
+    "MS Office",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "operations management",
+    "organizational",
+    "packaging",
+    "payroll",
+    "policies",
+    "POS",
+    "pricing",
+    "profit",
+    "promotion",
+    "protocols",
+    "purchasing",
+    "quality",
+    "radio",
+    "recruitment",
+    "safety",
+    "sales",
+    "sigma",
+    "phone",
+    "unique"
+  ],
+  "tools": [
+    "Paychex",
+    "Paychex Flex",
+    "MS Office"
+  ],
+  "certifications": [
+    "Sigma Six Yellow Belt Certification (2018)",
+    "PHR Certification (Professional Human Resources Tentative)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "Ashford University",
+      "graduation_year": "2017"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Ashford University",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "08/2017 \u2013 Current",
+      "responsibilities": [
+        "Recruited to help open new company sales team in TX and NC, guiding senior management on pay and compensation for contract positions.",
+        "Worked with senior leadership to create HR policies and procedures; recruited employees; updated HRIS system for tracking time and attendance, PTO benefits, and employee applicant log.",
+        "Created training manual; conducted job evaluations and analysis for created pay ranges and competencies.",
+        "Implemented programs and policies in training and development, compensation structures, new\u2011employee orientation.",
+        "Cut payroll expenses by 16% by implementing a time clock system and policy company\u2011wide, and monitoring time and attendance.",
+        "Revised job descriptions and created competency checklists for 25 positions company\u2011wide in three states.",
+        "Shadowed and interviewed employees to construct an accurate picture of the duties and skills required for each position."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "06/2015 \u2013 05/2017",
+      "responsibilities": [
+        "Partnered with employees and management to communicate various HR policies, procedures, standards and regulations.",
+        "Reviewed applications and paperwork; collected all necessary documents.",
+        "Answered multiple phone lines, greeted candidates.",
+        "Conducted employment verification, reference checks, credit checks.",
+        "Screened resumes, scheduled and conducted interviews, composed congratulatory letters."
+      ]
+    },
+    {
+      "title": "Owner / Chef",
+      "company": null,
+      "duration": "10/2013 \u2013 05/2015",
+      "responsibilities": [
+        "Oversaw daily operations of catering company specializing in Mexican and Italian cuisine, beverages, and chocolate confectionaries.",
+        "Managed all details related to safe preparation, delivery, and setup of diverse food orders serving up to 100 guests.",
+        "Coordinated planning, ordering, purchasing, and storage of food, equipment, and supplies.",
+        "Managed bookkeeping, budgeting, and accounting; applied for permits and licenses; established brand and marketing materials.",
+        "Led company to 28% profit in first year; developed partnerships with suppliers and advertising campaigns."
+      ]
+    },
+    {
+      "title": "Kitchen Manager",
+      "company": null,
+      "duration": "01/2008 \u2013 01/2010",
+      "responsibilities": [
+        "Oversaw daily kitchen operations, leading team of 10 in safe preparation of guest food orders.",
+        "Operated pizza ovens, grills, and industrial cleaners; maintained kitchen area in line with safety regulations.",
+        "Managed inventory of food and supplies; resolved customer and team issues.",
+        "Assisted front\u2011of\u2011house operations, including drawer balancing and POS system use.",
+        "Trained employees on kitchen protocols, food handling, preparation, storage, plating, and POS operations."
+      ]
+    },
+    {
+      "title": "Assistant Restaurant Manager",
+      "company": null,
+      "duration": "01/1999 \u2013 01/2001",
+      "responsibilities": [
+        "Assisted general manager and chef in overseeing daily operations, planning menus and daily specials.",
+        "Hired and trained employees; prepared and served lunch orders.",
+        "Planned and executed special events serving up to 2,500 guests."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,122 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Security+ certified IT specialist with 3 years of experience in LAN/WAN, network and server administration, disaster recovery, and technical support for classified and unclassified systems in high\u2011visibility environments.",
+  "total_experience_years": 3.0,
+  "skills": [
+    "Army",
+    "Basic",
+    "Cable",
+    "Cat 5",
+    "Cisco",
+    "Encryption",
+    "Customer Support",
+    "Documentation",
+    "Firewalls",
+    "FTP",
+    "Information Systems",
+    "Information Technology",
+    "Messaging",
+    "Access",
+    "Exchange",
+    "Windows 7",
+    "Monitors",
+    "Network",
+    "Networks",
+    "Organizational",
+    "Personnel",
+    "Radio",
+    "Reporting",
+    "Routers",
+    "Strategic",
+    "Switches",
+    "TCP/IP",
+    "Technical Support",
+    "Troubleshooting",
+    "VOIP",
+    "VPN",
+    "Wiring"
+  ],
+  "tools": [
+    "Remedy",
+    "Exchange",
+    "CPOF",
+    "SOFTCau-HARDCau",
+    "VPN",
+    "FTP",
+    "TCP/IP",
+    "Firewalls",
+    "VOIP",
+    "Remote Connectivity",
+    "Encryption",
+    "Netscreen",
+    "Cisco",
+    "Fluke Cable Analyzers",
+    "SPECTRUM",
+    "AMHS",
+    "DMS",
+    "SIPRNET",
+    "NIPRNET",
+    "CP-XP",
+    "DII Guard",
+    "Certificate Workstations"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Security+ Certified",
+    "Fiber Optic Connectors and Splicing Basic Installation Course",
+    "SIPR/NIPR Access Point (SNAP) Terminal",
+    "Information Technology Specialist Training",
+    "Information Technology Online Training"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Arts",
+      "institution": "Business Administration",
+      "graduation_year": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist / Information Systems Specialist",
+      "company": null,
+      "duration": "07/2011 to 12/2012",
+      "responsibilities": [
+        "Provided Level 1 and 2 technical support during strategic operations in Stuttgart, Germany for classified and unclassified systems.",
+        "Trained in Information Assurance security and deployed countermeasures against security breaches.",
+        "Implemented satellite and radio communications, VOIP, and Windows 7 across garrison units.",
+        "Maintained and organized IT documentation and supported senior officer staff.",
+        "Managed several million dollars in equipment and personnel.",
+        "Utilized Remedy, Exchange, CPOF, SOFTCau-HARDCau, VPN, FTP, TCP/IP, firewalls, VOIP, remote connectivity, encryption, Netscreen, Cisco, and Tier 2 helpdesk."
+      ]
+    },
+    {
+      "title": "Cable Installer and Maintainer",
+      "company": null,
+      "duration": "11/2010 to 07/2011",
+      "responsibilities": [
+        "Installed and maintained cabling for multiple Army posts in Stuttgart, Germany, including 6 months in a combat zone in Africa.",
+        "Managed wiring infrastructure, troubleshooting, Cat 5/6, and fiber termination.",
+        "Organized racks, patch panels, cable trays, switches, and routers.",
+        "Terminated, spliced, tested, and troubleshot copper and fiber cable using Fluke Cable Analyzers.",
+        "Accountable for thousands of dollars of equipment, including Fluke Networks products."
+      ]
+    },
+    {
+      "title": "Operator \u2013 Defense Messaging Center",
+      "company": null,
+      "duration": "12/2009 to 11/2010",
+      "responsibilities": [
+        "Facilitated the Defense Messaging System (DMS) for Headquarters, U.S. European Command and other DoD activities.",
+        "Operated and maintained CP\u2011XP, AMHS, DII Guard, and Certificate Workstations supporting DMS, SIPRNET, and NIPRNET.",
+        "Performed after\u2011hours network operations, monitoring SPECTRUM, managing personnel recall, and handling trouble tickets.",
+        "Reported and conducted essential missions in high\u2011visibility areas.",
+        "Responsible for over $100 million worth of equipment and repair parts."
+      ]
+    }
+  ],
+  "projects": []
+}

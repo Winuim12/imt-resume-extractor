@@ -1,0 +1,190 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Information Technology Consultant with 20 years of experience in network setup, software installation, hardware repair, and administrative support across multiple industries.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "administrative duties",
+    "Adobe Acrobat",
+    "schedule appointments",
+    "asset management",
+    "CRM",
+    "client",
+    "clients",
+    "data entry",
+    "database",
+    "debit",
+    "delivery",
+    "financial",
+    "information technology",
+    "inventory",
+    "laptop computers",
+    "legal documents",
+    "marketing",
+    "materials",
+    "Access",
+    "Microsoft Certified Systems Engineer",
+    "Microsoft Excel",
+    "office",
+    "Outlook",
+    "PowerPoint",
+    "MS Windows",
+    "network setup",
+    "network",
+    "Notary Public",
+    "order office supplies",
+    "organizational",
+    "peripherals",
+    "personnel",
+    "printers",
+    "profit",
+    "programming",
+    "quality control",
+    "receptionist",
+    "reporting",
+    "routers",
+    "scheduling",
+    "servers",
+    "SIMs",
+    "software engineering",
+    "install software",
+    "spreadsheets",
+    "SQL",
+    "system administration",
+    "telecommunications",
+    "phones",
+    "troubleshoot",
+    "upgrade",
+    "Visual Basic",
+    "written"
+  ],
+  "tools": [
+    "MS Word",
+    "Outlook",
+    "PowerPoint",
+    "Excel",
+    "Access",
+    "CRM",
+    "Adobe Acrobat XI",
+    "Snag-ItTM",
+    "Hot Docs",
+    "MS Windows XP",
+    "MS Windows Vista",
+    "MS Windows 7",
+    "MS Windows 8",
+    "MS Windows Server 2000",
+    "MS Windows Server 2003",
+    "SQL",
+    "Time Matters",
+    "UCAP",
+    "Visual Basic",
+    "Visual Basic programming"
+  ],
+  "certifications": [
+    "Microsoft Certified Systems Engineer Training",
+    "Microsoft Certified Systems Engineer",
+    "Maryland Notary Public"
+  ],
+  "education": [
+    {
+      "degree": "B.S. Business Finance",
+      "institution": "Towson University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Certificate of Completion",
+      "institution": "ComputerTraining.Com",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Basic computer network setup and troubleshooting",
+        "Install software and printers",
+        "Computer repair and upgrade for individuals",
+        "Microsoft Excel spreadsheet creation",
+        "Setup network for small non\u2011profit organization",
+        "Created organizational spreadsheets for daily operations and marketing for small businesses",
+        "Upgraded SQL and Time Matters for Edward S. Clay, P.A."
+      ]
+    },
+    {
+      "title": "Office Administrator/Billing Assistant",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Assisted with administrative duties in the operations departments",
+        "Created airtime spreadsheets and assisted with revenue reporting",
+        "Data entry into internal billing system (UCAP)",
+        "Downloaded airtime carrier invoices and data files",
+        "Monthly airtime billing using UCAP",
+        "Activation/deactivation of SIMs/devices",
+        "Ran usage and airtime reports for customers",
+        "Reconciled carrier charges to UCAP output",
+        "Placed orders, received and shipped packages"
+      ]
+    },
+    {
+      "title": "Funding & Settlement Coordinator/Office Manager",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Re\u2011title clients' assets into respective trusts",
+        "Enter client data into database and legal document generation software",
+        "Build long\u2011term relationships with trust maintenance clients",
+        "Order office and legal document supplies",
+        "Answer phones and assist clients with questions and concerns",
+        "Greet clients during office visits",
+        "Schedule appointments and manage attorney's calendar",
+        "Print legal documents and prepare delivery binders",
+        "Review legal documents for formatting errors",
+        "Witness and notarize client signatures",
+        "Generate funding instructions for trust clients",
+        "Troubleshoot and maintain computer network and workstations"
+      ]
+    },
+    {
+      "title": "Student Operations Specialist",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Prepared student reports for state regulatory agencies and ACCET",
+        "Answered phones",
+        "Data entry of new enrollments and material assignments",
+        "Reported inventory and distribution of classroom materials to CFO",
+        "Developed complex spreadsheets with Excel and Visual Basic",
+        "Published and updated student policy catalog",
+        "Protected student privacy for third\u2011party record requests",
+        "Managed course scheduling for 25 schools and all student records",
+        "Reviewed feedback for quality control",
+        "Maintained complaint records and collaborated on written responses"
+      ]
+    },
+    {
+      "title": "Information Technology Coordinator",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Installation and troubleshooting of Windows 2000 workstations, hardware, printers, peripherals, and software",
+        "Managed telecommunications system administration, programming, and troubleshooting",
+        "Trained brokers and new employees on systems and applications",
+        "Processed stock certificates and checks for client accounts",
+        "Answered main phone and directed calls",
+        "Supervised operations staff (cashiers and receptionist)",
+        "Maintained records for annual audits and SEC compliance",
+        "Resolved trade errors and balanced error accounts",
+        "Earned fast\u2011track promotions from New Accounts Clerk to IT Coordinator",
+        "Maintained accuracy of credit/debit balances for millions of dollars",
+        "Served as primary technical troubleshooter for branch and satellite offices"
+      ]
+    }
+  ],
+  "projects": []
+}

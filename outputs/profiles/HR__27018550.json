@@ -1,0 +1,78 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Dedicated, driven, and dynamic with over 20 years of customer service expertise. Motivated to maintain customer satisfaction and contribute to company success with an emphasis in personnel and process management. Solid team player with proven ability to establish rapport with clients.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "Typing 50 wpm",
+    "10-key touch",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Access",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Personnel management",
+    "Telephone inquiries",
+    "Customer service",
+    "Inbound/outbound contact center",
+    "Conflict resolution",
+    "Presentation skills"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Access",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Case management tool"
+  ],
+  "certifications": [
+    "Business Administration Certificate of Completion"
+  ],
+  "education": [
+    {
+      "degree": "Certificate of Completion",
+      "institution": "Texas A&M Extension Services",
+      "graduation_year": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist",
+      "company": "Accenture Peopleline Email Management Team",
+      "duration": "May 2007 to Oct 2008",
+      "responsibilities": [
+        "Received inbound emails from clients as initial point of contact to answer questions related to HR policies, practices or to resolve issues.",
+        "Helped the client by answering their inquiry, resolving their issue or routing their email to a caseworker for resolution.",
+        "Recorded and tracked the client issue via the case management tool from initiation to resolution.",
+        "Maintained records of customer interactions and transactions by documenting details of inquiries, complaints, and comments as well as actions taken."
+      ]
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": "Company Name",
+      "duration": "Mar 2007 to Feb 2008",
+      "responsibilities": [
+        "Maintained records of customer interactions and transactions by documenting details of inquiries, complaints, and comments, as well as actions taken.",
+        "Developed and implemented filing and delivery methods for FMLA and Short Term Disability documentation to respective global clientele.",
+        "Facilitated communication for the Absence Management Team to clients and internal departmental teams.",
+        "Organized and maintained payroll and people services database management system.",
+        "Communicated to clients and internal/external departmental teams to mitigate risks and resolutions regarding policy, transactions and other queries."
+      ]
+    },
+    {
+      "title": "Call Centre Shift Supervisor",
+      "company": "Company Name",
+      "duration": "Aug 2003 to Mar 2007",
+      "responsibilities": [
+        "Answered and dispatched calls for Medical and Professional clients in the San Antonio and surrounding areas.",
+        "Provided call monitoring to ensure staff was adhering to quality call control.",
+        "Maintained On Call books for various medical staff to ensure that the correct staff was contacted during after hours and weekends."
+      ]
+    }
+  ],
+  "projects": []
+}

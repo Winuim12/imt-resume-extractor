@@ -1,0 +1,144 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Dedicated Customer Service Manager with 15+ years of experience in Hospitality and Customer Service Management.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Accounting",
+    "Advertising",
+    "Analytical skills",
+    "Benefits",
+    "Billing",
+    "Budgeting",
+    "Client relations",
+    "Customer Service",
+    "Data analysis",
+    "Documentation",
+    "Employee relations",
+    "Financial management",
+    "Government relations",
+    "Human Resources",
+    "Insurance",
+    "Labor relations",
+    "Marketing",
+    "Marketing collateral",
+    "Medical billing",
+    "Medical terminology",
+    "Office management",
+    "Organizational skills",
+    "Payroll",
+    "Performance reviews",
+    "Personnel management",
+    "Policies",
+    "Public relations",
+    "Purchasing",
+    "Reporting",
+    "Statistics",
+    "Website development",
+    "Conflict resolution",
+    "Training and development",
+    "Team management",
+    "Multi-tasking"
+  ],
+  "tools": [
+    "Hilton OnQ",
+    "Micros Opera PMS",
+    "Fidelio OPERA Reservation System",
+    "Holidex",
+    "Facebook",
+    "Website"
+  ],
+  "certifications": [
+    "Missouri DOT Supervisor Training Certification",
+    "IHG Certified in Customer Loyalty and Marketing by Segment",
+    "Hilton Worldwide General Manager Training Certification",
+    "Trainer for Hilton OnQ, Micros Opera PMS, Fidelio OPERA Reservation System, Holidex"
+  ],
+  "education": [
+    {
+      "degree": "Business Administration",
+      "institution": "Jefferson College",
+      "graduation_year": "1999"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Sainte Genevieve Senior High",
+      "graduation_year": "1998"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Administrator/Marketing Associate",
+      "company": "Company Name",
+      "duration": "Dec 2013 \u2013 Current",
+      "responsibilities": [
+        "Developed HR policies and coordinated employment, compensation, labor relations, benefits, training, and employee services.",
+        "Prepared employee separation notices and related documentation.",
+        "Maintained records of benefits participation, personnel transactions, and employee statistics for government reporting.",
+        "Advised management on employee relations issues and administered benefits programs (life, health, dental, pension, vacation, sick leave, leave of absence, employee assistance).",
+        "Designed and created marketing collateral for sales meetings, trade shows, and company executives.",
+        "Managed in-house advertising program and assisted in launching the company website and Facebook page."
+      ]
+    },
+    {
+      "title": "Advanced Medical Claims Analyst",
+      "company": "Company Name",
+      "duration": "Mar 2012 \u2013 Dec 2013",
+      "responsibilities": [
+        "Reviewed medical bills for accuracy of treatments, tests, and hospital stays.",
+        "Interpreted ICD-9 and CPT codes and medical terminology.",
+        "Applied knowledge of medical billing standards, data analysis, and relevant laws."
+      ]
+    },
+    {
+      "title": "Assistant General Manager",
+      "company": "Company Name",
+      "duration": "Jun 2010 \u2013 Dec 2010",
+      "responsibilities": [
+        "Managed budgeting, financial management, accounting, HR, payroll, and purchasing.",
+        "Maintained relationships with all hotel departments to maximize operations and guest service.",
+        "Handled daily operations and reported to corporate office.",
+        "Hired and trained staff with emphasis on high customer service.",
+        "Oversaw marketing and advertising, public relations, and local business outreach."
+      ]
+    },
+    {
+      "title": "Executive Support / Marketing Assistant",
+      "company": "Company Name",
+      "duration": "Jul 2007 \u2013 Jun 2010",
+      "responsibilities": [
+        "Provided assistance to executive, marketing, customer service, and HR department heads.",
+        "Managed front\u2011end operations to ensure efficient transactions.",
+        "Resolved customer issues to preserve loyalty while complying with company policies."
+      ]
+    },
+    {
+      "title": "Reservation & Front Office Manager",
+      "company": "Company Name",
+      "duration": "Jun 2004 \u2013 Jul 2007",
+      "responsibilities": [
+        "Oversaw front\u2011office operations, reservations, and guest services."
+      ]
+    },
+    {
+      "title": "Owner/Partner",
+      "company": "Company Name",
+      "duration": "Dec 2001 \u2013 May 2004",
+      "responsibilities": [
+        "Managed business operations and strategic planning."
+      ]
+    },
+    {
+      "title": "Price Integrity Coordinator",
+      "company": "Company Name",
+      "duration": "Aug 1999 \u2013 Dec 2001",
+      "responsibilities": [
+        "Monitored pricing accuracy and integrity across product lines."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,105 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Business\u2011savvy HR executive with 16 years of experience driving change, optimizing HR processes, and aligning talent strategies with business goals. Bilingual in English and Spanish, adept at conflict resolution, succession planning, and delivering high\u2011impact HR initiatives that improve engagement, reduce costs, and support organizational growth.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Change Management",
+    "Benefits Administration",
+    "Succession Planning",
+    "Organizational Development",
+    "Leadership Development & Coaching",
+    "Infrastructure Development",
+    "Operations & Workflow Optimization",
+    "Conflict Resolution",
+    "Talent Acquisition",
+    "Performance Management",
+    "Employee Relations",
+    "Compliance & Labor Law",
+    "Budget Management"
+  ],
+  "tools": [
+    "PeopleSoft",
+    "Microsoft Office Suite",
+    "ADP",
+    "SAP",
+    "ADP HRIS System"
+  ],
+  "certifications": [
+    "Project Management Methodology Associate Certificate",
+    "Six Sigma Yellow Belt Certified",
+    "Code of Business Conduct Training",
+    "Anti\u2011Bribery & Anti\u2011Harassment Training"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Nova Southeast University",
+      "graduation_year": "2005"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "St. Thomas University",
+      "graduation_year": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Regional HR Business Partner",
+      "company": "Company Name",
+      "duration": "01/2012 to Current",
+      "responsibilities": [
+        "Reported to one of four Regional Vice Presidents and partnered with regional business leaders to translate strategy into actionable HR solutions.",
+        "Provided progressive HR guidelines ensuring alignment with business needs, local labor laws, and culture.",
+        "Engaged HR Generalists across the LA Region to develop HR strategies that optimized human resources.",
+        "Analyzed talent needs and helped establish work unit plans and performance measures.",
+        "Administered an annual regional HR budget of over $160K and organized a leadership conference for the entire region.",
+        "Implemented company HR processes across all regional offices, including performance management, tuition programs, engagement surveys, leadership trainings, and employee purchase plans, achieving the second\u2011highest engagement scores in 2012 and 2013.",
+        "Achieved 100% hiring goals while maintaining the lowest recruiting cost among all regions.",
+        "Reorganized market positions within subsidiaries, saving $2.3M annually from SG&A.",
+        "Developed and implemented an immigration policy that reduced processing time by 45% and saved 25% per visa."
+      ]
+    },
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "01/2008 to 10/2011",
+      "responsibilities": [
+        "Developed and implemented corporate HR plans and policies supporting the business plan and ensuring regulatory compliance.",
+        "Managed recruitment, training, benefits administration, disciplinary action, and HR records.",
+        "Created innovative HR programs, including supervisory training and performance\u2011based incentive compensation.",
+        "Built and maintained a strong HR team through training, coaching, and team building.",
+        "Restructured benefits program, consolidating providers and renegotiating contracts to keep costs within 1% of the previous year and saving over $70K.",
+        "Implemented an integrated ADP HRIS system, reducing payroll processing liability by 35% and saving over $300K.",
+        "Achieved a voluntary turnover rate of 3% and a 97% satisfaction record through new orientation and individualized training.",
+        "Led succession planning initiatives, projecting a 30% reduction in hiring expenses over five years."
+      ]
+    },
+    {
+      "title": "District HR Manager",
+      "company": "Company Name",
+      "duration": "09/2007 to 09/2008",
+      "responsibilities": [
+        "Retained a high\u2011performing diverse workforce and managed learning, career development, and compliance programs.",
+        "Conducted investigations into sexual harassment, discrimination, and policy violations, reducing lawsuits by 35%.",
+        "Oversaw performance reviews for supervisors and associates, including ratings, written reviews, and pay increases.",
+        "Reduced recruitment expenses by $350K through internal recruitment initiatives.",
+        "Ensured 100% completion of associate training, 401K enrollment, and AAP goals.",
+        "Reduced sexual harassment claims by 20% within six months of training."
+      ]
+    },
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "01/1999 to 01/2007",
+      "responsibilities": [
+        "Provided consultative direction for HR infrastructure and organizational efficiency for a start\u2011up serving high\u2011profile clients such as Panasonic, LeapFrog, and AIG.",
+        "Oversaw compensation functions, including job analysis, salary administration, and job evaluation, partnering with leadership."
+      ]
+    }
+  ],
+  "projects": []
+}

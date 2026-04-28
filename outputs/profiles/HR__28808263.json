@@ -1,0 +1,122 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Diverse experience in Accounting, Credit Union Financial Services, Retail Sales, Customer Service, Telemarketing, Food & Beverage, Construction and Ironworks. Outstanding organizational ability with attention to detail, while balancing multiple projects in fast\u2011paced environments with excellent interpersonal and communication skills. Demonstrated ability to gain customer trust and provide exceptional service, leading to increased repeat and referral business. Excellent leadership and motivational skills, with exceptional ability at problem solving and resolution.",
+  "total_experience_years": 5.0,
+  "skills": [
+    "Branch Suite",
+    "N.A.D.A",
+    "Appro",
+    "Delta Docs",
+    "COWW",
+    "Excel spreadsheets",
+    "Workers' compensation knowledge",
+    "Microsoft Office proficiency",
+    "Time management",
+    "Strong problem solver",
+    "Resourceful",
+    "Dedicated team player",
+    "Strong interpersonal skills",
+    "Executive presentation development",
+    "Billing and coding",
+    "Finance skills",
+    "Accounting skills",
+    "General Ledger Accounts",
+    "Cash management",
+    "Customer service",
+    "Team leadership",
+    "Training"
+  ],
+  "tools": [
+    "Branch Suite",
+    "N.A.D.A",
+    "Appro",
+    "Delta Docs",
+    "COWW",
+    "Excel",
+    "Microsoft Office",
+    "Accounting software"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Associates",
+      "institution": "Blue River Community College",
+      "graduation_year": "1998"
+    },
+    {
+      "degree": "Bachelors",
+      "institution": "UMKC",
+      "graduation_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Payroll/Accounting Representative",
+      "company": null,
+      "duration": "11/2008 to 11/2011",
+      "responsibilities": [
+        "Assisted in all payroll duties including accounting for employee hours, time off requests, STD, leave of absence, etc.",
+        "Accurately processed data, validation and transmission for weekly, semi\u2011monthly and sales payrolls.",
+        "Managed payroll and time and attendance systems.",
+        "Enforced payroll policies, procedures and regulations.",
+        "Responded to employee inquiries regarding payroll and timekeeping.",
+        "Onboarded new employees in time reporting and payroll systems.",
+        "Processed rehires, transfers, terminations, garnishments and withholdings.",
+        "Prepared purchase orders and expense reports.",
+        "Reviewed, investigated and corrected errors in financial entries and reports.",
+        "Verified transaction details and calculated discounts, allocations and credits.",
+        "Coded the general ledger and processed vendor invoice payments.",
+        "Coordinated approval processes for all accounts payable invoices.",
+        "Balanced batch summary reports for verification and approval.",
+        "Conducted month\u2011end balance sheet reviews and reconciled variances.",
+        "Researched and resolved billing and invoice problems."
+      ]
+    },
+    {
+      "title": "Financial Relationship Specialist",
+      "company": null,
+      "duration": "11/2011 to 11/2015",
+      "responsibilities": [
+        "Provided professional and prompt financial services to members and potential members.",
+        "Educated members on credit union products and services.",
+        "Researched banking guidelines and statutory requirements.",
+        "Processed sales referrals and promoted bank services, increasing branch sales.",
+        "Opened new members' accounts, CDs and IRAs.",
+        "Originated and completed member consumer loan applications.",
+        "Balanced daily cash deposits and bank vault inventory with zero error rate.",
+        "Assembled in\u2011store marketing displays.",
+        "Trained employees on cash drawer operation.",
+        "Performed financial transactions accurately using account security procedures.",
+        "Assisted with vault cash and loan origination as needed."
+      ]
+    },
+    {
+      "title": "Trainer/Server",
+      "company": null,
+      "duration": "05/2008 to 12/2008",
+      "responsibilities": [
+        "Ordered and served customers with excellent service.",
+        "Resolved customer\u2011related issues.",
+        "Ensured correct duties during store opening and closing.",
+        "Assisted in training new recruits."
+      ]
+    },
+    {
+      "title": "Counter Supervisor",
+      "company": null,
+      "duration": "09/2006 to 07/2008",
+      "responsibilities": [
+        "Assisted manager with store visuals.",
+        "Delegated and planned daily staff workflow in manager\u2019s absence.",
+        "Compiled store merchandise and inventory reporting.",
+        "Responded to customer inquiries and provided excellent service.",
+        "Supported operational, sales and team management, and special projects."
+      ]
+    }
+  ],
+  "projects": []
+}

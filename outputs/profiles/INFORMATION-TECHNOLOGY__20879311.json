@@ -1,0 +1,204 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Accomplished senior manager with over 15 years of experience leading complex projects and managing resources to optimize enterprise technology and support business objectives. Subject matter expert in Information Security Risk Management, adept at bridging functional groups and technology to foster innovative solutions.",
+  "total_experience_years": 28.0,
+  "skills": [
+    "Active Directory",
+    "Antivirus",
+    "Asset management",
+    "Backup Exec",
+    "Budgeting",
+    "Business systems",
+    "Cabling",
+    "Cisco",
+    "Competitive analysis",
+    "Hardware",
+    "Consulting",
+    "Contract negotiation",
+    "Conversion",
+    "Credit",
+    "Client relations",
+    "Databases",
+    "DHCP",
+    "Disaster Recovery",
+    "Documentation",
+    "DNS",
+    "Due diligence",
+    "Enterprise Resource Planning",
+    "Firewalls",
+    "FTP",
+    "Ghost",
+    "Help desk",
+    "IIS",
+    "Imaging",
+    "Information Technology",
+    "IP",
+    "IT support",
+    "LAN",
+    "Laptops",
+    "Team leadership",
+    "Logistics",
+    "Loss Prevention",
+    "Market analysis",
+    "Mentoring",
+    "Access control",
+    "Exchange",
+    "Microsoft Exchange 2003",
+    "Microsoft Office Suite",
+    "SharePoint",
+    "Microsoft Windows",
+    "Windows 2000",
+    "Windows NT",
+    "Word",
+    "Migration",
+    "Enterprise",
+    "Network security",
+    "Networking",
+    "Next Generation Firewalls",
+    "OS",
+    "Organizational",
+    "PCAnywhere",
+    "Policies",
+    "Problem resolution",
+    "Processes",
+    "Process improvement",
+    "Procurement",
+    "Project Management",
+    "Proposal development",
+    "Requirements analysis",
+    "Routers",
+    "SAN",
+    "Sarbanes-Oxley",
+    "Servers",
+    "Service Level Agreement",
+    "SQL",
+    "Strategy",
+    "Strategic planning",
+    "Switches",
+    "Symantec",
+    "TCP/IP",
+    "Telecommunications",
+    "Telephony",
+    "Troubleshooting",
+    "Upgrades",
+    "Veritas",
+    "Veritas Netbackup",
+    "Video",
+    "VPN",
+    "Visio",
+    "VOIP",
+    "WAN"
+  ],
+  "tools": [
+    "JIRA",
+    "Veritas Netbackup",
+    "Backup Exec",
+    "PCAnywhere",
+    "Symantec Antivirus",
+    "Ghost",
+    "SharePoint",
+    "Visio",
+    "Microsoft Office Suite"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Rutgers University",
+      "graduation_year": "1998"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Information Technology and Analytics",
+      "company": "Company Name",
+      "duration": "January 2005 \u2013 Current",
+      "responsibilities": [
+        "Directed global IT strategy for a credit asset management firm with $4B AUM.",
+        "Established security policies and Sarbanes\u2011Oxley compliance framework.",
+        "Managed a 6\u2011person team overseeing infrastructure, network, security, and disaster recovery.",
+        "Led cross\u2011functional project teams through full lifecycle and technical escalation.",
+        "Implemented DLP, advanced threat protection, and next\u2011generation firewalls.",
+        "Chairman of cybersecurity committee, developing incident response and breach rehearsal plans.",
+        "Oversaw procurement, deployment, and support across Dallas, Baton Rouge, Shanghai, Dublin, London, Singapore, and Tokyo.",
+        "Designed and executed disaster recovery and business continuity strategies."
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "January 2002 \u2013 January 2005",
+      "responsibilities": [
+        "Directed hardware and software configuration, installation, and support for a manufacturing firm.",
+        "Administered network infrastructure, cabling, and telecommunications platforms.",
+        "Managed vendor relationships and service provider contracts.",
+        "Monitored service metrics and led change request management.",
+        "Led Windows 2003 migration, Cisco VPN, and Exchange 2003 deployments.",
+        "Planned and implemented ERP and disaster recovery initiatives."
+      ]
+    },
+    {
+      "title": "Systems Administrator",
+      "company": "Company Name",
+      "duration": "January 2000 \u2013 January 2002",
+      "responsibilities": [
+        "Supported 250 client nodes in a Windows NT environment.",
+        "Upgraded to Windows 2000 and maintained DNS, WINS, DHCP.",
+        "Managed 85\u2011node development server environment.",
+        "Engineered System Management Server 2.0 and Symantec Ghost imaging.",
+        "Performed daily network monitoring, backups, and log checks."
+      ]
+    },
+    {
+      "title": "Data/Systems Administrator",
+      "company": "Company Name",
+      "duration": "January 1998 \u2013 January 2000",
+      "responsibilities": [
+        "Managed daily data downloads from distributors and uploaded to SQL databases.",
+        "Maintained Windows FTP servers and performed hardware/software upgrades."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "DLP Solution Deployment",
+      "description": "Evaluated and deployed Symantec Data Loss Prevention system, creating escalation procedures aligned with data governance policies.",
+      "technologies": [
+        "Symantec DLP",
+        "Active Directory",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "Virtual Computing Environment Deployment",
+      "description": "Led the deployment of a high\u2011performance virtual computing environment to support new internal development models.",
+      "technologies": [
+        "Virtualization",
+        "Windows Server",
+        "Enterprise Resource Planning"
+      ]
+    },
+    {
+      "name": "Advanced Threat Protection Implementation",
+      "description": "Designed, implemented, and maintained an advanced threat protection system, including next\u2011generation firewalls and mobile computing security.",
+      "technologies": [
+        "Next Generation Firewalls",
+        "Cisco CUCM",
+        "Symantec Antivirus"
+      ]
+    },
+    {
+      "name": "Data Governance and Classification Policies",
+      "description": "Created data governance and classification policies for personally identifiable information, integrating with incident response frameworks.",
+      "technologies": [
+        "NIST Framework",
+        "Active Directory",
+        "Symantec DLP"
+      ]
+    }
+  ]
+}

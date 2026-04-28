@@ -1,0 +1,105 @@
+{
+  "candidate_name": "TONYA BELL",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Accomplished HR professional with extensive experience in strategic planning, organizational development, and HR operations. Skilled at attracting top talent, leading cross\u2011site HR initiatives, and driving improvements in employee relations, compensation, and training.",
+  "total_experience_years": 21.0,
+  "skills": [
+    "Organizational Development",
+    "Strategic Planning",
+    "Talent Management",
+    "Change Management",
+    "Employee Relations",
+    "Training & Development",
+    "Performance Management",
+    "HR Information Systems",
+    "ADA Compliance",
+    "Labor Relations",
+    "Recruitment",
+    "Retention",
+    "Compensation",
+    "Benefits Administration",
+    "Succession Planning",
+    "Compliance",
+    "Legal Liaison",
+    "Harassment Prevention",
+    "Data Analysis",
+    "Process Improvement",
+    "Stakeholder Engagement",
+    "Leadership",
+    "Communication"
+  ],
+  "tools": [
+    "MS Word",
+    "PowerPoint",
+    "Excel",
+    "Access",
+    "Publisher",
+    "Adobe Illustrator",
+    "SAP",
+    "Oracle",
+    "Ceridian",
+    "KRONOS"
+  ],
+  "certifications": [
+    "PHR",
+    "HR Certificate/PHR Certification"
+  ],
+  "education": [
+    {
+      "degree": "B.S. Communications",
+      "institution": "University of Phoenix",
+      "graduation_year": "2013"
+    },
+    {
+      "degree": "HR Certificate/PHR Certification",
+      "institution": "University of Maryland",
+      "graduation_year": "2003"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "03/2013 to Current",
+      "responsibilities": [
+        "Managed all HR and employee relations functions for Customer Ops at DCA and LGA.",
+        "Partnered with legal to develop ADA and religious accommodation training and processes.",
+        "Reduced outstanding ADA cases from 25 to zero in three months.",
+        "Served as HR Business Partner Manager for Base and Line Maintenance in Northeast and Southeast regions.",
+        "Delivered harassment and discrimination training, cutting complaints by 50%."
+      ]
+    },
+    {
+      "title": "Human Resources Consultant",
+      "company": "Company Name",
+      "duration": "06/2005 to 10/2012",
+      "responsibilities": [
+        "Coached leadership to influence decision\u2011making and improve HR practices.",
+        "Led annual performance review and talent management cycle for 100 restaurants.",
+        "Ensured compliance with state and federal employment laws.",
+        "Designed hiring process for McDonald\u2019s \u201cWow\u201d Crew Orientation.",
+        "Implemented succession planning, resulting in 21 promotions over three years.",
+        "Created training system that improved food costs by 10% and sales by 6%.",
+        "Developed compensation and benefits programs for 30,000+ restaurants.",
+        "Launched brand ambassador program, boosting retention by 60% and cutting staffing costs by 31%."
+      ]
+    },
+    {
+      "title": "Human Resources Manager",
+      "company": "Company Name",
+      "duration": "03/2001 to 06/2005",
+      "responsibilities": [
+        "Led culture change initiative, introducing employee intranet for benefits and personnel information.",
+        "Improved retention by 75% and reduced recruiting costs by 21% annually.",
+        "Managed HR department of four staff and supervised 20 administrative staff and volunteers.",
+        "Implemented employee relations programs, awards, and recognition events.",
+        "Authored policies and standards for performance evaluations and pay.",
+        "Expanded St. Luke\u2019s House professional education program to over 50 workshops annually."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,108 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Progressive HR professional with experience in union and non\u2011union, ISO and FDA regulated manufacturing environments. Skilled in state and federal employment law, benefits administration, recruitment, employee relations, payroll processing, safety compliance, and wellness program coordination. Proficient in Excel, Word, PowerPoint, Ceridian HRIS, Paychex, and ADP payroll systems.",
+  "total_experience_years": 41.0,
+  "skills": [
+    "ADP payroll",
+    "Ceridian HRIS",
+    "Paychex payroll",
+    "benefits administration",
+    "employee relations",
+    "recruitment",
+    "contract negotiations",
+    "performance reviews",
+    "coaching",
+    "payroll processing",
+    "HR policies",
+    "safety compliance",
+    "organizational charts",
+    "wage surveys",
+    "job descriptions",
+    "onboarding",
+    "workforce planning",
+    "labor law compliance",
+    "union relations",
+    "wellness program coordination",
+    "data analysis",
+    "reporting",
+    "Excel",
+    "Word",
+    "PowerPoint"
+  ],
+  "tools": [
+    "Ceridian",
+    "Paychex",
+    "ADP",
+    "Excel",
+    "Word",
+    "PowerPoint"
+  ],
+  "certifications": [
+    "PHR",
+    "OSHA 10\u2011hour"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": null,
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": null,
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager/Generalist",
+      "company": "Company Name",
+      "duration": "02/2012 to Current",
+      "responsibilities": [
+        "Managed day\u2011to\u2011day HR functions for a manufacturer with ~200 employees.",
+        "Prepared weekly payroll and coordinated with Corporate Payroll.",
+        "Led recruiting efforts for engineering and operations, including new hire orientation and temporary labor tracking.",
+        "Handled personnel transactions (hires, terminations, promotions).",
+        "Advised management on employee relations issues.",
+        "Conducted wage surveys and updated job descriptions.",
+        "Maintained organizational charts and HR metrics reporting.",
+        "Served as safety committee member and Wellness Program Coordinator."
+      ]
+    },
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "07/2008 to 02/2012",
+      "responsibilities": [
+        "Oversaw HR functions for a medical device manufacturer with ~50 employees.",
+        "Administered medical, dental, vision, 401(k), and other benefit plans; managed renewals and open enrollments.",
+        "Processed bi\u2011weekly payroll using Paychex and ADP.",
+        "Provided guidance on employee relations, coaching, investigations, and disciplinary actions.",
+        "Ensured compliance with federal and state labor laws; chaired safety committee.",
+        "Developed recruiting strategies, posted job openings, and conducted interviews and background checks.",
+        "Updated policies, procedures, employee handbook, and safety manual.",
+        "Conducted wage surveys and assisted in performance evaluations."
+      ]
+    },
+    {
+      "title": "Sr HR Representative",
+      "company": "Company Name",
+      "duration": "05/1985 to 07/2008",
+      "responsibilities": [
+        "Managed HR functions for a unionized power supply manufacturing company (150\u2013700 employees).",
+        "Prepared annual salary proposals, administered salary plans, and maintained job descriptions and org charts.",
+        "Administered employee benefit programs, including COBRA and retirement plans.",
+        "Prepared affirmative action plans and EEO reports.",
+        "Maintained employment records using Ceridian Payroll/HRIS.",
+        "Participated in payroll/HR conversions and generated manpower, benefits, and turnover reports.",
+        "Implemented corporate policies and negotiated labor contracts.",
+        "Handled safety, security, workers compensation, and employee relations."
+      ]
+    }
+  ],
+  "projects": []
+}

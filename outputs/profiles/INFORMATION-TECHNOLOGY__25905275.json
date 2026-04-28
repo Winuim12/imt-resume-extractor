@@ -1,0 +1,108 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Seasoned IT professional with over 15 years of experience in customer support, network administration, and technical troubleshooting across military and corporate environments. Proven ability to manage complex systems, deliver high\u2011quality service, and lead teams in fast\u2011paced settings.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "communication",
+    "customer service",
+    "technical support",
+    "troubleshooting",
+    "problem solving",
+    "network administration",
+    "hardware maintenance",
+    "software installation",
+    "migration",
+    "project management",
+    "leadership",
+    "team supervision",
+    "multitasking",
+    "record keeping",
+    "filing",
+    "typing",
+    "English",
+    "Spanish",
+    "Microsoft Office",
+    "Excel",
+    "PowerPoint",
+    "Word",
+    "Outlook",
+    "Windows 7",
+    "electrical wiring",
+    "mechanic",
+    "contracts",
+    "quality assurance",
+    "shipping",
+    "security clearance"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Outlook",
+    "Remedy",
+    "IBM ticketing system",
+    "Windows 7"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Business Management (Technical Management)",
+      "institution": "DeVry University",
+      "graduation_year": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Windows 7 Support Desk Technician",
+      "company": "CompuCom Systems, Inc.",
+      "duration": "Feb 2013 \u2013 Dec 2013",
+      "responsibilities": [
+        "Provided customer support to 35,000 Cigna Health employees during Windows 7 migration.",
+        "Handled inbound calls in English and Spanish, resolving a wide range of technical issues.",
+        "Installed software and hardware for specific programs.",
+        "Offered comprehensive solutions to meet customer needs.",
+        "Maintained high call volume efficiency and quality standards."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "Oct 2010 \u2013 Aug 2012",
+      "responsibilities": [
+        "Delivered customer and network administration services for military units.",
+        "Maintained hardware, software, and network infrastructure.",
+        "Performed clerical duties including typing, answering phones, filing, and record keeping.",
+        "Troubleshot technical issues and installed software/hardware for specific programs.",
+        "Operated with minimal supervision."
+      ]
+    },
+    {
+      "title": "Maintenance Supervisor",
+      "company": null,
+      "duration": "May 2007 \u2013 Oct 2010",
+      "responsibilities": [
+        "Supervised and performed maintenance on wheeled and heavy\u2011wheeled vehicles.",
+        "Managed recovery operations and electrical wiring harness repairs.",
+        "Inspected, serviced, and tested vehicle systems and components.",
+        "Handled stock record and warehouse functions, ensuring accurate inventory management."
+      ]
+    },
+    {
+      "title": "Team Leader \u2013 Infantryman",
+      "company": "Schofield Barracks, HI",
+      "duration": "Apr 1998 \u2013 Feb 2003",
+      "responsibilities": [
+        "Led fire teams during drills and combat operations.",
+        "Assisted in mobilization of vehicles, troops, and weaponry.",
+        "Conducted reconnaissance missions and processed captured documents.",
+        "Maintained records and maintenance logs for military weapons."
+      ]
+    }
+  ],
+  "projects": []
+}

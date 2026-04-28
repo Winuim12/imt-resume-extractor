@@ -1,0 +1,98 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Skilled IT professional with 7 years of proven success in developing and leading cross\u2011functional technical teams to execute and deliver major technology initiatives using Agile methodology and Scaled Agile Framework (SAFe). Well\u2011versed in managing projects with co\u2011located and off\u2011site teams, gathering and translating requirements, leading scrum teams, and owning the release management lifecycle for multiple applications across different environments.",
+  "total_experience_years": 7.0,
+  "skills": [
+    "Agile methodology",
+    "Project management",
+    "SAFe Program Increment (PI) Planning",
+    "Scrum",
+    "Kanban",
+    "Scrumban",
+    "Client relations",
+    "Team building",
+    "Release management",
+    "Scrum master",
+    "Business analyst",
+    "Atlassian suite (JIRA, Confluence, Trello)",
+    "Public Trust Clearance Level 4",
+    "Budget management",
+    "Risk assessment",
+    "SCADA",
+    "Supervisory Control and Data Acquisition",
+    "Fluent in Spanish"
+  ],
+  "tools": [
+    "Atlassian suite (JIRA, Confluence, Trello)"
+  ],
+  "certifications": [
+    "Scaled Agile Framework (SAFe) 4 Agilist certification (2019)",
+    "Project Management Professional (PMP) (2018)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Arts",
+      "institution": "American University",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Master of Arts",
+      "institution": "American University",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Clemson University",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Project Manager",
+      "company": null,
+      "duration": "03/2019 - Current",
+      "responsibilities": [
+        "Supported SCADA upgrade project, implementing technology tools for resource planning and real\u2011time collaboration.",
+        "Introduced SAFe to prioritize fiscal year acquisition and procurement needs.",
+        "Developed annual planning process for capital improvement activities."
+      ]
+    },
+    {
+      "title": "Agile Project Manager",
+      "company": null,
+      "duration": "10/2014 - 03/2019",
+      "responsibilities": [
+        "Transitioned risk\u2011assessment tools to a web\u2011based platform.",
+        "Developed project plans, cost estimates, and tracked budget and resource allocation.",
+        "Managed project communication, gathered performance metrics, and identified risks.",
+        "Participated in quarterly SAFe PI planning events."
+      ]
+    },
+    {
+      "title": "Release Manager",
+      "company": null,
+      "duration": "10/2014 - 03/2019",
+      "responsibilities": [
+        "Negotiated, planned, and managed all release activities, ensuring deployment readiness.",
+        "Facilitated production readiness reviews and release retrospectives.",
+        "Served as primary contact with IT partners, optimized platform capabilities, and performed root\u2011cause analysis.",
+        "Tracked release metrics and conducted configuration audits to meet CMMI standards."
+      ]
+    },
+    {
+      "title": "Business Analyst / Scrum Master",
+      "company": null,
+      "duration": "10/2014 - 03/2019",
+      "responsibilities": [
+        "Facilitated requirements meetings, grooming sessions, and daily scrums.",
+        "Captured and translated requirements via Jira and Confluence.",
+        "Tested applications across development, staging, and production environments."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,99 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Seasoned HR professional with over 20 years of experience in corporate, non\u2011profit, and retail environments, specializing in talent acquisition, benefits administration, policy development, and organizational development.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "Human Resources Management",
+    "Talent Acquisition",
+    "Recruitment & Retention",
+    "Benefits Administration",
+    "Compensation Planning",
+    "Employee Relations",
+    "Performance Management",
+    "Organizational Development",
+    "Training & Development",
+    "HR Policy Development",
+    "HR Compliance",
+    "HRIS Management",
+    "Strategic Planning",
+    "Leadership Development",
+    "HR Program Management",
+    "HR Analytics",
+    "Workforce Planning",
+    "Mediation & Conflict Resolution",
+    "Stakeholder Engagement",
+    "Change Management"
+  ],
+  "tools": [
+    "Lawson",
+    "Paychex",
+    "Kronos",
+    "ADP",
+    "MS Office",
+    "Visio",
+    "Access"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration",
+      "institution": "Mount Vernon Nazaren University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "Jan 2015 \u2013 Current",
+      "responsibilities": [
+        "Lead HR functions for corporate, fulfillment, and data center operations, including benefits, payroll, and employee relations.",
+        "Develop and implement HR programs, policies, and procedures aligned with regulatory compliance.",
+        "Drive talent acquisition, retention, and compensation strategy, reducing projected health benefit increases from 46% to 5% in the first month.",
+        "Manage HRIS systems, providing reporting and analytics to support workforce decisions.",
+        "Design and deliver training and organizational development initiatives."
+      ]
+    },
+    {
+      "title": "Sr. HR Manager",
+      "company": "Company Name",
+      "duration": "Jan 2013 \u2013 Jan 2015",
+      "responsibilities": [
+        "Partnered with local and corporate HR to design policies, processes, and technology for a startup environment.",
+        "Recruited over 220 full\u2011time hourly associates and 27 managers, converting agency staff to permanent roles.",
+        "Established HR business office, including personnel files, new\u2011hire practices, payroll, and reporting.",
+        "Provided strategic HR guidance to site leadership, supporting peak\u2011season staffing and operations.",
+        "Implemented HR technology innovations and maintained policy consistency across multiple locations."
+      ]
+    },
+    {
+      "title": "HR Director",
+      "company": "Company Name",
+      "duration": "Jan 2008 \u2013 Jan 2012",
+      "responsibilities": [
+        "Directed HR for two business units in a non\u2011profit health care organization with 184 employees.",
+        "Led merger of five physician practices, creating unified compensation, benefits, and employment contracts.",
+        "Implemented performance review program and employee satisfaction surveys, achieving 85% satisfaction.",
+        "Negotiated 100+ salary offers and recruited senior leadership (CEO, COO, CFO, CMO).",
+        "Authored employee manual covering disciplinary procedures, FMLA, attendance, and benefits."
+      ]
+    },
+    {
+      "title": "HR Representative",
+      "company": "Company Name",
+      "duration": "Jan 2001 \u2013 Jan 2007",
+      "responsibilities": [
+        "Performed generalist HR duties for a large discount retailer, including recruiting, benefits administration, and disciplinary action.",
+        "Coached management on interviewing and hiring best practices.",
+        "Supported the launch of a 1.2\u2011million\u2011sq\u2011ft distribution center, hiring 400+ employees in the first year.",
+        "Managed 878 hourly employees across three shifts and led morale\u2011boosting programs.",
+        "Addressed employee relations issues, including harassment and discrimination."
+      ]
+    }
+  ],
+  "projects": []
+}

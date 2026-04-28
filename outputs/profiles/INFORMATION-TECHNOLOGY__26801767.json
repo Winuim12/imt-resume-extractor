@@ -1,0 +1,204 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Results\u2011driven IT director with over 30 years of experience across port and higher education sectors. Proven expertise in team leadership, technical architecture, disaster recovery, information protection, and strategic planning. Adept at managing large budgets, vendor negotiations, and cross\u2011functional projects to deliver secure, scalable IT solutions.",
+  "total_experience_years": 30.0,
+  "skills": [
+    "IT management",
+    "team leadership",
+    "operations management",
+    "budget administration",
+    "change management",
+    "problem resolution",
+    "disaster recovery",
+    "information protection",
+    "technical architecture",
+    "training & development",
+    "vendor management",
+    "project management",
+    "strategic planning",
+    "cybersecurity",
+    "network administration",
+    "database management",
+    "system integration",
+    "software engineering"
+  ],
+  "tools": [
+    "Cobol",
+    "DBase IV",
+    "Fortran",
+    "IBM",
+    "IBM compatible",
+    "Imaging",
+    "Access",
+    "MS Excel",
+    "Office",
+    "Novell Netware",
+    "PBX",
+    "PC networking",
+    "UNIX",
+    "VMS",
+    "VAX",
+    "SUN SPARC",
+    "MapInfo",
+    "GIS",
+    "Shell",
+    "RPG III"
+  ],
+  "certifications": [
+    "MCSE (Microsoft Certified Systems Engineer)",
+    "LDCCA Certified Installer for Fiber Optic and Category 5/5E",
+    "Certified Construction Quality Management for Contractors by U.S. Army Corps of Engineers",
+    "Wireless Network Auditing Training System",
+    "Forensics, Investigation & Response Training \u2013 Hacker Techniques, Exploits and Incident Handling Accreditation",
+    "Certified Port Executive Turner Fellowship",
+    "United Negro College Fund Fellowship",
+    "National Consortium of Educational Access Fellowship",
+    "William and Mary Simon Fellowship"
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Coastal Oceanography",
+      "institution": "State University of New York",
+      "graduation_year": "1996"
+    },
+    {
+      "degree": "M.S. in Computer Science",
+      "institution": "Marine Sciences Research Center, School of Marine and Atmospheric Sciences",
+      "graduation_year": null
+    },
+    {
+      "degree": "B.S. in Mathematics",
+      "institution": "University of Evansville",
+      "graduation_year": null
+    },
+    {
+      "degree": "B.S. in Mathematics",
+      "institution": "Xavier University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director, Information Technology",
+      "company": "Board of Commissioners of the Port of New Orleans",
+      "duration": "August 2008 \u2013 Present",
+      "responsibilities": [
+        "Lead a multi\u2011disciplinary IT team and manage the port\u2019s computer center.",
+        "Develop and implement IT strategy, policies, and procedures aligned with port goals.",
+        "Oversee budgeting, procurement, and vendor negotiations for hardware, software, and services.",
+        "Ensure cybersecurity, data protection, and disaster recovery readiness across all systems.",
+        "Coordinate cross\u2011departmental projects, including GIS, imaging, and network infrastructure.",
+        "Represent the port on national and international committees and conferences."
+      ]
+    },
+    {
+      "title": "Associate Vice\u2011President for Information Technology and Telecommunication",
+      "company": "State University of New York (University)",
+      "duration": "April 1980 \u2013 October 2004",
+      "responsibilities": [
+        "Created and managed the Office of Information Technology, integrating IT and telecommunications.",
+        "Directed a $1.2\u202fmillion grant to install fiber\u2011optic infrastructure campus\u2011wide.",
+        "Implemented university\u2011wide PBX, voice, and wireless communications systems.",
+        "Standardized data collection and security protocols, reducing virus incidents.",
+        "Expanded telecommunication units from 324 to over 2,000 and increased computer labs from 2 to 9.",
+        "Provided strategic IT planning and customer\u2011focused service delivery."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "FAS System Repair & Updates",
+      "description": "Upgraded and maintained the port\u2019s mainframe and remote computing systems.",
+      "technologies": [
+        "mainframe",
+        "UNIX",
+        "VMS"
+      ]
+    },
+    {
+      "name": "Building Access Command & Control",
+      "description": "Implemented secure access control across port facilities.",
+      "technologies": [
+        "access control systems",
+        "network security"
+      ]
+    },
+    {
+      "name": "Security Camera Projects (Portwide & Cruise Terminals)",
+      "description": "Deployed and integrated surveillance camera networks.",
+      "technologies": [
+        "IP cameras",
+        "video management systems"
+      ]
+    },
+    {
+      "name": "Wireless Backbone Infrastructure Portwide",
+      "description": "Established a high\u2011capacity wireless backbone for operational and public use.",
+      "technologies": [
+        "Wi\u2011Fi",
+        "network routers",
+        "switches"
+      ]
+    },
+    {
+      "name": "MSCO Provisioning",
+      "description": "Provisioned mobile and stationary communication devices for port staff.",
+      "technologies": [
+        "mobile devices",
+        "network provisioning"
+      ]
+    },
+    {
+      "name": "Mobile Command Center Repair & Upgrade",
+      "description": "Enhanced the command center\u2019s mobile communication capabilities.",
+      "technologies": [
+        "mobile command systems",
+        "network integration"
+      ]
+    },
+    {
+      "name": "Underwater Inspection Vehicle & Equipment",
+      "description": "Developed inspection tools for underwater port infrastructure.",
+      "technologies": [
+        "underwater ROV",
+        "sensor integration"
+      ]
+    },
+    {
+      "name": "Technology Installation on Harbor Police Patrol Boat",
+      "description": "Installed navigation and communication tech on patrol vessels.",
+      "technologies": [
+        "marine communication systems",
+        "GPS"
+      ]
+    },
+    {
+      "name": "Integration of Command Bridge Incident Control Servers",
+      "description": "Unified incident control servers across command bridges.",
+      "technologies": [
+        "server integration",
+        "network protocols"
+      ]
+    },
+    {
+      "name": "GIS Server Implementation",
+      "description": "Implemented GIS servers to support spatial data analysis for port operations.",
+      "technologies": [
+        "GIS",
+        "MapInfo"
+      ]
+    },
+    {
+      "name": "Homeland Security Grant Investment Justifications",
+      "description": "Prepared investment justifications for Homeland Security grant projects.",
+      "technologies": [
+        "grant management",
+        "project budgeting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "To obtain a position in the Human Resources field where I can utilize proven people-oriented skills to develop and promote a positive work environment. This position would leverage my professional experiences and job knowledge to enable me to make an immediate contribution to the organization while providing me with a challenging work environment that will allow me to continue to learn and grow.",
+  "total_experience_years": 31.0,
+  "skills": [
+    "Human Resources",
+    "HR",
+    "Employee Engagement",
+    "Change Leadership",
+    "Project Management",
+    "Hiring and Retention",
+    "Training and Development",
+    "Performance Management",
+    "Human Capital Planning",
+    "Talent Review",
+    "Organizational Design",
+    "Learning Coordination",
+    "Compliance Training",
+    "Recruiting",
+    "Communication",
+    "Analytical",
+    "Organizational",
+    "Fast\u2011paced",
+    "Leadership",
+    "Indirect Leadership",
+    "Team Motivation"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Access",
+    "SharePoint",
+    "Microsoft Word"
+  ],
+  "certifications": [
+    "Six Sigma Yellow Belt",
+    "Horizon Award",
+    "ROCKS Award"
+  ],
+  "education": [
+    {
+      "degree": "BSBM Business Management",
+      "institution": "University of Phoenix",
+      "graduation_year": "1995"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Business Partner II",
+      "company": "Company Name",
+      "duration": "12/2002 - Present",
+      "responsibilities": [
+        "Supported the South Florida Retail line of business (\u2248330 employees) with employee engagement analysis, talent review, organizational design, and performance & talent management cycles.",
+        "Partnered with learning to coordinate professional skills training registration and annual compliance training adherence.",
+        "Advised Market Manager and Regional Managers on all human capital initiatives including recruiting, training, performance, development, engagement, and retention.",
+        "Led the Deposition Simplification OCM Core Team as HR Project Lead for the Change Leadership Series and HR Total Rewards Ambassador work stream.",
+        "Managed fast\u2011paced projects, trained and motivated cross\u2011functional teams, and maintained strong communication across all levels."
+      ]
+    },
+    {
+      "title": "Regional HR Specialist / Talent Acquisition Consultant / Repossession Supervisor / Foreclosure Supervisor / Training Facilitator",
+      "company": "Company Name",
+      "duration": "09/1992 - 10/2002",
+      "responsibilities": [
+        "Drove record\u2011high sales and improved store rankings through employee development and morale\u2011building programs.",
+        "Reduced turnover and benchmarked staff retention improvements.",
+        "Elevated guest\u2011satisfaction scores by resolving customer issues and promoting superior customer service.",
+        "Managed overall store operations, marketing, administration, customer service, and human resources functions.",
+        "Supervised 18 staff as Repossession Supervisor and 10 staff as Foreclosure Supervisor.",
+        "Facilitated new\u2011hire training for consumer collections teams (class sizes 6\u201112)."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deposition Simplification OCM Core Team",
+      "description": "HR Project Lead for the Change Leadership Series and HR Total Rewards Ambassador work stream, focusing on organizational change management and process simplification.",
+      "technologies": [
+        "HRIS",
+        "Change Management",
+        "OCM"
+      ]
+    }
+  ]
+}

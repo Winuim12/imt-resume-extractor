@@ -1,0 +1,125 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Experienced network professional with outstanding success rate at installing and supporting critical, multi-site networks. Proven ability to manage all phases of network installation and administration. Adept at analyzing business requirements and crafting technical network solutions. Possess excellent written and verbal communication skills and knowledge of the latest advances in technology. Network Administrator talented at resolving highly technical issues efficiently to maintain uptime and increase productivity levels.",
+  "total_experience_years": 19.0,
+  "skills": [
+    "Remote access support",
+    "Systems analysis",
+    "Preventative maintenance",
+    "Data backup and recovery",
+    "Wireless access point",
+    "Performance testing",
+    "User account creation",
+    "Antivirus and spam blocking",
+    "VPN configuration",
+    "LAN/WAN expertise",
+    "Active Directory",
+    "DHCP",
+    "Firewall management",
+    "Imaging",
+    "Help desk support",
+    "Network administration",
+    "Security",
+    "Windows operating systems"
+  ],
+  "tools": [
+    "Ghost",
+    "McAfee",
+    "Symantec",
+    "Norton Antivirus",
+    "Dell servers",
+    "HP printers",
+    "Xerox printers",
+    "Brother printers",
+    "Microsoft Exchange",
+    "Windows OS"
+  ],
+  "certifications": [
+    "CompTIA A+",
+    "CompTIA Security+",
+    "STI Certified Help Desk Professional"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Jacksonville University",
+      "graduation_year": "2002"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "08/2012 to Current",
+      "responsibilities": [
+        "Provides outstanding support to mission partners and other customers.",
+        "Responds to customer calls and touch labor requests.",
+        "Ensures confidentiality, integrity, and availability of LAN systems and data.",
+        "Troubleshoots hardware and software components; manages testing, installation, and configuration of software.",
+        "Performs daily security inspections of the DECC facility.",
+        "Identifies and mitigates security vulnerabilities; coordinates with Security Manager.",
+        "Coordinates secure visitor access and ensures authorized personnel only.",
+        "Enclave LAN administrator for DECC Warner Robins.",
+        "Plans and coordinates installation of new software and network infrastructure.",
+        "Monitors network performance and diagnoses connectivity issues.",
+        "Appointed alternate Ticket Manager; assigns and tracks incident status.",
+        "Implemented technology refresh of DECC ADPE.",
+        "Spearheaded migration from Admin Enclave network to DISANet network.",
+        "Develops plans and designs for network modifications and enhancements.",
+        "Interfaces with vendors during outages or performance issues.",
+        "Documented server and network problems.",
+        "Upgraded and expanded network systems."
+      ]
+    },
+    {
+      "title": "Computer Systems Administrator",
+      "company": null,
+      "duration": "12/2007 to 08/2012",
+      "responsibilities": [
+        "Deploys computer systems and hardware throughout the base.",
+        "Performs desktop and laptop imaging for users.",
+        "Troubleshoots local desktop firewall and antivirus issues.",
+        "Installs and upgrades software and drivers.",
+        "Team lead on deployment of over 150 SIPRNET workstations.",
+        "Primary administrator for all SIPRNET support in zone.",
+        "Performs security scans on classified systems; collaborates with Information Assurance team.",
+        "POC for installs and upgrades of the Cargo Management Operations System.",
+        "Provides desktop support and uses utilities to troubleshoot and repair desktops.",
+        "Installs and configures network and PC\u2011attached printers.",
+        "Diagnoses end\u2011user network connectivity and DHCP scope issues.",
+        "Maintains network and computer system security.",
+        "Imaged and deployed over 300 laptops and desktops.",
+        "Restored data, operating systems, files, documents, and drivers."
+      ]
+    },
+    {
+      "title": "Information Assurance/Network Security",
+      "company": null,
+      "duration": "01/2006 to 12/2007",
+      "responsibilities": [
+        "Developed, implemented, and maintained secure networks.",
+        "Installed and maintained workstations; managed base boundary exception system.",
+        "Distributed, monitored, and maintained Time Compliance Network Orders and threat bulletins.",
+        "Supported secure network operations."
+      ]
+    },
+    {
+      "title": "Helpdesk Technician",
+      "company": null,
+      "duration": "05/2004 to 01/2006",
+      "responsibilities": [
+        "Resolved end\u2011user issues related to operating systems, network connectivity, TCP/IP configuration, upgrades, MS Office, and Internet connectivity.",
+        "Provided technical support and monitored Network Control Center system.",
+        "Created and maintained user accounts, email boxes, distribution lists, and access permissions.",
+        "Installed programs, performed upgrades, and applied security patches.",
+        "Isolated faults and degradations to determine cause.",
+        "Maintained security and integrity of secure domains."
+      ]
+    }
+  ],
+  "projects": []
+}

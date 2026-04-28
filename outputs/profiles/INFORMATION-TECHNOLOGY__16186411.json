@@ -1,0 +1,144 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Software Engineer with 2 years of experience in web development, specializing in front\u2011end technologies and .NET backend development. Proficient in the full Software Development Life Cycle (SDLC) and Agile/Scrum methodologies, with a strong focus on designing, developing, and maintaining Microsoft .NET solutions.",
+  "total_experience_years": 2.0,
+  "skills": [
+    "ASP.NET",
+    "C#",
+    "VB.NET",
+    "JavaScript",
+    "jQuery",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "SQL",
+    "MySQL",
+    "ADO.NET",
+    "Entity Framework",
+    "LINQ",
+    "AJAX",
+    "Web Services",
+    "MVC",
+    "Active Directory",
+    "Agile",
+    "Scrum",
+    "SDLC",
+    "Data Access Layer",
+    "SQL Server",
+    "Redgate SQL Compare",
+    "Visual Studio",
+    "Eclipse",
+    "NetBeans",
+    "Dreamweaver",
+    "Git",
+    "Tortoise SVN",
+    "GitHub",
+    "Windows"
+  ],
+  "tools": [
+    "Visual Studio",
+    "Eclipse",
+    "NetBeans",
+    "Dreamweaver",
+    "Git",
+    "Tortoise SVN",
+    "GitHub",
+    "Redgate SQL Compare",
+    "SQL Server Management Studio"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "University of Missouri",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Jawaharlal Nehru Technological University",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Database Programmer/Analyst (.NET Developer)",
+      "company": "Application Development Network (ADN), DoIT",
+      "duration": "Jun 2014 \u2013 Feb 2016",
+      "responsibilities": [
+        "Designed and implemented .NET web applications using C#, ASP.NET, and MVC.",
+        "Developed data access layers with ADO.NET, Entity Framework, and LINQ.",
+        "Created and maintained stored procedures, views, and triggers in SQL Server.",
+        "Implemented role\u2011based authentication with Active Directory.",
+        "Built and scheduled automated email tasks using C# console applications.",
+        "Integrated CKEditor and other client\u2011side libraries (jQuery, Bootstrap).",
+        "Collaborated with Scrum Master and QA to manage backlog, sprints, and defect resolution.",
+        "Used Redgate SQL Compare for database deployment between dev, test, and QA environments."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Atlas",
+      "description": "A tutoring scheduling system with role\u2011based access for tutees, tutors, and schedulers, featuring automated email notifications.",
+      "technologies": [
+        "C#",
+        "ASP.NET",
+        "SQL Server",
+        "jQuery",
+        "Bootstrap",
+        "CKEditor",
+        "Active Directory"
+      ]
+    },
+    {
+      "name": "AppInventory",
+      "description": "An application inventory tool for tracking application parameters, versions, and deployment details, including sprint burndown charts.",
+      "technologies": [
+        "C#",
+        "ASP.NET",
+        "Entity Framework",
+        "LINQ",
+        "SQL Server",
+        "CSV Import",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "GoAdmin",
+      "description": "Admin interface for managing master tables used by the GoMizzou mobile application, with role\u2011based access and dynamic data filtering.",
+      "technologies": [
+        "ASP.NET",
+        "C#",
+        "SQL Server",
+        "AJAX",
+        "Bootstrap",
+        "n-Tier Architecture"
+      ]
+    },
+    {
+      "name": "Mizzou Checkout",
+      "description": "Web\u2011based checkout system for university departments, including email notifications and role\u2011based access control.",
+      "technologies": [
+        "C#",
+        "ASP.NET",
+        "SQL Server",
+        "SMTP",
+        "Role\u2011Based Authentication"
+      ]
+    },
+    {
+      "name": "Personalized Email for Outlook",
+      "description": "Tool to allow students to customize their Outlook email signatures and settings.",
+      "technologies": [
+        "C#",
+        "ASP.NET",
+        "SQL Server",
+        "Active Directory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "candidate_name": "Kevin L. Trostle",
+  "email": null,
+  "phone": "DSN 266-4800, 865-336-4800",
+  "location": null,
+  "department": "Information Technology",
+  "summary": null,
+  "total_experience_years": 25.0,
+  "skills": [
+    "budget",
+    "cabling",
+    "cisco",
+    "hardware",
+    "client",
+    "documentation",
+    "electrician",
+    "feasibility studies",
+    "funds",
+    "information technology",
+    "inspector",
+    "LAN",
+    "materials",
+    "access",
+    "network",
+    "networking",
+    "networks",
+    "personnel",
+    "telephone systems",
+    "printers",
+    "processes",
+    "project management",
+    "quality assurance",
+    "routers",
+    "system design",
+    "technical assistance",
+    "technician",
+    "telecommunications",
+    "troubleshoot",
+    "troubleshooting",
+    "upgrades",
+    "video",
+    "wiring"
+  ],
+  "tools": [
+    "Remedy ticketing system",
+    "Cisco",
+    "LAN",
+    "routers",
+    "Computer based training system (TBA)"
+  ],
+  "certifications": [
+    "USAF Electronic Principles",
+    "USAF Telephone Systems Apprentice Course",
+    "USAF Aircrew Egress Systems Apprentice Course",
+    "Web-based training on LAN fundamentals",
+    "Web-based training on routers",
+    "Web-based training on topologies",
+    "Web-based training on Cisco networking"
+  ],
+  "education": [
+    {
+      "degree": "HS Diploma",
+      "institution": "Brockport High School",
+      "graduation_year": "June 1996"
+    },
+    {
+      "degree": "BS Degree in Electrical Engineering",
+      "institution": "University of Tennessee",
+      "graduation_year": "May 2003"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist GS11",
+      "company": "Company Name",
+      "duration": "07/2004 \u2013 Current",
+      "responsibilities": [
+        "Managed IT/communications environment with privileged network access for Wing, GSU, and tenants.",
+        "Planned, coordinated, installed, and analyzed system design, hardware, and software.",
+        "Developed and installed solutions to ensure availability, integrity, and reliability of all system components.",
+        "Captured all work in Remedy ticketing system.",
+        "Managed telecommunications and NIPR networks for Wing, GSU, and tenant units.",
+        "Optimized hardware/software installations for compatibility and reliability.",
+        "Troubleshot and diagnosed system failures, providing technical assistance to users.",
+        "Reviewed purchase requests and SOWs to justify system enhancements.",
+        "Coordinated with vendors and support personnel to resolve system anomalies."
+      ]
+    },
+    {
+      "title": "Cyber Transport/Client Systems Workcenter Supervisor",
+      "company": "Company Name",
+      "duration": "02/2001 \u2013 Current",
+      "responsibilities": [
+        "Managed work center personnel for Cyber Transport/Client Systems.",
+        "Set priorities, evaluated, and counseled subordinates.",
+        "Documented training using a computer-based training system.",
+        "Maintained and troubleshot network infrastructure, cabling, voice, video, small computers, and printers.",
+        "Collaborated with Communications Focal Point on production requirements and Remedy tickets."
+      ]
+    },
+    {
+      "title": "F-16 Ejection System Technician",
+      "company": "Company Name",
+      "duration": "07/1996 \u2013 07/2000",
+      "responsibilities": [
+        "Troubleshot, removed, tested, inspected, repaired, modified, and installed explosive and non-explosive components on ejection systems.",
+        "Performed preventative maintenance on over ninety electronically fired explosive devices.",
+        "Monitored foreign object damage and briefed wing commander monthly.",
+        "Managed supply system to ensure parts and supplies were available.",
+        "Acted as hazardous materials monitor and explosive inspector.",
+        "Maintained shop grounding points to prevent electrostatic discharge.",
+        "Managed computers and installed necessary software.",
+        "Trained and supervised personnel; served as quality assurance assessor."
+      ]
+    }
+  ],
+  "projects": []
+}

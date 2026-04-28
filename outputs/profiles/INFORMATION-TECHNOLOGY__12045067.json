@@ -1,0 +1,132 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "IT Specialist with extensive experience in Army IT infrastructure, project management, systems integration, and engineering support across multiple command and control facilities.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "Administrative",
+    "Analyst",
+    "Army",
+    "Agency",
+    "Cable",
+    "Cabling",
+    "Cat5",
+    "Documentation",
+    "Engineer",
+    "Engineering support",
+    "Financial",
+    "Functional",
+    "Government",
+    "IMS",
+    "Information Systems",
+    "Information Technology",
+    "Local area networks",
+    "LAN",
+    "Law",
+    "Materials",
+    "Meetings",
+    "Office",
+    "Network",
+    "Networks",
+    "Personnel",
+    "Procurement",
+    "Project leader",
+    "Project coordination",
+    "QA",
+    "Quick",
+    "Radio",
+    "Routing",
+    "SAT",
+    "Scheduling",
+    "Supervisor",
+    "Surveys",
+    "Switch",
+    "System Design",
+    "Systems Integration",
+    "Telecommunications",
+    "Telephone",
+    "Theatre",
+    "UHF",
+    "Ultra High Frequency",
+    "Upgrades",
+    "Validation",
+    "Vista",
+    "Voice and data"
+  ],
+  "tools": [
+    "Project Management",
+    "Systems Integration",
+    "Network Design",
+    "Acquisition Documentation"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science (BS)",
+      "institution": "University of Phoenix",
+      "graduation_year": "2005"
+    },
+    {
+      "degree": "Associates of Applied Science (AAS)",
+      "institution": "Cochise College",
+      "graduation_year": "2003"
+    },
+    {
+      "degree": "Associate",
+      "institution": "AGS Cochise College",
+      "graduation_year": "2001"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology (IT) Specialist",
+      "company": "Company Name",
+      "duration": "January 2012 \u2013 Current",
+      "responsibilities": [
+        "Developed, managed, and coordinated implementation of network communications, LANs, VIS, and IT infrastructure projects.",
+        "Directed a five\u2011person IPT to implement a $25M IT infrastructure for JSOC C4 facility.",
+        "Oversaw development of IT technical requirements, system design plans, contract documents, and design drawings.",
+        "Reviewed construction drawings, consolidated change requests, and ensured compliance with technical specifications and security standards.",
+        "Represented JSOC and ISEC in project meetings with USACE and other stakeholders.",
+        "Created an integrated master schedule (IMS) to manage resources and deliverables.",
+        "Coordinated a $19M BRAC\u2011mandated ARCENT HQ relocation, leading IPT, developing ARP, participating in SSEB, preparing SOWs, procurement data packages, and evaluating contractor performance.",
+        "Provided financial and resource planning, execution, and tracking.",
+        "Integrated IT subsystems, conducted technical reviews, monitored SAT, and proposed solutions to faults."
+      ]
+    },
+    {
+      "title": "Systems Integration Analyst",
+      "company": "Company Name",
+      "duration": "July 2009 \u2013 December 2009",
+      "responsibilities": [
+        "Provided contract IT engineering services for USAISEC.",
+        "Developed FDC, SDP, EIP, LOMs, and acquisition documentation for complex IT projects.",
+        "Guided and oversaw project document development and validation for FORSCOM and USARC BRAC relocation.",
+        "Provided engineering, procurement, installation, cutover, and testing requirements for HF and UHF radio systems and antennas for C4I/IT projects.",
+        "Reviewed project documentation and ensured contract deliverables were complete and delivered on time per ARP."
+      ]
+    },
+    {
+      "title": "Functional Area Expert (Command and Control)",
+      "company": "Company Name",
+      "duration": "April 2001 \u2013 September 2009",
+      "responsibilities": [
+        "Communications engineer supporting USAISEC, providing quick\u2011reaction engineering for EFIT total communications at multiple C2 facilities.",
+        "Performed QA/QC checks and acceptance testing on C2 facility upgrades and HQ relocations.",
+        "Supported US Southern Command HQ relocation, developing FDC for design\u2011build contracting with USACE.",
+        "Developed SDP, LOM, cost estimates, and test plans for radio, satellite, copper/fiber cable plant, lightning protection, grounding, bonding, and shielding systems for DTRA relocation.",
+        "Provided on\u2011site engineering support for voice, data, and VIS installations for USARSO HQ and IMA at Fort Sam Houston.",
+        "Engineered design and installation of BDF, conference rooms, command center areas, TRs, and open office areas.",
+        "Conducted QA/QC checks and testing for DRSN, GCCS, NIPRNET, SIPRNET, SCI LAN, administrative telephone system, and VIS.",
+        "Assisted USAISEC Force Projection Engineering Directorate and 1st Signal Brigade in C2 facility upgrade at 19th Theatre Support Command in South Korea.",
+        "Performed site surveys, gathered user requirements, and developed SDP, EIP, LOMs to upgrade GCCS communications and voice systems.",
+        "Provided engineering support for C2 facility for USCENTCOM HQ and coalition forces in Doha, Qatar.",
+        "Supervised routing, termination, and acceptance testing of fiber optic and Cat5 cabling, voice and data systems, and telecom equipment."
+      ]
+    }
+  ],
+  "projects": []
+}

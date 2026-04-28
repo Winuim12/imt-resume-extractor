@@ -1,0 +1,164 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Senior HR professional with expertise in safety management, employee engagement, HR generalist functions, training & development, organizational effectiveness, recruiting, and succession planning across manufacturing and corporate environments.",
+  "total_experience_years": 27.0,
+  "skills": [
+    "ADA",
+    "arbitration",
+    "auditing",
+    "business strategy",
+    "case management",
+    "contract negotiations",
+    "crisis management",
+    "finance",
+    "HRIS",
+    "human resources",
+    "information systems",
+    "ISO",
+    "leadership",
+    "material science",
+    "money",
+    "negotiating",
+    "network",
+    "organizing",
+    "organizational",
+    "payroll",
+    "performance management",
+    "personnel",
+    "policies",
+    "problem solving",
+    "quality",
+    "recruiting",
+    "recruiter",
+    "safety",
+    "staffing",
+    "structured",
+    "supervisor",
+    "technical training"
+  ],
+  "tools": [
+    "HRIS",
+    "ABRA",
+    "ISO 22000",
+    "ISO 14001"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Purdue University",
+      "graduation_year": "1988"
+    },
+    {
+      "degree": "Associate of Science",
+      "institution": "Purdue University",
+      "graduation_year": "1987"
+    },
+    {
+      "degree": "Associate of Science",
+      "institution": "State University of New York - Cobleskill",
+      "graduation_year": "1985"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior HR",
+      "company": "Company Name",
+      "duration": "January 2007 to October 2010",
+      "responsibilities": []
+    },
+    {
+      "title": "Industrial Development Director",
+      "company": "Danone",
+      "duration": "November 2015 to Current",
+      "responsibilities": [
+        "Developed consistent technical training to assure skill attainment across 7 manufacturing sites in the region.",
+        "Led site of 400 employees and 200 contractors in HR, training and safety functions during a time of high growth and extensive change.",
+        "Led succession planning recruitment to assure bench strength in industrial manager and supervisor roles."
+      ]
+    },
+    {
+      "title": "Environmental, Health & Safety Director",
+      "company": "Dannon",
+      "duration": "October 2010 to October 2015",
+      "responsibilities": [
+        "Established and led regional safety and health network for 4 Dannon US sites.",
+        "Expanded responsibilities to include all safety auditing across 7 dairy Danone sites, waters division and baby nutrition divisions in the US.",
+        "Attained One Team Award for the region with no lost time incidents during a period of growth.",
+        "Served as internal ISO 22000 quality auditor and ISO 14001 environmental auditor.",
+        "Assured EHS transition for 2 newly acquired businesses.",
+        "Led bio\u2011vigilance, food and site security initiatives.",
+        "Implemented behavior\u2011based safety methods to reduce lost time from 12 to zero.",
+        "Transitioned shift configurations from 24 to 4 by implementing 12\u2011hour 24/7 shift organization.",
+        "Key contributor to negotiation team for first union contract with BCTGM, achieving millions of dollars in benefit cost savings."
+      ]
+    },
+    {
+      "title": "HR/Training Manager",
+      "company": "A Bayer Material Science Company",
+      "duration": "January 2002 to April 2007",
+      "responsibilities": [
+        "Led HR and training functions for 5 New England states.",
+        "Closed one facility and managed outplacement of personnel.",
+        "Served on carve\u2011in team to align another site into a wholly owned subsidiary of Bayer.",
+        "Transitioned operations from 24/5 to 24/7 schedule after defeating a union organizing campaign.",
+        "Led cross\u2011functional training team that secured a $141,000 Massachusetts workforce development training grant.",
+        "Implemented crisis management processes and negotiated employee assistance vendor contracts.",
+        "Oversaw recruiting activities to identify top talent using high\u2011impact recruiting and compensation methods.",
+        "Contributed to Job Safety Behavior Observation (JSBO) process through ongoing health, safety and ISO audits."
+      ]
+    },
+    {
+      "title": "Human Resource Manager",
+      "company": "Company Name",
+      "duration": "January 2000 to February 2002",
+      "responsibilities": [
+        "Process owner for operations of HR functions, operations quality organization, and liaison to division and corporate information systems and finance.",
+        "Facilitated staff role identification and structure to support a customer\u2011centric organization.",
+        "Led order fulfillment team, reducing errors by 83% through structured problem\u2011solving.",
+        "Implemented performance management process."
+      ]
+    },
+    {
+      "title": "Human Resource Manager",
+      "company": "Ingersoll\u2011Rand ARO Fluid Products Division",
+      "duration": "July 1996 to December 1999",
+      "responsibilities": [
+        "Managed HR functions including safety, training and development, workers\u2019 compensation, organizational effectiveness, staffing, payroll and labor negotiations.",
+        "Chief spokesperson in UAW contract negotiations, integrating cell\u2011based and skill\u2011based pay language.",
+        "Implemented ADA and Family Medical Leave Act policies.",
+        "Contributed to Kaizen, business strategy planning, safety teams, quality advantage training, leadership training and money\u2011stream training.",
+        "Reduced absenteeism from 4% to 1.5% and workers\u2019 compensation costs by 62%.",
+        "Implemented case management and return\u2011to\u2011work programs, eliminating average lost days.",
+        "Closed 114 grievances without arbitration over 3 years."
+      ]
+    },
+    {
+      "title": "Human Resource Manager",
+      "company": "Ingersoll\u2011Rand ARO Fluid Products Division",
+      "duration": "July 1996 to December 1999",
+      "responsibilities": [
+        "Managed HR functions for multi\u2011plant operations, including safety, training, workers\u2019 compensation, organizational effectiveness, staffing and labor negotiations.",
+        "Managed 3 direct reports.",
+        "Implemented first HRIS \u2013 ABRA.",
+        "Received 3 promotions and the Hendrickson President\u2019s Award."
+      ]
+    },
+    {
+      "title": "Human Resource Manager",
+      "company": "Hendrickson Truck Suspension",
+      "duration": "February 1989 to March 1996",
+      "responsibilities": [
+        "Oversaw HR functions for multi\u2011plant operations, covering safety, training, workers\u2019 compensation, organizational effectiveness, staffing and labor negotiations.",
+        "Managed 3 direct reports.",
+        "Implemented first HRIS \u2013 ABRA.",
+        "Earned 3 promotions and the Hendrickson President\u2019s Award."
+      ]
+    }
+  ],
+  "projects": []
+}

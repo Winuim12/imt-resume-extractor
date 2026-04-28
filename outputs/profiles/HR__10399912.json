@@ -1,0 +1,117 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "I am a U.S. citizen authorized to work in the US. I have 8 years as an Office Clerk, 2 years as a Student Intern/Office Assistant, and 4 years as a Contractor. I am applying for a Data Entry Clerk position. My skills include Administrative Support, Auditing, File Management, Meeting Facilitation, Office Materials Management, and Inventory Management.",
+  "total_experience_years": 14.0,
+  "skills": [
+    "Administrative Support",
+    "Auditing",
+    "File Management",
+    "Meeting Facilitation",
+    "Office Materials Management",
+    "Inventory Management",
+    "Data Entry",
+    "Customer Service",
+    "Proofreading",
+    "Receptionist",
+    "Scheduling",
+    "Secretarial",
+    "Telephone Skills",
+    "Office Equipment Maintenance",
+    "Typing",
+    "Microsoft Word",
+    "MS Excel",
+    "MS Outlook",
+    "MS PowerPoint",
+    "PeopleSoft",
+    "Fax",
+    "Copy",
+    "Documentation",
+    "Letters",
+    "Research",
+    "Scanning"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "MS Excel",
+    "MS Outlook",
+    "MS PowerPoint",
+    "PeopleSoft"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor's of Arts",
+      "institution": "Montclair State University",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Our Lady of Good Counsel High School",
+      "graduation_year": "1998"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Personnel Assistant",
+      "company": null,
+      "duration": "03/2013 to 04/2014",
+      "responsibilities": [
+        "Supported HR staff with new hire orientations and monthly meetings.",
+        "Entered and updated personnel data in a central database.",
+        "Reviewed HR paperwork for accuracy and completeness.",
+        "Drafted correspondence and reports for managers.",
+        "Managed incoming/outgoing calls and recorded messages.",
+        "Maintained filing of HR action forms and new hire documents.",
+        "Coordinated new hire pre-interviews and filing systems.",
+        "Typed memorandums, forms, and letters.",
+        "Used PeopleSoft (HRS) for data input and research.",
+        "Operated fax and copy machines.",
+        "Communicated via email with teachers, principals, VPs, and NPS staff."
+      ]
+    },
+    {
+      "title": "Assistant Store Clerk",
+      "company": null,
+      "duration": "05/2011 to 01/2012",
+      "responsibilities": [
+        "Sold merchandise and provided customer service.",
+        "Monitored patrons for loss and theft prevention.",
+        "Restocked shelves and maintained store appearance.",
+        "Improved data maintenance of produce inventory."
+      ]
+    },
+    {
+      "title": "Office Clerk / Federal Contractor",
+      "company": null,
+      "duration": "06/2008 to 10/2009",
+      "responsibilities": [
+        "Checked and validated Retirement & NRC files in NFTS and CIS systems.",
+        "Called applicants to counter window for certificate signing.",
+        "Maintained files for riders, mergers, and certificates.",
+        "Completed 3\u2011Box Audit for weekly system updates.",
+        "Filed FBI background reports and scheduled appointments.",
+        "Performed clerical tasks for naturalization ceremonies.",
+        "Updated DHS automated systems and provided administrative support."
+      ]
+    },
+    {
+      "title": "Office Clerk / Federal Contractor",
+      "company": null,
+      "duration": "07/2005 to 01/2007",
+      "responsibilities": [
+        "Performed data entry of legal documents and court case dates.",
+        "Managed mail clerk duties and online mail updates.",
+        "Scheduled staff and private meetings.",
+        "Filed and faxed confidential court documents.",
+        "Metre outgoing and stamped incoming mail.",
+        "Reestablished office supplies protocols.",
+        "Provided clerical support to office administrators and managers."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,96 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Highly driven recruiter who maintains a positive attitude under pressure and welcomes the challenge of producing results quickly for clients.",
+  "total_experience_years": 12.0,
+  "skills": [
+    "Bullhorn",
+    "Boolean Searches",
+    "Google Resume Search",
+    "LinkedIn X-ray search",
+    "The Ladder",
+    "GitHub",
+    "Tech Fetch",
+    "Monster",
+    "Career Builder",
+    "LinkedIn",
+    "Indeed"
+  ],
+  "tools": [
+    "Bullhorn",
+    "Applicant Tracking System",
+    "LinkedIn",
+    "Monster",
+    "Career Builder",
+    "Indeed",
+    "Google Resume Search",
+    "GitHub",
+    "Tech Fetch",
+    "The Ladder"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Human Resources Business Partner, Employee Relations, Workforce Planning and Analytics, Training and Development, Human Resources Management",
+      "institution": "University of Washington",
+      "graduation_year": null
+    },
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "State, India",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Bachelor of Science (B.Sc) in Biotechnology",
+      "institution": "Mount Carmel College",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Intern",
+      "company": null,
+      "duration": "Feb 2016 \u2013 Current",
+      "responsibilities": [
+        "Managed general recruitment and university outreach, creating job postings and conducting telephonic screenings.",
+        "Sourced candidates via Applicant Tracking System and tracked key dates and deadlines.",
+        "Screened applicants, hired employees, and initiated new\u2011hire paperwork.",
+        "Researched and prepared a new termination policy."
+      ]
+    },
+    {
+      "title": "Human Resources Assistant",
+      "company": null,
+      "duration": "Feb 2016 \u2013 Current",
+      "responsibilities": [
+        "Created job descriptions and managed employee information systems.",
+        "Gathered personnel records across departments and conducted job analysis and evaluations."
+      ]
+    },
+    {
+      "title": "Freelancer",
+      "company": null,
+      "duration": "Jan 2015 \u2013 Jan 2016",
+      "responsibilities": [
+        "Awaited employment authorization and permanent residency in the United States."
+      ]
+    },
+    {
+      "title": "Recruiter",
+      "company": null,
+      "duration": "Jan 2011 \u2013 Jan 2015",
+      "responsibilities": [
+        "Led end\u2011to\u2011end recruitment, including sourcing, screening, reference checks, negotiations, and offer generation.",
+        "Utilized Applicant Tracking System for candidate management and executed rapid talent acquisition strategies.",
+        "Recruited 122 employees in six months to expand an engineering team from 8 to 130.",
+        "Hired C\u2011level candidates, managed staffing agency relationships, and researched new recruitment sources.",
+        "Developed recruiting plans, salary proposals, and facilitated job fairs and interviews.",
+        "Promoted to Senior Recruiter in April 2013."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,112 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "HR Coordinator motivated to create collaborative team environment by using background in the organization of employee training and team building events.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "New employee orientations",
+    "Confidentiality",
+    "Recruiting",
+    "Employee relations",
+    "Off-boarding",
+    "Performance management",
+    "Quickbooks",
+    "Sequoia",
+    "Taleo",
+    "Google Drive",
+    "Google Calendar",
+    "Microsoft Office Suite",
+    "Excel",
+    "PowerPoint",
+    "Word",
+    "Payroll",
+    "Tax",
+    "Client relations",
+    "Hiring",
+    "Leadership",
+    "Managing",
+    "Organizing",
+    "Research",
+    "Statistics",
+    "Psychology",
+    "Content writing"
+  ],
+  "tools": [
+    "Quickbooks",
+    "Sequoia",
+    "Taleo",
+    "Google Drive",
+    "Google Calendar",
+    "Microsoft Office Suite"
+  ],
+  "certifications": [
+    "Certified Talent Management Specialist",
+    "Certified by Human Capital Growth, Inc. in talent management, talent acquisition, employee selection, training & development, performance management, and team effectiveness"
+  ],
+  "education": [
+    {
+      "degree": "B.A.",
+      "institution": "University of California",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Administrative Assistant",
+      "company": "Company Name",
+      "duration": "June 2004 \u2013 October 2014",
+      "responsibilities": [
+        "Administered 300 clients' tax records to boost company efficiency.",
+        "Doubled the company's client intake by entering financial data into Quickbooks and creating expense spreadsheets.",
+        "Managed 15 payroll accounts, processed payroll data, delivered paychecks, and filed payroll/sales taxes.",
+        "Established and maintained strong client relations via phone, e\u2011mail, or in\u2011person communications.",
+        "Resolved clients' tax problems through professional correspondence with government departments.",
+        "Maximized productivity by managing the schedule, files, supplies, and overall office aesthetics."
+      ]
+    },
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "July 2014",
+      "responsibilities": [
+        "Diagnosed Cisco Systems' talent management systems to apply talent management knowledge to current HR practices.",
+        "Compiled a systematic, descriptive report of diagnosis with suggestions for improving methods and submitted final analysis to the HR Manager."
+      ]
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "company": "Company Name",
+      "duration": "October 2014 \u2013 Current",
+      "responsibilities": [
+        "Increased hiring percentage by 7% in the first two months of employment and managed the HR department during the manager's military leave.",
+        "Coordinated with recruiting team, hiring managers, and candidates to schedule interviews and ensured prompt, friendly communications.",
+        "Hosted onboarding orientations for new hires and processed employee paperwork.",
+        "Sourced and corresponded with attorneys regarding content writing opportunities; handled all applications and writers' files on Sequoia.",
+        "Acted as first point of contact for all general inquiries and mail intakes/distributions via telecommunication or in\u2011person.",
+        "Produced weekly progress reports on recruiting attorneys, current rosters, and organizational charts.",
+        "Managed all job openings on various job boards and pursued potential candidates at career fairs.",
+        "Supported all HR activities, resolving internal matters to ensure smooth, efficient functioning of the HR department."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "\"Chapter 7: Liking\" Group Presentation, Social Psychology, Spring 2014",
+      "description": "Collaborated with group members to divide workload, plan the class lesson, and design a visual slide presentation with multimedia to engage classmates.",
+      "technologies": []
+    },
+    {
+      "name": "Persuasion Experiment Study, Social Psychology, Spring 2014",
+      "description": "Designed and executed a research study observing persuasion tactics used at Mattress Discounters, compiled a comprehensive report.",
+      "technologies": []
+    },
+    {
+      "name": "Research Paper, Seminar on the Aesthetics of Citizen Participation, Fall 2013",
+      "description": "Developed a research topic on utilizing art therapy as a model for motivating citizen participation, requiring extensive library database research.",
+      "technologies": []
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "High\u2011performing portfolio, program, and project management professional with a proven track record of delivering large\u2011scale, mission\u2011critical IT initiatives in lean, politically sensitive environments. Adept at agile strategic planning, process improvement, and stakeholder collaboration to drive operational excellence and new business initiatives.",
+  "total_experience_years": 25.0,
+  "skills": [
+    "Agile",
+    "Lean Six Sigma",
+    "Scrum",
+    "ITIL",
+    "Project Management",
+    "Process Improvement",
+    "Risk Management",
+    "Quality Assurance",
+    "Change Management",
+    "Stakeholder Engagement",
+    "Strategic Planning",
+    "Budgeting",
+    "Resource Allocation",
+    "Documentation",
+    "Electronic Medical Records",
+    "Case Management",
+    "Health Information Systems",
+    "Data Exchange",
+    "Network Security",
+    "Compliance",
+    "Customer Service",
+    "Help Desk",
+    "Database Management",
+    "Scheduling",
+    "Contract Management",
+    "Workflow Optimization"
+  ],
+  "tools": [
+    "Agile",
+    "Lean Six Sigma",
+    "Scrum",
+    "ITIL",
+    "PMP",
+    "CPHIMS",
+    "Microsoft Office Suite",
+    "Enterprise Resource Planning (ERP) systems",
+    "Electronic Health Record (EHR) platforms",
+    "eHealth Exchange Network"
+  ],
+  "certifications": [
+    "Certified Lean Six Sigma Black Belt",
+    "Certified ScrumMaster (CSM)",
+    "Certified Scrum Product Owner (CSPO)",
+    "Foundation Certificate in IT Service Management v2",
+    "ITIL Foundation",
+    "Project Management Professional (PMP)",
+    "Certified Professional in Health Information Management Systems (CPHIMS)",
+    "Agile Management (UC Berkeley Extension)",
+    "Advanced Project Management Program (Stanford University)",
+    "HIMSS Certified"
+  ],
+  "education": [
+    {
+      "degree": "MS Guidance & Counseling",
+      "institution": "De La Salle University",
+      "graduation_year": null
+    },
+    {
+      "degree": "BS Psychology",
+      "institution": "Assumption College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Assistant Information Technology (IT) Director",
+      "company": "Company Name",
+      "duration": "January 2011 \u2013 Present",
+      "responsibilities": [
+        "Led county\u2019s eligibility and participation in the eHealth Exchange Information Network, achieving Stage 6 EMR maturity.",
+        "Conducted comprehensive privacy, security, and policy reviews for onboarding.",
+        "Facilitated Entrust Subscriber Agreement processing and public certificate management.",
+        "Accelerated nationwide quality efforts and maturity surveys, improving customer service and staff engagement."
+      ]
+    },
+    {
+      "title": "IT Supervisor",
+      "company": "Company Name",
+      "duration": "January 2007 \u2013 December 2010",
+      "responsibilities": [
+        "Executed enterprise IT strategy and partnered with CIO to establish governance and roadmaps.",
+        "Prioritized projects and mentored 12\u201325 staff using Lean and agile methodologies.",
+        "Delivered key projects: Appointment Reminder System, Document Imaging System, Timekeeping System, Wristband ID Deployment, Dictation System, Materials Management."
+      ]
+    },
+    {
+      "title": "Senior Management Information Systems Analyst",
+      "company": "Company Name",
+      "duration": "July 2005 \u2013 December 2006",
+      "responsibilities": [
+        "Mapped clinical workflows and EMR requirements across facilities.",
+        "Led Lean Six Sigma team to streamline OR scheduling and billing, reducing processing time to one week."
+      ]
+    },
+    {
+      "title": "Program Administrator",
+      "company": "Company Name",
+      "duration": "December 2000 \u2013 June 2005",
+      "responsibilities": [
+        "Managed a 3\u2011year IT roadmap for a statewide case\u2011management system serving 6,000+ providers.",
+        "Implemented HIPAA, Privacy Rule, and IT security policies, achieving 100% compliance.",
+        "Expanded user database by 300% with minimal workflow disruption."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "eHealth Exchange Network Eligibility",
+      "description": "Led the county\u2019s application and onboarding to the eHealth Exchange, securing Stage 6 EMR maturity and enabling secure patient data exchange.",
+      "technologies": [
+        "eHealth Exchange Network",
+        "Entrust Subscriber Agreement",
+        "Privacy & Security Policy Framework"
+      ]
+    },
+    {
+      "name": "Appointment Reminder System",
+      "description": "Designed and implemented a system to automate patient appointment reminders, improving patient adherence and reducing no\u2011show rates.",
+      "technologies": [
+        "Electronic Health Records",
+        "SMS/Email Integration",
+        "Workflow Automation"
+      ]
+    },
+    {
+      "name": "Document Imaging System",
+      "description": "Developed a digital imaging solution for clinical documents, enhancing accessibility and reducing physical storage needs.",
+      "technologies": [
+        "Document Management System",
+        "Image Capture & OCR",
+        "Secure Storage"
+      ]
+    },
+    {
+      "name": "OR Scheduling & Billing Optimization",
+      "description": "Led a Lean Six Sigma project to streamline operating room scheduling and billing, cutting processing time to one week and increasing revenue.",
+      "technologies": [
+        "Lean Six Sigma",
+        "Process Mapping",
+        "Billing Software"
+      ]
+    }
+  ]
+}

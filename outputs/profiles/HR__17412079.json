@@ -1,0 +1,116 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "7+ years of experience as an HR Partner with expertise in recruiting, onboarding, performance management, employee retention, benefits, payroll, HRIS, and organizational development.",
+  "total_experience_years": 7.0,
+  "skills": [
+    "benefits",
+    "budget",
+    "client",
+    "delivery",
+    "hiring",
+    "HRIS",
+    "HR",
+    "insurance",
+    "leadership",
+    "people management",
+    "managerial",
+    "market",
+    "mentor",
+    "access",
+    "excel",
+    "ms office",
+    "outlook",
+    "powerpoint",
+    "word",
+    "mis",
+    "negotiations",
+    "networking",
+    "internet research",
+    "optimization",
+    "organization development",
+    "payroll",
+    "payroll processing",
+    "performance management",
+    "policies",
+    "promotion",
+    "recruitment",
+    "sap",
+    "seminars",
+    "strategic"
+  ],
+  "tools": [
+    "SAP",
+    "MS Office",
+    "Payroll Software"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "KIMS University, Karnataka University",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "Bachelors of Commerce",
+      "institution": "BNDC University, Karnataka University",
+      "graduation_year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Consultant",
+      "company": "Company Name",
+      "duration": "07/2009 \u2013 01/2014",
+      "responsibilities": [
+        "Reduced employee attrition by 5% through engagement programs.",
+        "Developed comprehensive performance management and appraisal processes.",
+        "Defined career paths and high\u2011performer programs.",
+        "Optimized reward and recognition systems.",
+        "Created internal job portal for collaborative sourcing.",
+        "Implemented 360\u2011degree feedback for managers.",
+        "Managed HR activities for 500+ employees.",
+        "Conducted performance improvement plans and disciplinary actions.",
+        "Led people engagement surveys and action planning.",
+        "Organized leadership meet\u2011ups and employee events.",
+        "Handled payroll, benefits, and compliance.",
+        "Recruited candidates via sourcing, interviews, and negotiations."
+      ]
+    },
+    {
+      "title": "HR Coordinator",
+      "company": "Company Name",
+      "duration": "07/2008 \u2013 05/2009",
+      "responsibilities": [
+        "Supported HR operations and employee onboarding.",
+        "Assisted with recruitment and candidate screening.",
+        "Maintained HRIS records and generated reports."
+      ]
+    },
+    {
+      "title": "HR Assistant",
+      "company": "Company Name",
+      "duration": "05/2007 \u2013 06/2008",
+      "responsibilities": [
+        "Provided administrative support to HR functions.",
+        "Managed employee files and HRIS data entry.",
+        "Coordinated training and development activities."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mentor Me Program",
+      "description": "Designed and managed a mentorship initiative to motivate high performers and improve career trajectories.",
+      "technologies": []
+    },
+    {
+      "name": "All Minds Meet",
+      "description": "Organized employee\u2011leadership meet\u2011ups to foster communication and engagement across the organization.",
+      "technologies": []
+    }
+  ]
+}

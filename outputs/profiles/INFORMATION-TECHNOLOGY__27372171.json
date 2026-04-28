@@ -1,0 +1,155 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "I have over 10 years of professional service in Information Technology Support and Technical Operations in working with the Federal Government and private sectors. I have a broad knowledge and expertise in strategic planning, IT Business Systems, Network Operations, IT Security and System Analysis. My goal is to secure permanent employment within an outstanding organization that offers opportunities for growth and advancement, while implementing a high degree of professionalism, enthusiasm, and initiative on a daily basis.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Active Directory",
+    "Microsoft Outlook 2013",
+    "Windows 7",
+    "Windows 10",
+    "system security",
+    "data automation",
+    "Circuit Design application",
+    "UNIX client server",
+    "interpersonal skills",
+    "hardware and software installations",
+    "network systems",
+    "content encryption",
+    "customer relations",
+    "desktop support",
+    "telecommunications",
+    "databases query",
+    "electronic filing",
+    "forms",
+    "Microsoft Windows deployment",
+    "software imaging",
+    "contract specialist and acquisition",
+    "supply and property inventory",
+    "WAN",
+    "LAN",
+    "Lotus Notes",
+    "mainframes",
+    "materials",
+    "troubleshooting and ticketing systems",
+    "network security",
+    "policies",
+    "formal presentations",
+    "quality assurance",
+    "Life Cycle Replacement (LCR)",
+    "radio communication",
+    "geographical statistics",
+    "strategic planning",
+    "supervisor",
+    "Cisco switches and routers",
+    "system administration",
+    "technical support"
+  ],
+  "tools": [
+    "HP Business Services Manager",
+    "HP Network Node Manager",
+    "HP Operation Manager",
+    "Remedy ticketing",
+    "Riverbed",
+    "Names and Address Management System (NAMS)",
+    "Circuit Design & Configuration (CDC)",
+    "Cisco Prime",
+    "SPARK instant messaging",
+    "Same Time Lotus Notes",
+    "Microsoft LYNC",
+    "Network Data Viewer (NDV)",
+    "Ghost Cast server",
+    "DameWare remote access",
+    "Active Directory program",
+    "Microsoft SharePoint 2010",
+    "Microsoft Outlook 2013",
+    "Microsoft Windows deployment tools"
+  ],
+  "certifications": [
+    "Certified Cisco Network Associate",
+    "Certified CompTIA Security+",
+    "Microsoft SharePoint 2010 Training",
+    "Active Top Security Clearance/SCI",
+    "Active Top Secret Clearance"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Grantham University",
+      "graduation_year": "2017"
+    },
+    {
+      "degree": "Bachelor of Business Administration",
+      "institution": "Saint Leo University",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Saint Leo University",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist/System Analysis",
+      "company": null,
+      "duration": "February 2015 to May 2016",
+      "responsibilities": [
+        "Served as IT System Analyst for the Department of the Army, improving business processes and configuring Microsoft Outlook 2013.",
+        "Monitored network availability and performed maintenance to support Army users.",
+        "Collaborated with Joint Service Provider, IT Agency, DISA, and Video Teleconference Team to deliver IT services.",
+        "Developed and implemented an IT asset management program.",
+        "Managed Verizon service contracts using CPARS and WAWF.",
+        "Handled IT issues via Remedy ticketing system.",
+        "Coordinated technical assessments and cost estimates for life\u2011cycle replacement.",
+        "Prepared documentation for complex systems and maintained business continuity plans.",
+        "Managed copier and printer inventory.",
+        "Acted as Entitlement Manager for DoD Enterprise Email, creating distribution lists and managing permissions.",
+        "Analyzed and tested new IT equipment.",
+        "Migrated ISDN and VOIP telephone systems for over 1,500 users.",
+        "Provided desktop support across multiple operating systems.",
+        "Conducted information assurance and security training.",
+        "Advised the CIO on security vulnerabilities and developed countermeasures."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist/Network Administrator",
+      "company": null,
+      "duration": "October 2013 to December 2014",
+      "responsibilities": [
+        "Configured and maintained network infrastructure for federal clients.",
+        "Implemented UNIX client/server solutions.",
+        "Managed ticketing and troubleshooting systems.",
+        "Performed network security assessments.",
+        "Supported desktop and telecommunications services."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "April 2005 to July 2013",
+      "responsibilities": [
+        "Planned and scheduled installation of hardware, operating systems, and applications.",
+        "Managed system configuration and integration of updates and enhancements.",
+        "Oversaw equipment installation, relocation, testing, and acceptance processes.",
+        "Analyzed integrated computer systems and developed standard operating procedures.",
+        "Documented systems administration procedures."
+      ]
+    },
+    {
+      "title": "Data Entry Specialist",
+      "company": null,
+      "duration": "March 2004 to April 2006",
+      "responsibilities": [
+        "Performed equipment installation, testing, and acceptance for new or modified hardware and software.",
+        "Managed system configuration and integration of fixes and updates.",
+        "Analyzed integrated systems of computer programs and equipment.",
+        "Developed and documented standard operating procedures for systems administration."
+      ]
+    }
+  ],
+  "projects": []
+}

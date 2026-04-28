@@ -1,0 +1,198 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Results\u2011oriented technology leader with 18+ years of IT experience, including 8 years of supervisory roles. Proven ability to develop and execute IT strategy, build high\u2011performing teams, and deliver cost\u2011saving initiatives that enhance business processes and revenue.",
+  "total_experience_years": 18.0,
+  "skills": [
+    "IT Governance",
+    "Team Leadership",
+    "Systems Integration",
+    "Contract Negotiations",
+    "Disaster Recovery Plans",
+    "IT Operations",
+    "ASP.Net",
+    "ASP.Net 4.5",
+    "VB.NET",
+    "Active Directory",
+    "Backup",
+    "Budget",
+    "CRM",
+    "Data Analysis",
+    "Data Processing",
+    "Databases",
+    "ETL",
+    "EDI",
+    "ITIL",
+    "Training",
+    "Executive Management",
+    "Senior Management",
+    "GoldMine",
+    "Information Security",
+    "HealthCare IT",
+    "IT support",
+    "Leadership",
+    "Marketing",
+    "Network analysis",
+    "Performance reviews",
+    "VoIP",
+    "Presentations",
+    "Process Enhancement",
+    "Product Development",
+    "Servers",
+    "SQL",
+    "SQL Server",
+    "Strategy",
+    "Desktop support",
+    "Visual Studio",
+    "Workflow"
+  ],
+  "tools": [
+    "Visual Studio",
+    "SQL Server",
+    "ASP.NET",
+    "Hyper\u2011V",
+    "VMWare",
+    "Video Conferencing",
+    "CRM",
+    "GoldMine",
+    "VoIP",
+    "Task Management System",
+    "Windows NT",
+    "CAT5",
+    "Fiber Optic Cable"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Information Systems",
+      "institution": "Park University",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Bachelor of Science in Management",
+      "institution": "Park University",
+      "graduation_year": "2007"
+    }
+  ],
+  "experience": [
+    {
+      "title": "VP of Information Technology",
+      "company": "Company Name",
+      "duration": "07/2014 to 03/2017",
+      "responsibilities": [
+        "Transformed the IT department and developed an IT strategy to increase sales and improve business process efficiency.",
+        "Built and managed a high\u2011performing team of employees, vendors, and service providers.",
+        "Oversaw IT budgeting, vendor negotiations, and business intelligence reporting.",
+        "Managed task delegation, staff mentoring, and performance reviews."
+      ]
+    },
+    {
+      "title": "VP of Information and Security Technology",
+      "company": "Company Name",
+      "duration": "02/2009 to 05/2014",
+      "responsibilities": [
+        "Led all IT operations, including purchasing, budgeting, and organizational structure.",
+        "Conducted performance reviews and prepared reports for the CEO and VP of Sales.",
+        "Trained employees on system use, workflow procedures, and technology policies.",
+        "Managed external vendors and consultants, and served as HIPAA compliance officer.",
+        "Aligned new product concepts with corporate technology and strategic goals."
+      ]
+    },
+    {
+      "title": "Director of Information Technology",
+      "company": "Company Name",
+      "duration": "02/2006 to 02/2009",
+      "responsibilities": [
+        "Managed information security to meet HIPAA compliance guidelines.",
+        "Advised executives on advanced technology solutions and participated in the Executive Management Team.",
+        "Established a lean IT department to respond quickly to support requests.",
+        "Designed and developed a new Electronic Data Processing system using Visual Studio 2010, SQL Server, and ASP.NET.",
+        "Oversaw all infrastructure areas."
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "02/2003 to 02/2006",
+      "responsibilities": [
+        "Improved and expanded the Commissions Tracking Application and integrated it with the CRM.",
+        "Increased system uptime from 80% to over 99% by implementing Hyper\u2011V virtual servers and DFS.",
+        "Developed and deployed corporate software and mobile apps for employees."
+      ]
+    },
+    {
+      "title": "Application Developer",
+      "company": "Company Name",
+      "duration": "08/2002 to 02/2003",
+      "responsibilities": [
+        "Designed, built, and implemented an ETL commission database system using SQL databases and ASP.NET.",
+        "Provided data analysis and reporting that recovered over $2.5M in lost commissions.",
+        "Provided end\u2011user desktop support."
+      ]
+    },
+    {
+      "title": "Electronics Technician",
+      "company": "Company Name",
+      "duration": "07/1997 to 07/2001",
+      "responsibilities": [
+        "Deployed and maintained CAT5 and fiber optic cable installations.",
+        "Trained subordinate technicians and conducted performance reviews.",
+        "Installed Windows NT on more than 400 computers."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Enterprise Phone System Implementation",
+      "description": "Implemented a new phone system that saved the company over $100,000 annually and eliminated out\u2011of\u2011pocket expenses through vendor contract negotiation.",
+      "technologies": [
+        "VoIP",
+        "Contract Negotiation"
+      ]
+    },
+    {
+      "name": "Video Conferencing Deployment",
+      "description": "Enhanced nationwide office communications using video conferencing, saving over $50,000 annually in travel costs.",
+      "technologies": [
+        "Video Conferencing"
+      ]
+    },
+    {
+      "name": "CRM Integration",
+      "description": "Integrated the company\u2019s CRM with marketing systems to provide real\u2011time feedback to marketing and end users.",
+      "technologies": [
+        "CRM",
+        "ASP.NET"
+      ]
+    },
+    {
+      "name": "Hyper\u2011V Migration",
+      "description": "Converted VMWare to Hyper\u2011V, reducing recovery time and lowering costs as part of the Disaster Recovery Plan.",
+      "technologies": [
+        "Hyper\u2011V",
+        "VMWare",
+        "Disaster Recovery"
+      ]
+    },
+    {
+      "name": "Disaster Recovery Plan",
+      "description": "Designed, implemented, and maintained a Disaster Recovery Plan that reduced recovery time from 4 days to 2 hours.",
+      "technologies": [
+        "Disaster Recovery",
+        "Hyper\u2011V",
+        "VMWare"
+      ]
+    },
+    {
+      "name": "Automated Quoting System",
+      "description": "Designed and implemented an automated quoting system that cut manual quoting process time by 80%.",
+      "technologies": [
+        "ASP.NET",
+        "SQL Server"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "candidate_name": "Joseph Mueller",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": null,
+  "total_experience_years": 26.0,
+  "skills": [
+    "Qa",
+    "Offshore",
+    "Annuities",
+    "Testing",
+    "Team Lead",
+    "Database",
+    "Qa Validation",
+    "Sdlc",
+    "Metrics",
+    "Project Planning",
+    "Qa Test",
+    "Qa Testing",
+    "Benefits",
+    "Excel",
+    "Production Environment",
+    "Rational",
+    "Uat",
+    "Leadership Development",
+    "Project Management",
+    "Best Practices",
+    "Business Case",
+    "Capacity Management",
+    "Collection",
+    "Data Collection",
+    "Marketing",
+    "Portfolio Management",
+    "Procurement",
+    "Progress",
+    "Project Plans",
+    "Proposals",
+    "SaaS",
+    "Software As A Service",
+    "Sow",
+    "Statement Of Work",
+    "Strategic Planning",
+    "Technical Requirements",
+    "Training",
+    "Vendor Management",
+    "Business Intelligence",
+    "Cases",
+    "Clients",
+    "Coda",
+    "Cognos",
+    "Data Warehouse",
+    "Etl",
+    "Extract",
+    "Transform",
+    "And Load",
+    "Front End",
+    "Front End Design",
+    "Front-end",
+    "Governance",
+    "Ibm Cognos",
+    "Life Cycle",
+    "Qa Methodology",
+    "Quality Assurance",
+    "Quality Assurance Standards",
+    "Quality Control",
+    "Sme",
+    "Subject Matter Expert",
+    "Test Lead",
+    "Test Plans",
+    "Batch Processing",
+    "Its",
+    "Process Improvement",
+    "Scheduling",
+    "Instructor",
+    "Order Processing",
+    "Acceptance Testing",
+    "Access",
+    "Coaching",
+    "Data Analysis",
+    "Data Warehousing",
+    "Ibm Rational Software",
+    "Marketing Analysis",
+    "Mentoring",
+    "Microsoft Project",
+    "Ms Access",
+    "Ms Project",
+    "Ms Word",
+    "Oracle",
+    "Org Development",
+    "Organizational Development",
+    "Rational Software",
+    "Rdb",
+    "Software Qa",
+    "Sql",
+    "Team Building",
+    "User Acceptance",
+    "Visio",
+    "Word"
+  ],
+  "tools": [
+    "Oracle SQL",
+    "MS Access",
+    "Power Point",
+    "HP Quality Center",
+    "MS Test Rational",
+    "MS Word",
+    "MS Excel",
+    "MS Project",
+    "Visio",
+    "Clarity Software",
+    "Cognos",
+    "IBM Cognos",
+    "Rational Software",
+    "Excel Macro",
+    "Cyclic Redundancy Check script"
+  ],
+  "certifications": [
+    "AIT"
+  ],
+  "education": [
+    {
+      "degree": "MS Computer Science",
+      "institution": "University of New Haven",
+      "graduation_year": "1992"
+    },
+    {
+      "degree": "BS Computer Science",
+      "institution": "Fairleigh Dickinson University",
+      "graduation_year": "1985"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Adjunct Instructor",
+      "company": "Company Name",
+      "duration": "January 1999 \u2013 November 2014",
+      "responsibilities": [
+        "Oversaw development, QA, and production of monthly metric dashboard packages for senior reporting.",
+        "Led installation of a service request tool automating work order processing.",
+        "Managed communication, quality, risk, and implementation across SDLC and project lifecycles.",
+        "Directed leadership development program across Annuities departments.",
+        "Designed and implemented Resource Capacity Management tool, including QA and training.",
+        "Created process to track $29M IT\u2011Sourcing business case savings.",
+        "Managed Portfolio Management Database application development and QA.",
+        "Negotiated acquisition of commercial software and led vendor management for HP RMT and APPTIO.",
+        "Developed project charters, traceability matrices, and risk\u2011based test strategies.",
+        "Led QA project deliveries, established QA methodology, and governed QA milestones.",
+        "Oversaw QA validation and defect resolution infrastructure for Annuities Information Factory.",
+        "Coordinated QA test region management and engineered region refresh procedures.",
+        "Directed validation of 15 small projects and led data acquisition conversions.",
+        "Established QA automation infrastructure and reduced manual testing effort."
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "company": "Company Name",
+      "duration": "January 1996 \u2013 January 1998",
+      "responsibilities": [
+        "Developed software applications and led QA projects."
+      ]
+    },
+    {
+      "title": "Software Developer/QA Project Lead, PRODIGY",
+      "company": "Company Name",
+      "duration": "January 1988 \u2013 January 1996",
+      "responsibilities": [
+        "Led software development and QA initiatives."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Service Request Tool",
+      "description": "Automated work order processing for Planning and Strategy team.",
+      "technologies": [
+        "Service Request Tool",
+        "SDLC",
+        "QA"
+      ]
+    },
+    {
+      "name": "Resource Capacity Management Tool",
+      "description": "Designed and implemented tool for managing 20 resources in Annuities Marketing Service group.",
+      "technologies": [
+        "Tool Development",
+        "QA",
+        "Training"
+      ]
+    },
+    {
+      "name": "Portfolio Management Database Application",
+      "description": "Led development and QA of database application for Annuities Services projects.",
+      "technologies": [
+        "Database",
+        "SDLC",
+        "QA"
+      ]
+    },
+    {
+      "name": "APPTIO Implementation",
+      "description": "Managed vendor acquisition and implementation of APPTIO for Annuities Information Factory.",
+      "technologies": [
+        "APPTIO",
+        "Vendor Management",
+        "Project Charter"
+      ]
+    },
+    {
+      "name": "IMBI QA Cluster",
+      "description": "Collaborated on QA testing infrastructure for Integrated Business Management Infrastructure.",
+      "technologies": [
+        "HP Quality Center",
+        "Rational Software"
+      ]
+    },
+    {
+      "name": "Annuities Information Factory Data Warehouse",
+      "description": "Oversaw QA validation and defect resolution for data warehouse.",
+      "technologies": [
+        "Data Warehouse",
+        "QA",
+        "Defect Resolution"
+      ]
+    }
+  ]
+}

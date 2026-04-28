@@ -1,0 +1,109 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Young, dedicated and focused office administrative assistant who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of increased responsibility and authority.",
+  "total_experience_years": 3.5,
+  "skills": [
+    "Microsoft Office proficiency",
+    "Self-directed Excel spreadsheets",
+    "Professional and mature",
+    "Meticulous attention to detail",
+    "Strong interpersonal skills",
+    "Results-oriented",
+    "Keen understanding of grammar",
+    "Strong problem solver",
+    "Dedicated team player",
+    "Executive presentation development",
+    "Ability to maintain confidentiality",
+    "Business development",
+    "Central point of contact",
+    "Closing",
+    "Client relations",
+    "Email management",
+    "Employee relations",
+    "Fashion",
+    "Fast",
+    "Faxes",
+    "Meetings",
+    "Access control",
+    "Mail handling",
+    "Office organization",
+    "PowerPoint presentations",
+    "Neatness",
+    "Payroll",
+    "Personnel files",
+    "Quality assurance",
+    "Receptionist duties",
+    "Reception",
+    "Sales support",
+    "Spreadsheets",
+    "Telephone handling",
+    "Employee handbooks"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Excel",
+    "PowerPoint"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "North Carolina Agricultural & Technical State University",
+      "graduation_year": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "April 2013 to October 2013",
+      "responsibilities": [
+        "Served as central point of contact for employee relations matters.",
+        "Processed onboarding and new hire paperwork for employment and payroll.",
+        "Managed the receptionist area, greeting visitors and handling telephone requests.",
+        "Coordinated vendor access and supplied key cards.",
+        "Maintained employee personnel files and correspondence.",
+        "Created PowerPoint presentations for business development.",
+        "Organized files, developed spreadsheets, faxed reports, and scanned documents."
+      ]
+    },
+    {
+      "title": "Office Administrative Assistant",
+      "company": "Company Name",
+      "duration": "June 2009 to August 2012",
+      "responsibilities": [
+        "Managed the receptionist area and greeted visitors.",
+        "Screened telephone calls and directed inquiries.",
+        "Designed and maintained electronic and paper file systems.",
+        "Handled mail distribution and correspondence.",
+        "Created PowerPoint presentations for business development.",
+        "Organized files, developed spreadsheets, faxed reports, and scanned documents.",
+        "Served as central point of contact for vendors and clients.",
+        "Planned meetings and prepared conference rooms.",
+        "Maintained an up-to-date office contact chart.",
+        "Answered client questions regarding retirement and military buy-back options.",
+        "Developed employee handbooks and processed retirements.",
+        "Mentored and trained team members to increase productivity.",
+        "Identified inefficiencies and recommended process improvements."
+      ]
+    },
+    {
+      "title": "Waitress",
+      "company": "Company Name",
+      "duration": "August 2010 to December 2010",
+      "responsibilities": [
+        "Assisted guests with menu choices and provided exceptional service.",
+        "Maintained knowledge of menu items and special requests.",
+        "Delivered food and beverages in a timely, friendly manner.",
+        "Suggested additional items to increase sales.",
+        "Communicated with kitchen staff regarding allergies and dietary needs.",
+        "Managed closing duties, restocked items, and reconciled cash drawer."
+      ]
+    }
+  ],
+  "projects": []
+}

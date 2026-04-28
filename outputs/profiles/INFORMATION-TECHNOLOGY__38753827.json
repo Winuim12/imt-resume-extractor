@@ -1,0 +1,186 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Performance\u2011driven IT executive with extensive experience building technology organizations that serve as strategic partners. Proven track record in IT strategy, infrastructure, business intelligence, cloud computing, and compliance (SOX, HIPAA, GLBA). Skilled in leading teams, managing multi\u2011million dollar budgets, and delivering large\u2011scale projects with zero downtime.",
+  "total_experience_years": 30.0,
+  "skills": [
+    "IT Strategy",
+    "IT Management",
+    "Project Management",
+    "Business Intelligence",
+    "Cloud Computing",
+    "SOX Compliance",
+    "HIPAA Compliance",
+    "GLBA Compliance",
+    "Team Building",
+    "Enterprise Platforms",
+    "Business Continuity",
+    "Disaster Recovery",
+    "Budgeting & Cost Control",
+    "IT Infrastructure",
+    "Vendor Management",
+    "Virtualization",
+    "Monitoring & Metrics",
+    "Windows Server Administration",
+    "Network Administration",
+    "Systems Engineering",
+    "Help Desk Management",
+    "Change Management",
+    "Process Improvement"
+  ],
+  "tools": [
+    "Active Directory",
+    "Microsoft Exchange",
+    "HP Insight Manager",
+    "EMC Avamar",
+    "Symantec Ghost",
+    "LanGuard Network Security Scanner",
+    "Voltage Email Encryption",
+    "Websense",
+    "Quest Archive Manager",
+    "MS Project",
+    "Symantec Backup Exec",
+    "Microsoft IIS",
+    "SharePoint",
+    "CA ArcServe",
+    "Barracuda Spam Firewall",
+    "Blackberry Enterprise Server",
+    "Sophos Anti\u2011virus",
+    "Trend Micro Anti\u2011Virus",
+    "Bradford Networks Network Sentry",
+    "VMWare",
+    "Hyper\u2011V",
+    "Barracuda Backup",
+    "Barracuda Web Filter",
+    "Cisco Call Manager",
+    "Cisco UCCX",
+    "Exact Target",
+    "Cvent",
+    "Cisco Firewalls",
+    "Cisco Routers",
+    "Cisco Switches",
+    "Checkpoint Firewalls",
+    "HP Procurve Switches",
+    "Meraki Wi\u2011Fi",
+    "Cisco Wi\u2011Fi",
+    "HP Proliant",
+    "Dell PowerEdge"
+  ],
+  "certifications": [
+    "Denver Peak Academy \u2013 Lean Process Improvement (Black Belt)",
+    "Harvard ManageMentor Leadership and Management (12 Courses)",
+    "Microsoft Certified Systems Engineer (MCSE)",
+    "Microsoft Certified Systems Administrator (MCSA)",
+    "Cisco Certified Network Associate (CCNA)",
+    "Citrix Certified Administrator (CCA)"
+  ],
+  "education": [
+    {
+      "degree": "M.B.A",
+      "institution": "University of Massachusetts",
+      "graduation_year": "Dec. 2007"
+    },
+    {
+      "degree": "B.S. Real Estate",
+      "institution": "Arizona State University",
+      "graduation_year": "May 1994"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Vice President, Information Technology",
+      "company": "Company Name",
+      "duration": "November 2012 \u2013 Present",
+      "responsibilities": [
+        "Represent IT on senior leadership team, overseeing all tactical and strategic aspects of corporate IT systems.",
+        "Lead a six\u2011person team managing IT infrastructure and business intelligence for a $38M revenue organization.",
+        "Manage a $1M annual IT budget, focusing on cost savings and value\u2011based solutions.",
+        "Engineered Salesforce CRM evolution, adding email marketing, event registration, credit card processing, and volunteer management.",
+        "Designed and executed a zero\u2011downtime corporate headquarters move to a 64,000 sq. ft. building.",
+        "Established an IT business intelligence group and structured development environment for CRM, data warehouse, and financial reporting.",
+        "Supported a 2\u20111\u20111 call center handling 100,000\u2013150,000 calls per year.",
+        "Consolidated and renegotiated IT contracts, implemented lifecycle management, standardized OS images, and virtualization.",
+        "Implemented comprehensive monitoring and metrics for application, network, and server availability.",
+        "Maintained >99.9% uptime for mission\u2011critical hardware and software platforms."
+      ]
+    },
+    {
+      "title": "Director, IT Infrastructure",
+      "company": "Company Name",
+      "duration": "March 2008 \u2013 November 2012",
+      "responsibilities": [
+        "Provided mission\u2011critical support for 800 Windows workstations and 160 servers across 28 treatment centers and offices.",
+        "Built and managed an eight\u2011person team of network, system, and support specialists.",
+        "Delivered major IT projects on time and under budget, including center integrations, builds, and relocations.",
+        "Maintained >99.9% uptime using MPLS WAN, VPN redundancy, and high\u2011availability software/hardware.",
+        "Designed and deployed business continuity/disaster recovery infrastructure for core billing and financial systems.",
+        "Implemented IT monitoring with APC, HP, and SolarWinds tools.",
+        "Managed $2M OpEx and $2M CapEx budgets, focusing on compliance with HIPAA, PCI, and future SOX requirements."
+      ]
+    },
+    {
+      "title": "Manager, IT Operations \u2013 Windows",
+      "company": "Company Name",
+      "duration": "October 2006 \u2013 March 2008",
+      "responsibilities": [
+        "Oversaw Windows Server administration for 200+ workstations and 30 servers.",
+        "Led a team of help\u2011desk and system administrators.",
+        "Managed multi\u2011million dollar budgets and ensured zero\u2011downtime for critical services.",
+        "Implemented monitoring, virtualization, and change\u2011management processes."
+      ]
+    },
+    {
+      "title": "IT Manager \u2013 Networking, Systems, & Support",
+      "company": "Company Name",
+      "duration": "September 1999 \u2013 October 2006",
+      "responsibilities": [
+        "Managed networking, systems, and support for 200+ workstations and 30 servers.",
+        "Led help\u2011desk operations and systems engineering.",
+        "Implemented process improvements and compliance solutions."
+      ]
+    },
+    {
+      "title": "System Administrator",
+      "company": "Company Name",
+      "duration": "March 1996 \u2013 September 1999",
+      "responsibilities": [
+        "Administered Active Directory, Microsoft Exchange, and Windows Server environments.",
+        "Implemented backup, disaster recovery, and security solutions (Symantec, EMC Avamar, Barracuda).",
+        "Managed hardware procurement and network infrastructure."
+      ]
+    },
+    {
+      "title": "Inside Sales Representative",
+      "company": "Company Name",
+      "duration": "June 1994 \u2013 March 1996",
+      "responsibilities": [
+        "Conducted real\u2011estate sales and client relationship management."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Salesforce CRM Evolution",
+      "description": "Expanded Salesforce platform to include email marketing, event registration, credit card processing, and volunteer management for a $38M organization.",
+      "technologies": []
+    },
+    {
+      "name": "Corporate Headquarters Move",
+      "description": "Designed and executed a zero\u2011downtime relocation to a 64,000 sq. ft. building.",
+      "technologies": []
+    },
+    {
+      "name": "2\u20111\u20111 Call Center Support",
+      "description": "Implemented IT infrastructure and support for a call center handling 100,000\u2013150,000 calls annually.",
+      "technologies": []
+    },
+    {
+      "name": "Business Continuity & Disaster Recovery",
+      "description": "Designed and deployed BCDR infrastructure for core billing and financial systems.",
+      "technologies": []
+    }
+  ]
+}

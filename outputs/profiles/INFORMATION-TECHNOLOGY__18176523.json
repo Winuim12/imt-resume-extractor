@@ -1,0 +1,121 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Results-focused Information Technology management professional offering twenty\u2011two years of progressive leadership experience. Transforms high\u2011potential staff into outstanding leaders who demonstrate creativity and savvy critical to financial and operational success. Proven ability to cut costs, reduce staff turnover, and cultivate a culture of ownership and pride.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "Active Directory",
+    "Backup",
+    "Business systems",
+    "Cisco",
+    "Citrix",
+    "Disaster Recovery",
+    "Firewall",
+    "Hardware support",
+    "Microsoft Products",
+    "Network security",
+    "Novell Netware",
+    "Red Hat",
+    "Server administration",
+    "SQL",
+    "Software support",
+    "Troubleshooting",
+    "Upgrade management"
+  ],
+  "tools": [
+    "Microsoft Exchange",
+    "Office 365",
+    "Microsoft Active Directory",
+    "Microsoft System Center",
+    "Microsoft SQL Server",
+    "Citrix",
+    "Red Hat Enterprise Linux",
+    "3Com",
+    "Bay Networks",
+    "Cisco networking equipment"
+  ],
+  "certifications": [
+    "Microsoft Certified Professional/Administrator",
+    "CompTIA A+",
+    "CompTIA Network+",
+    "CompTIA Security+",
+    "Novell Netware Engineer",
+    "Citrix Administrator",
+    "Red Hat Administrator",
+    "Certified Management Accountant (CMA)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "East Carolina University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "University of Phoenix/WIU",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Information Technology Manager",
+      "company": "Company Name",
+      "duration": "Jan 2000 \u2013 Jan 2016",
+      "responsibilities": [
+        "Program manager for migrating 13,000 Exchange on\u2011premise mail users to Office 365.",
+        "Implemented and managed systems for asset/lease reporting, enterprise backup, patch management, and application distribution for 10,000+ PCs worldwide.",
+        "Reduced global data center footprint from 23 to 2 North American sites and one regional hub.",
+        "Led deployment and management of Microsoft products (Server, Desktop, Office 365, Active Directory, Skype, Federated Services), SQL, and System Center.",
+        "Oversaw disaster recovery across multiple data centers and storage arrays.",
+        "Managed a team of IT professionals, controlled expenses, and defined strategic business plans."
+      ]
+    },
+    {
+      "title": "Senior Information Systems Professional",
+      "company": "Company Name",
+      "duration": "Jan 1996 \u2013 Jan 1999",
+      "responsibilities": [
+        "Developed long\u2011 and short\u2011term technology server and storage plans.",
+        "Formulated policies and procedures and delivered technology presentations to internal stakeholders.",
+        "Collaborated with Washington State agencies on healthcare data sharing and trusted networks.",
+        "Supervised technicians in network and infrastructure deployment and support.",
+        "Designed and executed directory\u2011based services, monitored server/storage systems, and implemented fault tolerance."
+      ]
+    },
+    {
+      "title": "Network Support Engineer",
+      "company": "Company Name",
+      "duration": "Jan 1995 \u2013 Jan 1996",
+      "responsibilities": [
+        "Provided support for NT, Netware, Macintosh, Cisco, 3Com, and Bay networks.",
+        "Installed, upgraded, repaired, configured, and troubleshot multi\u2011platform infrastructures.",
+        "Implemented firewall and other network security functions."
+      ]
+    },
+    {
+      "title": "Senior Technician",
+      "company": "Company Name",
+      "duration": "Jan 1993 \u2013 Jan 1995",
+      "responsibilities": [
+        "End\u2011of\u2011line hardware and software support.",
+        "Troubleshot, identified, and resolved end\u2011user hardware and application issues.",
+        "Trained and provided technical direction to junior technicians."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Exchange to Office 365 Migration",
+      "description": "Led the migration of 13,000 on\u2011premise Exchange mail users to Office 365, ensuring minimal downtime and data integrity.",
+      "technologies": [
+        "Office 365",
+        "Microsoft Exchange",
+        "Microsoft Active Directory",
+        "Microsoft System Center"
+      ]
+    }
+  ]
+}

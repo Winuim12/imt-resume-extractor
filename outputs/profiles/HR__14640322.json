@@ -1,0 +1,73 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "HR Generalist with 8 years of professional experience in employee recruitment, orientation, engagement, assimilation and termination procedures.",
+  "total_experience_years": 8.0,
+  "skills": [
+    "Talent Acquisition",
+    "Onboarding",
+    "Documentation",
+    "Vendor Management",
+    "Microsoft Office"
+  ],
+  "tools": [
+    "Microsoft Office"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Utkal University",
+      "graduation_year": "2005"
+    },
+    {
+      "degree": "BSc Physics Honours",
+      "institution": "OUAT",
+      "graduation_year": "2002"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "November 2006 to May 2015",
+      "responsibilities": [
+        "Onboarded new employees ensuring a pleasant experience",
+        "Verified and collected mandatory documents",
+        "Performed reference checks",
+        "Handled HR engagement and assimilation queries",
+        "Briefed new joiners on policies",
+        "Managed attendance and leave",
+        "Mentored new team members",
+        "Prepared weekly and daily MIS reports",
+        "Conducted recruitment screening and coordination",
+        "Coordinated campus and off\u2011campus drives",
+        "Facilitated vendor management",
+        "Handled offer paperwork and approvals",
+        "Negotiated offers and ensured compliance",
+        "Coordinated end\u2011to\u2011end HR issues with business units",
+        "Conducted internal audits and process adherence"
+      ]
+    },
+    {
+      "title": "HR Consultant",
+      "company": "Company Name",
+      "duration": "January 2006 to October 2006",
+      "responsibilities": [
+        "Sourced candidates for corporate assignments",
+        "Conducted preliminary and final interviews",
+        "Performed reference checks",
+        "Headhunted and used employee references",
+        "Coordinated interviews and maintained client relations",
+        "Inducted new entrants",
+        "Managed record keeping and database in Excel",
+        "Prepared monthly meeting agendas",
+        "Analyzed performance against targets"
+      ]
+    }
+  ],
+  "projects": []
+}

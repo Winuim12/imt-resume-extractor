@@ -23,9 +23,7 @@ dist/
 .streamlit/secrets.toml
 
 # Local data and generated outputs
-results/
-evaluation_results.csv
-outputs/
+
 
 # OS/editor noise
 .DS_Store

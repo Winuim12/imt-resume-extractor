@@ -1,0 +1,76 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Personable project manager with over eight years of progressive management experience, adept at building strong professional relationships, managing large and complex projects, and achieving performance targets.",
+  "total_experience_years": 24.0,
+  "skills": [
+    "Project Management",
+    "Information Design",
+    "Relationship Building",
+    "Information Technology",
+    "Procedure Development",
+    "Scheduling",
+    "Website Design",
+    "MS Office Suite",
+    "Training Development",
+    "Quality Processes",
+    "Event Planning",
+    "Work Breakdown Structures",
+    "Process Improvement",
+    "Management Information Systems",
+    "Workflow Planning",
+    "Software/Hardware Support"
+  ],
+  "tools": [
+    "MS Office Suite"
+  ],
+  "certifications": [
+    "Test and Evaluation Manager Level II (Government Training and Certification Program)"
+  ],
+  "education": [
+    {
+      "degree": "BS",
+      "institution": "New York University",
+      "graduation_year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Operations Research Analyst",
+      "company": null,
+      "duration": "01/2010 to Current",
+      "responsibilities": [
+        "Initiated and managed a program to test incoming radiation detection equipment across New York, New Jersey, and Connecticut.",
+        "Developed processes and procedures, instrumented and maintained test facilities, and managed and scheduled testing teams.",
+        "Coordinated activities with NYPD Counter Terrorism Bureau, state and local first responder organizations, and Brookhaven National Laboratory.",
+        "Oversaw testing of over 25 million dollars worth of equipment and more than 10,000 units."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "03/2003 to 01/2010",
+      "responsibilities": [
+        "Managed data collection and test operations for DHS and NYPD collaborative acquisition of roadway radiation detector prototypes.",
+        "Planned and executed initial data collection, developed budgets and schedules, and managed test team staff.",
+        "Provided technical support on request for information and proposal reviews.",
+        "Trained and deployed as a technical expert in radiation spectra analysis, providing rapid assistance to first responders.",
+        "Led advanced spectroscopic portal test campaigns and coordinated with federal, local, and law enforcement stakeholders.",
+        "Managed the S&T Countermeasures Test Beds collaborative website and coordinated technology installation, integration, and data analysis."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "08/1999 to 03/2003",
+      "responsibilities": [
+        "Designed data structures and developed systems for science-related database applications.",
+        "Assisted the Protecting Human Subject Program Manager with coordination of the Human Subjects Working Group, including meeting planning and review of applications and materials."
+      ]
+    }
+  ],
+  "projects": []
+}

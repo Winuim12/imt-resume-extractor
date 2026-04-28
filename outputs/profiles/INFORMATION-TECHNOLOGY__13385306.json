@@ -1,0 +1,185 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Applying technology and workflow solutions to business challenges is exciting for me because I love to learn and apply new lessons and approaches to support and enhance the organization to achieve its goals and mission.",
+  "total_experience_years": 19.0,
+  "skills": [
+    "C#",
+    "Oracle SQL",
+    "Oracle",
+    "SQL Server",
+    "SQL*Plus",
+    "TFS",
+    "SharePoint",
+    "SharePoint Designer",
+    "Database Design",
+    "Database Administration",
+    "Data Management",
+    "ASP.NET",
+    "Team Leadership",
+    "IIS",
+    "PL/SQL",
+    "ADO.NET",
+    "Tactical Planning",
+    "Application Development",
+    "Web Applications",
+    "IT Strategy",
+    "Microsoft SQL Server",
+    "Software Development",
+    "Agile Methodologies",
+    "Requirements Analysis",
+    "SDLC",
+    "XML",
+    "Information Technology",
+    "Software Project Management",
+    "Project Management",
+    "Business Intelligence",
+    "Leadership",
+    ".NET",
+    "VB.NET",
+    "Adabas",
+    "ADO",
+    "Agency",
+    "Banking",
+    "Banyan",
+    "Billing",
+    "Business Analysis",
+    "Cardiology",
+    "Client Server",
+    "Hardware",
+    "Delivery",
+    "Desktops",
+    "Help Desk Support",
+    "Network Administrator",
+    "Network Administration",
+    "Network Support",
+    "Novell",
+    "Object Modeling",
+    "Oracle DBA",
+    "Developer",
+    "Programming",
+    "Research",
+    "Tableau",
+    "Phone",
+    "Year 2000"
+  ],
+  "tools": [
+    "TFS",
+    "SharePoint",
+    "SharePoint Designer",
+    "Visual Studio 2012",
+    "Tableau",
+    "DSCI",
+    "Novell Zen 5.0",
+    "SQL Server",
+    "Oracle",
+    "PL/SQL",
+    "ADO.NET",
+    ".NET",
+    "ASP.NET",
+    "VB.NET",
+    "Adabas",
+    "Banyan",
+    "VS 2012"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "Suffolk University - Sawyer School of Management",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Arts (BA)",
+      "institution": "Suffolk University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Information Technology",
+      "company": "Company Name",
+      "duration": "11/2012 to 08/2015",
+      "responsibilities": [
+        "Provided application and network support services for the MSBA.",
+        "Maintained a rackspace-hosted ASP.NET solution tied to SQL Server.",
+        "Refreshed hardware and software, upgraded development group to SQL Server, TFS, and VS 2012.",
+        "Rewrote utility and security library from VB.NET to C# and added helper classes.",
+        "Developed object\u2011model based architecture for a middle tier.",
+        "Managed login accounts for Santander Banking Services.",
+        "Served as developer, manager, network administrator, and help desk.",
+        "Acted as project manager for all current projects and performed business analysis.",
+        "Recommended and helped implement Tableau as the authority's BI tool."
+      ]
+    },
+    {
+      "title": "Team Leader",
+      "company": "Company Name",
+      "duration": "05/2005 to 11/2002",
+      "responsibilities": [
+        "Led clinical and research programming development for the Cardiovascular Program.",
+        "Managed three teams: CAS, EMERIS, and research billing.",
+        "Project\u2011managed replacement of legacy systems with modern C# applications.",
+        "Acted as logical Oracle DBA, deploying objects and maintaining job scheduler.",
+        "Oversaw professional and clinical billing systems."
+      ]
+    },
+    {
+      "title": "Chief Information Officer",
+      "company": "Company Name",
+      "duration": "07/2000 to 02/2005",
+      "responsibilities": [
+        "Provided network, application, and help desk support for the Department of Mental Retardation.",
+        "Managed a network team of 5 across 30 field offices and 5 state school facilities.",
+        "Upgraded to Novell Zen 5.0 and remotely managed desktops.",
+        "Developed client\u2011server applications and electronic service delivery model.",
+        "Hosted applications in facility with ITD assistance."
+      ]
+    },
+    {
+      "title": "Director of Applications Development",
+      "company": "Company Name",
+      "duration": "02/1996 to 06/2000",
+      "responsibilities": [
+        "Provided application development and support services to the Department of Youth Services.",
+        "Led the Year 2000 project converting Natural/Adabas mainframe system to ASP.NET web\u2011based YSIS.",
+        "Assisted as Banyan administrator to the Network Administrator."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "MSBA ASP.NET Solution",
+      "description": "Developed and maintained a rackspace\u2011hosted ASP.NET solution tied to SQL Server for the MSBA.",
+      "technologies": [
+        "ASP.NET",
+        "C#",
+        "SQL Server",
+        "TFS",
+        "Visual Studio 2012"
+      ]
+    },
+    {
+      "name": "Tableau Business Intelligence Implementation",
+      "description": "Recommended and helped implement Tableau as the BI tool for the MSBA.",
+      "technologies": [
+        "Tableau",
+        "SQL Server",
+        "DSCI"
+      ]
+    },
+    {
+      "name": "YSIS Web Application Migration",
+      "description": "Led the Year 2000 project converting the Natural/Adabas mainframe system to an ASP.NET web\u2011based application.",
+      "technologies": [
+        "ASP.NET",
+        "VB.NET",
+        "Adabas",
+        "SQL Server"
+      ]
+    }
+  ]
+}

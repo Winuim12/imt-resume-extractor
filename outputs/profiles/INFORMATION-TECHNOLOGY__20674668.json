@@ -1,0 +1,141 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Drupal developer with five years of experience in site building, frontend and backend development, and theming. Proven track record in leading large-scale redesign projects, migrating data, and creating custom responsive themes. Strong problem\u2011solving skills and a commitment to high\u2011quality, secure coding.",
+  "total_experience_years": 8.0,
+  "skills": [
+    "C++",
+    "Java",
+    "JavaScript",
+    "PHP",
+    "Python",
+    "AJAX",
+    "SQL",
+    "PL/SQL",
+    "Oracle Database",
+    "DMS II",
+    "JDBC",
+    "HTML",
+    "HTML5",
+    "XHTML",
+    "CSS",
+    "CSS3",
+    "UML",
+    "Design Patterns",
+    "Windows",
+    "OS X",
+    "UNIX"
+  ],
+  "tools": [
+    "Oracle JDeveloper",
+    "Eclipse",
+    "BlueJ",
+    "jGRASP",
+    "Microsoft Visual Studio",
+    "Drupal",
+    "Apache Struts",
+    "Apache",
+    "Tomcat",
+    "Selenium",
+    "Behat"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "City College of New York, City University of New York",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist III (Drupal Dev)",
+      "company": "Company Name",
+      "duration": "08/2015 \u2013 Current",
+      "responsibilities": [
+        "Lead Drupal Developer for the NYSED.GOV redesign project.",
+        "Re\u2011architected the NYSED.GOV website and content strategy.",
+        "Migrated all data, built and configured the new site, and created a custom responsive Drupal theme.",
+        "Streamlined authoring experience for content creators and auditors.",
+        "Designed, coded, architected, and tested themes, modules, and processes to extend Drupal.",
+        "Developed Drupal\u2011based websites using HTML5 and CSS3.",
+        "Supervised the H\u2011BITS Consultant and provided guidance per project plan.",
+        "Analyzed client requests to develop, test, and deploy functional software requirements.",
+        "Provided support to webmasters for publishing and updating content.",
+        "Coordinated with ITS infrastructure support units for configuration and file access rights.",
+        "Generated website analytics and managed search technologies.",
+        "Ensured accessibility standards and compliance.",
+        "Maintained existing websites using Dreamweaver and Contribute.",
+        "Managed the unit in the absence of the supervisor.",
+        "Prepared weekly status reports and recommendations for upper management.",
+        "Communicated clearly with management and customers."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist II",
+      "company": "Company Name",
+      "duration": "09/2013 \u2013 08/2015",
+      "responsibilities": [
+        "Developed and maintained IT systems written in LINC, COBOL, Java, Struts, PL/SQL, and XML.",
+        "Analyzed and developed complex business intelligence reports.",
+        "Collaborated with program office members to identify business process requirements.",
+        "Built IT solutions addressing program office needs.",
+        "Executed test plans, troubleshot, and debugged system application code.",
+        "Documented systems and procedures to meet department standards."
+      ]
+    },
+    {
+      "title": "Intern Application Developer",
+      "company": "Company Name",
+      "duration": "01/2013 \u2013 06/2013",
+      "responsibilities": [
+        "Maintained support system for client services.",
+        "Developed program logic for new applications and modified existing logic.",
+        "Provided technical solutions for application issues.",
+        "Developed software system testing and validation procedures.",
+        "Tested EDI and other application systems; performed data validation with complex SQL queries."
+      ]
+    },
+    {
+      "title": "Intern iOS Developer",
+      "company": "Company Name",
+      "duration": "08/2012 \u2013 12/2012",
+      "responsibilities": [
+        "Designed and built applications for the iOS platform.",
+        "Ensured performance, quality, and responsiveness of applications.",
+        "Collaborated with a team to define, design, and ship new features.",
+        "Identified and corrected bottlenecks, fixed bugs, and maintained code quality."
+      ]
+    },
+    {
+      "title": "Assistant Store Supervisor",
+      "company": "Company Name",
+      "duration": "02/2010 \u2013 09/2013",
+      "responsibilities": []
+    },
+    {
+      "title": "Supervisor of Footwear Department",
+      "company": "Company Name",
+      "duration": "02/2008 \u2013 12/2009",
+      "responsibilities": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "NYSED.GOV Redesign Project",
+      "description": "Led the redesign of NYSED.GOV, re\u2011architecting the website, migrating data, building a custom responsive Drupal theme, and streamlining content authoring for stakeholders.",
+      "technologies": [
+        "Drupal 7",
+        "Drupal 8",
+        "HTML5",
+        "CSS3",
+        "jQuery",
+        "AJAX",
+        "PHP"
+      ]
+    }
+  ]
+}

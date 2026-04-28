@@ -1,0 +1,86 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Seeking to obtain a career in Information Assurance with a focus on Cyber Network Defense",
+  "total_experience_years": 16.5,
+  "skills": [
+    "Desktops",
+    "Ethernet cables",
+    "Cisco routers",
+    "Video & Sound Cards",
+    "CD-ROM Drives",
+    "Multiplexors",
+    "Scanners",
+    "Monitors",
+    "Switches",
+    "TCP/IP Configuration",
+    "Active Directory user account management",
+    "Avaya",
+    "Microsoft Office",
+    "Remedy",
+    "Information Technology Service Management (ITSM)"
+  ],
+  "tools": [
+    "Active Directory",
+    "Avaya",
+    "Microsoft Office",
+    "Remedy",
+    "ITSM",
+    "Cisco routers",
+    "Switches",
+    "TCP/IP"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": null,
+      "institution": null,
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "02/2018 \u2013 Current",
+      "responsibilities": [
+        "Define scope, plan, and deliverables for assigned projects",
+        "Collaborate with stakeholders to analyze requirements and ensure solutions meet customer needs",
+        "Prioritize project plans and deliverables with customers",
+        "Participate in business and technical IT solution implementations, upgrades, enhancements, and conversions",
+        "Use appropriate tools to analyze, identify, and resolve business or technical problems",
+        "Apply metrics to monitor performance and measure key project criteria",
+        "Maintain and troubleshoot network connectivity, printer, and other hardware issues for on\u2011site and remote users",
+        "Assist users with deployment and maintenance of desktop workstations"
+      ]
+    },
+    {
+      "title": "Diplomatic Security Service",
+      "company": "Company Name",
+      "duration": "06/2016 \u2013 01/2018",
+      "responsibilities": [
+        "Protected U.S. diplomats during foreign missions",
+        "Maintained security awareness in a federal environment",
+        "Assisted in employee management",
+        "Interacted with VIP personnel, including Senate members, foreign and domestic diplomats, and the Secretary of State"
+      ]
+    },
+    {
+      "title": "Information Technology Interpreter",
+      "company": "Company Name",
+      "duration": "08/2010 \u2013 03/2016",
+      "responsibilities": [
+        "Trained foreign nationals on basic IT troubleshooting and system setup",
+        "Diagnosed computer errors and provided technical support",
+        "Backed up and restored organizational data files and systems",
+        "Installed, configured, and upgraded PC software and operating systems",
+        "Created and updated IT support tickets per SOP",
+        "Provided customer support for email, hosted applications, desktop, system, and network problems within defined SLAs"
+      ]
+    }
+  ],
+  "projects": []
+}

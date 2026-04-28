@@ -1,0 +1,149 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Highly accomplished IT Manager with over 10 years of experience in project management, business intelligence, and systems architecture. Skilled in leading cross\u2011functional teams, optimizing reporting platforms, and delivering cost\u2011effective technology solutions.",
+  "total_experience_years": 26.0,
+  "skills": [
+    "branding",
+    "budgets",
+    "business analysis",
+    "BI",
+    "business intelligence",
+    "business management",
+    "Business Objects",
+    "CRM",
+    "data analysis",
+    "data warehouse",
+    "DBA",
+    "databases",
+    "decision making",
+    "ERP",
+    "financial",
+    "help desk",
+    "hiring",
+    "leadership",
+    "Microsoft Office",
+    "SharePoint",
+    "Oracle",
+    "personnel",
+    "project management",
+    "reporting",
+    "SAP BW",
+    "SAP",
+    "MS SQL",
+    "SQL",
+    "staff development",
+    "strategic planning",
+    "systems architecture",
+    "technical assistance",
+    "user training",
+    "upgrade",
+    "website"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "SharePoint",
+    "SAP BO",
+    "SAP BW",
+    "Business Objects",
+    "Oracle",
+    "MS SQL",
+    "SQL",
+    "ERP",
+    "CRM"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BA",
+      "institution": "Western Governor's University",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "General Studies",
+      "institution": "University of Phoenix",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "Diploma",
+      "institution": "Denmark High School",
+      "graduation_year": "1993"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Applications Team Leader",
+      "company": "Company Name",
+      "duration": "05/2012 to Current",
+      "responsibilities": [
+        "Managed Business Intelligence, DBA, SharePoint, and Web departments, overseeing strategic planning and overall systems architecture.",
+        "Led on\u2011shore and off\u2011shore personnel, handling hiring, compensation, and staff development.",
+        "Implemented revamped external website using SharePoint, improving user experience and aligning with new branding.",
+        "Redesigned SharePoint governance, saving over 100\u202fGB of server space.",
+        "Redesigned entire BI structure, integrating disparate data sources and reducing licensing costs by $30,000 per year."
+      ]
+    },
+    {
+      "title": "Business Intelligence Manager",
+      "company": "Company Name",
+      "duration": "12/2005 to 05/2012",
+      "responsibilities": [
+        "Directed reporting department, managing strategic planning and systems architecture.",
+        "Performed data analysis and managed reporting software and data warehouse environments.",
+        "Upgraded Business Objects architecture and migrated databases from MS SQL to Oracle.",
+        "Redeployed Business Objects to SAP BO with SAP BW, improving report runtime efficiency."
+      ]
+    },
+    {
+      "title": "Information Systems Software Administrator",
+      "company": "Company Name",
+      "duration": "11/1997 to 10/2005",
+      "responsibilities": [
+        "Maintained all software packages, including ERP, CRM, SQL databases, and reporting tools.",
+        "Led implementation of new ERP and CRM systems across the organization.",
+        "Managed Help Desk personnel and ensured alignment of software with business needs."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "BI Program Redesign",
+      "description": "Redesigned the entire BI program, streamlining the platform, redesigning the data warehouse, and revamping reporting tools to provide consistent, trusted data and achieve $30,000 annual license savings.",
+      "technologies": [
+        "Business Objects",
+        "SAP BO",
+        "SAP BW",
+        "SharePoint"
+      ]
+    },
+    {
+      "name": "SharePoint Website Revamp",
+      "description": "Implemented a revamped external website using SharePoint 2010, improving user experience and aligning with new company branding.",
+      "technologies": [
+        "SharePoint"
+      ]
+    },
+    {
+      "name": "Business Objects to SAP BO Migration",
+      "description": "Redeployed the architecture of Business Objects to SAP BO with SAP BW, creating a closed backend system that improved report design and runtime efficiency.",
+      "technologies": [
+        "Business Objects",
+        "SAP BO",
+        "SAP BW"
+      ]
+    },
+    {
+      "name": "ERP and CRM Implementation",
+      "description": "Implemented new ERP and CRM systems across the organization, managing project scope, budget, and timeline.",
+      "technologies": [
+        "ERP",
+        "CRM",
+        "Oracle",
+        "MS SQL"
+      ]
+    }
+  ]
+}

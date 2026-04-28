@@ -1,0 +1,114 @@
+{
+  "candidate_name": "William Hale",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Over nineteen years of experience in Information Technology with strong interpersonal, communication, and organizational skills. Senior Technical Support Analyst with expertise in desktop support operations, hardware and software installation, configuration, troubleshooting, and project coordination. Extensive experience with HP products, Microsoft OS, Citrix, and network support.",
+  "total_experience_years": 19.0,
+  "skills": [
+    "Security+",
+    "Customer Service",
+    "Networking",
+    "Internet Explorer",
+    "Symantec Antivirus",
+    "Windows 7",
+    "Series 7",
+    "XP",
+    "DOS",
+    "Windows 8.1",
+    "IP",
+    "Mac OS",
+    "iPhone",
+    "iPad",
+    "User Interface Writing",
+    "Troubleshooting",
+    "IT Operations",
+    "A+",
+    "A+ Certification",
+    "Antivirus",
+    "CNA",
+    "Hardware",
+    "Hardware Installation",
+    "Hardware Support",
+    "Hardware Diagnostics",
+    "Information Technology",
+    "MCP",
+    "MCSE",
+    "Microsoft Office",
+    "Enterprise",
+    "Network",
+    "Networking",
+    "Novell",
+    "SAP",
+    "Software Documentation",
+    "Desktop support",
+    "Technical Support",
+    "Technician"
+  ],
+  "tools": [
+    "Web JetAdmin",
+    "HP products",
+    "Citrix",
+    "Microsoft OS",
+    "Novell",
+    "SAP",
+    "Symantec Antivirus"
+  ],
+  "certifications": [
+    "MCSE",
+    "MCP",
+    "CNA",
+    "CompTIA A+",
+    "A+ Network",
+    "A+ Security",
+    "HIPAA",
+    "Series 7",
+    "Microsoft",
+    "Novell",
+    "SEC"
+  ],
+  "education": [
+    {
+      "degree": "MCSE, CNA, A+, CNA, Information Technology",
+      "institution": "Computer Career College",
+      "graduation_year": "2017"
+    },
+    {
+      "degree": "CIS - Computer and Information Systems Security / Information Assurance",
+      "institution": "City University of New York",
+      "graduation_year": null
+    },
+    {
+      "degree": "Finance",
+      "institution": "Rollins College",
+      "graduation_year": "1987"
+    },
+    {
+      "degree": "Business Administration",
+      "institution": "Hofstra College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Certified Technician",
+      "company": "Company Name",
+      "duration": "03/2010 \u2013 Present",
+      "responsibilities": [
+        "Provided desktop support, software and hardware installations, and configurations for the Manhattan area."
+      ]
+    },
+    {
+      "title": "Senior Technical Support Technician",
+      "company": "Company Name",
+      "duration": "01/2006 \u2013 01/2011",
+      "responsibilities": [
+        "Managed software and hardware assets as a Senior Desktop Support Analyst.",
+        "Supported over 500 end users.",
+        "Led SAP project support from 2006 to 2010."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,143 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Over 10 years of experience in IT, leading design, deployment, and operation of hardware and software solutions, with strong expertise in data migration, network administration, and desktop support.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "A+",
+    "Active Directory",
+    "Data Migration",
+    "DELL",
+    "HP",
+    "IBM",
+    "INTEL",
+    "Microsoft",
+    "Windows",
+    "Novell",
+    "Netware",
+    "NAS",
+    "SharePoint",
+    "Outlook",
+    "Robocopy",
+    "Remote Desktop",
+    "eDirectory",
+    "NDS",
+    "Command Center",
+    "Network Administration",
+    "Server Migration",
+    "Scripting",
+    "Troubleshooting",
+    "Desktop Support",
+    "Inventory Management",
+    "Leadership"
+  ],
+  "tools": [
+    "Apollo",
+    "Carbon Copy",
+    "Robocopy",
+    "Remote Desktop Connection",
+    "eDirectory",
+    "NDS Report Generator",
+    "Netware Console One",
+    "NoRM",
+    "Tree Size",
+    "SharePoint",
+    "Microsoft Office",
+    "Outlook",
+    "Windows Server",
+    "Novell Netware"
+  ],
+  "certifications": [
+    "MCSE",
+    "A+",
+    "NET+",
+    "SEC+"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Phoenix",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Southern College",
+      "graduation_year": "2001"
+    },
+    {
+      "degree": "Diploma",
+      "institution": "Southern Technical Institute",
+      "graduation_year": "2002"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Support Specialist",
+      "company": "Company Name",
+      "duration": "01/2011 \u2013 Current",
+      "responsibilities": [
+        "Lead design, deployment, and operation of IT hardware and software for small businesses.",
+        "Provide helpdesk support, systems analysis, and active directory administration.",
+        "Manage data migration using Robocopy and remote tools.",
+        "Configure and maintain DELL, HP, IBM, and Microsoft systems.",
+        "Set up and maintain networks, including NAS and Active Directory.",
+        "Develop and deliver training manuals and procedures."
+      ]
+    },
+    {
+      "title": "Customer Engineer",
+      "company": "Company Name",
+      "duration": "12/2009 \u2013 05/2010",
+      "responsibilities": [
+        "Prepared directory structures and permissions for NAS.",
+        "Coordinated email and PST file migration using Carbon Copy and Robocopy.",
+        "Managed scheduled tasks and remote desktop connections.",
+        "Updated Active Directory and performed cutovers.",
+        "Supported command center operations and user communication."
+      ]
+    },
+    {
+      "title": "Desktop Support Technician",
+      "company": "Company Name",
+      "duration": "07/2009 \u2013 10/2009",
+      "responsibilities": [
+        "Provided technical support for ATT upgrade project across 7+ wireless stores.",
+        "Installed Ingenico SigCap devices and updated firmware.",
+        "Troubleshot tickets via Remedy application.",
+        "Imaged and configured computers for 4QT09 rollout.",
+        "Managed inventory and vendor returns."
+      ]
+    },
+    {
+      "title": "Network Support Specialist",
+      "company": "Company Name",
+      "duration": "12/2008 \u2013 05/2009",
+      "responsibilities": [
+        "Supported network operations for Radisson Hotel recruiting team.",
+        "Deployed 300 PCs and peripherals.",
+        "Documented inventory and coordinated hardware shipping.",
+        "Installed servers for forest deployment."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Apollo / SunTrust EIS Data Migration Project",
+      "description": "Led data migration for 30 Novell and Windows servers, moving 50,000+ user accounts and 1,000+ GB of shared data to NAS, coordinating with command center and end users.",
+      "technologies": [
+        "Robocopy",
+        "Remote Desktop",
+        "Carbon Copy",
+        "eDirectory",
+        "NDS Report Generator",
+        "Novell Netware",
+        "Windows Server",
+        "NAS",
+        "SharePoint"
+      ]
+    }
+  ]
+}

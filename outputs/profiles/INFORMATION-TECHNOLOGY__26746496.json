@@ -1,0 +1,127 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Software Engineer with 2 years of experience as a Web Developer specializing in front\u2011end development. Proficient in the Software Development Life Cycle (SDLC) and Scrum Agile methodologies, with strong skills in designing, developing, and maintaining Microsoft .NET solutions using C#, ASP.NET, MVC, JavaScript, jQuery, HTML, CSS, Bootstrap, and SQL.",
+  "total_experience_years": 2.0,
+  "skills": [
+    "C#",
+    "Java",
+    "VB.NET",
+    "C",
+    "C++",
+    ".NET Framework 4.0/4.5",
+    "ASP.NET",
+    "ASP.NET MVC",
+    "ADO.NET",
+    "Entity Framework",
+    "LINQ",
+    "AJAX",
+    "Web Services",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "jQuery",
+    "Bootstrap"
+  ],
+  "tools": [
+    "Visual Studio",
+    "Eclipse",
+    "NetBeans",
+    "Dreamweaver",
+    "Tortoise SVN",
+    "GitHub",
+    "Red Gate SQL Compare",
+    "SQL Server",
+    "MySQL"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "University of Missouri",
+      "graduation_year": "Present"
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Jawaharlal Nehru Technological University",
+      "graduation_year": "May 2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Database Programmer/Analyst (.NET Developer)",
+      "company": "Company Name",
+      "duration": "Jun 2014 \u2013 Feb 2016",
+      "responsibilities": [
+        "Worked as a Graduate Research Assistant at Application Development Network (ADN), DoIT, supporting the University of Missouri System.",
+        "Designed and implemented database structures, stored procedures, and data access layers using ADO.NET, Entity Framework, and LINQ.",
+        "Developed C# console applications for scheduled email tasks and data import from CSV files.",
+        "Created and modified web services, custom controls, and user interfaces using ASP.NET, MVC, AJAX, and jQuery.",
+        "Integrated third\u2011party components such as CKEditor and Red Gate SQL Compare for database deployment.",
+        "Implemented role\u2011based authentication and authorization, and performed client\u2011side validation with JavaScript.",
+        "Participated in daily scrums, backlog grooming, and sprint reviews to ensure timely delivery."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Atlas",
+      "description": "A tutoring scheduling system with roles for tutees, tutors, and schedulers, featuring availability grids, automated email notifications, and rule\u2011based session management.",
+      "technologies": [
+        "C#",
+        "ASP.NET MVC",
+        "SQL Server",
+        "CKEditor",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Occupational Therapy",
+      "description": "Refactored an existing application with new templates, added PDF upload functionality, and integrated Active Directory for role\u2011based access.",
+      "technologies": [
+        "ASP.NET",
+        "SQL Server",
+        "Bootstrap",
+        "Red Gate SQL Compare"
+      ]
+    },
+    {
+      "name": "AppInventory",
+      "description": "An application inventory and project estimator tool for tracking application parameters, versioning, and sprint metrics.",
+      "technologies": [
+        "Entity Framework",
+        "LINQ",
+        "ADO.NET",
+        "SQL Server",
+        "C#",
+        "ASP.NET MVC"
+      ]
+    },
+    {
+      "name": "GoAdmin",
+      "description": "Admin interface for managing master tables used by the GoMizzou mobile application, featuring AJAX controls, role\u2011based filtering, and dynamic queries.",
+      "technologies": [
+        "ASP.NET",
+        "AJAX",
+        "SQL Server",
+        "C#",
+        "Class Libraries"
+      ]
+    },
+    {
+      "name": "Mizzou Checkout",
+      "description": "A web\u2011based checkout system resembling a shopping cart for university departments, with email notifications and role\u2011based access.",
+      "technologies": [
+        "C#",
+        "ASP.NET",
+        "SQL Server",
+        "SMTP",
+        "CSV Import"
+      ]
+    }
+  ]
+}

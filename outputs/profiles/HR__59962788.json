@@ -1,0 +1,144 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Forward-thinking HR Generalist highly effective at adapting to evolving market plans and the needs associated with company expansion.",
+  "total_experience_years": 2.0,
+  "skills": [
+    "New employee orientations",
+    "Compensation and benefits",
+    "Termination procedures",
+    "HR compliance",
+    "Project management",
+    "MS Office",
+    "HR systems",
+    "Team building",
+    "Employee recruitment",
+    "Interpersonal skills",
+    "Communication",
+    "Fast learner",
+    "Flexibility",
+    "C",
+    "C++",
+    "Java",
+    "SQL",
+    "Visual Basic 6.0"
+  ],
+  "tools": [
+    "MS Office",
+    "HRMS database",
+    "SAP",
+    "SQL"
+  ],
+  "certifications": [
+    "Certified Associate in Project Management (CAPM)",
+    "Professional in Human Resources (PHR)"
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Crescent Business School",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "B.E. Computer Science Engineering",
+      "institution": "Lord Venkateshwaraa Engineering College",
+      "graduation_year": "2010"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Lady Sivaswami girls Higher Secondary School",
+      "graduation_year": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Executive",
+      "company": "Company Name",
+      "duration": "11/2012 \u2013 09/2014",
+      "responsibilities": [
+        "Developed company personnel policies, SOPs, and employee handbooks.",
+        "Facilitated all new-hire orientations and safety training.",
+        "Conducted employment verifications and investigations.",
+        "Built a comprehensive employee recruiting strategy.",
+        "Managed leave administration, vendor management, disability programs, and health benefits.",
+        "Established and monitored employee pay scales.",
+        "Conducted job analysis and evaluations to create job specifications.",
+        "Updated HR metrics using HRMS reporting tools."
+      ]
+    },
+    {
+      "title": "HR Executive",
+      "company": "Dr.Kamakshi Memorial Hospital Pvt Ltd",
+      "duration": "Nov/2012 \u2013 Sep/2014",
+      "responsibilities": [
+        "Core quality team member for NABH certification.",
+        "Revamped organizational structure and onboarding processes.",
+        "Facilitated feasibility study of integrated payroll, EPF, ESI, and statutory compliances.",
+        "Acted as Training Coordinator and trainer.",
+        "Maintained leave records database and employee credentials.",
+        "Prepared SOPs, HR manuals, scorecards, salary statements, and offer letters.",
+        "Conducted interviews, initial screening, and induction programs.",
+        "Developed KPI/KRA for all designations.",
+        "Handled employee grievances and complaints."
+      ]
+    },
+    {
+      "title": "HR Metrics Project Lead",
+      "company": "Ashok Leyland",
+      "duration": "Mar/2012 \u2013 Apr/2012",
+      "responsibilities": [
+        "Developed HR metrics with drill\u2011down options to visualize workforce data.",
+        "Integrated trend analysis for internal benchmarking.",
+        "Incorporated training, rewards, benefits, motivation, CSR, and safety into a balanced scorecard."
+      ]
+    },
+    {
+      "title": "Organizational Climate Project Lead",
+      "company": "Ashok Leyland",
+      "duration": "Feb/2012 \u2013 Mar/2012",
+      "responsibilities": [
+        "Prepared and conducted employee survey on environment, management effectiveness, involvement, rewards, and commitment.",
+        "Proposed solutions to improve below\u2011benchmark areas."
+      ]
+    },
+    {
+      "title": "SAP Implementation Intern",
+      "company": "Ashok Leyland",
+      "duration": null,
+      "responsibilities": [
+        "Studied export logistics processes.",
+        "Prepared order\u2011to\u2011cash and make\u2011to\u2011deliver As\u2011Is processes for SAP implementation."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "HR Metrics Development",
+      "description": "Created a drill\u2011down HR metrics dashboard for workforce analysis and benchmarking.",
+      "technologies": [
+        "HRMS",
+        "Excel",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Organizational Climate Survey",
+      "description": "Designed and executed a comprehensive employee survey to assess workplace climate and recommend improvements.",
+      "technologies": [
+        "Survey tools",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Web Crawling for Search Engine Optimization",
+      "description": "Developed a web crawling project to enhance indexing speed and search engine performance.",
+      "technologies": [
+        "Python",
+        "Web Scraping libraries"
+      ]
+    }
+  ]
+}

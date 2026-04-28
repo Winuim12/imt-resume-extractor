@@ -1,0 +1,113 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Territory Human Resource Manager offering outstanding presentation, communication and cross-cultural team management skills. High-energy, results-oriented leader who ensures a fair, diverse, and engaged workforce.",
+  "total_experience_years": 34.0,
+  "skills": [
+    "Human Resources Leadership",
+    "Employee Relations",
+    "Certified Strategic Workforce Planner",
+    "Employee Development",
+    "Performance Analysis",
+    "Coaching",
+    "Counseling",
+    "Leadership & Communication",
+    "Advising on Crucial Conversations",
+    "Employee Engagement",
+    "Wage Analysis",
+    "Legal Compliance"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "PowerPoint",
+    "Excel",
+    "Word"
+  ],
+  "certifications": [
+    "Certified Strategic Workforce Planner",
+    "Strategic Work Force Planning (Human Capital Institute, 2016)",
+    "Influencing Without Direct Authority (University of Wisconsin, 2016)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Metropolitan State College of Denver",
+      "graduation_year": "1995"
+    },
+    {
+      "degree": "Strategic Work Force Planning",
+      "institution": "Human Capital Institute",
+      "graduation_year": "2016"
+    },
+    {
+      "degree": "Influencing Without Direct Authority",
+      "institution": "University of Wisconsin",
+      "graduation_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Territory HR Manager",
+      "company": null,
+      "duration": "Oct 2010 - Current",
+      "responsibilities": [
+        "Advised managers on HR issues and performance barriers",
+        "Counseled staff and management on policy application and compliance",
+        "Planned and organized all human capital activities for a 14-state territory",
+        "Developed workforce, succession, talent management, and strategic plans",
+        "Advocated direct communication across all employee levels",
+        "Mitigated risk by addressing associate concerns internally",
+        "Acted as liaison between departments, legal counsel, and external providers",
+        "Oversaw talent acquisition and recruiting compliance",
+        "Monitored HR programs and delivered training/coaching",
+        "Implemented HR initiatives to support business objectives",
+        "Identified workforce trends and recommended improvements",
+        "Coordinated legal responses to formal charges (FMLA, ADA, EEOC, etc.)",
+        "Partnered with leaders to develop people initiatives",
+        "Guided managers on morale, diversity, and employment law",
+        "Improved associate engagement and retention",
+        "Managed projects, direct reports, and HR systems",
+        "Provided leadership, coaching, and performance feedback",
+        "Ensured process consistency, timeliness, and fiscal responsibility"
+      ]
+    },
+    {
+      "title": "Store Manager",
+      "company": null,
+      "duration": "Mar 2000 - Oct 2010",
+      "responsibilities": [
+        "Managed a team of 4 executives, 4 assistants, 20 supervisors, and 120 associates",
+        "Oversaw $24 million store volume",
+        "Developed vision, objectives, and teamwork culture",
+        "Coached staff and provided performance feedback",
+        "Directed store operations, merchandising, and presentation standards",
+        "Handled staffing, scheduling, and payroll projections",
+        "Managed hiring and interview processes",
+        "Controlled expenses and productivity relative to sales trends",
+        "Led loss prevention and inventory control initiatives",
+        "Maintained pricing guidelines and legal compliance",
+        "Communicated operational strategy and customer satisfaction goals"
+      ]
+    },
+    {
+      "title": "District Business Planning Manager",
+      "company": null,
+      "duration": "Apr 1989 - Oct 1999",
+      "responsibilities": [
+        "Managed inventory control for 2 divisions and 16 stores across 3 states",
+        "Developed merchandise assortment plans to maximize sales and margins",
+        "Analyzed data/trends and guided store management",
+        "Coordinated training for 45 first-level managers, 25 supervisors, and 500+ associates",
+        "Planned and supervised merchandising, sales promotions, and women's division activities",
+        "Advised on personnel, loss prevention, and customer service",
+        "Set measurable goals and evaluated performance",
+        "Organized team meetings and motivated staff",
+        "Opened new stores, hired staff, and oversaw initial setup"
+      ]
+    }
+  ],
+  "projects": []
+}

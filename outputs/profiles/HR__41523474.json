@@ -1,0 +1,82 @@
+{
+  "candidate_name": "Renu Sharma",
+  "email": null,
+  "phone": null,
+  "location": "Houston, Texas",
+  "department": "HR",
+  "summary": "Dual specialization in Human Resource Management and Finance.",
+  "total_experience_years": 1.0,
+  "skills": [
+    "Human resources management",
+    "People-oriented",
+    "New employee orientations",
+    "Confidentiality",
+    "Professional management",
+    "Meeting objectives",
+    "Problem identification",
+    "Effective communication",
+    "Deadline-driven performance",
+    "Team building"
+  ],
+  "tools": [
+    "SPSS",
+    "MS Word",
+    "MS Excel",
+    "MS PowerPoint",
+    "Internet & E\u2011mail operations"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Doon University",
+      "graduation_year": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Executive",
+      "company": "Company Name",
+      "duration": "May 2013 \u2013 June 2014",
+      "responsibilities": [
+        "Ensured accurate job descriptions and assisted in writing them.",
+        "Identified training and development opportunities.",
+        "Advised supervisors on staff recruitment and prepared job advertisements.",
+        "Scheduled and organized interviews.",
+        "Implemented recruitment procedures and policies.",
+        "Monitored daily attendance and maintained leave records.",
+        "Prepared monthly salary calculations for HR and manager approvals.",
+        "Managed disciplinary actions and advised on recommendations.",
+        "Coordinated employee onboarding and H.O. documentation.",
+        "Handled HR events, celebrations, and office housekeeping.",
+        "Prepared monthly expense statements."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Impact of Training and Development in the Organization",
+      "description": "Analyzed the effect of training on employee skill development during a summer internship at HDFC Sales.",
+      "technologies": [
+        "Employee survey",
+        "Secondary data analysis"
+      ]
+    },
+    {
+      "name": "Growth and Development in the Organization",
+      "description": "Assessed organizational growth linked to employee development during a winter internship at ANANDA IN THE HIMALAYA.",
+      "technologies": [
+        "Employee survey",
+        "Secondary data analysis"
+      ]
+    },
+    {
+      "name": "Comparative Analysis of Motivational Factors in Banks",
+      "description": "Dissertation report evaluating motivational levels of employees in public and private banks in Dehradun Region.",
+      "technologies": [
+        "Primary data collection (questionnaire)",
+        "Secondary data analysis (articles, research papers, journals)"
+      ]
+    }
+  ]
+}

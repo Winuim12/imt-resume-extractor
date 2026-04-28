@@ -1,0 +1,132 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Self\u2011motivated professional with over 20 years of experience in HR, operations, and project management across diverse enterprises.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "small business development",
+    "project management",
+    "leadership",
+    "communication",
+    "employee relations",
+    "staff development",
+    "start\u2011ups",
+    "team player",
+    "total quality management",
+    "administrative",
+    "budgeting",
+    "contracts",
+    "customer service",
+    "documentation",
+    "expense reports",
+    "financial analysis",
+    "government relations",
+    "hiring",
+    "HR",
+    "office administration",
+    "office management",
+    "payroll",
+    "personnel",
+    "processes",
+    "proposals",
+    "quality assurance",
+    "sales",
+    "supervising",
+    "transmission"
+  ],
+  "tools": [],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BA",
+      "institution": "University of New Mexico",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Director/Administrator",
+      "company": null,
+      "duration": "January 2015 to Current",
+      "responsibilities": [
+        "Managed the HR department and supervised administrative staff.",
+        "Handled all hiring and payroll processes.",
+        "Reviewed invoices for proper documentation.",
+        "Oversaw construction of the new Houston office for Forbes Bros Inc.",
+        "Facilitated company launch in Houston."
+      ]
+    },
+    {
+      "title": "Executive Administrator",
+      "company": null,
+      "duration": "January 2013 to January 2015",
+      "responsibilities": [
+        "Prepared reports and financial data.",
+        "Trained and supervised support staff.",
+        "Maintained customer relationships.",
+        "Prepared bid proposals and managed daily affairs."
+      ]
+    },
+    {
+      "title": "Senior Administrator",
+      "company": null,
+      "duration": "January 2010 to January 2013",
+      "responsibilities": [
+        "Developed support processes for the group.",
+        "Compiled and analyzed financial data for transmission projects.",
+        "Ensured timely completion of contracts and bids.",
+        "Reviewed invoices for documentation and approval.",
+        "Provided master document control for multiple transmission projects.",
+        "Acted as main contact between contractors and L\u2011Con personnel.",
+        "Delivered HR functions on site.",
+        "Supervised a 15\u2011person office staff."
+      ]
+    },
+    {
+      "title": "Site Office Administrator",
+      "company": "E.ON Climate and Renewables",
+      "duration": "2006-2010",
+      "responsibilities": [
+        "Managed all aspects of site office administration for a 750\u202fMW wind power construction site.",
+        "Coordinated document control across multiple wind projects.",
+        "Served as primary liaison between contractors and E.ON personnel.",
+        "Provided on\u2011site HR functions."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": null,
+      "duration": "January 2005 to January 2006",
+      "responsibilities": [
+        "Managed office operations for Airtricity\u2019s Forest Creek and Sand Bluff wind farms.",
+        "Oversaw document control, site office management, and HR needs.",
+        "Planned and facilitated staff and VIP site visits."
+      ]
+    },
+    {
+      "title": "Manager of House Accounts",
+      "company": "Total Design on Marble & Granite",
+      "duration": "2002-2004",
+      "responsibilities": [
+        "Liaised between customers and sales staff.",
+        "Established customer service procedures.",
+        "Managed day\u2011to\u2011day business operations.",
+        "Supervised ten staff members overseeing granite projects."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": null,
+      "duration": "January 2001 to January 2002",
+      "responsibilities": [
+        "Assisted the president with new business ventures.",
+        "Ensured timely completion and budget adherence.",
+        "Developed procedures for financial analysis to guide expansion strategies."
+      ]
+    }
+  ],
+  "projects": []
+}

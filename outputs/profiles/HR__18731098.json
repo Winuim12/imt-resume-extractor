@@ -1,0 +1,113 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Results\u2011driven and business\u2011oriented professional with strong experience in business operations, full\u2011cycle human resources, and administrative management. Proven ability to execute a wide range of business management, administrative and practical strategies that streamline operations, increase production, optimize workforce, and improve employee retention.",
+  "total_experience_years": 21.0,
+  "skills": [
+    "Employee Relations",
+    "Recruiting",
+    "Benefits Administration",
+    "Payroll Processing",
+    "HRIS",
+    "HR Policy Development",
+    "Staff Training & Development",
+    "Performance Management",
+    "Compliance (FMLA, COBRA, OSHA, etc.)",
+    "Budgeting & Financial Reporting",
+    "Project Management",
+    "Change Management",
+    "Interpersonal Communication",
+    "Critical Thinking",
+    "Time Management",
+    "Conflict Resolution",
+    "Team Leadership",
+    "Administrative Support",
+    "Data Entry",
+    "Customer Service",
+    "Office Management"
+  ],
+  "tools": [
+    "ADP",
+    "HRIS",
+    "Kronos",
+    "SAP",
+    "Lotus Notes",
+    "Microsoft Office",
+    "Excel",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "Windows"
+  ],
+  "certifications": [
+    "Certificate in Human Resources Management (completed 6/2015)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "California State University Northridge",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "UCLA",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior HR Manager",
+      "company": "Aegis Treatment Centers, LLC",
+      "duration": "12/2006 \u2013 Current",
+      "responsibilities": [
+        "Managed all aspects of daily HR operations for a multi\u2011location organization with a supervisory scope of 6 staff.",
+        "Oversaw employee relations, performance evaluations, progressive discipline, mediation, and grievance procedures.",
+        "Ensured proper staffing ratios based on patient census and tracked workforce turnover.",
+        "Coached staff, led training and development initiatives, and developed HR policies.",
+        "Handled full\u2011cycle recruiting, new hire orientation, and unemployment/claims administration.",
+        "Prepared financial statements, managed budgets, and coordinated tax filings with CPA.",
+        "Oversaw payroll processing via ADP, including wage assignments, garnishments, and bonus calculations.",
+        "Implemented and maintained HRIS system and managed benefits enrollment and 401(k) administration.",
+        "Coordinated employee relations activities, safety committee participation, and compliance reporting (FMLA, EEO, OSHA, COBRA, etc.)."
+      ]
+    },
+    {
+      "title": "Executive Assistant III",
+      "company": "America\u2019s oldest running movie studio",
+      "duration": "02/2005 \u2013 12/2006",
+      "responsibilities": [
+        "Provided administrative support to two senior executives, managing calendars, itineraries, and agendas.",
+        "Maintained customer master database and organized logistics for meetings and conferences.",
+        "Researched and booked travel arrangements, handled invoicing, accounts receivable/payable, and bookkeeping.",
+        "Facilitated inventory control, purchasing of supplies, and maintained purchase order logs.",
+        "Coordinated expense reports, archived files, and performed general office management duties."
+      ]
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": "Aegis Treatment Centers, LLC",
+      "duration": "06/2004 \u2013 02/2005",
+      "responsibilities": [
+        "Provided HR support to multiple facilities, including office procedures and policy implementation.",
+        "Handled recruiting, personnel file maintenance, employment verifications, and payroll processing.",
+        "Reduced payroll errors to less than 3% and administered benefits, I\u20119 paperwork, and FMLA/COBRA claims.",
+        "Maintained license renewals for LVN and physicians and managed special HR projects."
+      ]
+    },
+    {
+      "title": "Financial Operations Assistant",
+      "company": "Department of Justice",
+      "duration": "02/2002 \u2013 06/2004",
+      "responsibilities": [
+        "Performed data entry, filing, and document retrieval for federal criminal prosecutions and civil cases.",
+        "Managed invoices, authorized payments, and maintained contract files.",
+        "Prepared travel authorizations, monitored stock levels, and provided customer service to vendors.",
+        "Balanced accounting records and assisted with financial reporting."
+      ]
+    }
+  ],
+  "projects": []
+}

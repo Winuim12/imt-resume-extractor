@@ -1,0 +1,104 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Competent HR Generalist and seasoned recruiter with an extensive background in HR Operations functions across large corporates. Through my progressive career, I have helped build HR operational efficiencies by meeting standards of excellence in end-to-end HR delivery.",
+  "total_experience_years": 7.0,
+  "skills": [
+    "Assistant Manager",
+    "banking",
+    "counseling",
+    "clients",
+    "hiring",
+    "HR",
+    "marketing",
+    "MS Excel",
+    "Office",
+    "MS Outlook",
+    "MS PowerPoint",
+    "MS Word",
+    "negotiations",
+    "network",
+    "Oracle",
+    "PeopleSoft",
+    "performance management",
+    "personnel",
+    "policies",
+    "processes",
+    "Recruitment",
+    "recruiting",
+    "reporting",
+    "sales training",
+    "Vendor Management",
+    "annual reports"
+  ],
+  "tools": [
+    "PeopleSoft",
+    "Oracle",
+    "ATS",
+    "MS Word",
+    "MS Excel",
+    "MS PowerPoint",
+    "MS Outlook"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "GHS-IMR Business School",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "B.Com",
+      "institution": "CSJMU, Uttar Pradesh University",
+      "graduation_year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Regional HR Deputy Manager",
+      "company": null,
+      "duration": "06/2010 to 03/2014",
+      "responsibilities": [
+        "Managed regional HR portfolio for over 700 employees.",
+        "Executed full employee life\u2011cycle management and end\u2011to\u2011end recruitment.",
+        "Implemented high\u2011volume recruitment strategies and coordinated interviews for 300+ candidates.",
+        "Conducted on\u2011campus events and managed full\u2011time and summer hires.",
+        "Led salary negotiations, onboarding, and new hire orientation.",
+        "Advised managers on HR tools, policies, and procedures.",
+        "Handled background checks, records management, and diversity initiatives.",
+        "Facilitated performance management exercises and maintained HR metrics.",
+        "Managed separation processes, exit interviews, and off\u2011boarding programs.",
+        "Developed HR Scorecard and achieved best HR audit and recruitment turnaround awards."
+      ]
+    },
+    {
+      "title": "Regional HR Assistant Manager",
+      "company": null,
+      "duration": "03/2008 to 05/2010",
+      "responsibilities": [
+        "Delivered end\u2011to\u2011end recruitment and generalist services in a manufacturing setup.",
+        "Coordinated 360\u00b0 feedback and attrition analysis for the North Zone.",
+        "Prepared manpower plans for new and existing branches.",
+        "Resolved employee grievances and conducted counseling.",
+        "Organized employee engagement activities across branches.",
+        "Streamlined recruitment processes through vendor management."
+      ]
+    },
+    {
+      "title": "Branch Operations Officer",
+      "company": null,
+      "duration": "05/2007 to 02/2008",
+      "responsibilities": [
+        "Oversaw opening of new corporate accounts.",
+        "Developed marketing resources for corporate clients.",
+        "Created and executed sales training classes for new associates.",
+        "Built a strong local corporate client network.",
+        "Managed branch banking operations."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,161 @@
+{
+  "candidate_name": "Sagun Pandey",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Over 3 years of experience serving as a key contributor across all software development life cycle phases including analysis, architectural design, prototyping, development, and testing of applications using Java/J2EE technologies in various domains. Strong understanding of OOP, data structures, algorithms, design patterns, and distributed systems. Experienced in backend development with Spring, microservices, web interfaces, SQL/NoSQL databases, Agile methodologies, version control, automation testing, build tools, and continuous integration.",
+  "total_experience_years": 3.0,
+  "skills": [
+    "Java",
+    "JavaScript",
+    "Android",
+    "HTML",
+    "CSS",
+    "SQL",
+    "C",
+    "C++",
+    "Spring",
+    "Restful-Web Services",
+    "Hibernate",
+    "AngularJS",
+    "ReactJS",
+    "jQuery",
+    "Bootstrap",
+    "Selenium WebDriver",
+    "Cucumber",
+    "MySQL",
+    "PostgreSQL",
+    "Oracle",
+    "MongoDB",
+    "H2",
+    "Gradle",
+    "Maven",
+    "Ant",
+    "Agile",
+    "Scrum",
+    "Waterfall",
+    "TDD",
+    "Clean Coding",
+    "Continuous Delivery",
+    "Microservices",
+    "Single Page Application",
+    "REST",
+    "Client/Server",
+    "SVN",
+    "Git",
+    "AWS",
+    "Bower",
+    "Grunt",
+    "Npm",
+    "Node",
+    "JSON",
+    "XML",
+    "Jenkins",
+    "Eclipse",
+    "IntelliJ",
+    "Android Studio",
+    "Linux",
+    "Windows"
+  ],
+  "tools": [
+    "Selenium WebDriver",
+    "Cucumber",
+    "Jenkins",
+    "Selenium Grid",
+    "Git",
+    "SVN",
+    "Maven",
+    "Gradle",
+    "Ant",
+    "JIRA",
+    "OpenERP",
+    "Eclipse",
+    "IntelliJ",
+    "Android Studio",
+    "Node",
+    "Bower",
+    "Grunt",
+    "Npm"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Lamar University",
+      "graduation_year": "2017"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "Tribhuvan University",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Intern (Test Automation Engineer)",
+      "company": null,
+      "duration": "05/2017 to 08/2017",
+      "responsibilities": [
+        "Created a test automation framework using Selenium WebDriver and Spring Boot for automated regression testing of WebTix.",
+        "Implemented Page Object Model for dynamic AngularJS pages.",
+        "Integrated Cucumber for behavior-driven testing.",
+        "Configured Jenkins and Selenium Grid for parallel test execution.",
+        "Generated and distributed automated test reports.",
+        "Converted manual test cases into automation suites.",
+        "Trained QA team on framework usage and troubleshooting.",
+        "Managed issues and documentation using JIRA."
+      ]
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "company": null,
+      "duration": "05/2014 to 06/2016",
+      "responsibilities": [
+        "Designed, implemented, and tested multi-tier Java applications using Spring MVC, AOP, DAO, JDBC, and Hibernate.",
+        "Developed RESTful web services and integrated external systems.",
+        "Created database access layers with Spring Data JPA and Hibernate.",
+        "Built a Java-based SDK and driver for a Linux card reader.",
+        "Researched smart card technologies for VMS and SCBTIMS projects.",
+        "Implemented plugin architecture for QMS hardware interfaces.",
+        "Coordinated development for VMS, QMS, and SCBTIMS projects.",
+        "Developed interactive UIs with JS, JSP, HTML, CSS, Bootstrap, AngularJS, and ReactJS.",
+        "Built mobile apps for real-time monitoring using PhoneGap and Titanium.",
+        "Optimized development workflow with Git, IntelliJ, and OpenERP."
+      ]
+    },
+    {
+      "title": "Java Developer Intern",
+      "company": null,
+      "duration": "03/2014 to 05/2014",
+      "responsibilities": [
+        "Implemented core Java features including multithreading, exception handling, and collections.",
+        "Developed MRP reading module with Java Swing and JDBC.",
+        "Optimized search engine for Nepal Tourism Board website.",
+        "Prepared unit test plans and executed JUnit tests."
+      ]
+    },
+    {
+      "title": "Software Developer Intern",
+      "company": null,
+      "duration": "01/2013 to 10/2013",
+      "responsibilities": [
+        "Contributed to software development projects using Java and web technologies.",
+        "Collaborated with cross-functional teams in an Agile environment."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Test Automation Framework",
+      "description": "Developed a Selenium WebDriver and Spring Boot based framework for automated regression testing of the WebTix frontend, integrated with Cucumber and Jenkins, and executed tests on Selenium Grid.",
+      "technologies": [
+        "Selenium WebDriver",
+        "Spring Boot",
+        "Cucumber",
+        "Jenkins",
+        "Selenium Grid"
+      ]
+    }
+  ]
+}

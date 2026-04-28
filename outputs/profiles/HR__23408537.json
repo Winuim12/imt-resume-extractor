@@ -1,0 +1,129 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Human Resources Coordinator with 10+ years of experience in payroll, benefits, compliance, and HR management.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "ADP",
+    "QuickBooks",
+    "Payroll processing",
+    "Benefits administration",
+    "HRIS",
+    "Recruitment",
+    "Performance management",
+    "Compliance",
+    "Background checks",
+    "Interviewing",
+    "Employee coaching",
+    "Audit preparation",
+    "Change management",
+    "Budgeting",
+    "Regulatory compliance",
+    "Invoice coding",
+    "MS Access",
+    "Excel",
+    "Word",
+    "PowerPoint",
+    "Outlook",
+    "SAP",
+    "JD Edwards",
+    "Notary Public",
+    "Time management",
+    "Analytical reasoning",
+    "Ethical approach",
+    "Superior attention to detail"
+  ],
+  "tools": [
+    "ADP Vantage",
+    "ADP Recruiting",
+    "JD Edwards (JDE)",
+    "SAP",
+    "Excel",
+    "Word",
+    "Access",
+    "PowerPoint",
+    "Outlook",
+    "Windows",
+    "Mac OS"
+  ],
+  "certifications": [
+    "SHRM - HR Generalist Certificate",
+    "Payroll 2016 Certificate via Fred Pryor Seminars",
+    "Notary Public",
+    "CiHRG Member",
+    "SHRM Member"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "John A. Logan College",
+      "graduation_year": "2005"
+    },
+    {
+      "degree": null,
+      "institution": "University of Alabama at Birmingham",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant III",
+      "company": "Company Name",
+      "duration": "05/2015 to 03/2017",
+      "responsibilities": [
+        "Administered payroll through ADP payroll system",
+        "Benefit coordination and administration",
+        "Employee purchases through pay data batch entry",
+        "Maintained sick leave and attendance programs",
+        "Developed new process for employee evaluation resulting in performance improvements",
+        "Researched and updated required materials for firm and partners",
+        "Analyzed departmental documents for appropriate distribution and filing",
+        "Assisted business groups with document organization during acquisitions",
+        "Obtained documents, clearances, certificates and approvals from local, state and federal agencies"
+      ]
+    },
+    {
+      "title": "Compliance Coordinator",
+      "company": "Company Name",
+      "duration": "01/2007 to 01/2008",
+      "responsibilities": [
+        "Payroll verification and licensure compliance per Federal and State regulations for nursing requirements",
+        "Produced legal documents including contracts and real estate closing statements",
+        "Researched statutes, decisions, legal articles and codes",
+        "Investigated facts and law of cases to prepare cases",
+        "Analyzed client balance sheets for auditing purposes",
+        "Contacted clients to schedule appointments and discuss case progress",
+        "Conducted background investigations on defendants"
+      ]
+    },
+    {
+      "title": "Enrollment Coordinator",
+      "company": "Company Name",
+      "duration": "07/2017 to 12/2017",
+      "responsibilities": [
+        "Processed applications, changes, reinstatements, and cancellations of insurance policies",
+        "Verified eligibility requirements to meet Department of Insurance and Medicare regulations",
+        "Analyzed data from various sources to ensure accuracy of claims and billing system"
+      ]
+    },
+    {
+      "title": "Accounts Payable Clerk",
+      "company": "Company Name",
+      "duration": "10/2012 to 10/2013",
+      "responsibilities": [
+        "Generated and submitted invoices based on financial schedule",
+        "Ensured invoices and check requests were processed efficiently and accurately",
+        "Generated accounts payable reports for management review",
+        "Conducted monthly closing processes, journal entries, and accruals",
+        "Entered invoices requiring payment via check or bank draft",
+        "Performed administrative tasks such as recordkeeping and correspondence",
+        "Implemented new technologies and process automations for continuous improvement",
+        "Supervised invoice processing, purchase orders, expense reports, credit memos and payment transactions"
+      ]
+    }
+  ],
+  "projects": []
+}

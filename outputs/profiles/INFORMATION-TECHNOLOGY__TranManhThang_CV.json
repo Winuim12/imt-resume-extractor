@@ -1,0 +1,66 @@
+{
+  "candidate_name": "Tran Manh Thang",
+  "email": "tmtzoos1234@gmail.com",
+  "phone": "032 612 0342",
+  "location": "Ho Chi Minh City",
+  "department": "Information Technology",
+  "summary": "Computer Science student specializing in Applied Artificial Intelligence with hands\u2011on experience in Automatic Speech Recognition (ASR) and Retrieval\u2011Augmented Generation (RAG). Experienced in building end\u2011to\u2011end AI pipelines, from data preprocessing to system deployment.",
+  "total_experience_years": null,
+  "skills": [
+    "Python",
+    "Automatic Speech Recognition (ASR)",
+    "Retrieval\u2011Augmented Generation (RAG)",
+    "Speech Translation",
+    "WhisperX",
+    "PyTorch",
+    "Hugging Face",
+    "LangChain",
+    "Chroma",
+    "Ollama",
+    "FFmpeg",
+    "Git",
+    "Linux"
+  ],
+  "tools": [
+    "FFmpeg",
+    "Git",
+    "Linux",
+    "Gemini API",
+    "Chroma"
+  ],
+  "certifications": [
+    "Microsoft Office Specialist (MOS): Excel",
+    "Microsoft Office Specialist (MOS): Word",
+    "Microsoft Office Specialist (MOS): PowerPoint"
+  ],
+  "education": [
+    {
+      "degree": null,
+      "institution": "Ho Chi Minh City University of Technology, VNUHCM",
+      "graduation_year": null
+    }
+  ],
+  "experience": [],
+  "projects": [
+    {
+      "name": "End-to-End ASR & Speech Translation Pipeline",
+      "description": "Automated ASR pipeline using WhisperX with timestamp alignment and optional speaker diarization; fine\u2011tuned Whisper model for Vietnamese\u2011English speech translation; Vietnamese spelling correction via Gemini API; modular CLI architecture for audio normalization, batch inference, and subtitle generation.",
+      "technologies": [
+        "WhisperX",
+        "Whisper",
+        "Gemini API",
+        "FFmpeg"
+      ]
+    },
+    {
+      "name": "University Regulation Question-Answering System (RAG)",
+      "description": "Domain\u2011specific RAG system for university regulation Q&A; markdown\u2011aware recursive document chunking; hybrid retrieval combining dense vector search (Chroma) and BM25 ranking; LLM\u2011based query analysis, contextual response generation, and conversational memory for multi\u2011turn dialogue.",
+      "technologies": [
+        "LangChain",
+        "Chroma",
+        "BM25",
+        "LLM"
+      ]
+    }
+  ]
+}

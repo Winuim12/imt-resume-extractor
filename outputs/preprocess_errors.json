@@ -1,0 +1,62 @@
+[
+  {
+    "file_name": "20806155.pdf",
+    "department": "HR",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\HR\\20806155.pdf",
+    "error": "The model response did not contain valid JSON. Raw model output saved to C:\\Users\\ADMIN\\Desktop\\IMT-Test\\outputs\\debug\\bad_response_HR.txt"
+  },
+  {
+    "file_name": "24508725.pdf",
+    "department": "HR",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\HR\\24508725.pdf",
+    "error": "2 validation errors for ResumeProfile\ncertifications.0\n  Input should be a valid string [type=string_type, input_value={'name': 'PHR', 'issuer':...mona, NY', 'year': 2006}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type\ncertifications.1\n  Input should be a valid string [type=string_type, input_value={'name': 'HRCI Certificat...nstitute', 'year': 2006}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "file_name": "26048718.pdf",
+    "department": "HR",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\HR\\26048718.pdf",
+    "error": "3 validation errors for ResumeProfile\neducation.0.graduation_year\n  Input should be a valid string [type=string_type, input_value=2016, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type\neducation.1.graduation_year\n  Input should be a valid string [type=string_type, input_value=2006, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type\neducation.2.graduation_year\n  Input should be a valid string [type=string_type, input_value=1990, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "file_name": "47470864.pdf",
+    "department": "HR",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\HR\\47470864.pdf",
+    "error": "2 validation errors for ResumeProfile\ncertifications.0\n  Input should be a valid string [type=string_type, input_value={'name': 'Project Managem...titute', 'year': '2019'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type\ncertifications.1\n  Input should be a valid string [type=string_type, input_value={'name': 'Certified Data ...titute', 'year': '2017'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "file_name": "73077810.pdf",
+    "department": "HR",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\HR\\73077810.pdf",
+    "error": "The model response did not contain valid JSON. Raw model output saved to C:\\Users\\ADMIN\\Desktop\\IMT-Test\\outputs\\debug\\bad_response_HR.txt"
+  },
+  {
+    "file_name": "18067556.pdf",
+    "department": "INFORMATION-TECHNOLOGY",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\INFORMATION-TECHNOLOGY\\18067556.pdf",
+    "error": "The model response did not contain valid JSON. Raw model output saved to C:\\Users\\ADMIN\\Desktop\\IMT-Test\\outputs\\debug\\bad_response_INFORMATION-TECHNOLOGY.txt"
+  },
+  {
+    "file_name": "19796840.pdf",
+    "department": "INFORMATION-TECHNOLOGY",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\INFORMATION-TECHNOLOGY\\19796840.pdf",
+    "error": "The model response did not contain valid JSON. Raw model output saved to C:\\Users\\ADMIN\\Desktop\\IMT-Test\\outputs\\debug\\bad_response_INFORMATION-TECHNOLOGY.txt"
+  },
+  {
+    "file_name": "27058381.pdf",
+    "department": "INFORMATION-TECHNOLOGY",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\INFORMATION-TECHNOLOGY\\27058381.pdf",
+    "error": "The model response did not contain valid JSON. Raw model output saved to C:\\Users\\ADMIN\\Desktop\\IMT-Test\\outputs\\debug\\bad_response_INFORMATION-TECHNOLOGY.txt"
+  },
+  {
+    "file_name": "79541391.pdf",
+    "department": "INFORMATION-TECHNOLOGY",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\INFORMATION-TECHNOLOGY\\79541391.pdf",
+    "error": "The model response did not contain valid JSON. Raw model output saved to C:\\Users\\ADMIN\\Desktop\\IMT-Test\\outputs\\debug\\bad_response_INFORMATION-TECHNOLOGY.txt"
+  },
+  {
+    "file_name": "90867631.pdf",
+    "department": "INFORMATION-TECHNOLOGY",
+    "source_path": "C:\\Users\\ADMIN\\Desktop\\IMT-Test\\data\\INFORMATION-TECHNOLOGY\\90867631.pdf",
+    "error": "The model response did not contain valid JSON. Raw model output saved to C:\\Users\\ADMIN\\Desktop\\IMT-Test\\outputs\\debug\\bad_response_INFORMATION-TECHNOLOGY.txt"
+  }
+]

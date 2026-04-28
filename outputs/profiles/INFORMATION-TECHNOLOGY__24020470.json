@@ -1,0 +1,153 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Over twelve years of experience providing high\u2011quality consulting and technical assistance to home and business end users. Field service technician since late 2004, skilled in installing, repairing, and maintaining POS equipment, servers, networking, and related peripherals. Integrates computer skills, customer support, and education to exceed technical, business, and customer expectations. Passionate about electronics demonstrations, direct sales, and training sessions. Professionally certified by CompTIA, Lexmark, Hewlett Packard, Microsoft, Fujitsu, IC\u00b3, ETA, FEMA, and other bodies.",
+  "total_experience_years": 12.0,
+  "skills": [
+    "Telephone etiquette",
+    "Technical knowledge",
+    "Troubleshooting",
+    "DHCP/DNS",
+    "Ethernet & firewall configuration",
+    "CompTIA A+",
+    "CompTIA Net+",
+    "Mobile device support",
+    "Help desk support",
+    "Database server administration",
+    "Problem solving",
+    "Microsoft Office Specialist",
+    "Drive duplication & imaging",
+    "Desktop support & training",
+    "Salesforce.com",
+    "TapScan",
+    "Joomla",
+    "WordPress",
+    "Photoshop",
+    "Illustrator",
+    "Hardware repair & diagnostics"
+  ],
+  "tools": [
+    "StorageCraft",
+    "Datto",
+    "VEEAM",
+    "Intronis",
+    "VMware",
+    "Windows Server",
+    "Active Directory",
+    "CCTV\u2011DVR",
+    "VoIP",
+    "BDR data recovery",
+    "WiFi networking",
+    "T1 network",
+    "Patch panels",
+    "CCTV\u2011DVR",
+    "Backup solutions"
+  ],
+  "certifications": [
+    "CompTIA A+",
+    "CompTIA Net+",
+    "Microsoft Office Specialist",
+    "Lexmark Certified",
+    "Hewlett Packard Certified",
+    "Microsoft Certified",
+    "Fujitsu Certified",
+    "IC\u00b3 Certified",
+    "ETA Certified",
+    "FEMA Certified"
+  ],
+  "education": [
+    {
+      "degree": "Residential Energy Auditor",
+      "institution": "Ashworth College",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Undergraduate Certificate in Computer Information Management",
+      "institution": "Ashworth College",
+      "graduation_year": "2010"
+    },
+    {
+      "degree": "Associate of Arts and Sciences (A.A.S.)",
+      "institution": "SUNY Orange",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "02/2012 \u2013 Current",
+      "responsibilities": [
+        "Service and maintain servers, workstations, laptops, and peripherals for clients.",
+        "Install and maintain CCTV\u2011DVR, VoIP, BDR data recovery, and cloud backup solutions (StorageCraft, Datto, VEEAM, Intronis).",
+        "Conduct business assessments (DLP, network audits, FINRA/HIPAA/PCI compliance).",
+        "Support over 480 Windows devices and 44 Windows/VMware servers."
+      ]
+    },
+    {
+      "title": "IT Systems Administrator",
+      "company": "Company Name",
+      "duration": "09/2008 \u2013 05/2012",
+      "responsibilities": [
+        "Maintain 55 Windows workstations, Dell Precision server, and IBM xSeries Blade server.",
+        "Troubleshoot telephony/VOIP/POTS, T1, and network issues; provide end\u2011user assistance and training.",
+        "Manage Windows Server 2003 with Active Directory.",
+        "Maintain AutoBase CRM, WiFi network, and printer fleet.",
+        "Coordinate purchase, installation, and training of new technology."
+      ]
+    },
+    {
+      "title": "Field Service Technician II",
+      "company": "Company Name",
+      "duration": "12/2009 \u2013 10/2011",
+      "responsibilities": [
+        "Field service on IBM servers, desktops, and POS systems; repair Lexmark printers and other hardware brands.",
+        "Install and troubleshoot networking equipment (patch panels, Ethernet, VoIP).",
+        "Perform break\u2011fix tasks, vehicle maintenance, RMA returns, and 24/7 on\u2011call support.",
+        "Act as senior technician, training new field staff."
+      ]
+    },
+    {
+      "title": "Kodak Imaging Expert / Field Marketing Specialist",
+      "company": "Company Name",
+      "duration": "03/2006 \u2013 12/2009",
+      "responsibilities": [
+        "Engage and train sales associates on product features and sales techniques.",
+        "Organize training events, presentations, and role\u2011playing sessions.",
+        "Increase brand awareness through merchandising and direct sales events."
+      ]
+    },
+    {
+      "title": "Merchandising / Marketing Specialist",
+      "company": "Company Name",
+      "duration": "10/2005 \u2013 12/2007",
+      "responsibilities": [
+        "Execute in\u2011store marketing and merchandising for technical hardware.",
+        "Set up plan\u2011o\u2011grams, security protocols, and manage shipments.",
+        "Self\u2011manage vehicle and coordinate security for displays."
+      ]
+    },
+    {
+      "title": "Digital Imaging Specialist",
+      "company": "Company Name",
+      "duration": "08/2005 \u2013 03/2006",
+      "responsibilities": [
+        "Retail sales of digital cameras; train customers on product use and features.",
+        "Conduct product demonstrations and manage Black Friday sales events."
+      ]
+    },
+    {
+      "title": "Business Machines Sales Associate",
+      "company": "Company Name",
+      "duration": "09/2002 \u2013 07/2005",
+      "responsibilities": [
+        "Retail sales of business machines and related peripherals.",
+        "Repair and troubleshoot personal computers; manage inventory and product displays."
+      ]
+    }
+  ],
+  "projects": []
+}

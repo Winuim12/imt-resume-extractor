@@ -1,0 +1,125 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Human Resources Manager with practical understanding of business needs. Expertise in conflict management, employee training, strategic planning, and people\u2011management.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "Administrative support",
+    "Advertising",
+    "Benefits administration",
+    "Business planning",
+    "Clear communication",
+    "Continuous improvement",
+    "Decision making",
+    "English proficiency",
+    "Film",
+    "Hiring",
+    "Human Resource management",
+    "HR law & compliance",
+    "Legal compliance",
+    "Managerial",
+    "Managing",
+    "Exchange",
+    "Organizational development",
+    "Payroll",
+    "Performance appraisal",
+    "Performance management",
+    "Personnel",
+    "Policies & procedures",
+    "Procurement",
+    "Progress monitoring",
+    "Promotion",
+    "Public speaking",
+    "Purchase requisitions",
+    "Purchasing",
+    "Recruitment",
+    "Reporting",
+    "Scheduling",
+    "Strategic planning",
+    "Workflow management"
+  ],
+  "tools": [
+    "Microsoft Office"
+  ],
+  "certifications": [
+    "Human Resource Management (PM and APM Certification Course)",
+    "Analytical Problem Solving and Prevention",
+    "Tax ISO/TS 16949 & ISO 14001 requirements",
+    "Leadership Competency and Work Performance Appraisal",
+    "Labor Law Balance Scorecard and KPI",
+    "Happy Workplace Welfare and Salary Structure",
+    "Recruitment Compensation and Benefit Corrective and Preventive Action (8D report & Why Why Analysis)",
+    "Safety Supervisor Level"
+  ],
+  "education": [
+    {
+      "degree": "Master of Public Administration",
+      "institution": "National Institute of Development Administration (NIDA)",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "Bachelor of Education",
+      "institution": "Chulalongkorn University",
+      "graduation_year": "2002"
+    },
+    {
+      "degree": "Comprehensive English Course under Cultural Exchange Program",
+      "institution": "City, State, USA",
+      "graduation_year": "2007"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": "Sunningdale Tech (Thailand) Co., Ltd.",
+      "duration": "04/2016 \u2013 Current",
+      "responsibilities": [
+        "Lead HR strategy as a business partner, aligning HR initiatives with company goals.",
+        "Oversee recruiting, hiring, benefits, and compensation programs.",
+        "Develop and implement performance management systems.",
+        "Ensure legal compliance with labor laws and manage employee relations.",
+        "Drive staff development and training programs."
+      ]
+    },
+    {
+      "title": "HR & Admin Manager",
+      "company": "Sekisui s\u2011lec (Thailand) Co., Ltd.",
+      "duration": "09/2013 \u2013 04/2015",
+      "responsibilities": [
+        "Transformed HR from administrative to strategic partner.",
+        "Managed recruiting, hiring, benefits, and compensation.",
+        "Developed standardized organizational models and policies.",
+        "Handled legal compliance, investigations, and disciplinary matters.",
+        "Optimized administrative processes for efficiency."
+      ]
+    },
+    {
+      "title": "General Administration Assistant Chief",
+      "company": "Sekisui s\u2011lec (Thailand) Co., Ltd.",
+      "duration": "11/2002 \u2013 09/2013",
+      "responsibilities": [
+        "Managed full spectrum of HR functions: recruitment, orientation, training, compensation, and benefits.",
+        "Conducted executive\u2011level interviews and managed selection processes.",
+        "Implemented performance measurement and development programs.",
+        "Oversaw purchasing and procurement operations.",
+        "Supported general administration and executive support tasks."
+      ]
+    },
+    {
+      "title": "General Manager and HR Director",
+      "company": "Unnamed Steel and Metal Worksheet Company",
+      "duration": "Dates not specified",
+      "responsibilities": [
+        "Conceptualized and led HR initiatives and policies.",
+        "Managed compensation, benefits, payroll, and statutory reporting.",
+        "Implemented performance appraisal systems.",
+        "Handled recruitment, training, and employee relations.",
+        "Oversaw administrative operations and company events."
+      ]
+    }
+  ],
+  "projects": []
+}

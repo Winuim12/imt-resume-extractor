@@ -1,0 +1,118 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Top-performing Human Resources Professional with 10+ years of experience providing innovative and results-driven leadership within small and large organizations. Proven ability to effectively communicate with staff on all corporate levels, create and inspire positive relationships, and build solid teams of professional employees.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "ADA",
+    "benefits",
+    "benefits administration",
+    "biotechnology",
+    "branding",
+    "budget",
+    "change management",
+    "contract negotiations",
+    "databases",
+    "designing",
+    "direction",
+    "employee relations",
+    "leadership",
+    "team building",
+    "marketing",
+    "organizational development",
+    "payroll",
+    "performance appraisal",
+    "performance management",
+    "policies",
+    "process improvement",
+    "project management",
+    "protocols",
+    "quality",
+    "recruitment",
+    "recruiter",
+    "research",
+    "strategic",
+    "training design",
+    "vendor management",
+    "vendor relations"
+  ],
+  "tools": [
+    "Applicant Tracking System",
+    "E-Fax System"
+  ],
+  "certifications": [
+    "PHR"
+  ],
+  "education": [
+    {
+      "degree": "MS Human Resources",
+      "institution": "Marquette University",
+      "graduation_year": null
+    },
+    {
+      "degree": "JD",
+      "institution": "The John Marshall Law School",
+      "graduation_year": null
+    },
+    {
+      "degree": "BA Human Resources",
+      "institution": "Marquette University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "March 2013 to Current",
+      "responsibilities": [
+        "Provided strategic direction and design in talent acquisition, onboarding, performance management, and training design.",
+        "Aligned talent acquisition strategies with practice concentrations and subject matter needs.",
+        "Managed recruitment, retention, and performance management processes.",
+        "Served as Director \u2013 Talent Assimilation on the Leadership Team.",
+        "Led succession planning and trained leaders in human capital and organizational change strategies."
+      ]
+    },
+    {
+      "title": "Manager \u2013 HR Corporate Recruiter and HR Consultant",
+      "company": "Company Name",
+      "duration": "January 2006 to March 2013",
+      "responsibilities": [
+        "Coordinated full\u2011cycle recruiting and retention for management positions nationwide.",
+        "Partnered with hiring managers on interview and selection processes.",
+        "Developed corporate recruiting policies and implemented the first applicant tracking system.",
+        "Reduced turnover by 20% overall and 35% in the Chicago region.",
+        "Created vendor management system and negotiated contracts.",
+        "Led selection advisory and improved communication via an E\u2011Fax system."
+      ]
+    },
+    {
+      "title": "Sr. HR Generalist/Lead Recruiting Manager",
+      "company": "Company Name",
+      "duration": "January 1998 to January 2006",
+      "responsibilities": [
+        "Supported HR and recruitment for a placement firm with 1,500 employees.",
+        "Oversaw marketing of HR opportunities and recruitment of qualified candidates.",
+        "Designed new databases and internet search modalities for passive and active candidates.",
+        "Managed EEOC, FSLA, ADA, FMLA, benefits, payroll, and new\u2011hire orientation.",
+        "Implemented performance management, compensation, and terminations."
+      ]
+    },
+    {
+      "title": "Employee Relations Generalist",
+      "company": "Company Name",
+      "duration": "January 1992 to January 1998",
+      "responsibilities": [
+        "Managed HR operations across 30 facilities for 1,700 employees.",
+        "Handled employee relations, FMLA, EEOC, ADA, FSLA, benefits, and payroll.",
+        "Directed hiring managers on policies, procedures, and performance management.",
+        "Contributed to applicant tracking system development and policy guide creation.",
+        "Developed employee wellness and referral bonus programs and managed a $2M budget."
+      ]
+    }
+  ],
+  "projects": []
+}

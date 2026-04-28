@@ -1,0 +1,109 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Innovative and artistic professional with 6 years in the fashion industry and an energetic recruiter who is self\u2011motivated, results\u2011driven, and skilled in communication, analytical thinking, problem solving, and reasoning.",
+  "total_experience_years": null,
+  "skills": [
+    "Human Resources",
+    "Recruiting",
+    "Employee Relations",
+    "Training & Development",
+    "New Hire Orientation",
+    "Hiring & Retention",
+    "Personnel Records Maintenance",
+    "Communication",
+    "Problem Solving",
+    "Time Management",
+    "Customer Service",
+    "POS",
+    "Administrative Management",
+    "Critical Thinking",
+    "Organizational Skills",
+    "People Skills"
+  ],
+  "tools": [
+    "POS",
+    "Microsoft Office"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Eugene Lang College, The New School for Liberal Arts",
+      "graduation_year": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Associate",
+      "company": "Company Name",
+      "duration": "Jan 2015 \u2013 Current",
+      "responsibilities": [
+        "Recruit and interview at least 10 applicants per week.",
+        "Answer employee questions regarding benefits and company protocol, resolving issues.",
+        "Conduct new employee orientation to foster positive attitude toward organizational objectives.",
+        "Direct personnel, training, and labor relations activities.",
+        "Identify staff vacancies and recruit, interview, and select applicants.",
+        "Serve as a link between management and employees by handling questions, interpreting and administering contracts, and helping resolve work\u2011related problems."
+      ]
+    },
+    {
+      "title": "Cashier Captain",
+      "company": "Company Name",
+      "duration": "Feb 2014 \u2013 Sep 2014",
+      "responsibilities": [
+        "Maintained knowledge of current promotions, payment policies, and security practices.",
+        "Operated a cash register to process cash, check, and credit card transactions.",
+        "Administered all point\u2011of\u2011sale opening and closing procedures.",
+        "Offered exceptional customer service and promoted the company brand.",
+        "Provided direction and constructive feedback to motivate team members."
+      ]
+    },
+    {
+      "title": "Sales Associate",
+      "company": "Company Name",
+      "duration": "Nov 2013 \u2013 Feb 2014",
+      "responsibilities": [
+        "Explained product quality, value, and style to influence customer buying decisions.",
+        "Guided customers in choosing items that reflected personal style and shape.",
+        "Recommended merchandise based on customer needs."
+      ]
+    },
+    {
+      "title": "Cashier, Shipment Associate",
+      "company": "Company Name",
+      "duration": "Nov 2010 \u2013 Jan 2014",
+      "responsibilities": [
+        "Computed sales prices, total purchases, and processed payments.",
+        "Maintained knowledge of current promotions, payment policies, and security practices.",
+        "Operated a cash register to process cash, check, and credit card transactions.",
+        "Replenished floor stock and processed shipments to ensure product availability."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Company Name",
+      "duration": "Aug 2011 \u2013 Dec 2012",
+      "responsibilities": [
+        "Managed the receptionist area, greeting visitors and responding to telephone and in\u2011person requests.",
+        "Designed electronic file systems and maintained electronic and paper files.",
+        "Organized files, developed spreadsheets, faxed reports, and scanned documents.",
+        "Handled all incoming and outgoing correspondence."
+      ]
+    },
+    {
+      "title": "1st and 2nd Grade Sunday School Teacher",
+      "company": "Company Name",
+      "duration": "Oct 2009 \u2013 May 2010",
+      "responsibilities": [
+        "Planned lessons and created classroom materials to instruct students about Judaism.",
+        "Established and enforced rules for behavior and procedures for maintaining order among a class of 18 students.",
+        "Created and enforced child\u2011based hands\u2011on curriculum to promote student interest and receptive learning."
+      ]
+    }
+  ],
+  "projects": []
+}

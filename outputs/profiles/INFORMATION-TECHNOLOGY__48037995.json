@@ -1,0 +1,99 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Patient and professional excellence oriented Pharmacist with Doctor of Pharmacy and Master in Science degrees. Nine years of retail experience providing outstanding pharmacy services in a high-volume setting. Strong background in science and clinical pharmacology and excellent interpersonal skills with a track record of establishing positive relationships with customers, co-workers, medical professionals, and insurance providers. Enthusiastic about acquiring new clinical knowledge and experience in a hospital setting.",
+  "total_experience_years": 19.0,
+  "skills": [
+    "Pharmacy dispensing",
+    "Drug interaction assessment",
+    "Clinical interventions",
+    "Patient care",
+    "Inventory management",
+    "Software proficiency",
+    "Analytical skills",
+    "Problem solving",
+    "Communication",
+    "Team leadership",
+    "Electronic equipment troubleshooting",
+    "Database management"
+  ],
+  "tools": [
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Access"
+  ],
+  "certifications": [
+    "In good standing with the Massachusetts Board of Pharmacy"
+  ],
+  "education": [
+    {
+      "degree": "Doctor of Pharmacy",
+      "institution": "Massachusetts College of Pharmacy and Health Science",
+      "graduation_year": "2002"
+    },
+    {
+      "degree": "Master of Science in Hardware Engineering",
+      "institution": "University of Information Technology, Mechanics and Optics",
+      "graduation_year": "1992"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Staff Pharmacist",
+      "company": "Company Name",
+      "duration": "12/2002 to 04/2009",
+      "responsibilities": [
+        "Managed ancillary staff to fulfill over 1,500 prescriptions weekly.",
+        "Consulted with physicians and patients on medication dosage, drug interactions, and side effects.",
+        "Dispensed and compounded prescriptions, maintaining accurate patient records.",
+        "Processed written, oral, and electronic prescriptions.",
+        "Conducted drug utilization reviews and therapy management.",
+        "Maintained inventory, ordering, returns, and inter-store transfers.",
+        "Ensured compliance with state and federal record\u2011keeping guidelines."
+      ]
+    },
+    {
+      "title": "Pharmacy Intern",
+      "company": "Company Name",
+      "duration": "01/1998 to 11/2002",
+      "responsibilities": [
+        "Assisted in dispensing medications and patient counseling.",
+        "Supported inventory management and record maintenance."
+      ]
+    },
+    {
+      "title": "Pharmacy Technician",
+      "company": "Company Name",
+      "duration": "12/1995 to 09/1998",
+      "responsibilities": [
+        "Prepared and dispensed medications under pharmacist supervision.",
+        "Maintained medication records and assisted with inventory."
+      ]
+    },
+    {
+      "title": "Electronics Technician",
+      "company": "Company Name",
+      "duration": "01/1990 to 11/1993",
+      "responsibilities": [
+        "Maintained and troubleshot electronic and computer\u2011based equipment.",
+        "Recorded precision measurements and completed database reports.",
+        "Supported engineering team as a customer service representative."
+      ]
+    },
+    {
+      "title": "Teaching Assistant / Laboratory Supervisor",
+      "company": "Company Name",
+      "duration": "01/1990 to 04/1991",
+      "responsibilities": [
+        "Supervised students during laboratory experiments.",
+        "Soldered and assembled laboratory equipment.",
+        "Maintained laboratory safety procedures."
+      ]
+    }
+  ],
+  "projects": []
+}

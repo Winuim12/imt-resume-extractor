@@ -1,0 +1,159 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Subject matter expert in HR Applications, highly effective at incorporating creative solutions to achieve business objectives and improve efficiency. Energetic HR Business Analyst who is self\u2011motivated, results\u2011driven with strong communication, analytical, problem\u2011solving and reasoning skills.",
+  "total_experience_years": 9.0,
+  "skills": [
+    "Analytical skills",
+    "Project management",
+    "Process improvement",
+    "Quality assurance and control",
+    "System applications implementation",
+    "Microsoft Office Suite expert",
+    "Working independently",
+    "Strong interpersonal skills",
+    "Results\u2011oriented",
+    "Fluent in English and Portuguese",
+    "Detail\u2011oriented",
+    "Troubleshooting",
+    "Problem solving",
+    "Advanced Excel",
+    "Access",
+    "Word",
+    "Visio",
+    "PowerPoint",
+    "VBA",
+    "SAP HCM",
+    "Success Factors (Compensation)",
+    "Microsoft Project Management",
+    "ServiceNow (ASKHR)",
+    "Smartsheet",
+    "Panaya",
+    "SilkRoad - Red Carpet"
+  ],
+  "tools": [
+    "Microsoft Office Suite",
+    "SAP HCM",
+    "Success Factors",
+    "ServiceNow",
+    "Smartsheet",
+    "Panaya",
+    "SilkRoad",
+    "Access",
+    "Excel",
+    "VBA",
+    "Visio",
+    "PowerPoint",
+    "Word",
+    "Microsoft Project"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BBA",
+      "institution": "Campbell University",
+      "graduation_year": "May 2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Consultant",
+      "company": "Company Name",
+      "duration": "10/2016 - present",
+      "responsibilities": [
+        "Analyzed HRIS business demands and gathered requirements for projects of varying scale.",
+        "Prepared Business Requirement Documents post\u2011PMO approval.",
+        "Facilitated communication between business units and IS.",
+        "Coordinated functional testing and ensured stakeholder objectives were met.",
+        "Documented system and process flows, and analyzed current and future processes.",
+        "Delivered user training and supported system security controls.",
+        "Managed user access requests and coordinated system application changes."
+      ]
+    },
+    {
+      "title": "Business System Applications Analyst",
+      "company": "Company Name",
+      "duration": "02/2014 - 04/2016",
+      "responsibilities": [
+        "Served as liaison between internal customers and IS for HRIS projects.",
+        "Provided business analysis expertise and led several HRIS initiatives.",
+        "Supported functional testing, user acceptance testing, and training.",
+        "Coordinated communications with business and vendors.",
+        "Documented and analyzed processes, mapped business needs, and ensured project delivery."
+      ]
+    },
+    {
+      "title": "HRIS Master Data Team Lead",
+      "company": "Company Name",
+      "duration": "06/2011 - 02/2014",
+      "responsibilities": [
+        "Trained HR specialists on system applications and processes.",
+        "Monitored data quality and accuracy with internal controls.",
+        "Implemented system changes with ADP IS for payroll and global requirements.",
+        "Ran payroll mass loads in SAP and created reports for stakeholders.",
+        "Designed and documented HR workflow processes."
+      ]
+    },
+    {
+      "title": "SAP Timekeeping Analyst",
+      "company": "Company Name",
+      "duration": "05/2009 - 11/2010",
+      "responsibilities": [
+        "Gathered business and government requirements for time calculations.",
+        "Collected time files for payroll processing and performed data reconciliation.",
+        "Resolved issues with business, employee services, and IS.",
+        "Implemented automated solutions using Access and Excel to improve data quality."
+      ]
+    },
+    {
+      "title": "HR Data and Applications Specialist",
+      "company": "Company Name",
+      "duration": "04/2007 - 05/2009",
+      "responsibilities": [
+        "Acted as SME for SAP HCM and other HR applications.",
+        "Supported finance and payroll activities across Canada and the US.",
+        "Collaborated on Sarbanes\u2011Oxley requirements and system enhancements.",
+        "Performed root\u2011cause analysis and managed corrective action plans.",
+        "Ran interface error reports and resolved data issues.",
+        "Provided training and support for HR shared services globally."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Red Carpet/Silkroad Onboarding Application",
+      "description": "Implemented an onboarding solution for US employees, improving onboarding experience and eliminating manual processes.",
+      "technologies": [
+        "SAP HCM",
+        "SilkRoad",
+        "Red Carpet"
+      ]
+    },
+    {
+      "name": "Master Data and Benefits Interface Projects",
+      "description": "Led interface projects for in\u2011house ERP implementation and Affordable Care Act integration with ADP.",
+      "technologies": [
+        "SAP HCM",
+        "ADP"
+      ]
+    },
+    {
+      "name": "Workers Compensation Report Project",
+      "description": "Designed and implemented a reporting solution for workers compensation data.",
+      "technologies": [
+        "SAP HCM",
+        "Excel"
+      ]
+    },
+    {
+      "name": "SAP HCM Compensation Project",
+      "description": "Acted as project liaison for compensation module enhancements.",
+      "technologies": [
+        "SAP HCM"
+      ]
+    }
+  ]
+}

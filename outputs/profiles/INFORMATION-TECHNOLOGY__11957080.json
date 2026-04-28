@@ -1,0 +1,174 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Driven Information Technology Professional with broad technical skill set. Known for ability to multi\u2011task and juggle multiple projects simultaneously, meeting all deadlines. Excels in customer support, training, and documentation. Most noted for customer service and teamwork expertise. Thrives in environments that continually embrace new technologies.",
+  "total_experience_years": 32.0,
+  "skills": [
+    "ASP .NET",
+    "Client/Server",
+    "Crystal Reports",
+    "Data analysis",
+    "Database design",
+    "Desktop Publishing",
+    "Equipment inventory",
+    "Front Office",
+    "Help desk",
+    "HTML web design",
+    "InDesign",
+    "Instruction",
+    "Linux",
+    "Logging",
+    "Macros",
+    "Publisher",
+    "Network administrator",
+    "Newsletter",
+    "Procurement",
+    "Repairs",
+    "SAP R/3",
+    "Software installation",
+    "SQL",
+    "Systems administration",
+    "Technical support",
+    "Training material",
+    "Tutoring",
+    "UNIX",
+    "Visual Studio",
+    "Web Applications",
+    "Web server"
+  ],
+  "tools": [
+    "MS Office Suite 2000-2016",
+    "Office 365",
+    "GroupWise",
+    "HEAT Call Logging",
+    "Crystal Reports",
+    "T3 VoiceMail",
+    "NetMotion",
+    "Novell iManager",
+    "Active Directory",
+    "Windows 2000/XP/7/8/10",
+    "UNIX",
+    "DOS",
+    "SQL Server",
+    "SQL compliant database software",
+    "HEAT",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "Microsoft Publisher",
+    "Microsoft Outlook",
+    "Visual Studio",
+    "ASP.NET",
+    "SAP R/3",
+    "Novell Open Enterprise Server",
+    "Dell Self Dispatch",
+    "Siemon cabling",
+    "FrontRange HEAT Administration"
+  ],
+  "certifications": [
+    "Microsoft Word XP Certification, Microsoft Office Specialist Program (Dec 2008)",
+    "Crystal Reports Design 9.0 Certification (May 2003)",
+    "New Horizons Course: OLL - Developing MS ASP .NET Web Applications Using Visual Studio (Apr 2005)",
+    "Novell Certificate in Implementing Novell Open Enterprise Server 2 for Linux (Oct 2007)",
+    "Graduate Certificate in Corporate Education (Aug 2009)",
+    "Pearson VUE Certified Test Administrator (Aug 2009)",
+    "Siemon Certification in Design Principles and Installation Practices (May 2010)",
+    "FrontRange HEAT Administration I (Dec 2011)",
+    "FrontRange HEAT Administration II (Nov 2013)",
+    "Dell Certification for Online Self Dispatch for Desktops and Notebooks (Feb 2014)",
+    "Microsoft Office Specialist (Word XP) (Dec 2008)",
+    "Microsoft Office Specialist (Word XP) (Dec 2008)"
+  ],
+  "education": [
+    {
+      "degree": "B.S. Business Administration, Management Information Systems",
+      "institution": "California State University",
+      "graduation_year": "May 2002"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Lead Information Technology Support Specialist",
+      "company": "Company Name",
+      "duration": "03/2016 to Current",
+      "responsibilities": [
+        "Lead worker functions: assign, coordinate, and review daily work of staff; train employees; act as resource to staff.",
+        "Help desk systems administration; develop and document procedures.",
+        "Coordinate with technical support, management, and users to define user needs; manage software deployments and PC replacements.",
+        "Manage hardware and software inventories."
+      ]
+    },
+    {
+      "title": "Information Technology Support Specialist",
+      "company": "Company Name",
+      "duration": "04/2007 to 03/2016",
+      "responsibilities": [
+        "Troubleshoot, install, program, configure, upgrade, analyze, and maintain computer and network peripherals.",
+        "Install, configure, and support enterprise\u2011class SQL compliant database software.",
+        "Document procedures for support personnel.",
+        "Provide timely support via in\u2011person, phone, or remote desktop sessions.",
+        "Create macros and research complex inquiries.",
+        "Monitor and maintain backup systems and server health.",
+        "Collaborate with vendors to develop hardware and software solutions.",
+        "Design and develop training material; conduct training classes.",
+        "Reduce equipment inventory process time by half through new scanners and customized worksheets.",
+        "Automate tasks in HEAT Call Logging screens to improve efficiency."
+      ]
+    },
+    {
+      "title": "End User Support Specialist",
+      "company": "Company Name",
+      "duration": "08/2004 to 03/2007",
+      "responsibilities": [
+        "Respond to help desk calls; log and track customer questions to resolution.",
+        "Analyze calls for problem symptoms and determine resolution.",
+        "Plan, develop, and teach software; coordinate deliverables.",
+        "Create and maintain class evaluation database.",
+        "Generate and analyze statistical data from HEAT call ticket database.",
+        "Maintain and update call tracking software and knowledge base.",
+        "Provide software training to all employees via web pages, classes, correspondence, or one\u2011on\u2011one assistance.",
+        "Conduct 34 software classes with 98% approval rating."
+      ]
+    },
+    {
+      "title": "Instructional Support Specialist",
+      "company": "Company Name",
+      "duration": "08/2002 to 05/2004",
+      "responsibilities": [
+        "Provide administrative support to instructors in Business Computer Information Systems Department.",
+        "Recommend improvements for methods, procedures, and equipment.",
+        "Design and maintain database of graduating students.",
+        "Provide instruction and tutoring in Microsoft Office, Computer Applications, Office Assistant, Medical Front Office Assistant, Legal Office Assistant, Desktop Publishing, and Medical Transcription.",
+        "Collaborate with technical support to recommend new hardware and software.",
+        "Maintain and update college website.",
+        "Assist Enterprise Networks department with lab computer installations and maintenance."
+      ]
+    },
+    {
+      "title": "Instructional Support Asst I",
+      "company": "Company Name",
+      "duration": "02/2002 to 05/2002",
+      "responsibilities": [
+        "Instruct Corporate IT students in database design, SAP R/3, and HTML web design.",
+        "Implement and document lab policies and procedures.",
+        "Lead documentation team for a computerized training solution.",
+        "Produce user guide and online help."
+      ]
+    },
+    {
+      "title": "Computer Systems Manager",
+      "company": "Company Name",
+      "duration": "06/1994 to 05/1997",
+      "responsibilities": [
+        "Manage customized church database with 6000+ entries; produce tailored reports.",
+        "Serve as network administrator; diagnose and implement solutions for routine hardware issues.",
+        "Edit weekly publications and prepare special publication projects."
+      ]
+    }
+  ],
+  "projects": []
+}

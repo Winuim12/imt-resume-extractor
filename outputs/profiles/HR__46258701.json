@@ -1,0 +1,103 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Highly efficient HR Coordinator well established in fast\u2011paced administrative environments.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "Interpersonal communication",
+    "Innovation",
+    "Microsoft Office Suite",
+    "HR audits",
+    "Confidentiality",
+    "Personnel records management",
+    "New hire orientation",
+    "Applicant Tracking System",
+    "EEO reporting",
+    "HRMS",
+    "People orientation",
+    "Organization",
+    "Recruiting"
+  ],
+  "tools": [
+    "Microsoft Office Suite",
+    "Applicant Tracking System",
+    "Kenexa BrassRing",
+    "SharePoint",
+    "SAP",
+    "Access",
+    "Excel",
+    "Outlook"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BA",
+      "institution": "DePaul University",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "09/2012 \u2013 Current",
+      "responsibilities": [
+        "Initiated and tracked background checks and drug tests",
+        "Conducted new hire onboarding and exit interviews",
+        "Posted requisitions and managed applicant flow via Kenexa BrassRing",
+        "Maintained EEO reporting spreadsheets",
+        "Administered performance review program",
+        "Managed personnel files and billing",
+        "Led best practices initiatives"
+      ]
+    },
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "06/2012 \u2013 09/2012",
+      "responsibilities": [
+        "Scheduled background checks and drug screens",
+        "Processed expense reports",
+        "Coordinated new hire HR sessions",
+        "Prepared HR materials",
+        "Point person for SOX compliance",
+        "Administered SAP reports",
+        "Managed internal events",
+        "Updated HR portal via SharePoint",
+        "Provided CPR and first aid"
+      ]
+    },
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "08/2008 \u2013 09/2011",
+      "responsibilities": [
+        "Scheduled background checks and drug screens",
+        "Processed expense reports",
+        "Coordinated new hire HR sessions",
+        "Prepared HR materials",
+        "Point person for SOX compliance",
+        "Administered SAP reports",
+        "Managed internal events",
+        "Updated HR portal via SharePoint",
+        "Provided CPR and first aid"
+      ]
+    },
+    {
+      "title": "Receptionist",
+      "company": null,
+      "duration": "02/2003 \u2013 03/2008",
+      "responsibilities": [
+        "Managed internship program recruitment",
+        "Posted positions and sourced candidates",
+        "Tracked candidates in Excel",
+        "Handled phone system",
+        "Updated employee directory"
+      ]
+    }
+  ],
+  "projects": []
+}

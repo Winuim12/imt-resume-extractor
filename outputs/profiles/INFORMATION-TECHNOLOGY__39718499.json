@@ -1,0 +1,58 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Enthusiastic, reliable recent graduate with an academic background in business and marketing. Strong leadership and management skills, seeking a career in the business field.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Audio Visual",
+    "Games",
+    "Coaching",
+    "Customer Service",
+    "Fast Learner",
+    "Receptionist",
+    "Retail Sales",
+    "Landscaping",
+    "Maintenance",
+    "Marketing",
+    "Microsoft Office",
+    "Internet Services"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Internet Services"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Utica College",
+      "graduation_year": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Assistant Football Coach",
+      "company": "Company Name",
+      "duration": "03/2014 to Current",
+      "responsibilities": [
+        "Assist in the design and execution of the offensive scheme for 60+ athletes including 20 wide receivers",
+        "Prepare field with all necessities for practices and games"
+      ]
+    },
+    {
+      "title": "Property Maintenance Assistant",
+      "company": "Company Name",
+      "duration": "09/2010 to Current",
+      "responsibilities": [
+        "Distribute media equipment to classrooms",
+        "Instruct professors through the application of Microsoft and Internet services",
+        "Answer phone calls and maintain an organized office for students and professors",
+        "Perform maintenance duties to enhance residential and commercial properties, including mowing, landscaping, and sealing driveways"
+      ]
+    }
+  ],
+  "projects": []
+}

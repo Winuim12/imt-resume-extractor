@@ -1,0 +1,99 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Experienced HR Generalist with a 9\u2011year career in military and corporate environments, skilled in recruitment, benefits administration, policy development, and conflict resolution.",
+  "total_experience_years": 9.0,
+  "skills": [
+    "HRIS",
+    "Benefits Administration",
+    "Recruitment",
+    "Employee Relations",
+    "Performance Management",
+    "Training & Development",
+    "Conflict Resolution",
+    "Policy Development",
+    "Compensation",
+    "Orientation & Onboarding",
+    "HR Program/Project Management",
+    "Organizational Development",
+    "Alternative Dispute Resolution (ADR)",
+    "Mediation",
+    "HR Records Management",
+    "HR Budget Management",
+    "MS Office",
+    "Excel",
+    "Word",
+    "PowerPoint",
+    "Access",
+    "Outlook"
+  ],
+  "tools": [
+    "UltiPro",
+    "PeopleSoft Enterprise Human Resources",
+    "ADP",
+    "MS Office"
+  ],
+  "certifications": [
+    "Certified Professional in Human Resources (PHR)",
+    "US Armed Forces HR Certification"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Applied Science",
+      "institution": "Ecotect Institute",
+      "graduation_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "12/2004 \u2013 01/2012",
+      "responsibilities": [
+        "Recruited and managed HR operations for a new branch in Germany, guiding startup and full\u2011spectrum HR programs.",
+        "Developed HR policies, procedures, benefits databases, and orientation, training, and incentive programs.",
+        "Managed leave of absence programs, personnel records, benefits enrollment, and HR budget.",
+        "Launched US Army office, implementing training, compensation, benefits, incentives, and new employee orientation.",
+        "Improved employee retention to 89% and negotiated salary offers and relocation packages.",
+        "Ensured workers' compensation compliance and reduced benefits costs by 15% annually.",
+        "Authored employee manual covering disciplinary procedures, FMLA, and benefits.",
+        "Introduced a formal performance review program and revised job descriptions across all levels."
+      ]
+    },
+    {
+      "title": "Supervisor",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Led HR functions for a home healthcare company with 4,500 professionals.",
+        "Recruited, trained, and managed employees; administered benefits; oversaw disciplinary action; maintained HR records.",
+        "Co\u2011chaired flexenrollment meetings, resolved conflicts, coordinated health fairs, and performed exit interviews.",
+        "Trained management on interviewing techniques and best practices.",
+        "Co\u2011developed standardized disciplinary procedures and incentive programs, boosting employee satisfaction.",
+        "Reworked orientation program and reduced reliance on external recruiters."
+      ]
+    },
+    {
+      "title": "HR Representative",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Handled recruiting, training, benefits administration, disciplinary action, and HR records management.",
+        "Co\u2011chaired flexenrollment meetings, resolved conflicts, coordinated health fairs, and performed exit interviews."
+      ]
+    },
+    {
+      "title": "HR Assistant",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Promoted to manage recruiting, training, benefits, disciplinary action, and HR records.",
+        "Co\u2011chaired flexenrollment meetings, resolved conflicts, coordinated health fairs, and performed exit interviews."
+      ]
+    }
+  ],
+  "projects": []
+}

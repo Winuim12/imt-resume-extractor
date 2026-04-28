@@ -1,0 +1,98 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Versatile Building Automation System engineer and IT professional with extensive experience in enterprise project lifecycle, network infrastructure, and building automation solutions. Strong background in project management, product support, and team leadership.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "System administration",
+    "Windows Server",
+    "VMware",
+    "Active Directory",
+    "Microsoft Exchange",
+    "Linux",
+    "Mac OS",
+    "Microsoft Dynamics",
+    "Access Control Security",
+    "Network engineering",
+    "Project management",
+    "Product support",
+    "Troubleshooting",
+    "Training"
+  ],
+  "tools": [
+    "VMware",
+    "Microsoft Exchange",
+    "Windows Server",
+    "Active Directory",
+    "Microsoft Dynamics"
+  ],
+  "certifications": [
+    "Certified Naval Information Systems Technician \u2013 First Class Petty Officer (E6)",
+    "Information Systems Security Professional (CISSP)",
+    "Microsoft Certified Systems Administrator (MCSA)",
+    "PMI - Project Management Professional (PMP)",
+    "ISA - Certified Automation Professional",
+    "Cisco Certified Network Associate (CCNA)",
+    "Cisco Certified Network Professional (CCNP)",
+    "Certified Security Professional (CCSP)",
+    "Video Teleconference Certified Expert",
+    "CompTIA Security+",
+    "CompTIA Network+",
+    "CompTIA A+",
+    "Certified Information Security Manager"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "University of Houston",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Maryland University College",
+      "graduation_year": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Manager - Information Technology and Building Automation Systems",
+      "company": "Company Name",
+      "duration": "October 2014 to Current",
+      "responsibilities": [
+        "Led a cross\u2011functional team of engineers, QAs, and UX designers to develop features and fix product defects.",
+        "Delivered detailed feature roadmaps with action items and project targets.",
+        "Leveraged customer experience insights to identify pain points and latent needs.",
+        "Managed an 8\u2011person local IT team, allocating resources and enforcing deadlines.",
+        "Conducted diagnostics, resolved problems, and provided technical assistance.",
+        "Worked on large enterprise and business\u2011critical applications.",
+        "Analyzed and configured packaged software to meet business and system requirements.",
+        "Configured, maintained, and performed performance analysis of enterprise\u2011class storage systems.",
+        "Provided second\u2011level support for workstation and server systems.",
+        "Served as technical lead for server infrastructure across development, QA, staging, and production.",
+        "Serviced electrical, pneumatic, mechanical, and microprocessor controls.",
+        "Analyzed, modified, and repaired digital control systems.",
+        "Set up, tested, and configured networks, desktops, laptops, and printers.",
+        "Created employee training materials and procedures for software and hardware protocols.",
+        "Diagnosed, installed, configured, and repaired computer systems and software."
+      ]
+    },
+    {
+      "title": "Information Systems Technician",
+      "company": "Company Name",
+      "duration": "July 2008 to July 2014",
+      "responsibilities": [
+        "Supported communications efforts in Operation Iraqi Freedom and Operation New Dawn, focusing on network security, Microsoft programs, and hardware installation/maintenance.",
+        "Installed, upgraded, and troubleshot networks, video teleconferencing systems, routers, servers, computers, switches, and sound systems.",
+        "Developed and reviewed specifications, standards, protocols, and inventory data, ensuring encryption of confidential information.",
+        "Maintained and monitored the server room, wireless network, and other server infrastructure.",
+        "Set up staff workstations with PCs, Macs, phones, and laptops.",
+        "Translated technical specifications into detailed product requirements.",
+        "Maintained audiovisual equipment, including overhead projectors, laptops, and video conferencing equipment."
+      ]
+    }
+  ],
+  "projects": []
+}

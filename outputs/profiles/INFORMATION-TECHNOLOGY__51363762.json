@@ -1,0 +1,130 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Information Technology Specialist with twenty-nine years of experience launching environments focused on telecommunications concepts, principles, methods, practices and solutions. Savvy, compassionate, impact\u2011oriented performer with attention to detail, technological know\u2011how, and lifecycle project planning expertise. Successfully manages accounts while analyzing technical requirements to ensure client and customer satisfaction and enterprise integrity. Consistently develops innovative and workable solutions to unique customer requirements. An effective IT Manager with a proven track record for building highly productive teams with healthy morale. Promotes security awareness ensuring sound security principles are implemented.",
+  "total_experience_years": 29.0,
+  "skills": [
+    "Interpersonal skills",
+    "Listening and perception",
+    "Writing",
+    "Information Technology SME",
+    "Timely",
+    "Efficient",
+    "Test and Evaluation",
+    "Leadership",
+    "Management",
+    "Project Management",
+    "Conflict Resolution",
+    "Cobol Programming",
+    "ADA Programming",
+    "Procurement Clerk",
+    "BPA",
+    "Acquisition Experience",
+    "Contracting Officer Representative (COR)",
+    "Formal Briefings",
+    "Customer Support",
+    "Information Security",
+    "Hardware",
+    "Network systems",
+    "Decision Making",
+    "Information Systems",
+    "IT Strategy",
+    "Local Area Network",
+    "Microsoft Certified Professional",
+    "Policies",
+    "Processes",
+    "Risk Assessment"
+  ],
+  "tools": [
+    "Cobol",
+    "ADA",
+    "Artemis Schedule Publisher"
+  ],
+  "certifications": [
+    "Security Plus",
+    "Microsoft Certified Professional (MCP)",
+    "Defense Acquisition University Training Course (ACQ 101, 130, 201, 2036)",
+    "Information Technology Level 3 certification (planned)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Pillar College",
+      "graduation_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "AMC Computer Specialist and Intern",
+      "company": "Company Name",
+      "duration": "Sep 1989 \u2013 Sep 1992",
+      "responsibilities": [
+        "Wrote COBOL programs to estimate cost for the Panama Canal Conflict.",
+        "Coordinated QA testing and post\u2011production testing.",
+        "Implemented system security and data assurance software.",
+        "Developed custom software solutions and oversaw deployment, configuration, and documentation.",
+        "Implemented and tested enhancement feature requests.",
+        "Resolved customer issues by debugging and creating defect fixes.",
+        "Drafted project work plans and organized stakeholder meetings.",
+        "Coordinated hardware acquisitions and coded user\u2011customizable applications."
+      ]
+    },
+    {
+      "title": "Computer Specialist (Special Assignment)",
+      "company": "Company Name",
+      "duration": "Jun 1992 \u2013 Oct 1993",
+      "responsibilities": [
+        "Assisted Lead Software Engineer in writing code to repair the Kiowa 58D helicopter computer module.",
+        "Conducted testing and evaluation of the repaired module.",
+        "TDY to Fort Bragg, N.C. for on\u2011vehicle testing.",
+        "Briefed 300 civilians and 60 soldiers on test and repair procedures.",
+        "Served as Lead Project Manager using Artemis Schedule Publisher to track electronic warfare systems and repair schedules."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "Sep 1992 \u2013 Sep 2011",
+      "responsibilities": [
+        "Managed principles, evaluation techniques, and systems management and planning.",
+        "Delivered customer support services including installation, configuration, troubleshooting, and training.",
+        "Served as the sole CECOM Command ADA Programmer."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "Sep 2011 \u2013 Current",
+      "responsibilities": [
+        "Acted as branch and division chief, leading IT strategy and security initiatives.",
+        "Worked as a SWE on Information Systems Security.",
+        "Implemented IT concepts and identified complex problem solutions.",
+        "Planned and delivered customer support services with LAN security expertise.",
+        "Analyzed, designed, and administered information systems and security programs.",
+        "Ensured confidentiality, integrity, and availability of information assets.",
+        "Provided Lead IT support to ATEC Headquarters."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Panama Canal Conflict Cost Estimation",
+      "description": "Developed two COBOL programs to estimate the cost of the Panama Canal Conflict, coordinating QA testing and implementing security measures.",
+      "technologies": [
+        "Cobol"
+      ]
+    },
+    {
+      "name": "Kiowa 58D Helicopter Computer Module Repair",
+      "description": "Wrote code, performed testing and evaluation, and briefed personnel on the repair of the Kiowa 58D helicopter computer module.",
+      "technologies": [
+        "Cobol",
+        "ADA",
+        "Artemis Schedule Publisher"
+      ]
+    }
+  ]
+}

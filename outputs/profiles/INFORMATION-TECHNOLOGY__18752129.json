@@ -1,0 +1,105 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "To pursue a caring and creative career, applying existing knowledge, acquiring new skills, and contributing effectively to the nation's future, while leveraging prior IT experience and early childhood education.",
+  "total_experience_years": 5.6,
+  "skills": [
+    "apple",
+    "Art",
+    "book",
+    "Oral",
+    "concept",
+    "conflict resolution",
+    "CPR",
+    "creativity",
+    "Designing",
+    "direction",
+    "Documentation",
+    "First Aid",
+    "Flash",
+    "fundraising",
+    "drawing",
+    "instruction",
+    "Materials",
+    "meetings",
+    "organizing",
+    "philosophy",
+    "express",
+    "Read",
+    "Recording",
+    "Safety",
+    "sound",
+    "teacher",
+    "Teaching",
+    "Transportation"
+  ],
+  "tools": [
+    "Flash"
+  ],
+  "certifications": [
+    "First Aid",
+    "CPR"
+  ],
+  "education": [
+    {
+      "degree": "B.E. Computer Science and Engineering",
+      "institution": "Folsom Lake College",
+      "graduation_year": "2016"
+    },
+    {
+      "degree": "H.S.C",
+      "institution": "Karunya Institute of Technology, Coimbatore",
+      "graduation_year": "2004"
+    },
+    {
+      "degree": "S.S.L.C",
+      "institution": "Sri Vijay Vidyalaya Matriculation HSS, Dharmapuri",
+      "graduation_year": "1998"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Analyst",
+      "company": "Company Name",
+      "duration": "09/2010 to 09/2011",
+      "responsibilities": [
+        "Designed organized classroom setups and positive learning environments.",
+        "Implemented theme-based activities and discussions to foster social, emotional, physical, and intellectual development.",
+        "Provided guidance and resources for hands\u2011on activities, encouraging student exploration.",
+        "Recorded student interests and shared progress with parents and caregivers."
+      ]
+    },
+    {
+      "title": "Technology Analyst",
+      "company": "Company Name",
+      "duration": "01/2010 to 08/2010",
+      "responsibilities": []
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Company Name",
+      "duration": "10/2006 to 06/2008",
+      "responsibilities": []
+    },
+    {
+      "title": "Project Engineer",
+      "company": "Company Name",
+      "duration": "07/2004 to 10/2006",
+      "responsibilities": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Modes of Transportation, Art and Play Activities",
+      "description": "Curriculum plan for 3\u20115 year olds focusing on vehicle sounds, shapes, safety, and creative play.",
+      "technologies": [
+        "Popsicle sticks",
+        "flash cards",
+        "board puzzles"
+      ]
+    }
+  ]
+}

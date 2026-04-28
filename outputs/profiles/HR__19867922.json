@@ -1,0 +1,134 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Seasoned HR professional with extensive experience in administrative support, onboarding, benefits administration, data management, and employee engagement initiatives across multiple markets.",
+  "total_experience_years": null,
+  "skills": [
+    "administrative duties",
+    "administrative support",
+    "attention to detail",
+    "basic",
+    "benefits",
+    "calendar maintenance",
+    "call center",
+    "copying",
+    "data analysis",
+    "databases",
+    "documentation",
+    "email",
+    "employee relations",
+    "expense reports",
+    "faxing",
+    "filing",
+    "forms",
+    "HRIS",
+    "human resources",
+    "leadership",
+    "notes",
+    "meetings",
+    "office",
+    "multi-tasking",
+    "organizational",
+    "payroll",
+    "policies",
+    "posters",
+    "presentations",
+    "reporting",
+    "research",
+    "scheduling",
+    "strategic",
+    "supervisor",
+    "telephone",
+    "typing"
+  ],
+  "tools": [
+    "ADP",
+    "Siebel",
+    "HRIS",
+    "Microsoft Office Suite"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Benedictine University",
+      "graduation_year": "2016"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Benedictine University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "04/2015 \u2013 Current",
+      "responsibilities": [
+        "Provided general administrative support including correspondence, forms, and reports.",
+        "Scheduled and coordinated staff meetings, maintained minutes and notes.",
+        "Generated confidential statistical reports on turnover, hires, benefits, and other HR metrics.",
+        "Collected onboarding documentation and ensured timely benefit enrollment in HRIS.",
+        "Processed new hire setups, pay changes, and benefit updates in HR systems.",
+        "Maintained and audited employee data and files.",
+        "Manually processed background checks, employment verifications, and full-cycle HR items.",
+        "Updated organizational chart and facilitated new hire orientation presentations.",
+        "Maintained confidentiality and data security for employee privacy.",
+        "Responded to inquiries from stakeholders, employees, and senior leadership.",
+        "Participated in committees to enhance employee engagement, manager training, and strategic HR initiatives."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "09/2012 \u2013 06/2014",
+      "responsibilities": [
+        "Processed background checks and drug screens for candidates.",
+        "Scheduled interviews and managed candidate onboarding.",
+        "Generated bi-weekly reports for the VP of Human Resources.",
+        "Ensured compliance with state and federal posters across 99 markets.",
+        "Audited new hire files and maintained employee confidentiality.",
+        "Managed databases such as ADP, Payforce, and Siebel.",
+        "Conducted weekly new hire orientations and managed WOTC program.",
+        "Coordinated training courses and assisted with various projects."
+      ]
+    },
+    {
+      "title": "HR Staffing Coordinator",
+      "company": "Company Name",
+      "duration": "08/2008 \u2013 04/2015",
+      "responsibilities": [
+        "Processed background checks and drug screens.",
+        "Scheduled interviews and managed candidate onboarding.",
+        "Generated bi-weekly reports for the VP of Human Resources.",
+        "Ensured compliance with state and federal posters.",
+        "Audited new hire files for 99 markets.",
+        "Maintained employee files and confidentiality.",
+        "Managed databases such as ADP, Payforce, and Siebel.",
+        "Conducted new hire orientation weekly.",
+        "Managed WOTC program and training courses.",
+        "Assisted with administrative duties and benefits enrollment."
+      ]
+    },
+    {
+      "title": "Executive Technical Associate",
+      "company": "Company Name",
+      "duration": "08/2008 \u2013 04/2015",
+      "responsibilities": [
+        "Assisted executives with scheduling, calendar maintenance, and email monitoring.",
+        "Prepared expense reports and managed travel arrangements.",
+        "Maintained utilization reports and scheduling databases for call center staff.",
+        "Facilitated office-wide system access and password management.",
+        "Scheduled appointments via IEX/Totalview and monitored service levels.",
+        "Prepared payroll-related documentation.",
+        "Generated weekly schedules in Totalview.",
+        "Coordinated office moves and equipment setup."
+      ]
+    }
+  ],
+  "projects": []
+}

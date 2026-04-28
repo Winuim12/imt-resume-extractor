@@ -1,0 +1,126 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Versatile HR professional with a strong benefits administration background and cross\u2011functional experience in HRIS, reporting, project management, vendor relations, regulations, employee relations, policies, training, candidate screening, and oversight.",
+  "total_experience_years": 18.0,
+  "skills": [
+    "administrative",
+    "ADP",
+    "backup",
+    "benefits",
+    "counseling",
+    "client",
+    "customer support",
+    "documentation",
+    "forms",
+    "HRIS",
+    "human resource",
+    "HR",
+    "law",
+    "director",
+    "market",
+    "Microsoft Office",
+    "payroll",
+    "PeopleSoft",
+    "personnel",
+    "policies",
+    "processes",
+    "reporting",
+    "researching",
+    "SAP",
+    "technical support",
+    "state and federal reporting",
+    "project management",
+    "vendor relation management",
+    "employee relations",
+    "training",
+    "candidate screening",
+    "interviewing",
+    "employee oversight"
+  ],
+  "tools": [
+    "Applaud",
+    "Colleague",
+    "SAP",
+    "ADP",
+    "PeopleSoft",
+    "Microsoft Office",
+    "Aon/Hewitt HRIS Systems"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "B.S",
+      "institution": "Western Michigan University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Shared Services Analyst",
+      "company": "Company Name",
+      "duration": "September 2015 \u2013 Current",
+      "responsibilities": [
+        "Provided customer support for HRIS questions and issues, researching and resolving policy and transactional queries related to PeopleSoft HRIS.",
+        "Assisted employees, managers, and HRBPs with inquiries and provided tier 1/2 support.",
+        "Audited and completed mass change and reorganization requests in PeopleSoft.",
+        "Performed periodic data audits and established guidelines for standard reports.",
+        "Completed HR transactional, payroll, and administrative activities as needed.",
+        "Suggested process improvements based on customer feedback.",
+        "Supported user acceptance testing of system updates and enhancements.",
+        "Conducted data audits to ensure data integrity and met reporting requests."
+      ]
+    },
+    {
+      "title": "Human Resources Representative",
+      "company": "Company Name",
+      "duration": "January 2014 \u2013 February 2015",
+      "responsibilities": [
+        "Administered all university benefits programs and communicated with vendors.",
+        "Maintained the Staff Compensation System and provided daily counseling on benefits and compensation.",
+        "Handled unemployment forms, exit interviews, and file reviews.",
+        "Interpreted personnel policies and provided training and outreach.",
+        "Supported retirees and backup to the Director of Human Resources Benefits & Compensation.",
+        "Recommended policy and procedure improvements."
+      ]
+    },
+    {
+      "title": "Benefits Manager/HRIS Specialist",
+      "company": "Company Name",
+      "duration": "June 2012 \u2013 January 2014",
+      "responsibilities": [
+        "Managed employee benefits programs and HRIS.",
+        "Documented HR processes and procedures for HRIS management.",
+        "Ensured compliance with state and federal employment and benefits law.",
+        "Oversaw benefit enrollment and served as primary contact for faculty, staff, and retirees.",
+        "Collaborated with vendors to resolve benefit issues."
+      ]
+    },
+    {
+      "title": "HR Specialist",
+      "company": "Company Name",
+      "duration": "December 2007 \u2013 July 2011",
+      "responsibilities": [
+        "Managed annual open enrollment and payroll-related functions.",
+        "Supervised worksheet and confirmation statement fulfillment.",
+        "Created test plans and conducted testing for the HR portal.",
+        "Maintained client research mailbox and resolved complex client issues.",
+        "Updated carrier files, imports, and exports."
+      ]
+    },
+    {
+      "title": "Specialist",
+      "company": "Company Name",
+      "duration": "November 2006 \u2013 December 2007",
+      "responsibilities": [
+        "Processed short\u2011term disability payments.",
+        "Administered leave of absence, including FMLA.",
+        "Reported metrics and maintained reporting processes."
+      ]
+    }
+  ],
+  "projects": []
+}

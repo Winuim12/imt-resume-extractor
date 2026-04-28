@@ -1,0 +1,90 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Human Resources professional with over 20 years of experience in generalist roles, specializing in employee onboarding, benefits administration, policy development, and volunteer background screening. Proven track record of improving retention, redesigning orientation processes, and leading business process restructuring initiatives.",
+  "total_experience_years": 23.0,
+  "skills": [
+    "Creative problem solving",
+    "Organized with attention to detail",
+    "Computer proficiency",
+    "Customer service",
+    "Benefits administration",
+    "Payroll",
+    "Records management",
+    "Employee relations",
+    "Onboarding and training",
+    "HRIS",
+    "MS Office Suite",
+    "ADP",
+    "Sage payroll"
+  ],
+  "tools": [
+    "Microsoft Office Suite",
+    "ADP",
+    "Sage payroll",
+    "HRIS"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Arts",
+      "institution": "Regent University",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Colorado State University",
+      "graduation_year": "1991"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Coordinator",
+      "company": "Girl Scouts of Gulfcoast Florida",
+      "duration": "12/2011 \u2013 Present",
+      "responsibilities": [
+        "Implemented new technology for volunteer information management and onboarding.",
+        "Oversaw volunteer approval and background screening for 1,000+ volunteers annually.",
+        "Designed and executed a company-wide orientation process.",
+        "Managed employee benefits enrollment, termination, and payroll disbursement.",
+        "Drafted and audited job postings and employee announcements.",
+        "Provided guidance on HR policies, procedures, and compliance.",
+        "Supported senior management in policy development and business process restructuring."
+      ]
+    },
+    {
+      "title": "Human Resources/Office Manager",
+      "company": "Company Name",
+      "duration": "06/2003 \u2013 04/2011",
+      "responsibilities": [
+        "Administered benefits and payroll for eligible employees.",
+        "Developed employee handbook and managed confidential personnel records.",
+        "Created and maintained employee tracking reports.",
+        "Led staff development training programs.",
+        "Supported CEO and sales team with operational workflow.",
+        "Handled confidential client information and resolved personnel issues."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Volunteer Records Restructuring",
+      "description": "Led a two-year project to restructure 20+ years of volunteer records, improving data accuracy and accessibility.",
+      "technologies": [
+        "HRIS",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Orientation Process Revamp",
+      "description": "Redesigned and implemented a comprehensive orientation program for all new hires, adopted company-wide.",
+      "technologies": [
+        "HRIS",
+        "Microsoft Office Suite"
+      ]
+    }
+  ]
+}

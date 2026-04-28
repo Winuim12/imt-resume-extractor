@@ -1,0 +1,119 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "7+ years of experience as an HR Partner with expertise in recruiting, onboarding, performance management, employee retention, staff development, conflict resolution, benefits, compensation, HR records, policies, and organizational development. Proven track record in negotiating win\u2011win compromises, developing team\u2011building programs, and optimizing HR processes.",
+  "total_experience_years": 7.0,
+  "skills": [
+    "benefits",
+    "budget",
+    "client",
+    "delivery",
+    "hiring",
+    "Human Resource",
+    "HR",
+    "Insurance",
+    "Leadership",
+    "People Management",
+    "Managerial",
+    "Managing",
+    "market",
+    "Mentor",
+    "MIS",
+    "negotiations",
+    "networking",
+    "Internet research",
+    "optimization",
+    "Organization Development",
+    "payroll",
+    "Performance Management",
+    "philosophy",
+    "policies",
+    "processes",
+    "promotion",
+    "Recruitment",
+    "recruiting",
+    "seminars",
+    "strategic"
+  ],
+  "tools": [
+    "SAP HR"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA, Human Resource Management",
+      "institution": "KIMS University, Karnataka University",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "Bachelors of Commerce",
+      "institution": "BNDC University, Karnataka University",
+      "graduation_year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Consulting",
+      "company": null,
+      "duration": "07/2009 \u2013 01/2014",
+      "responsibilities": [
+        "Reduced employee attrition by 5% through engagement programs.",
+        "Redesigned appraisal process into a comprehensive performance management system.",
+        "Defined career paths for technical and managerial roles.",
+        "Implemented reward and recognition optimization.",
+        "Developed internal job portal for collaborative sourcing.",
+        "Managed 360\u2011degree feedback for managers.",
+        "Conducted performance improvement plans and disciplinary actions.",
+        "Led people engagement surveys and action planning.",
+        "Organized All Minds Meet and fun team activities.",
+        "Handled retention, attrition, relocation, and transfer processes.",
+        "Maintained HRIS records, MIS reports, and headcount tracking.",
+        "Oversaw onboarding, payroll, benefits, training, and compliance."
+      ]
+    },
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "07/2008 \u2013 05/2009",
+      "responsibilities": [
+        "Supported recruitment planning and candidate sourcing.",
+        "Conducted interviews, reference checks, and salary negotiations.",
+        "Managed offer processes and onboarding activities."
+      ]
+    },
+    {
+      "title": "HR Assistant",
+      "company": null,
+      "duration": "05/2007 \u2013 06/2008",
+      "responsibilities": [
+        "Assisted with HR administrative tasks and employee records.",
+        "Supported payroll processing and benefits administration."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mentor Me Program",
+      "description": "Designed and managed a mentorship initiative to motivate high performers, leading to improved retention and career development.",
+      "technologies": []
+    },
+    {
+      "name": "Employee Appraisal Process Redesign",
+      "description": "Transformed the existing appraisal system into a comprehensive performance management framework.",
+      "technologies": []
+    },
+    {
+      "name": "Internal Job Portal",
+      "description": "Developed an internal portal to facilitate collaborative sourcing and internal mobility.",
+      "technologies": []
+    },
+    {
+      "name": "360\u00b0 Feedback for Managers",
+      "description": "Implemented a 360\u2011degree feedback mechanism to enhance managerial effectiveness.",
+      "technologies": []
+    }
+  ]
+}

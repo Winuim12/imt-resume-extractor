@@ -1,0 +1,114 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Seeking a position as an Information Technology Specialist. Over 5 years of IT experience in the U.S. Army, including 1+ year of supervisory experience. Trained personnel in IT equipment setup, troubleshooting, and installation. Managed inventory of over $1 million worth of equipment with zero losses. Holds Security and Microsoft certifications and a Secret Security Clearance.",
+  "total_experience_years": 5.0,
+  "skills": [
+    "Army",
+    "Cisco",
+    "counseling",
+    "customer assistance",
+    "database",
+    "documentation",
+    "Information Technology",
+    "inventory",
+    "IP",
+    "LAN",
+    "Windows 7",
+    "Network",
+    "personnel",
+    "policies",
+    "protocols",
+    "repairs",
+    "Routing",
+    "supervisor",
+    "test equipment",
+    "troubleshoot",
+    "WAN",
+    "Excellent communication techniques",
+    "Manufacturing systems integration",
+    "Multidisciplinary exposure",
+    "Design instruction creation",
+    "Project management",
+    "Complex problem solver",
+    "Advanced critical thinking"
+  ],
+  "tools": [
+    "SharePoint",
+    "Microsoft Excel",
+    "Microsoft Project",
+    "Microsoft Visio",
+    "Windows 7",
+    "Cisco",
+    "LAN/WAN protocols",
+    "Electronic test equipment"
+  ],
+  "certifications": [
+    "Windows 7 Certification (Microsoft)",
+    "Security Certification (Comptia)",
+    "Distinguished Graduate Certificate, Information Technology (Network Communications)",
+    "IT Network and Cisco Routing Certificate",
+    "IT Tech Prep"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "Northwest Florida State College",
+      "graduation_year": "2008"
+    },
+    {
+      "degree": "Diploma",
+      "institution": "Trumbull Career and Technical Center",
+      "graduation_year": "2001"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Supervisor",
+      "company": "Company Name",
+      "duration": "01/2011 to 05/2014",
+      "responsibilities": [
+        "Supervised up to 10 personnel, delegating tasks, conducting performance evaluations, and providing corrective counseling.",
+        "Trained personnel in IT equipment setup and use, adhering to policies and procedures.",
+        "Managed inventory of over $1 million worth of network communications equipment.",
+        "Acted as supervisor and maintained signal communications for Fort Bragg army base."
+      ]
+    },
+    {
+      "title": "Information Technology Technician",
+      "company": "Company Name",
+      "duration": "01/2009 to 01/2011",
+      "responsibilities": [
+        "Maintained communications equipment to relay confidential and secret information.",
+        "Used electronic test equipment to troubleshoot and repair malfunctioning communications equipment.",
+        "Set up and added computer systems to a communication network, installing operating systems, accessing stored programs, and utilizing IP addresses.",
+        "Received training in LAN/WAN protocols."
+      ]
+    },
+    {
+      "title": "Radiology Technologist",
+      "company": "Company Name",
+      "duration": "05/2008 to 09/2008",
+      "responsibilities": [
+        "Performed radiological examinations in a medical clinic.",
+        "Set up and adjusted medical devices or equipment.",
+        "Provided customer assistance, ensuring timely and accurate care.",
+        "Documented records via electronic database, maintaining confidentiality."
+      ]
+    },
+    {
+      "title": "Command Post Controller",
+      "company": "Company Name",
+      "duration": "10/2001 to 10/2005",
+      "responsibilities": [
+        "Provided command, control, communications, and information support during operations.",
+        "Received and relayed instructions and records, submitting manual and automated data products.",
+        "Disseminated time-sensitive critical information to senior leaders and support agencies."
+      ]
+    }
+  ],
+  "projects": []
+}

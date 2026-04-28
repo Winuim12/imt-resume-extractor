@@ -1,0 +1,176 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Senior IT professional with over 15 years of experience leading large IT operations and data center management. Skilled in infrastructure, networking, database administration, and project delivery. Strong analytical and leadership abilities, fully bilingual in English and Spanish.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "ADABAS",
+    "AIX",
+    "Application Development",
+    "Budgeting",
+    "Business Solution",
+    "CISCO",
+    "Coaching",
+    "Databases",
+    "Documentation",
+    "Edge",
+    "Forecasting",
+    "Frame Relay",
+    "IBM",
+    "DB2",
+    "Information Technology",
+    "Innovation",
+    "Leadership",
+    "Linux",
+    "Mentoring",
+    "Exchange",
+    "Office",
+    "SharePoint",
+    "Microsoft Windows",
+    "Enterprise",
+    "Networking",
+    "ORACLE",
+    "Performance Management",
+    "Personnel",
+    "Process Improvement",
+    "Programming",
+    "Project Management",
+    "Rehabilitation",
+    "Relational Databases",
+    "SCADA",
+    "Supervisory Control and Data Acquisition",
+    "Servers",
+    "Software Development",
+    "SQL",
+    "Staff Supervision",
+    "System Analysis and Design",
+    "Technical Management",
+    "Telecommunications",
+    "Tivoli",
+    "Track-It",
+    "Visio",
+    "Water Treatment"
+  ],
+  "tools": [
+    "Office",
+    "Project",
+    "Visio",
+    "SharePoint",
+    "Exchange",
+    "MSCCM",
+    "SolarWinds Orion",
+    "Tivoli",
+    "Track-It",
+    "Frame Relay",
+    "MPLS",
+    "FCIP",
+    "Enterasys",
+    "CISCO",
+    "Fortinet",
+    "VMWare ESX",
+    "Cloud Computing",
+    "IBM Enterprise z System",
+    "IBM Enterprise x Servers",
+    "z/OS",
+    "zVM",
+    "AIX",
+    "SUSE Linux",
+    "SQL",
+    "DB2",
+    "ORACLE",
+    "ADABAS"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Ph.D. in Organization and Management",
+      "institution": "Capella University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Educational Computing",
+      "institution": "Inter American University",
+      "graduation_year": null
+    },
+    {
+      "degree": "BSBA in Finance & Computers",
+      "institution": "University of Puerto Rico",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Bureau Deputy Director",
+      "company": null,
+      "duration": "January 2010 \u2013 Current",
+      "responsibilities": [
+        "Lead Infrastructure & Operations IT Service, 24x7.",
+        "Supervise four divisions: Programming & Applications, Networking & Communications, Desktop Services & Support, Operating Systems & Database.",
+        "Manage performance metrics and KPIs.",
+        "Oversee a department of 140 contractors and employees.",
+        "Administer infrastructure data network for 9,300 users across 250 sites.",
+        "Evaluate and implement cutting\u2011edge technology solutions for 53 IT projects."
+      ]
+    },
+    {
+      "title": "Information Technology Director",
+      "company": null,
+      "duration": "October 2009 \u2013 January 2010",
+      "responsibilities": [
+        "Provided technical leadership for a data center.",
+        "Supervised analysts, programmers, database administrators, and network/support staff.",
+        "Managed data center for 900 employees.",
+        "Developed IT project portfolio for Vocational Rehabilitation Administration.",
+        "Supported digitalization initiatives at the Department of Labor."
+      ]
+    },
+    {
+      "title": "Senior IT Project Manager",
+      "company": null,
+      "duration": "July 2004 \u2013 August 2009",
+      "responsibilities": [
+        "Directed multimillion\u2011dollar Monitoring and Controlling System.",
+        "Managed 185 plants of filtration and sewer water treatment with 1,540 facilities.",
+        "Supervised software analysts, programmers, and database administrators for compliance system implementations.",
+        "Implemented SCADA solutions."
+      ]
+    },
+    {
+      "title": "IT Business Consultant",
+      "company": null,
+      "duration": "January 2003 \u2013 June 2004",
+      "responsibilities": [
+        "Assisted with computer network and voice integration across 11 medical center locations.",
+        "Provided IT business solutions to individuals and organizations."
+      ]
+    },
+    {
+      "title": "Information Technology Business Consultant",
+      "company": null,
+      "duration": "January 2003 \u2013 August 2004",
+      "responsibilities": [
+        "Same as above."
+      ]
+    },
+    {
+      "title": "Professor",
+      "company": null,
+      "duration": "January 2003 \u2013 June 2003",
+      "responsibilities": [
+        "Taught courses in Optical Networking and System Analysis and Design."
+      ]
+    },
+    {
+      "title": "Professor",
+      "company": null,
+      "duration": "September 1999 \u2013 August 2003",
+      "responsibilities": [
+        "Taught graduate courses in Data Communication, Networks and Distributed Processing; Computer Concepts and Programming Tools; Relational Databases."
+      ]
+    }
+  ],
+  "projects": []
+}

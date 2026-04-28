@@ -1,0 +1,146 @@
+{
+  "candidate_name": "Kelly Simard",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "9 years of experience in Human Resources, benefit administration, employee relations, recruitment and onboarding, training and development, payroll administration, customer relations, and retail management. Skilled in developing workplace policies, training programs, problem solving, team leadership, and staff management.",
+  "total_experience_years": 18.0,
+  "skills": [
+    "Benefits Administration",
+    "Employee Relations",
+    "Human Resources",
+    "Payroll Administration",
+    "Training & Development",
+    "Recruitment",
+    "Onboarding",
+    "FMLA",
+    "STD",
+    "LTD",
+    "Open Enrollment",
+    "Random Drug Screening",
+    "Background Checks",
+    "MVR",
+    "Employee Recognition",
+    "Headcount & Turnover Reporting",
+    "Vendor Invoicing",
+    "HRIS Data Entry",
+    "Payroll Processing",
+    "Payroll Issue Guidance",
+    "Employee Engagement",
+    "Newsletter Creation",
+    "Budgeting",
+    "Accounts Payable",
+    "Accounts Receivable",
+    "Customer Service",
+    "Marketing Materials",
+    "Leadership Development",
+    "Leadership Skills",
+    "Training Program Design",
+    "Compliance (OFCCP, ERISA, COBRA, ADA)",
+    "Communication",
+    "Problem Solving",
+    "Team Leadership"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Outlook",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Prezi",
+    "Tableau",
+    "HRIS (Core, Core Advanced, Paychoice, Paychoice Online, Encore, Encore Online, ADI Time, Ultipro)",
+    "Hire Centric",
+    "Onboarding Hire Centric",
+    "Auto-Bene",
+    "Taleo",
+    "SuccessFactors"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Masters of Science",
+      "institution": "New England College of Business and Finance",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "Bachelor's",
+      "institution": "New England College of Business and Finance",
+      "graduation_year": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "11/2015 \u2013 Current",
+      "responsibilities": [
+        "Provide HR support across multiple locations in the US, Canada, and Mexico.",
+        "Process new hires, terminations, and employee changes in HRIS and benefit vendor systems.",
+        "Manage payroll, benefits, and employee issues for union and non\u2011union environments.",
+        "Act as liaison with benefit vendors and handle short\u2011term disability, FMLA, and Workers\u2019 Compensation claims.",
+        "Lead recruiting activities: job postings, candidate selection, interviews, and offer processing.",
+        "Maintain Random Drug Screening Program and perform background checks.",
+        "Administer employee recognition programs and prepare headcount/turnover reports.",
+        "Oversee annual Open Enrollment and vendor invoicing."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "09/2014 \u2013 06/2015",
+      "responsibilities": [
+        "Supported HR for ~150 employees in Massachusetts, 15 remote, and 6 in Canada.",
+        "Managed full\u2011cycle recruiting and onboarding.",
+        "Ran weekly and semi\u2011monthly payrolls.",
+        "Designed and delivered training programs on HR systems, leadership, and management.",
+        "Administered leave programs (FMLA, STD, LTD) and benefit enrollment.",
+        "Prepared annual affirmative action plan and ensured OFCCP compliance."
+      ]
+    },
+    {
+      "title": "Client Care Payroll Specialist",
+      "company": "Company Name",
+      "duration": "03/2012 \u2013 09/2014",
+      "responsibilities": [
+        "Provided payroll reporting and client support.",
+        "Advised on HR policies, benefits, and tax matters.",
+        "Resolved payroll and leave record issues.",
+        "Supported audits, training, and information distribution.",
+        "Co\u2011authored office newsletter and led employee engagement committee."
+      ]
+    },
+    {
+      "title": "Office Manager, Marketing Assistant and Customer Relations Administrator",
+      "company": "Company Name",
+      "duration": "07/2011 \u2013 03/2012",
+      "responsibilities": [
+        "Developed marketing materials and managed website content.",
+        "Handled customer service inquiries and order processing.",
+        "Created customer service surveys and tracking system.",
+        "Managed budgeting, invoicing, accounts receivable/payable, and inventory."
+      ]
+    },
+    {
+      "title": "Customer Support Representative",
+      "company": "Company Name",
+      "duration": "03/2008 \u2013 07/2011",
+      "responsibilities": [
+        "Performed administrative duties to support call center operations.",
+        "Led departmental activity committee."
+      ]
+    },
+    {
+      "title": "Senior Payroll Support Specialist",
+      "company": "Company Name",
+      "duration": "08/2004 \u2013 10/2007",
+      "responsibilities": [
+        "Developed and delivered payroll training on fringe benefits and year\u2011end processes.",
+        "Managed client payroll support for over 300 clients.",
+        "Created and filed amended tax returns.",
+        "Trained employees on payroll regulations and benefits."
+      ]
+    }
+  ],
+  "projects": []
+}

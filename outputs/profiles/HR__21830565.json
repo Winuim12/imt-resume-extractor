@@ -1,0 +1,101 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Certified Human Resources Professional with 15 years of experience in full HR functions, including employee management, hiring, training, and compliance. Skilled in integrating HR practices to achieve business results.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Training and development",
+    "Recruiting",
+    "Exceptional interpersonal skills",
+    "Manager coaching and training",
+    "Performance management",
+    "Employment law compliance",
+    "Employee relations",
+    "HR metrics",
+    "Conflict resolution",
+    "Change management"
+  ],
+  "tools": [
+    "Oracle HR",
+    "Compensation surveys",
+    "FMLA/CFRA/PDL compliance tools",
+    "ISO9001 audit tools"
+  ],
+  "certifications": [
+    "PHR",
+    "GPHR",
+    "SHRM-SCP"
+  ],
+  "education": [
+    {
+      "degree": "B.S. Pharmacology",
+      "institution": "University of Dundee, Scotland",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Consultant",
+      "company": "Company Name",
+      "duration": "July 2014 \u2013 December 2014",
+      "responsibilities": [
+        "Partnered with legal department of a multi\u2011state client (40,000+ employees) to establish ADAAA and other workplace compliance.",
+        "Identified and updated backlog of LOA and accommodation issues."
+      ]
+    },
+    {
+      "title": "Human Resource Specialist",
+      "company": "Company Name",
+      "duration": "August 2008 \u2013 June 2014",
+      "responsibilities": [
+        "Advised diverse clients on HR solutions and compliance with state and federal laws.",
+        "Designed performance evaluation and merit programs.",
+        "Implemented exit interview and interview programs.",
+        "Created and modified job descriptions across departments.",
+        "Developed employee handbooks and training materials.",
+        "Managed confidential personnel records and background checks.",
+        "Recruited and interviewed applicants, increasing workforce by a significant percentage.",
+        "Implemented incentive programs that boosted productivity."
+      ]
+    },
+    {
+      "title": "Human Resource Generalist",
+      "company": "Company Name",
+      "duration": "April 2007 \u2013 April 2008",
+      "responsibilities": [
+        "Interpreted and implemented company policy with focus on employment law.",
+        "Coached managers on employee relations and performance management.",
+        "Acted as liaison during organizational process changes.",
+        "Managed leaves of absence, workers\u2019 compensation, and I\u20119 compliance.",
+        "Created compliance rectification processes."
+      ]
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": "Company Name",
+      "duration": "January 2003 \u2013 January 2007",
+      "responsibilities": [
+        "Supported HR for 3 sites with over 600 employees.",
+        "Managed LOA including FMLA, CFRA, and PDL.",
+        "Coached on compliance, employee relations, and disciplinary actions.",
+        "Responded to EDD, FEHA, and hotline complaints, avoiding litigation.",
+        "Developed training programs to reduce turnover and improve productivity.",
+        "Implemented Oracle HR and managed compensation surveys.",
+        "Conducted new hire orientation and harassment prevention training."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Company Name",
+      "duration": "January 2000 \u2013 January 2001",
+      "responsibilities": [
+        "Provided general support to HR department and director.",
+        "Managed company events, recreation programs, and benefits inquiries."
+      ]
+    }
+  ],
+  "projects": []
+}

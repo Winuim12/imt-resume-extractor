@@ -1,0 +1,104 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "My goal is to obtain a position where I can utilize and enhance my education and skills.",
+  "total_experience_years": 9.0,
+  "skills": [
+    "Excellent communication",
+    "Self\u2011directed",
+    "Accurate and detailed",
+    "Independent worker",
+    "Strong organizational",
+    "Energetic work attitude",
+    "Courteous demeanor",
+    "Conflict resolution",
+    "Multi\u2011tasking",
+    "Customer service",
+    "Teamwork",
+    "Computer literacy"
+  ],
+  "tools": [],
+  "certifications": [
+    "Basic Life Support (BLS)",
+    "Electrocardiography Certification (EKG)"
+  ],
+  "education": [
+    {
+      "degree": "High School Diploma",
+      "institution": "Southwest Career and Technical Academy",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Four\u2011year Hospitality Program \u2013 Minor in Marketing",
+      "institution": "Southwest Career and Technical Academy",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Pre\u2011Nursing Major (Prerequisites Completed)",
+      "institution": "College of Southern Nevada",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "DIRECTV HR Recruiter / Administration",
+      "company": "DIRECTV",
+      "duration": "11/2014 \u2013 Current",
+      "responsibilities": [
+        "Generated new hire paperwork and maintained government documents",
+        "Managed new employee onboarding and documentation",
+        "Created badges, packets, and copies for new hires",
+        "Transferred 125 MSO sheets into the computer weekly",
+        "Posted job ads and sourced candidates",
+        "Conducted phone interviews and scheduled appointments",
+        "Coordinated office and staff issues for a team of 10 employees",
+        "Updated employee accounts and created databases for inventory management",
+        "Improved filing systems and prepared agreement packets",
+        "Handled confidential employee information"
+      ]
+    },
+    {
+      "title": "Hostess",
+      "company": "Company Name",
+      "duration": "09/2014 \u2013 11/2014",
+      "responsibilities": [
+        "Greeted customers and answered phones professionally",
+        "Managed reservations and guided guests to tables",
+        "Used OpenTable for reservations and seating",
+        "Resolved customer issues calmly and efficiently"
+      ]
+    },
+    {
+      "title": "Hostess / Cashier / Busser / Food Runner / Expo",
+      "company": "Company Name",
+      "duration": "09/2013 \u2013 09/2014",
+      "responsibilities": [
+        "Provided customer service and answered phones",
+        "Handled cash and processed orders",
+        "Delivered food promptly and maintained cleanliness",
+        "Prepared salads and side dishes, restocked supplies",
+        "Communicated with kitchen staff to ensure correct orders"
+      ]
+    },
+    {
+      "title": "Event Coordinator \u2013 Coyote U\u2011Night Community Fundraiser",
+      "company": "Company Name",
+      "duration": "02/2012",
+      "responsibilities": [
+        "Brainstormed event ideas and oversaw budget plans",
+        "Coordinated five groups and managed advertisement distribution",
+        "Communicated with 100 teachers and ensured safety for 2,000 attendees"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Coyote U\u2011Night Community Fundraiser",
+      "description": "Coordinated a large community fundraiser, managing budgets, advertising, and safety for 2,000 attendees.",
+      "technologies": []
+    }
+  ]
+}

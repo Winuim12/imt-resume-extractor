@@ -1,0 +1,99 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Human Resources Generalist with extensive experience in onboarding, payroll, benefits, compensation, HR policies, and training & development.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Payroll",
+    "Benefits Administration",
+    "Employment Law",
+    "FMLA/ADA/EEO/WC",
+    "HR Policies & Procedures",
+    "Staffing & Retention",
+    "Employee Relations",
+    "HR Program/Project Management",
+    "Orientation & On-Boarding",
+    "HRIS Technologies",
+    "Training & Development",
+    "Performance Management"
+  ],
+  "tools": [
+    "Halogen",
+    "Fidelity",
+    "Kelly",
+    "Discovery Benefits",
+    "PCR Applicant Tracking System",
+    "Applicant One",
+    "ADP",
+    "Del-Tek",
+    "Reynolds",
+    "Microsoft Office",
+    "Content Management System"
+  ],
+  "certifications": [
+    "Essentials of HR Seminar",
+    "Form I-9 and E-Verify by SHRM",
+    "Certificate of Excellence in the Major of Management",
+    "Presentation Skills Training",
+    "Corporate Grooming and Business Etiquette Training",
+    "Malaysia Leadership Conference"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Management",
+      "institution": "George Mason University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate of Arts and Science in Business Administration",
+      "institution": "Lord Fairfax Community College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "12/2015 \u2013 Current",
+      "responsibilities": [
+        "Processed bi\u2011weekly benefits deductions and managed payroll in Fidelity.",
+        "Administered training and development programs, including ACA compliance and FMLA/ADA processes.",
+        "Managed worker\u2019s compensation cases, OSHA reporting, and PTO donation programs.",
+        "Conducted onboarding, orientation, and background checks for new hires.",
+        "Maintained HRIS systems (Halogen, Del\u2011Tek) and led LMS (BizLibrary) compliance training."
+      ]
+    },
+    {
+      "title": "HR/Payroll Coordinator",
+      "company": null,
+      "duration": "07/2015 \u2013 12/2015",
+      "responsibilities": [
+        "Processed weekly payroll, manual checks, and commissions across three dealership locations.",
+        "Handled employment verification, I\u20119, and wage garnishment processes.",
+        "Supported onboarding documentation and answered employee payroll/benefits queries."
+      ]
+    },
+    {
+      "title": "Human Resources Communications Executive",
+      "company": null,
+      "duration": "04/2012 \u2013 02/2012",
+      "responsibilities": [
+        "Organized monthly new executive orientation and internal newsletters.",
+        "Coordinated large-scale internal events for 13,000 employees."
+      ]
+    },
+    {
+      "title": "Human Resources Executive Secretary",
+      "company": null,
+      "duration": "02/2011 \u2013 04/2012",
+      "responsibilities": [
+        "Managed HR department events, meetings, and senior executive calendars.",
+        "Prepared SOP manuals, meeting minutes, and handled general HR administrative tasks."
+      ]
+    }
+  ],
+  "projects": []
+}

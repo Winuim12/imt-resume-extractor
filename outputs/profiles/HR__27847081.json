@@ -1,0 +1,104 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Passionate HR Specialist with over 10 years of experience in recruitment, employee relations, HR systems administration, and policy compliance. Skilled in managing personnel data, training programs, and performance evaluation processes.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "HR systems administration",
+    "recruitment & hiring",
+    "employee relations",
+    "payroll",
+    "performance management",
+    "project management",
+    "budget management",
+    "purchasing",
+    "time management",
+    "multi\u2011tasking",
+    "interpersonal communication",
+    "customer service",
+    "oral & written communication",
+    "coaching & training",
+    "data analysis",
+    "database management",
+    "SAP",
+    "shipping operations",
+    "Microsoft Office"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Outlook",
+    "SAP",
+    "macros"
+  ],
+  "certifications": [
+    "Human Resource (AIT, 2008)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Grantham University",
+      "graduation_year": "2018"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist / Horizontal Engineer",
+      "company": "Company Name",
+      "duration": "09/2007 \u2013 Current",
+      "responsibilities": [
+        "Managed end\u2011to\u2011end recruitment processes including head\u2011hunting, screening, interviewing, background checks, and onboarding.",
+        "Conducted employee orientations and processed new\u2011hire paperwork to ensure compliance.",
+        "Created, organized, and maintained personnel files and HR database.",
+        "Coordinated employee training and development programs.",
+        "Communicated policy changes to management and executives.",
+        "Provided administrative support for all HR functions, including filing, correspondence, and meeting preparation."
+      ]
+    },
+    {
+      "title": "Shipping Clerk",
+      "company": "Company Name \u2013 City, State",
+      "duration": "03/2015 \u2013 Current",
+      "responsibilities": [
+        "Processed customer, work, and shipping orders to determine items for movement.",
+        "Served as go\u2011to person for shipping process questions and issue resolution.",
+        "Trained new hires on shipping operations and reported progress to supervisors.",
+        "Gathered and verified data via SAP, producing nightly reports for the team."
+      ]
+    },
+    {
+      "title": "Lead / Report Specialist",
+      "company": "Company Name \u2013 City, State",
+      "duration": "07/2014 \u2013 01/2015",
+      "responsibilities": [
+        "Performed financial data analysis and implemented improved reporting tools.",
+        "Prepared presentations and developed project plans.",
+        "Automated manual data processes using macros.",
+        "Created charts and graphs for data visualization.",
+        "Drafted proposals and web analytics reports."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Employee Evaluation Process Improvement",
+      "description": "Developed a new employee evaluation process that led to marked performance improvements.",
+      "technologies": [
+        "HR systems",
+        "performance metrics"
+      ]
+    },
+    {
+      "name": "Departmental Procedures Manual",
+      "description": "Created a comprehensive departmental procedures manual to standardize processes and improve efficiency.",
+      "technologies": [
+        "Microsoft Word",
+        "Microsoft Excel"
+      ]
+    }
+  ]
+}

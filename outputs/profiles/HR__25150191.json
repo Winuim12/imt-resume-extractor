@@ -1,0 +1,95 @@
+{
+  "candidate_name": "April Bradford",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Forward-thinking professional with various experience in human resources, sales, customer service and education, offering excellent communication and computer skills; highly organized and meticulous.",
+  "total_experience_years": 9.0,
+  "skills": [
+    "MS Office Suite",
+    "Self-motivated",
+    "Team leadership",
+    "Meeting deadlines",
+    "Time management",
+    "Benefits",
+    "Interpersonal skills",
+    "Data entry",
+    "Database",
+    "Email",
+    "Filing",
+    "HR",
+    "Leadership",
+    "Multi-tasking",
+    "Payroll",
+    "Policies",
+    "Processes",
+    "Recruitment",
+    "Staffing",
+    "Telephone etiquette"
+  ],
+  "tools": [
+    "MS Office Suite"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Strayer University",
+      "graduation_year": "2013"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Fayetteville State University",
+      "graduation_year": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Contact Center Specialist",
+      "company": "Company Name",
+      "duration": "07/2016 \u2013 Current",
+      "responsibilities": [
+        "Answer and resolve employee and people\u2011manager issues, including navigational support and corrective transactions.",
+        "Provide guidance on HR processes such as year\u2011end compensation, resource planning, and employee data changes.",
+        "Administer employee programs (service recognition, PTO/Vacation entitlement, time administration).",
+        "Maintain audit, compliance, and regulatory requirements.",
+        "Support HR policies, benefits, payroll, and employee programs across HR systems.",
+        "Participate in new hire training, women in leadership initiatives, and quality improvement projects."
+      ]
+    },
+    {
+      "title": "Admissions Representative",
+      "company": "Company Name",
+      "duration": "10/2014 \u2013 07/2016",
+      "responsibilities": [
+        "Conduct face\u2011to\u2011face, telephone, and email interviews to identify student prospects.",
+        "Mentor students through the admissions process.",
+        "Ensure compliance with company policies, laws, and regulations.",
+        "Participate in retention efforts and maintain contact with active students."
+      ]
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "company": "Company Name",
+      "duration": "05/2014 \u2013 10/2014",
+      "responsibilities": [
+        "Maintain assessment database and coordinate job fairs.",
+        "On\u2011site interview coordination, e\u2011verify processing, and payroll data entry.",
+        "Update payroll records, resolve discrepancies, and compile interview packages.",
+        "Perform background checks and manage front\u2011desk operations."
+      ]
+    },
+    {
+      "title": "Branch Coordinator",
+      "company": "Company Name",
+      "duration": "03/2014 \u2013 05/2014",
+      "responsibilities": [
+        "Maintain filing systems and manage front\u2011desk operations.",
+        "Answer and screen incoming calls, schedule orientations, and track applicant flow.",
+        "Perform weekly data entry of applications and manage office traffic."
+      ]
+    }
+  ],
+  "projects": []
+}

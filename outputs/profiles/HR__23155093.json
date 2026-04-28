@@ -1,0 +1,151 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "To obtain a position that offers many opportunities for growth and development that will enhance my existing knowledge in Management and Leadership. In return, I will give my very best to the company so it can achieve its goals and aspirations to continue future success.",
+  "total_experience_years": 27.0,
+  "skills": [
+    "Management",
+    "Administrative Support",
+    "Coach",
+    "Excellent communication skills",
+    "Customer service",
+    "French",
+    "Human resources",
+    "Leadership",
+    "Team Lead",
+    "Mentor",
+    "Effective communicator",
+    "Project Management",
+    "Project Lead",
+    "Researching",
+    "Spanish",
+    "Supervision",
+    "Providing focus and direction",
+    "Motivating employees",
+    "Accuracy and attention to detail",
+    "Ability to work as part of a team",
+    "Effective influencing skills",
+    "Strong analytical and problem solving skills",
+    "Strong work ethic",
+    "Professionalism",
+    "Excellent interpersonal skills",
+    "Planning and organizational skills",
+    "Team player"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Access",
+    "Microsoft PowerPoint",
+    "Microsoft Publisher",
+    "Microsoft Outlook",
+    "Microsoft Visio",
+    "Lotus Notes"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BAS",
+      "institution": "St. Petersburg College",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "St. Petersburg College",
+      "graduation_year": "2010"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Arthur Community College",
+      "graduation_year": "1996"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": null,
+      "duration": "04/2015 to Current",
+      "responsibilities": [
+        "Supervised, coached, and counseled staff.",
+        "Guided employees through employment processes, including corrective action and documentation.",
+        "Resolved complex policy issues and conducted investigations.",
+        "Provided guidance for employee development, transfer, and promotion.",
+        "Managed annual talent review, performance goal setting, performance review, development planning, and compensation planning.",
+        "Designed and facilitated new employee assimilation, orientation, coaching sessions, team building, and interventions.",
+        "Mentored less experienced staff.",
+        "Participated in special projects and other duties as assigned."
+      ]
+    },
+    {
+      "title": "Office Operations Manager",
+      "company": null,
+      "duration": "04/2013 to 03/2015",
+      "responsibilities": [
+        "Provided first point of contact and daily administrative support to leadership and executive staff.",
+        "Implemented quality improvement ideas and conducted monthly audits of security policies.",
+        "Communicated team performance and attendance directly to the Vice President.",
+        "Planned, managed, and communicated special projects and events such as employee recognition programs and community activities.",
+        "Prepared customer correspondence.",
+        "Served as liaison between support staff and other divisions.",
+        "Assisted with day\u2011to\u2011day HR operations including employee orientation, development, and record\u2011keeping."
+      ]
+    },
+    {
+      "title": "Customer Support Manager",
+      "company": null,
+      "duration": "10/2012 to 03/2013",
+      "responsibilities": [
+        "Managed an email support team of ten members.",
+        "Trained new employees on systems and customer handling skills.",
+        "Led multiple projects, planning, executing, and ensuring timely completion.",
+        "Handled escalated customer issues."
+      ]
+    },
+    {
+      "title": "Teller",
+      "company": null,
+      "duration": "02/2010 to 08/2011",
+      "responsibilities": [
+        "Processed customer transactions and managed finances.",
+        "Recorded transactions accurately and in compliance with bank procedures.",
+        "Ensured compliance with internal controls and policies.",
+        "Advised customers on bank products and services."
+      ]
+    },
+    {
+      "title": "Retail Support",
+      "company": null,
+      "duration": "02/2008 to 01/2010",
+      "responsibilities": [
+        "Supervised and trained new hires and junior staff on work procedures, systems, and processes.",
+        "Acted as a mentor and peer coach.",
+        "Provided retail customer service and sales via telephone and email."
+      ]
+    },
+    {
+      "title": "Administration / Customer Services / Mentor",
+      "company": null,
+      "duration": "02/2007 to 01/2008",
+      "responsibilities": [
+        "Kept records of customer interactions and transactions.",
+        "Prepared correspondence and maintained files.",
+        "Assisted the public by answering inquiries, investigating situations, and resolving problems."
+      ]
+    },
+    {
+      "title": "Flight Attendant/Purser",
+      "company": null,
+      "duration": "11/1998 to 01/2007",
+      "responsibilities": [
+        "Acted as Purser, preparing reports on passenger details and inventory.",
+        "Maintained records of customer interactions and complaints.",
+        "Served as liaison between pilot and passengers.",
+        "Supervised junior flight attendants and managed staff briefings."
+      ]
+    }
+  ],
+  "projects": []
+}

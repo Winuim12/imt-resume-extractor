@@ -1,0 +1,165 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Senior VP of Information Technology with 14 years of experience leading IT operations in the financial services industry, overseeing infrastructure, vendor management, disaster recovery, and system migrations.",
+  "total_experience_years": 14.0,
+  "skills": [
+    "Leadership",
+    "Team Building",
+    "Training",
+    "Budgeting",
+    "Operational Cost Management",
+    "Goal Setting",
+    "Business Planning",
+    "Policy & Procedure Creation",
+    "Conflict Resolution",
+    "Productivity Improvement",
+    "IT Security",
+    "Project Management",
+    "Vendor Relations",
+    "Data Center Operations",
+    "Operating System Administration",
+    "Active Directory",
+    "SharePoint",
+    "Exchange Server",
+    "Virtualization",
+    "Network Design",
+    "Disaster Recovery",
+    "Business Continuity",
+    "Market Data Integration",
+    "FIX Connectivity",
+    "Order Management Systems"
+  ],
+  "tools": [
+    "Windows 7",
+    "Windows XP",
+    "Windows Server 2013",
+    "Windows Server 2008",
+    "Windows Server 2003",
+    "Microsoft Active Directory",
+    "Microsoft SharePoint",
+    "Microsoft Exchange Server",
+    "VMware",
+    "Trend Micro",
+    "Cisco Routers",
+    "Cisco Switches",
+    "Palo Alto",
+    "EMC Storage",
+    "Bloomberg Terminal",
+    "FactSet",
+    "Fidessa",
+    "Tethys",
+    "Lava",
+    "LEK",
+    "ICE",
+    "Tradeware",
+    "Reuters Eikon",
+    "Thomson One",
+    "Reuters Station",
+    "Instinet",
+    "NASDAQ Trader",
+    "Advent"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "B.S. Computer Science",
+      "institution": "Montclair State University",
+      "graduation_year": "1999"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior VP - Information Technology",
+      "company": null,
+      "duration": "08/2014 \u2013 09/2015",
+      "responsibilities": [
+        "Directed global IT operations for a high\u2011yield and distressed debt trading firm.",
+        "Coordinated NYC office relocation and full hardware refresh.",
+        "Migrated legacy VPN to Toronto\u2011based MPLS network.",
+        "Implemented NJ data center for high\u2011availability trading operations.",
+        "Reduced capital expenditure by $1.5M through VM environment deployment.",
+        "Led migration of PBX to VoIP and video conferencing.",
+        "Established disaster recovery plan with Stamford, CT as DR site.",
+        "Negotiated vendor contracts and managed Bloomberg terminal and FIX connections."
+      ]
+    },
+    {
+      "title": "Chief Information Officer",
+      "company": null,
+      "duration": "01/2006 \u2013 08/2014",
+      "responsibilities": [
+        "Oversaw technology strategy for fixed\u2011income and equity trading firm.",
+        "Managed 8 U.S. branch offices\u2019 network and telecommunications infrastructure.",
+        "Implemented disaster recovery and business continuity plans.",
+        "Negotiated and deployed new order management system and migrated FIX connections.",
+        "Replaced legacy web security appliances with Cisco ASA and IronPort.",
+        "Upgraded network circuits to reduce latency.",
+        "Established change control processes for hardware and software rollouts."
+      ]
+    },
+    {
+      "title": "IT Support Manager",
+      "company": null,
+      "duration": "02/2001 \u2013 06/2006",
+      "responsibilities": [
+        "Coordinated market data software and hardware upgrades across branches.",
+        "Implemented PC hardware and OS upgrades firm\u2011wide.",
+        "Managed Microsoft Exchange upgrade and daily backups.",
+        "Set equipment standards and ordered PCs, servers, and peripherals.",
+        "Handled market data entitlements and FIX connections.",
+        "Participated in FINRA and internal audits."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "NYC Office Relocation & Hardware Refresh",
+      "description": "Led the relocation of the primary NYC office, including a complete hardware refresh for network and desktop equipment.",
+      "technologies": [
+        "Windows Server",
+        "Cisco Switches",
+        "EMC Storage",
+        "VMware"
+      ]
+    },
+    {
+      "name": "VPN to MPLS Migration",
+      "description": "Migrated legacy site\u2011to\u2011site VPN network to a Toronto\u2011based MPLS network across six U.S. branch offices.",
+      "technologies": [
+        "Cisco Routers",
+        "MPLS",
+        "VPN"
+      ]
+    },
+    {
+      "name": "NJ Data Center Implementation",
+      "description": "Implemented a new data center for high\u2011availability trading operations and migrated direct client wires to the facility.",
+      "technologies": [
+        "EMC Storage",
+        "Cisco Switches",
+        "VMware"
+      ]
+    },
+    {
+      "name": "Virtualization Cost Reduction",
+      "description": "Deployed a VMware environment that reduced hardware, energy, and licensing costs, saving $1.5M in capital expenditure.",
+      "technologies": [
+        "VMware",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "Disaster Recovery Plan",
+      "description": "Designed and implemented a disaster recovery plan, designating Stamford, CT as the DR site for the NYC office.",
+      "technologies": [
+        "EMC Storage",
+        "Cisco ASA",
+        "Palo Alto"
+      ]
+    }
+  ]
+}

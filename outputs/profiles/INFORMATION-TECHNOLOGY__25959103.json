@@ -1,0 +1,129 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Advanced Desktop Support Lead/Manager with 15+ years of experience in IT, providing Tier II-III technical support and advanced troubleshooting for United Senate end\u2011users across multiple platforms.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Arabic",
+    "Back-up",
+    "Budgets",
+    "Client",
+    "Database",
+    "Database Management",
+    "Designing",
+    "Disaster Recovery",
+    "Documentation",
+    "Financial",
+    "Help Desk",
+    "HP",
+    "Local Area Network",
+    "LAN",
+    "Leadership",
+    "Access",
+    "Network",
+    "Networks",
+    "NT Servers",
+    "PCs",
+    "Policies",
+    "Printer",
+    "Processes",
+    "Research",
+    "SQL",
+    "MS SQL",
+    "Desktop Support",
+    "Training Programs",
+    "Troubleshooting",
+    "Upgrades",
+    "WAN",
+    "Workflow"
+  ],
+  "tools": [
+    "HP",
+    "MS SQL",
+    "SQL Database",
+    "LAN",
+    "WAN",
+    "Windows NT Servers",
+    "PC Hardware"
+  ],
+  "certifications": [
+    "Certified Cyber Intelligence Professional (CCIP)",
+    "CompTIA A+",
+    "CompTIA Network+",
+    "CompTIA Security+"
+  ],
+  "education": [
+    {
+      "degree": "Master of Arts",
+      "institution": "American Military University",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Graduate Certificate",
+      "institution": "Air Force Air Command and Staff College",
+      "graduation_year": "2013"
+    },
+    {
+      "degree": "Master of Science",
+      "institution": "Marymount University",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Marymount University",
+      "graduation_year": "1999"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Administrator of Information Technology",
+      "company": "Company Name",
+      "duration": "January 17th 2007 - Present",
+      "responsibilities": [
+        "Research, implement, and support new technologies for public policy and 175\u2011person infrastructure upgrades.",
+        "Train staff in support processes and troubleshooting techniques.",
+        "Define system specifications and design infrastructure based on user requirements.",
+        "Plan, install, configure, and test PC/server hardware, software, LAN/WAN networks, and operating systems.",
+        "Monitor and tune system performance; conduct load/stress testing and troubleshoot hardware, software, and network issues.",
+        "Develop access controls, disaster recovery policies, backups, and documentation to secure systems.",
+        "Prepare users through training programs and ongoing support.",
+        "Coordinate upgrades with vendors, test, evaluate, and install enhancements.",
+        "Manage budgets and expenses for leadership conferences.",
+        "Maintain confidentiality of organizational information."
+      ]
+    },
+    {
+      "title": "United States Senate Network Support Engineer",
+      "company": "Company Name",
+      "duration": "August 2004 - 2006",
+      "responsibilities": [
+        "Integrated and developed procedures to support third\u2011party software.",
+        "Provided software, printing, and network access support to the Senate community.",
+        "Delivered senior\u2011level support to internal Help Desk operations.",
+        "Installed, configured, and supported Capitol Correspond SQL database.",
+        "Troubleshot HP printer issues and PC/NT server network connections.",
+        "Ensured hardware and software function smoothly; provided cross\u2011platform desktop support.",
+        "Maintained LAN, security systems, backups, and updates.",
+        "Performed special projects and recommended technical solutions."
+      ]
+    },
+    {
+      "title": "United States Senate Software Specialist",
+      "company": "Company Name",
+      "duration": "August 2000 - 2004",
+      "responsibilities": [
+        "Provided Level 2 support for Capitol Correspond database management software on MS SQL.",
+        "Installed, configured, and supported Capitol Correspond SQL database.",
+        "Trained clients on database usage.",
+        "Troubleshot MS SQL and printer issues.",
+        "Configured PCs and NT servers to the network.",
+        "Delivered desktop support, LAN maintenance, security, backups, and updates.",
+        "Conducted special projects and recommended solutions."
+      ]
+    }
+  ],
+  "projects": []
+}

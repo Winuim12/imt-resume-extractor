@@ -1,0 +1,98 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Over 20 years of experience in recruiting and Human Resources Executive Management, with 5 years in HRIS development and maintenance and 4 years in a healthcare environment.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "Recruiting",
+    "FMLA",
+    "EEO",
+    "FLSA",
+    "HRIS Development",
+    "Benefit Administration",
+    "Policy Development",
+    "Web Page Development",
+    "Desktop Publishing",
+    "Newsletter Production",
+    "Database Management",
+    "Leadership Training",
+    "OSHA",
+    "Workers Compensation",
+    "Strategic Planning"
+  ],
+  "tools": [
+    "Access",
+    "Excel",
+    "Microsoft Publisher",
+    "MS Word",
+    "Quark Express",
+    "Quattro Pro",
+    "PageMaker",
+    "Corel Suite",
+    "Harvard Graphics"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master's Degree",
+      "institution": "Friends University",
+      "graduation_year": "2005"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Friends University",
+      "graduation_year": "2000"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Director",
+      "company": null,
+      "duration": "09/2016 to Current",
+      "responsibilities": [
+        "Developed new website for agency, implemented new HRIS system, and managed payroll processing changes.",
+        "Oversaw recruitment of clinicians, physicians, and management teams.",
+        "Authored employee handbook and maintained HR policies.",
+        "Coached managers on performance management and compliance.",
+        "Evaluated and recommended changes to employee benefits."
+      ]
+    },
+    {
+      "title": "HR Director",
+      "company": null,
+      "duration": "04/2009 to 09/2016",
+      "responsibilities": [
+        "Developed supervisory education, SHRO website, and SHRO HRIS system.",
+        "Directed statewide HR program for state employees.",
+        "Reviewed hires, promotions, wage requests, and position descriptions.",
+        "Advised on labor negotiations and provided staffing solutions."
+      ]
+    },
+    {
+      "title": "HR Manager/Sr. Recruiter",
+      "company": null,
+      "duration": "10/2003 to 06/2006",
+      "responsibilities": [
+        "Created HRIS tracking system for recruitment.",
+        "Managed hiring of customer service agents and senior management.",
+        "Coordinated manpower planning, recruitment, retention, and compliance.",
+        "Served as HR resource for administration and mid-level management."
+      ]
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": null,
+      "duration": "03/1996 to 02/2000",
+      "responsibilities": [
+        "Developed HRIS database for employee records.",
+        "Reduced agency staffing needs for hospital.",
+        "Managed hiring procedures, appraisals, promotions, and terminations.",
+        "Handled OSHA, work\u2011comp, benefits, payroll, and other HR functions."
+      ]
+    }
+  ],
+  "projects": []
+}

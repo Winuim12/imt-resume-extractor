@@ -1,0 +1,173 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "B.S. graduate with 9+ years of experience in client/server development, database management, and IT project coordination. Proven ability to design, develop, and support web and intranet applications, manage vendor resources, and lead cross\u2011functional teams to deliver high\u2011quality solutions on time and within budget.",
+  "total_experience_years": 9.0,
+  "skills": [
+    "Marketing",
+    "Operations",
+    "Database",
+    "ASP",
+    "ASP.NET",
+    ".NET",
+    "SQL",
+    "SQL Server",
+    "PL/SQL",
+    "Transact\u2011SQL",
+    "MySQL",
+    "Oracle",
+    "Linux",
+    "Windows",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "XML",
+    "DHTML",
+    "PHP",
+    "FrontPage",
+    "Visual Studio",
+    "PaintShop Pro",
+    "Adobe CS3 Web Edition",
+    "Business Objects",
+    "Minitab",
+    "MS Office",
+    "Networking",
+    "Technical Support",
+    "Testing",
+    "Project Management",
+    "Data Migration",
+    "Load Balancing",
+    "Intranet",
+    "Application Support",
+    "User Interface",
+    "Graphical User Interface",
+    "Online Marketing",
+    "Media Strategy",
+    "Budgeting",
+    "Client/Server",
+    "Coding",
+    "Structured Software",
+    "Team Player",
+    "Self\u2011Motivated",
+    "Customer Service",
+    "Software Development",
+    "Time & Attendance",
+    "Payroll",
+    "Database Management",
+    "Data Management",
+    "Archiving",
+    "Workflow",
+    "Business Requirements",
+    "Subject Matter Expert",
+    "Engineering",
+    "Finance",
+    "Credit",
+    "Collections",
+    "Bank Card",
+    "Receivables",
+    "System Development Life Cycle",
+    "Vendor Management",
+    "Offshore Resources"
+  ],
+  "tools": [
+    "Transact\u2011SQL",
+    "PL/SQL",
+    "Classic ASP",
+    "ASP.NET",
+    "HTML",
+    "DHTML",
+    "XML",
+    "JavaScript",
+    "CSS",
+    "MS SQL Server 6.5",
+    "MS SQL Server 7",
+    "MS SQL Server 2000",
+    "MS SQL Server 2005",
+    "MySQL",
+    "Oracle 9i",
+    "MS Windows",
+    "MS Office",
+    "Minitab",
+    "Business Objects",
+    "Adobe CS3 Web Edition",
+    "Visual Studio",
+    "FrontPage",
+    "PaintShop Pro",
+    "PHP",
+    "Linux Hosting",
+    "Windows Hosting",
+    "Kronos TM Workforce Central",
+    "Oracle 9i",
+    "Windows 2000"
+  ],
+  "certifications": [
+    "Six Sigma Green Belt Certified"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "institution": "DeVry University",
+      "graduation_year": "2004"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Coordinator",
+      "company": null,
+      "duration": "Nov 2003 \u2013 Current",
+      "responsibilities": [
+        "Provided technical support and managed web presence for the organization.",
+        "Implemented IT operations to move the foundation toward a paperless environment.",
+        "Automated work processes and coordinated vendor resources for time\u2011saving initiatives."
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "company": null,
+      "duration": "Jun 2003 \u2013 Current",
+      "responsibilities": [
+        "Designed, developed, and maintained web applications using ASP, ASP.NET, HTML, CSS, JavaScript, and PHP.",
+        "Managed hosting environments (Windows and Linux) and ensured application performance.",
+        "Collaborated with cross\u2011functional teams to deliver online marketing and media strategy solutions."
+      ]
+    },
+    {
+      "title": "Intranet Application Support Analyst",
+      "company": null,
+      "duration": "Jan 2003 \u2013 Jul 2007",
+      "responsibilities": [
+        "Supported and maintained intranet applications such as Ovations! and Kronos TM Workforce Central.",
+        "Managed vendor and offshore resources to ensure timely delivery of application updates.",
+        "Developed and executed test plans, test cases, and load\u2011balancing strategies.",
+        "Performed data migration, archiving, and database management tasks."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ovation! Intranet",
+      "description": "Developed and supported an intranet application for employee recognition and engagement.",
+      "technologies": [
+        "ASP.NET",
+        "MS SQL Server 2005",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "XML"
+      ]
+    },
+    {
+      "name": "Kronos TM Workforce Central",
+      "description": "Implemented a time\u2011and\u2011attendance system to manage payroll compliance and time\u2011tracking for the organization.",
+      "technologies": [
+        "Kronos TM Workforce Central",
+        "Oracle 9i",
+        "MS SQL Server 2000",
+        "Windows 2000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Human Resources professional with the ability to work successfully with all levels of an organization, deliver expected results, consistently resolve issues, communicate sensitive information, identify opportunities for improvement and make suggestions for change.",
+  "total_experience_years": 27.0,
+  "skills": [
+    "Staffing and recruiting",
+    "Performance management",
+    "Employee benefits",
+    "Employment law",
+    "Employee and labor relations",
+    "Manager coaching and training",
+    "Recruitment",
+    "Onboarding",
+    "Performance appraisal",
+    "Union relations",
+    "Compliance",
+    "Training",
+    "Employee relations",
+    "Benefits administration"
+  ],
+  "tools": [
+    "Applicant Tracking System",
+    "HRIS"
+  ],
+  "certifications": [
+    "Professional Human Resources Certification (PHR), June 2011"
+  ],
+  "education": [
+    {
+      "degree": "B.A. Sociology/Psychology",
+      "institution": "State University of New York, Albany",
+      "graduation_year": null
+    },
+    {
+      "degree": "A.A.S. Human Services",
+      "institution": "Hudson Valley Community College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "10/2013 \u2013 Current",
+      "responsibilities": [
+        "Address employee and management questions, enforce collective bargaining agreements, and resolve work-related challenges.",
+        "Counsel employees on performance issues and coach managers on discipline and termination.",
+        "Facilitate management communication meetings and update senior management on company-wide HR matters.",
+        "Ensure onboarding of quality employees through effective recruiting processes and conduct new employee orientation.",
+        "Maintain legal compliance with federal and state HR requirements and conduct workplace investigations.",
+        "Consult on performance assessment, recognition programs, and talent reviews.",
+        "Develop affirmative action plans and implement HR-driven productivity programs."
+      ]
+    },
+    {
+      "title": "Sr. HR Generalist",
+      "company": "Company Name",
+      "duration": "11/2011 \u2013 10/2013",
+      "responsibilities": [
+        "Conduct initial service assessments and educate clients on workplace policies and employment laws.",
+        "Design employee handbooks, job descriptions, and act as liaison for payroll, benefits, and retirement plan issues.",
+        "Deliver training seminars and build strong client relationships to retain service base."
+      ]
+    },
+    {
+      "title": "HR Representative",
+      "company": "Company Name",
+      "duration": "11/2009 \u2013 11/2011",
+      "responsibilities": [
+        "Coordinate hiring and orientation programs and provide guidance on company policies.",
+        "Resolve labor relation issues with union representatives and develop training for management.",
+        "Manage employee recognition programs, prepare affirmative action plans, and maintain HR databases."
+      ]
+    },
+    {
+      "title": "Employment Specialist",
+      "company": "Company Name",
+      "duration": "09/2008 \u2013 11/2009",
+      "responsibilities": [
+        "Initiate hiring processes, use ATS to track candidates, and recommend new sourcing methods.",
+        "Create job postings, coordinate interviews, and present employment offers.",
+        "Conduct new hire orientation, prepare recruiting reports, and support EEO efforts."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "04/2007 \u2013 04/2008",
+      "responsibilities": [
+        "Support management on employment issues, monitor wage structures, and recommend benefit plan changes.",
+        "Review resumes, conduct reference checks, and facilitate new hire orientation and exit interviews.",
+        "Administer 401K plan, process disability claims, and ensure compliance with labor laws."
+      ]
+    },
+    {
+      "title": "Human Resources Specialist",
+      "company": "Company Name",
+      "duration": "09/2006 \u2013 04/2007",
+      "responsibilities": [
+        "Coordinate recruitment and onboarding, facilitate performance appraisals, and administer FMLA policies.",
+        "Assist with employment law and union relations, develop training materials, and chair community events."
+      ]
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": "Company Name",
+      "duration": "09/2002 \u2013 09/2006",
+      "responsibilities": [
+        "Conduct new hire orientation, process enrollment and terminations, and manage payroll-related information.",
+        "Support policy compliance, plan community events, and maintain employee personnel files."
+      ]
+    },
+    {
+      "title": "HR Assistant",
+      "company": "Company Name",
+      "duration": "11/1998 \u2013 08/2002",
+      "responsibilities": [
+        "Manage HRIS, assist with recruitment and orientation, and review policies and benefits.",
+        "Process disability claims, health insurance, and 401K enrollment, and maintain employee files."
+      ]
+    }
+  ],
+  "projects": []
+}

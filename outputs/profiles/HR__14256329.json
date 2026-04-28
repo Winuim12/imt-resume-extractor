@@ -1,0 +1,73 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Multi-skilled professional with comprehensive HR knowledge, adept at recruitment, employee relations, and confidential matters. Experienced in providing timely HR advice to managers and staff while balancing employee and employer interests.",
+  "total_experience_years": 14.0,
+  "skills": [
+    "Recruitment & Selection",
+    "Employee Relations",
+    "Onboarding & Induction",
+    "Benefits Administration",
+    "Leave & Payroll Processing",
+    "Confidentiality & Discretion",
+    "Communication & Presentation",
+    "Team Building & Leadership",
+    "Problem Solving",
+    "Customer Service",
+    "Telephone Etiquette",
+    "Proactive Attitude",
+    "Self\u2011Motivation"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Excel"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BSc Human Resource Management",
+      "institution": "University College of the Caribbean",
+      "graduation_year": "2019"
+    },
+    {
+      "degree": "General Studies",
+      "institution": "St. Jago High School",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Services Representative",
+      "company": "Company Name",
+      "duration": "10/2012 \u2013 Present",
+      "responsibilities": [
+        "Managed end\u2011to\u2011end recruitment, including job offers, contracts, and onboarding.",
+        "Conducted pre/post\u2011employment checks and processed security references.",
+        "Handled employee enrollment, updates, and benefit plan changes.",
+        "Processed leave requests and coordinated with managers on promotions and transfers.",
+        "Prepared offer letters, employment contracts, and reference letters.",
+        "Maintained employee records in system databases and ensured accurate time\u2011clock registration.",
+        "Provided HR support to staff and customers via phone and in\u2011person.",
+        "Collaborated with department managers on recruitment, leave, and benefits queries.",
+        "Managed documentation, scanned files, and maintained electronic records."
+      ]
+    },
+    {
+      "title": "Teller / Customer Service Representative (HEART Trainee)",
+      "company": "Company Name",
+      "duration": "05/2010 \u2013 07/2011",
+      "responsibilities": [
+        "Opened accounts and processed member transactions as a teller.",
+        "Assisted members with branch services and product information.",
+        "Prepared and filed transaction vouchers, utility payment vouchers, and loan vouchers.",
+        "Managed daily cash deposit listings and document filing.",
+        "Coordinated member registrations and handled faxing of signature cards.",
+        "Prepared correspondence to customers and suppliers."
+      ]
+    }
+  ],
+  "projects": []
+}

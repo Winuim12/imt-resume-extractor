@@ -1,0 +1,223 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Information Technology professional with 20+ years of experience working in various roles. Possesses written and verbal communication skills and excellent interpersonal and leadership skills.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "application development",
+    "Lotus Approach",
+    "asset management",
+    "billing systems",
+    "business process analysis",
+    "C/C++",
+    "client management",
+    "contracts",
+    "Crystal Reports",
+    "data collection",
+    "DBA",
+    "databases",
+    "XML",
+    "FTP",
+    "GIS",
+    "HP-UX",
+    "HTML",
+    "PHP",
+    "ITIL",
+    "Access",
+    "SharePoint",
+    "Windows",
+    "migration",
+    "enterprise",
+    "network",
+    "Oracle",
+    "PL/SQL",
+    "OS/2",
+    "PC support",
+    "Pro C",
+    "programming",
+    "project management",
+    "reporting",
+    "requirements gathering",
+    "scheduling",
+    "servers",
+    "shell scripting",
+    "software development",
+    "SQL",
+    "SQL Server",
+    "Sybase",
+    "system administration",
+    "Uniface",
+    "Unix",
+    "Visual Basic"
+  ],
+  "tools": [
+    "CIS",
+    "Infor CMMS",
+    "Neptune AMR",
+    "SharePoint",
+    "Cityworks CMMS",
+    "Lucity CMMS",
+    "SQL Server",
+    "Infor Enterprise Asset Management",
+    "Infor Public Sector",
+    "AMI Fixed Network",
+    "Maximo",
+    "CSTAR",
+    "HP-UX",
+    "Oracle",
+    "Uniface",
+    "Lotus Approach",
+    "Sybase SQL Server",
+    "PowerImage",
+    "FTP",
+    "Visual Basic",
+    "Access",
+    "Crystal Reports",
+    "XML",
+    "HTML",
+    "PHP"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Georgia Institute of Technology",
+      "graduation_year": "1993"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Consultant",
+      "company": "Company Name",
+      "duration": "05/2017 to Current",
+      "responsibilities": [
+        "Managed project schedule and local/remote staff for Water Main data collection and GIS system updates.",
+        "Developed business process and productivity reports for field book scanning and data collection projects.",
+        "Provided application support for CIS, Infor CMMS, and Neptune AMR.",
+        "Maintained SharePoint site for the IT department.",
+        "Assisted desktop support team with user issues.",
+        "Developed secure FTP scripts during CIS and AMR implementation after a ransomware attack."
+      ]
+    },
+    {
+      "title": "Utility Solutions Consultant",
+      "company": "Company Name",
+      "duration": "02/2006 to 04/2017",
+      "responsibilities": [
+        "Installed and configured Cityworks CMMS, including XML modifications.",
+        "Led configuration requirements gathering for Cityworks implementation.",
+        "Prepared and delivered training for CIS, Meter Reading, and CMMS applications.",
+        "Provided application support for CIS, CMMS, and AMR.",
+        "Developed data import layouts and Crystal Reports for Lucity CMMS.",
+        "Performed system configuration for Lucity CMMS.",
+        "Installed and configured Infor Enterprise Asset Management 11.1 and SQL Server.",
+        "Led system administration team to design user security for Infor Public Sector.",
+        "Led configuration requirements gathering for Infor Public Sector upgrade.",
+        "Assisted City of Cleveland with AMI Fixed Network installation.",
+        "Developed Residential AMI Meter Deployment schedule for Cleveland.",
+        "Managed data interfaces between City of Atlanta and contractor systems during AMR replacement.",
+        "Developed business process and reports for the AMR replacement program."
+      ]
+    },
+    {
+      "title": "CEO/Consultant",
+      "company": "Company Name",
+      "duration": "02/2000 to 02/2006",
+      "responsibilities": [
+        "Managed budget, taxes, expenses, and contracts.",
+        "Hired and managed employees; scheduled client appointments.",
+        "Developed Crystal Reports for client management.",
+        "Installed and configured Crystal Info Server.",
+        "Developed PL/SQL views for reporting.",
+        "Gathered requirements and developed new applications using Access and Visual Basic.",
+        "Provided application support for Maximo and CSTAR.",
+        "Assisted system administrators with HP-UX upgrades."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": "10/1999 to 12/1999",
+      "responsibilities": [
+        "Developed PL/SQL stored procedures and functions for financial summary.",
+        "Created SQL queries against Oracle 8."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": "08/1999 to 10/1999",
+      "responsibilities": [
+        "Created new system functionality using Pro C.",
+        "Modified existing programs.",
+        "Collaborated with DBA on Oracle triggers and procedures."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": "05/1998 to 07/1999",
+      "responsibilities": [
+        "Maintained and enhanced C and Uniface code and Unix Shell scripts.",
+        "Developed a new application development environment.",
+        "Implemented new processes to replace outdated ones."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "04/1996 to 04/1998",
+      "responsibilities": [
+        "Provided development services and created management reports using GQL/User and Sybase SQL Server.",
+        "Developed reports database with Lotus Approach 96.",
+        "Modified and maintained Uniface 6.1 code during migration to newer platforms."
+      ]
+    },
+    {
+      "title": "Senior Programmer",
+      "company": "Company Name",
+      "duration": "03/1994 to 04/1996",
+      "responsibilities": [
+        "Developed and maintained applications using Uniface 5.2, Oracle 7.3, and PowerImage.",
+        "Maintained Oracle database and led user sessions for requirements gathering."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Water Main Data Collection & GIS Update",
+      "description": "Collected water main data, updated GIS system, and managed project schedule and staff.",
+      "technologies": [
+        "GIS",
+        "SharePoint",
+        "FTP",
+        "C",
+        "PL/SQL"
+      ]
+    },
+    {
+      "name": "Automated Meter Reading (AMR) Replacement Program",
+      "description": "Developed business processes and reports, managed data interfaces, and scheduled deployment for AMR replacement.",
+      "technologies": [
+        "AMR",
+        "AMI",
+        "Oracle",
+        "SQL Server",
+        "Crystal Reports"
+      ]
+    },
+    {
+      "name": "Cityworks CMMS Implementation",
+      "description": "Installed and configured Cityworks CMMS, led requirements gathering, and delivered training.",
+      "technologies": [
+        "Cityworks CMMS",
+        "XML",
+        "Crystal Reports",
+        "SQL Server"
+      ]
+    }
+  ]
+}

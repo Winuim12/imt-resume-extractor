@@ -1,0 +1,137 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "A highly skilled and accomplished Information Technology Manager with over 16 years of expertise in planning, implementing and streamlining IT systems to ensure maximum customer satisfaction and business revenue.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Windows 2000",
+    "Windows 2003 Server",
+    "Windows XP",
+    "Win 3.11/95/98",
+    "DOS 6.22",
+    "Citrix ICA",
+    "MS Exchange 2000",
+    "HP",
+    "IBM",
+    "Dell",
+    "Intel-based servers",
+    "Cisco 2500 Switches",
+    "SonicWall VPNs",
+    "HP LaserJet",
+    "Toshiba E-310 Copier",
+    "Toshiba laptops",
+    "Sony laptops",
+    "Inter-tel",
+    "MS Office",
+    "Visio",
+    "Symantec PC Anywhere",
+    "Ghost",
+    "Antivirus utilities",
+    "Win Fax",
+    "McAfee Virus Scan",
+    "Adobe Acrobat",
+    "Illustrator",
+    "Photoshop",
+    "Partition Magic",
+    "Adware",
+    "Spyware",
+    "TCP/IP",
+    "Wireless 802.11 a/b/g",
+    "DNS",
+    "WINS",
+    "DHCP"
+  ],
+  "tools": [
+    "VMware",
+    "Active Directory",
+    "MPLS",
+    "Netscaler",
+    "Barracuda Spam & Virus Firewall",
+    "System Center Configuration Manager",
+    "Citrix",
+    "Cisco routers",
+    "Cisco switches",
+    "SonicWall",
+    "HP LaserJet",
+    "Microsoft Exchange",
+    "Microsoft Office",
+    "Visio",
+    "Symantec",
+    "McAfee",
+    "Adobe Acrobat",
+    "Illustrator",
+    "Photoshop",
+    "Partition Magic",
+    "Ghost",
+    "Win Fax",
+    "McAfee Virus Scan"
+  ],
+  "certifications": [
+    "Microsoft Certified Technology Specialist 2008 (MCTS 2008)",
+    "Citrix Certified Administrator (CCA)",
+    "Information Systems Management Certificate",
+    "Project Management Certificate"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Maryland University College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Manager / Network Engineer",
+      "company": "Company Name",
+      "duration": "Feb 2006 \u2013 Current",
+      "responsibilities": [
+        "Lead day\u2011to\u2011day operations for six offices and 300 staff members.",
+        "Manage a team of 6 IT professionals and developers for system upgrades and new software tools.",
+        "Align IT strategy with business objectives in collaboration with CIO and senior management.",
+        "Conduct capacity planning and negotiate hardware/software purchases to reduce costs.",
+        "Virtualized infrastructure with VMware, reducing physical servers from 50 to 4 and improving disaster recovery.",
+        "Migrated Active Directory from 2008 to 2012 R2 and Exchange from 2010 to 2016.",
+        "Implemented MPLS network across 8 sites, upgrading routers, switches, and network equipment.",
+        "Designed Citrix infrastructure with Netscaler load balancers to improve remote office connectivity.",
+        "Established disaster recovery site and business continuity plan.",
+        "Deployed Barracuda Spam & Virus Firewall, cutting spam by 40%.",
+        "Reduced desktop deployment times by 60% using System Center Configuration Manager.",
+        "Provided internal training on systems and procedures."
+      ]
+    },
+    {
+      "title": "Network Engineer",
+      "company": "Company Name",
+      "duration": "Sep 2003 \u2013 Jan 2006",
+      "responsibilities": [
+        "Administered Windows 2003 server network environment.",
+        "Managed LAN/WAN operations for local and remote networks.",
+        "Acted as technical consultant for clients and IT projects.",
+        "Provided end\u2011user support for Windows XP and 2000.",
+        "Installed and configured Exchange 2003 mail server.",
+        "Implemented server and desktop security with McAfee Enterprise and ePolicy Orchestrator.",
+        "Set up web, FTP, and POP3 servers.",
+        "Managed Cisco 1900 switches and 2600 routers; configured VPN remote access.",
+        "Applied software updates and domain policies via Group Policy and SUS.",
+        "Trained new employees in systems administration and web development."
+      ]
+    },
+    {
+      "title": "Network Support Technician",
+      "company": "Company Name",
+      "duration": "Jan 2003 \u2013 Aug 2003",
+      "responsibilities": [
+        "Provided network and desktop support to over 800 users across all offices.",
+        "Managed help desk using Help Star software.",
+        "Troubleshot Windows 98/2000 desktops and implemented Group Policy Objects.",
+        "Performed hardware/software upgrades and replacements.",
+        "Created disk images with Norton Ghost.",
+        "Maintained laser printers and copy machines."
+      ]
+    }
+  ],
+  "projects": []
+}

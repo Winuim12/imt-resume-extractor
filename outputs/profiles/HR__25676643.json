@@ -1,0 +1,109 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Human Resources Specialist with over 9 years of experience in recruitment, federal employment processes, and program management. Skilled in advisory services, strategic planning, policy development, onboarding, and performance management.",
+  "total_experience_years": 9.0,
+  "skills": [
+    "HR Advisory Services",
+    "Strategic Recruitment Planning",
+    "HR Policies & Procedures",
+    "Staff Recruitment & Retention",
+    "HR Program/Project Management",
+    "Orientation & Onboarding",
+    "Performance Management",
+    "Delegated Examining",
+    "Classification and Position Management",
+    "Special Emphasis Programs",
+    "Social Media Management and Recruitment",
+    "Recruiting and Selection Techniques",
+    "Talent Assessments",
+    "Leadership Development",
+    "Excellent Interpersonal and Coaching Skills",
+    "Proficient Communicator",
+    "Agency Marketing and Branding",
+    "Critical and Analytical Thinking",
+    "Event Organization",
+    "Journalism"
+  ],
+  "tools": [
+    "MS Office (Word, Excel, PowerPoint, Access, Outlook)",
+    "Applicant Tracking Systems (ATS)"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts (BA)",
+      "institution": "St. Augustine's University",
+      "graduation_year": "1998"
+    },
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "St. Leo University",
+      "graduation_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist",
+      "company": "Company Name",
+      "duration": "12/2016 to Current",
+      "responsibilities": [
+        "Provided HR advisory services to mid\u2011level and senior managers in the Office of Inspector General.",
+        "Served as subject matter expert on hiring authorities and delegated examining within the Talent and Acquisitions team.",
+        "Consulted on Pathways programs (Internships, Recent Graduates, Presidential Management Fellows).",
+        "Advised on staffing, recruitment, classifications, position management, and special emphasis programs.",
+        "Reviewed and prepared case files for delegated examining audits.",
+        "Revised position descriptions and created job announcements.",
+        "Led development of onboarding, training, leadership, and social media recruitment programs.",
+        "Authored agency\u2011wide hiring guide and presented to executive committees.",
+        "Managed project improvements and presented findings to senior HR specialists."
+      ]
+    },
+    {
+      "title": "HR Specialist",
+      "company": "Company Name",
+      "duration": "09/2013 to 12/2016",
+      "responsibilities": [
+        "Devised marketing and branding initiatives to promote agency as an employer of choice.",
+        "Facilitated information sessions on resume writing, USAJobs, and interview skills.",
+        "Developed and managed internship and student hiring programs, including Shadow Day and Paid Student Internship Program.",
+        "Created social media accounts and managed outreach to Gen X and Millennials.",
+        "Prepared presentations, handbooks, and mass communications for recruitment events.",
+        "Conducted research on applicant tracking systems and drafted SOPs for recruitment processes.",
+        "Coordinated with colleges and universities to expand student outreach and diversity recruitment."
+      ]
+    },
+    {
+      "title": "HR Assistant",
+      "company": "Company Name",
+      "duration": "10/2011 to 09/2013",
+      "responsibilities": [
+        "Provided customer and technical support for delegated examining and staffing processes.",
+        "Drafted job analysis and announcements for Wage Grade and General Schedule positions.",
+        "Reviewed and pre\u2011audited delegated examining case files.",
+        "Advised senior HR specialists and hiring managers on policies and hiring flexibilities."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Shadow Day Program",
+      "description": "Designed and implemented a program allowing students to shadow agency professionals, expanding outreach and recruitment.",
+      "technologies": [
+        "Social Media",
+        "Event Management"
+      ]
+    },
+    {
+      "name": "Onboarding Programs",
+      "description": "Developed onboarding, training, leadership development, and social media recruitment initiatives for supervisors and new employees.",
+      "technologies": [
+        "MS Office",
+        "Social Media Platforms"
+      ]
+    }
+  ]
+}

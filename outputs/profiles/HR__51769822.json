@@ -1,0 +1,124 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Energetic Administrative Assistant with 30+ years of experience in high-level executive support roles. Organized, professional, and dedicated, excelling at prioritizing tasks, managing multiple projects, and following through to achieve goals. Seeking increased responsibility and authority, adept at time management and process improvement.",
+  "total_experience_years": 30.0,
+  "skills": [
+    "Excel",
+    "Outlook",
+    "Word",
+    "Windows",
+    "AS400",
+    "Payroll",
+    "Accounting",
+    "Billing",
+    "Bookkeeping",
+    "Inventory",
+    "Purchasing",
+    "HR",
+    "Employee Relations",
+    "Training",
+    "Customer Service",
+    "Sales Management",
+    "Marketing",
+    "Real Estate",
+    "Translations",
+    "Proposal Writing",
+    "Scheduling",
+    "Calendar Management",
+    "Data Analysis",
+    "Spreadsheet Management",
+    "Process Improvement",
+    "Time Management",
+    "Communication",
+    "Problem Solving",
+    "Multilingual (English/French)"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Outlook",
+    "AS400"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BA",
+      "institution": "University of Grenoble",
+      "graduation_year": "1982"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist",
+      "company": "Company Name",
+      "duration": "June 2014 \u2013 June 2014",
+      "responsibilities": [
+        "Coordinated regular and temporary interviews for line management",
+        "Conducted reference checks and vetting of potential candidates",
+        "Communicated application status to candidates",
+        "Assisted with payroll, employee relations, and compensation files",
+        "Filed confidential documents"
+      ]
+    },
+    {
+      "title": "Leasing Agent",
+      "company": "Company Name",
+      "duration": "October 2012 \u2013 April 2014",
+      "responsibilities": [
+        "Greeted future residents and answered leasing questions",
+        "Presented models and processed applications",
+        "Followed up with walk-in guests",
+        "Handled work orders and payments",
+        "Managed tenant inquiries"
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Company Name",
+      "duration": "September 2006 \u2013 October 2012",
+      "responsibilities": [
+        "Supported multi-level management and coordinated administrative support for branch managers",
+        "Assisted engineers and project managers with proposals, technical reports, invoicing, and collections",
+        "Compiled data and created spreadsheets for supervisor review",
+        "Managed supervisors' calendars and scheduled appointments",
+        "Maintained training program and training lists",
+        "Developed and implemented new accounting procedures, reducing unpaid balances by 30%"
+      ]
+    },
+    {
+      "title": "French Speaking Executive Assistant",
+      "company": "Company Name",
+      "duration": "August 2005 \u2013 September 2006",
+      "responsibilities": [
+        "Updated CEO calendar and coordinated meetings with French clients",
+        "Performed bookkeeping duties",
+        "Maintained client files"
+      ]
+    },
+    {
+      "title": "Exhibitor Services Representative",
+      "company": "Company Name",
+      "duration": "August 2004 \u2013 August 2005",
+      "responsibilities": [
+        "Assisted exhibitors with orders and freight billing",
+        "Coordinated booth setup and striking with foreman"
+      ]
+    },
+    {
+      "title": "Payroll Clerk",
+      "company": "Company Name",
+      "duration": "March 1999 \u2013 August 2004",
+      "responsibilities": [
+        "Processed weekly payroll for 1,500 employees using AS400",
+        "Audited hours and PTO, processed new hires, terminations, and data changes",
+        "Handled W-2 and I-9 for new hires",
+        "Performed payroll and bookkeeping functions"
+      ]
+    }
+  ],
+  "projects": []
+}

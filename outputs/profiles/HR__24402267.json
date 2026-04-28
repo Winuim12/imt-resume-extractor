@@ -1,0 +1,99 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Human resources professional with 3.5 years of experience in recruitment, performance management, training & development, and HRIS administration. Skilled in employee onboarding, ISO documentation, and HR policy implementation.",
+  "total_experience_years": 3.5,
+  "skills": [
+    "HRIS",
+    "ISO",
+    "Recruitment",
+    "Performance Appraisal",
+    "Training & Development",
+    "Leave & Attendance",
+    "Entry & Exit",
+    "HRMS",
+    "HR policies",
+    "Staff training",
+    "MS Word",
+    "MS Excel",
+    "MS PowerPoint"
+  ],
+  "tools": [
+    "Greytip",
+    "MS Word",
+    "MS Excel",
+    "MS PowerPoint"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Bankatlal Bhadruka College",
+      "graduation_year": "2005"
+    },
+    {
+      "degree": "B.Com",
+      "institution": "Pt. Ravishanker Shukla University",
+      "graduation_year": "2003"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant",
+      "company": null,
+      "duration": "Mar 2008 \u2013 Jun 2010",
+      "responsibilities": [
+        "Sourced and shortlisted candidates from job portals and internal databases.",
+        "Coordinated interviews and conducted preliminary screenings.",
+        "Prepared and issued offer letters, appointment letters, and salary breakdowns.",
+        "Managed onboarding and induction programs for new hires.",
+        "Assisted in designing performance appraisal forms and competency frameworks.",
+        "Conducted PMS awareness workshops and guided employees on appraisal forms.",
+        "Maintained MIS, HRIS, and employee master data; generated reports on attrition and transfers.",
+        "Identified training needs, planned training programs, and managed training budgets.",
+        "Handled leave & attendance records, payroll entries, and salary advance details.",
+        "Tested and uploaded live data into Greytip HRIS.",
+        "Maintained ISO HR dashboard and handled employee grievances."
+      ]
+    },
+    {
+      "title": "Management Trainee, QA",
+      "company": null,
+      "duration": "Aug 2007 \u2013 Dec 2007",
+      "responsibilities": [
+        "Participated in quality processes for projects under ISO 9001:2000.",
+        "Monitored fortnightly reports and quality objectives.",
+        "Conducted QMS induction for new hires and ensured statutory compliance.",
+        "Received training on Software Development Life Cycle."
+      ]
+    },
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "Nov 2006 \u2013 Apr 2007",
+      "responsibilities": [
+        "Screened and shortlisted candidates via job portals.",
+        "Coordinated walk\u2011in recruitment and telephonic interviews.",
+        "Prepared offer and appointment letters; managed joining formalities.",
+        "Conducted induction to HR policies and facilitated a friendly onboarding environment.",
+        "Maintained hard and soft copies of employee records.",
+        "Addressed staff concerns and managed exit formalities and interviews.",
+        "Administered performance appraisals."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Performance Management System",
+      "description": "Designed and implemented performance appraisal forms, competency frameworks, and PMS awareness workshops across the organization.",
+      "technologies": [
+        "HRIS",
+        "HRMS",
+        "MS Office"
+      ]
+    }
+  ]
+}

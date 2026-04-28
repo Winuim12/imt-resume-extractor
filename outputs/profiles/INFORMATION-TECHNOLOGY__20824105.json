@@ -1,0 +1,159 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Actively seeking full time opportunities from December 2019.",
+  "total_experience_years": null,
+  "skills": [
+    "TCP/IP",
+    "UDP",
+    "HTTP/S",
+    "DHCP",
+    "DNS",
+    "STP",
+    "HSRP",
+    "ISIS",
+    "RIP",
+    "OSPF",
+    "MPLS",
+    "FTP",
+    "SMTP",
+    "IPSec",
+    "VLAN",
+    "VPN",
+    "Wireshark",
+    "VMware",
+    "Cisco Packet Tracer",
+    "VirtualBox",
+    "Oracle",
+    "Windows Server",
+    "AWS",
+    "Active Directory",
+    "Windows",
+    "Linux",
+    "CentOS",
+    "Ubuntu",
+    "RHEL",
+    "Python",
+    "Bash Scripting",
+    "Apache2",
+    "SSH",
+    "Scripting",
+    "Client-Server",
+    "Routing",
+    "Switches",
+    "Firewall",
+    "NFS",
+    "IPsec VPN",
+    "AES encryption",
+    "SHA-256",
+    "MD5",
+    "RSA cryptosystem"
+  ],
+  "tools": [
+    "Wireshark",
+    "VMware",
+    "Cisco Packet Tracer",
+    "VirtualBox",
+    "Oracle",
+    "Windows Server",
+    "AWS",
+    "Active Directory",
+    "SSH",
+    "Python",
+    "Bash"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect \u2013 Associate",
+    "Cisco Certified Network Associate \u2013 CCNA"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Northeastern University, Solapur University",
+      "graduation_year": "12/2019"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": null,
+      "graduation_year": "06/2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology and AWS Admin Intern",
+      "company": "Company Name",
+      "duration": "04/2019",
+      "responsibilities": [
+        "Researched and implemented secure cloud infrastructure for migrating financial data to AWS.",
+        "Increased efficiency by 30% and reduced infrastructure cost by 10\u00d7.",
+        "Implemented off\u2011site backups via scheduled weekly SSH dumps.",
+        "Configured and troubleshot switches, routers, and firewalls using TCP/IP protocols."
+      ]
+    },
+    {
+      "title": "Network Engineer Intern",
+      "company": "Company Name",
+      "duration": "10/2015",
+      "responsibilities": [
+        "Built LAN and WAN for small\u2011scale businesses using HTTP, DHCP, DNS, OSPF, VLAN.",
+        "Configured routers, switches, and implemented IP addressing, subnetting, and routing protocols."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Linux Based Integrated Ad\u2011Hoc Network for IT Infrastructure",
+      "description": "Designed and implemented a client\u2011server prototype hosting Apache2 web server with master\u2011slave replication on Linux (Ubuntu).",
+      "technologies": [
+        "Linux",
+        "Ubuntu",
+        "Apache2",
+        "Client\u2011Server"
+      ]
+    },
+    {
+      "name": "Multi\u2011Client Server Chat Application",
+      "description": "Developed a real\u2011time multi\u2011client chat application in Python using socket programming with AES encryption, SHA\u2011256, and MD5.",
+      "technologies": [
+        "Python",
+        "Socket Programming",
+        "AES",
+        "SHA\u2011256",
+        "MD5"
+      ]
+    },
+    {
+      "name": "Client\u2011Server Socket Programming Using TCP in Python",
+      "description": "Created a TCP client\u2011server application on Linux to perform mathematical expressions and secure communication.",
+      "technologies": [
+        "Python",
+        "TCP",
+        "Linux",
+        "Socket Programming"
+      ]
+    },
+    {
+      "name": "SDN Based Load Balancer",
+      "description": "Designed a software\u2011defined network to distribute load across HTTP servers using POX controller and OpenFlow switch.",
+      "technologies": [
+        "SDN",
+        "POX",
+        "OpenFlow",
+        "HTTP"
+      ]
+    },
+    {
+      "name": "Client\u2011Server Application for Public\u2011Key Cryptography in Python",
+      "description": "Developed a secured TCP connection for encryption/decryption of text files using RSA public\u2011private key pairs.",
+      "technologies": [
+        "Python",
+        "RSA",
+        "TCP",
+        "Public\u2011Key Cryptography"
+      ]
+    }
+  ]
+}

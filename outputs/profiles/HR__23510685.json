@@ -1,0 +1,143 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "A Global HR Professional with 10+ years of progressive experience across industries and geographies, specializing in project management, HR business partnering, and building HR programs aligned with business strategy to drive successful results.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Adobe Acrobat",
+    "Analyst",
+    "Architect",
+    "Balance",
+    "Basic",
+    "Benefits",
+    "Budget management",
+    "Calibration",
+    "Charts",
+    "Consulting",
+    "Contracts",
+    "Client",
+    "Data analysis",
+    "Database administration",
+    "Finance",
+    "Focus",
+    "Functional",
+    "German",
+    "Hiring",
+    "HRIS",
+    "Human Resources",
+    "HR",
+    "Information Systems",
+    "Labor relations",
+    "Latin",
+    "Leadership",
+    "Leadership Development",
+    "Legal compliance",
+    "Director",
+    "Management skills",
+    "Managing",
+    "Mandarin Chinese",
+    "Mentoring",
+    "Excel",
+    "Power Point",
+    "Microsoft Word",
+    "Negotiations",
+    "Next",
+    "Organizational development",
+    "Organizational",
+    "Performance Management",
+    "Personnel",
+    "Processes",
+    "Recruiting",
+    "Recruitment",
+    "Risk Analysis",
+    "Sales",
+    "SAP",
+    "Spanish",
+    "Staffing",
+    "Strategy",
+    "Strategic",
+    "Vaccines",
+    "Visio",
+    "Annual reports"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Excel",
+    "Project",
+    "Visio",
+    "Power Point",
+    "SAP",
+    "Adobe Acrobat Professional"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Industrial and Labor Relations",
+      "institution": "Cornell University, School of Industrial and Labor Relations",
+      "graduation_year": "2010"
+    },
+    {
+      "degree": "Human Resources BBA",
+      "institution": "Tianjin University of Finance & Economics",
+      "graduation_year": "2003"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Global HR Manager",
+      "company": null,
+      "duration": "June 2012 \u2013 September 2015",
+      "responsibilities": [
+        "Managed the Technical Leadership Program (TLP) across multiple countries, partnering with senior leaders and HR business partners.",
+        "Designed and led cross\u2011functional HR projects such as Flight Risk Analysis, Technical Development Global Career Framework, and Global Job Family Architecture.",
+        "Facilitated global engagement survey deep\u2011dive sessions and redesigned manager development programs.",
+        "Rolled out mentoring and learning nomination processes for top talent development.",
+        "Oversaw data analysis and project support for a team of HR analysts and interns."
+      ]
+    },
+    {
+      "title": "Global HR Analyst",
+      "company": null,
+      "duration": "November 2010 \u2013 June 2012",
+      "responsibilities": [
+        "Developed and implemented staffing processes for Global TLP associates in China, India, and Brazil.",
+        "Provided online training support for technical knowledge, management skills, and language learning.",
+        "Organized global HR monthly leadership meetings and facilitated performance calibration and merit planning."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "May 2009 \u2013 August 2010",
+      "responsibilities": [
+        "Analyzed competency gaps and designed action plans for an IT off\u2011shoring project in India.",
+        "Redesigned organizational structure and hiring strategies for a new manufacturing plant in Germany.",
+        "Created global engagement survey analysis reports for multiple regions."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "July 2006 \u2013 June 2008",
+      "responsibilities": [
+        "Managed diverse HR functions for a client base of over 300 employees, including staffing, training, and labor relations.",
+        "Designed recruitment strategy and staffed over 200 positions across headquarters and R&D labs.",
+        "Utilized SAP HRIS for personnel changes and improved data accuracy with automated reports."
+      ]
+    },
+    {
+      "title": "HR Specialist",
+      "company": null,
+      "duration": "August 2003 \u2013 July 2006",
+      "responsibilities": [
+        "Implemented HR practices for 2,200+ sales employees across 45 regional offices in China.",
+        "Developed performance evaluation and salary negotiation plans.",
+        "Coordinated annual salary reviews, compensation analysis, and incentive adjustments."
+      ]
+    }
+  ],
+  "projects": []
+}

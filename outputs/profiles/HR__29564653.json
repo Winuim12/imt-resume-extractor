@@ -1,0 +1,137 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Recruiting Coordinator with over 15 years of HR experience, specializing in background checks, new hire onboarding, benefits administration, and HRIS systems such as ADP, Taleo, and PeopleSoft.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Excel",
+    "Human Resources",
+    "Recruiting",
+    "Onboarding",
+    "Benefits Administration",
+    "Background Checks",
+    "ADP",
+    "Taleo",
+    "PeopleSoft",
+    "SharePoint",
+    "Learning Management Systems",
+    "Microsoft Office",
+    "Adobe Acrobat",
+    "SAP",
+    "MS Outlook",
+    "MS Publisher",
+    "Database Management",
+    "Claims Processing",
+    "Cobra Payments",
+    "E-Verify",
+    "I-9 Processing",
+    "Payroll",
+    "Budget Management"
+  ],
+  "tools": [
+    "ADP Enterprise v5",
+    "ADP Select",
+    "SAP",
+    "MS Excel (Pivot Tables, VLookup)",
+    "Taleo",
+    "MS Outlook",
+    "MS Publisher",
+    "Adobe Acrobat",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "PeopleSoft",
+    "SharePoint",
+    "Concur",
+    "SnagIt",
+    "MAS200",
+    "E-Verify",
+    "EPrise",
+    "Labcorp",
+    "eScreen"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Fine Arts",
+      "institution": "American InterContinental University",
+      "graduation_year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Administrator",
+      "company": null,
+      "duration": "Feb 2015 \u2013 Present",
+      "responsibilities": [
+        "Provide administrative support to the Director of HR and Sr. Generalist.",
+        "Verify employment requests and process unemployment claims.",
+        "Enter benefit enrollments and onboard new hires in ADP Ev5 and SAP.",
+        "Manage monthly COBRA payments using Excel.",
+        "E-verify all new hires and process I-9 paperwork."
+      ]
+    },
+    {
+      "title": "Human Resources Temp",
+      "company": null,
+      "duration": "Nov 2014 \u2013 Jan 2015",
+      "responsibilities": [
+        "Supported the Sr. Director of HR and HR Assistant.",
+        "Managed background checks for physicians and nurses in ADP Select and EP Staff Check.",
+        "Processed I-9 documents and updated benefit information in ADP Enterprise."
+      ]
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "company": null,
+      "duration": "Jun 2014 \u2013 Nov 2014",
+      "responsibilities": [
+        "Supported the Director of HR and recruiters.",
+        "Uploaded and tracked new hire paperwork in Taleo.",
+        "Maintained employee database reports in Excel."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": null,
+      "duration": "Feb 2014 \u2013 May 2014",
+      "responsibilities": [
+        "Provided administrative support to the Department and Dean of Liberal Arts & Sciences.",
+        "Prepared communications, correspondence, and memos.",
+        "Maintained graduate award budget and compiled award data in Excel."
+      ]
+    },
+    {
+      "title": "Human Resources Communications and Staffing Specialist",
+      "company": null,
+      "duration": "Apr 2013 \u2013 Dec 2013",
+      "responsibilities": [
+        "Compiled HR news and maintained SharePoint intranet content.",
+        "Managed reports in Learning Management Systems and designed print media.",
+        "Assisted in developing employee training program materials."
+      ]
+    },
+    {
+      "title": "Recruiting Coordinator \u2013 Human Resources",
+      "company": null,
+      "duration": "Sep 2007 \u2013 Apr 2013",
+      "responsibilities": [
+        "Managed background checks and drug testing for 45 campus locations.",
+        "Compiled new hire packages and handled complex monthly billing in Excel.",
+        "Organized webinar training and trained HR personnel on ADP, Labcorp, and eScreen."
+      ]
+    },
+    {
+      "title": "Administrative Assistant \u2013 Education Department",
+      "company": null,
+      "duration": "Jan 2006 \u2013 Jan 2007",
+      "responsibilities": [
+        "Provided administrative support to the Education Department."
+      ]
+    }
+  ],
+  "projects": []
+}

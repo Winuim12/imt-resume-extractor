@@ -1,0 +1,104 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "A Human Resources Business Partner with extensive experience aligning HR strategy with business strategy for assigned business groups.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "Employee Relations",
+    "Coaching",
+    "Talent Acquisition",
+    "Salary Planning",
+    "Organizational Design",
+    "Workforce Planning",
+    "Talent Management",
+    "Succession Planning",
+    "Change Management",
+    "Performance Management",
+    "HRIS",
+    "Workday",
+    "PeopleSoft",
+    "Oracle",
+    "Taleo",
+    "MS Office",
+    "Communication",
+    "Strategic Planning",
+    "Benefits Administration",
+    "Workers Compensation",
+    "OSHA reporting"
+  ],
+  "tools": [
+    "Workday",
+    "PeopleSoft",
+    "Oracle",
+    "HR Workways",
+    "Taleo",
+    "MS Word",
+    "Excel",
+    "PowerPoint",
+    "Outlook"
+  ],
+  "certifications": [
+    "Talking Talent",
+    "Succession Architect",
+    "Voices 360",
+    "Leadership Architect",
+    "SPHR Certification",
+    "Lominger Korn/Ferry Certifications"
+  ],
+  "education": [
+    {
+      "degree": "B.S.",
+      "institution": "California State University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager/Business Partner",
+      "company": "Company Name",
+      "duration": "January 2000 to January 2014",
+      "responsibilities": [
+        "Point of contact for multiple business groups of 400+ employees across Finance, Legal, IT, Manufacturing, Marketing, and Service.",
+        "Partnered with senior leadership on workforce planning, talent management, change management, and organizational capability building.",
+        "Resolved employee relations issues, including investigations, terminations, and day\u2011to\u2011day concerns.",
+        "Coached managers and employees on performance management, training, and development.",
+        "Facilitated annual calibration, salary planning, and talent reviews.",
+        "Collaborated with Talent Acquisition to drive recruitment strategies and requisition approvals.",
+        "Implemented retention initiatives and addressed skill gaps.",
+        "Designed and executed HR plans aligned with corporate and business unit direction.",
+        "Managed organizational change initiatives such as reorganizations and reductions in force.",
+        "Ensured compliance with legal requirements across diverse HR areas."
+      ]
+    },
+    {
+      "title": "Senior Human Resources Generalist",
+      "company": "Company Name",
+      "duration": "January 1997 to January 2000",
+      "responsibilities": [
+        "Managed 50+ open requisitions across exempt and non\u2011exempt positions.",
+        "Handled employee relations issues, including performance, harassment, investigations, and terminations.",
+        "Administered benefits, compensation, and tracked leave of absence.",
+        "Filed and monitored Workers' Compensation claims and OSHA reporting.",
+        "Supported recruiting functions and maintained vendor relationships.",
+        "Communicated workforce updates and morale issues to executive leadership."
+      ]
+    },
+    {
+      "title": "Associate Human Resources Representative",
+      "company": "Company Name",
+      "duration": "January 1992 to January 1997",
+      "responsibilities": [
+        "Administered benefit programs for 800 employees, including Flexible Benefits, 401(k), and COBRA.",
+        "Managed employee relations for a client group of 100 employees.",
+        "Conducted weekly new hire orientation for all employees.",
+        "Developed and promoted employee events and award programs.",
+        "Created and managed a Wellness Program.",
+        "Processed leave of absence and supported recruiting efforts."
+      ]
+    }
+  ],
+  "projects": []
+}

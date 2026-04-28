@@ -1,0 +1,170 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Detail\u2011oriented IT professional with extensive experience in hardware and software troubleshooting, networking, server management, task automation, and web development. Skilled in both client\u2011side and server\u2011side technologies and proficient with Microsoft Office and Adobe Creative Suite.",
+  "total_experience_years": 1.0,
+  "skills": [
+    "A+",
+    "ActionScript",
+    "Active Directory",
+    "Adobe Creative Suite",
+    "Audio",
+    "Brochure design",
+    "Budgeting",
+    "Business management",
+    "CMS",
+    "CSS",
+    "CSS3",
+    "Database",
+    "Designing",
+    "Documentation",
+    "Electronics",
+    "HTML",
+    "HTML5",
+    "Java",
+    "JavaScript",
+    "Linux",
+    "Logic",
+    "Logo design",
+    "Mac OS",
+    "Marketing",
+    "Medical technology",
+    "Microsoft Office",
+    "Networking",
+    "Newsletter",
+    "Operating Systems",
+    "Organization development",
+    "Programming",
+    "Protocols",
+    "Prototyping",
+    "Search Engine Optimization",
+    "Servers",
+    "Storyboarding",
+    "TCP/IP",
+    "Telephony",
+    "Troubleshooting",
+    "Video editing",
+    "Web Development",
+    "Website management",
+    "Windows",
+    "Windows Server",
+    "Wiring"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Adobe Creative Suite",
+    "Windows Server",
+    "Linux distributions",
+    "Active Directory",
+    "Remote connection technologies",
+    "Batch scripting",
+    "Cloud computing",
+    "SEO tools",
+    "TCP/IP utilities"
+  ],
+  "certifications": [
+    "CompTIA A+",
+    "CompTIA Net+",
+    "MCSA"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "Lyons Township",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "General Education",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "IT Management",
+      "company": null,
+      "duration": "March 2012 \u2013 November 2012",
+      "responsibilities": [
+        "Planned, budgeted, and executed IT projects.",
+        "Managed office troubleshooting and website maintenance.",
+        "Designed and updated electronic newsletters."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant",
+      "company": null,
+      "duration": "July 2011 \u2013 February 2012",
+      "responsibilities": [
+        "Provided client computer repair and network expansion services.",
+        "Consulted on IT strategy and infrastructure."
+      ]
+    },
+    {
+      "title": "Web & Social Media Manager",
+      "company": null,
+      "duration": "May 2011 \u2013 July 2011",
+      "responsibilities": [
+        "Managed company website and social media accounts.",
+        "Assisted with administrative tasks."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Client Website Revamp",
+      "description": "Rebuilt a client\u2019s website from scratch, increasing monthly traffic from 3,422 to 40,884.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "CMS"
+      ]
+    },
+    {
+      "name": "Information System Upgrade",
+      "description": "Designed, priced, built, and installed a complete IT upgrade including networking devices, wiring, client computers, server, and software.",
+      "technologies": [
+        "Networking",
+        "Windows Server",
+        "Active Directory"
+      ]
+    },
+    {
+      "name": "Portable USB Phone Charger",
+      "description": "Diagrammed, prototyped, and assembled a solar\u2011powered USB charger fitting in an Altoids tin.",
+      "technologies": [
+        "Circuit design",
+        "Solar panel integration"
+      ]
+    },
+    {
+      "name": "Batch Scripting Automation",
+      "description": "Automated daily office tasks for a client using batch scripts.",
+      "technologies": [
+        "Batch scripting"
+      ]
+    },
+    {
+      "name": "Medical Technology Troubleshooting",
+      "description": "Diagnosed and repaired X\u2011ray machines and associated client/server software.",
+      "technologies": [
+        "Medical imaging software",
+        "Eaglesoft"
+      ]
+    },
+    {
+      "name": "Cloud Storage Website",
+      "description": "Programmed a secure web portal allowing remote access to a shared home network drive.",
+      "technologies": [
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Authentication"
+      ]
+    }
+  ]
+}

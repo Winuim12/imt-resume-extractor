@@ -1,0 +1,116 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Dependable Human Resources Generalist with over fourteen years of experience in fast\u2011paced environments. Strong team player with excellent people skills, conflict resolution, and a proven track record in benefits, compensation, employee relations, recruiting, payroll, and new hire/termination processing.",
+  "total_experience_years": 14.0,
+  "skills": [
+    "administrative support",
+    "benefits",
+    "coaching",
+    "communication",
+    "conflict resolution",
+    "consultation",
+    "creative problem solving",
+    "customer satisfaction",
+    "employee relations",
+    "forms",
+    "human resources",
+    "HR",
+    "interpretation",
+    "leadership",
+    "legal",
+    "legal and compliance",
+    "letters",
+    "managing",
+    "performance reviews",
+    "performance management",
+    "personnel",
+    "process improvement",
+    "quick learner",
+    "recruiting",
+    "safety",
+    "seminars",
+    "Spanish",
+    "staffing",
+    "telephone",
+    "year\u2011end"
+  ],
+  "tools": [
+    "ADP",
+    "PeopleSoft",
+    "Excel",
+    "PowerPoint",
+    "Word",
+    "Payroll",
+    "Biometric clock system"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Associate of Arts",
+      "institution": "Hunter College",
+      "graduation_year": "2003"
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Borough of Manhattan Community College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "02/2013 \u2013 06/2015",
+      "responsibilities": [
+        "Implemented biometric clock and attendance policy for hourly employees.",
+        "Advised managers on discipline action policy and created a new vacation calendar.",
+        "Coordinated employee engagement activities and safety procedures.",
+        "Managed employee relations investigations, performance reviews, and merit increases.",
+        "Assisted benefits management, open enrollment training, and new hire orientations.",
+        "Processed payroll via ADP, reviewed time cards, and ran reports.",
+        "Handled employee actions (hires, terminations, status changes) using PeopleSoft.",
+        "Managed leaves of absence, FMLA, and workers\u2019 compensation.",
+        "Conducted exit interviews and facilitated year\u2011end talent reviews."
+      ]
+    },
+    {
+      "title": "HR Representative",
+      "company": null,
+      "duration": "04/2000 \u2013 01/2008",
+      "responsibilities": [
+        "Answered employee questions on benefits and HR policies.",
+        "Investigated and resolved employee inquiries and complaints.",
+        "Processed new hires, transfers, leaves of absence, and terminations.",
+        "Produced monthly headcount reports and processed merit increases and bonuses."
+      ]
+    },
+    {
+      "title": "Human Resources Assistant / Payroll Coordinator",
+      "company": null,
+      "duration": "01/1997 \u2013 01/2000",
+      "responsibilities": [
+        "Provided administrative support to HR Director, Generalist, and staffing team.",
+        "Delivered new hire orientation on benefits and payroll procedures.",
+        "Processed payroll functions including new hires, terminations, and leaves of absence."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "01/2008 \u2013 06/2011",
+      "responsibilities": [
+        "Consulted and coached managers on employee relations and conflict resolution.",
+        "Managed visa and relocation processes for employees.",
+        "Assisted with talent planning, performance reviews, and compensation.",
+        "Handled employee inquiries, benefits, and policy interpretation.",
+        "Processed new hires, transfers, leaves of absence, and terminations.",
+        "Produced headcount reports and processed year\u2011end bonuses and salary actions."
+      ]
+    }
+  ],
+  "projects": []
+}

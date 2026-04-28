@@ -1,0 +1,131 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "13 years of Human Resources experience and 27 years of administrative experience working in various settings. Professional, detail-oriented, excellent time-management skills, team player, open and honest communicator, effective at maintaining confidentiality and multi-tasker.",
+  "total_experience_years": 13.0,
+  "skills": [
+    "Benefits consultation",
+    "Content editing",
+    "Counseling",
+    "HRIS management",
+    "Insurance administration",
+    "Microsoft Office",
+    "VRS Navigator",
+    "Banner",
+    "PeopleAdmin",
+    "PMIS",
+    "BES",
+    "OSHA compliance",
+    "Leave management",
+    "Training development",
+    "Communication",
+    "Confidentiality",
+    "Time management",
+    "Multi-tasking"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Banner",
+    "PeopleAdmin",
+    "PMIS",
+    "BES",
+    "VRS Navigator",
+    "OSHA 301",
+    "OSHA 300A"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Bluefield College",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate of Applied Science",
+      "institution": "New River Community College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Benefits/Leave Coordinator",
+      "company": null,
+      "duration": "December 2016 \u2013 Present",
+      "responsibilities": [
+        "Provide consultation and assistance for all employee benefits.",
+        "Assist Retirement/Benefits Manager in counseling employees on retirements and generating retirement calculations.",
+        "Assist with retirement trainings.",
+        "Promote and coordinate the Highlander Wellness Watch program.",
+        "Advise faculty/staff on leave policies and procedures.",
+        "Interpret and apply policies, procedures and guidelines.",
+        "Develop and present leave trainings for employees and supervisors.",
+        "Content editor for the HR newsletter and HR website committee.",
+        "Analyze and reconcile leave discrepancies.",
+        "Process and maintain Workers Compensation claims, short term disability claims and FMLA requests.",
+        "Coordinate return to work for employees on short term disability, FMLA and WC.",
+        "Maintain OSHA logs and reporting (OSHA 301 and OSHA 300A).",
+        "Process employees leave corrections and share requests, coordinate payments with payroll.",
+        "Calculate leave payouts for separating employees.",
+        "Process reports in Banner (HRIS) to ensure compliance with FLSA regulations.",
+        "Perform leave audits.",
+        "Provide programmatic support for the online leave reporting system.",
+        "Assist with other HR duties such as job fairs, benefits fairs, and other events.",
+        "Maintain confidential and sensitive information."
+      ]
+    },
+    {
+      "title": "HR Leave Coordinator",
+      "company": null,
+      "duration": "November 2008 \u2013 November 2016",
+      "responsibilities": [
+        "Advise faculty/staff on leave policies and procedures.",
+        "Interpret and apply policies, procedures and guidelines.",
+        "Develop and present leave trainings for employees and supervisors.",
+        "Analyze and reconcile leave discrepancies.",
+        "Process and maintain Workers Compensation claims, short term disability claims and FMLA requests.",
+        "Coordinate return to work for employees on short term disability, FMLA and WC.",
+        "Maintain OSHA logs and reporting (OSHA 301 and OSHA 300A).",
+        "Process employees leave corrections and share requests, coordinate payments with payroll.",
+        "Calculate leave payouts for separating employees.",
+        "Process reports in Banner (HRIS) to ensure compliance with FLSA regulations.",
+        "Assist with coordination of CommonHealth wellness program.",
+        "Perform leave audits.",
+        "Provide programmatic support for the online leave reporting system.",
+        "Assist with other HR duties such as screening job applicants, new hire orientation, exit interviews, open enrollment for health insurance and flexible spending accounts, job fairs, benefits fairs, etc.",
+        "Maintain confidential and sensitive information."
+      ]
+    },
+    {
+      "title": "Personnel Transaction Specialist/Human Resource Assistant",
+      "company": null,
+      "duration": "June 2004 \u2013 November 2008",
+      "responsibilities": [
+        "Process new hires, transfers, promotions into Banner and PMIS systems.",
+        "Perform audits for payroll processing.",
+        "Process short term disability claims and FMLA requests.",
+        "Process leave share requests.",
+        "Coordinate docks with payroll.",
+        "Perform other duties and tasks as needed.",
+        "Maintain confidential and sensitive information."
+      ]
+    },
+    {
+      "title": "Communications Operator",
+      "company": null,
+      "duration": "August 2002 \u2013 June 2004",
+      "responsibilities": [
+        "Refer patients to appropriate areas for treatment.",
+        "Assist patients with questions and concerns via phone or walk-ins.",
+        "Answer incoming calls on a seven-line phone system.",
+        "Page doctors in a timely manner.",
+        "Update call schedules as changes occur.",
+        "File and overhead all codes in a timely manner.",
+        "Maintain patient confidentiality."
+      ]
+    }
+  ],
+  "projects": []
+}

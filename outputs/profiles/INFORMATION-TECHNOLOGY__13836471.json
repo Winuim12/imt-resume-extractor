@@ -1,0 +1,198 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": null,
+  "total_experience_years": null,
+  "skills": [
+    "Active Directory",
+    "Adobe Products",
+    "Apple",
+    "Automation",
+    "backup",
+    "Broadcast",
+    "budget planning",
+    "Computer Technician",
+    "Hardware installation and configuration",
+    "Hardware",
+    "databases",
+    "Database",
+    "DHCP",
+    "DNS",
+    "editing",
+    "Final Cut",
+    "firewall",
+    "FTP",
+    "inventory",
+    "LAN",
+    "Mac",
+    "Magic",
+    "Microsoft Exchange Server",
+    "Windows 7",
+    "Windows",
+    "2000",
+    "Windows XP",
+    "Network Administration",
+    "network",
+    "OS",
+    "operating system",
+    "Power Builder 6.5",
+    "Power Builder 9.0",
+    "processes",
+    "QuickBooks Pro",
+    "research",
+    "Sales",
+    "SAN",
+    "Servers",
+    "Software installation",
+    "Microsoft SQL Server",
+    "Streaming Video",
+    "Sybase SQL Anywhere 7.0",
+    "Sybase SQL Anywhere 9.0",
+    "Sybase SQL Anywhere",
+    "Symantec",
+    "Technical support",
+    "Television",
+    "video",
+    "VPN",
+    "Windows Server",
+    "Windows 2000 Server"
+  ],
+  "tools": [
+    "Windows Server 2008 R2",
+    "Windows Server 2003",
+    "Windows Server 2000",
+    "Symantec BackupExec 2012",
+    "Microsoft Exchange Server 2010",
+    "Microsoft Exchange Server 2003",
+    "Microsoft Exchange Server 2000",
+    "Microsoft SQL Server",
+    "Sybase SQL Anywhere",
+    "FTP server",
+    "Active Directory",
+    "DHCP",
+    "DNS",
+    "WSUS",
+    "DFS",
+    "VPN",
+    "VLAN",
+    "firewall",
+    "spam firewall",
+    "web filter",
+    "Apple XSAN",
+    "Final Cut",
+    "Adobe Products",
+    "Cinema 4D",
+    "Aja",
+    "Kona",
+    "Black Magic",
+    "iNews",
+    "Wide Orbit",
+    "Florical Systems",
+    "Omneon",
+    "Streambox",
+    "Miranda"
+  ],
+  "certifications": [
+    "Certification in LAN Network Administration"
+  ],
+  "education": [
+    {
+      "degree": "BS Computer System Engineer",
+      "institution": "Fundacion Universidad Autonoma de Colombia",
+      "graduation_year": "2000"
+    },
+    {
+      "degree": "Computer Technician",
+      "institution": null,
+      "graduation_year": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "April 2007 \u2013 Current",
+      "responsibilities": [
+        "Annual budget planning for department",
+        "Network administration and implementation of new technology",
+        "Developed company applications",
+        "Daily backups and technical support for 80 users",
+        "Administration of security firewall, spam firewall and web filter",
+        "VLAN and VPN setup and administration",
+        "Windows Server 2008 R2 and Active Directory administration for 100 PCs",
+        "Administration of Microsoft DFS, DHCP, DNS and WSUS services",
+        "FTP server implementation and administration",
+        "Microsoft Exchange Server 2010 administration and daily backup",
+        "Servers and desktop backup with Symantec BackupExec 2012",
+        "Maintenance and backup of Sybase SQL Anywhere 11.0 databases",
+        "Administration of Mac editing rooms on OS X with SAN storage",
+        "Software installation for editing rooms (Final Cut, Adobe, Cinema 4D)",
+        "Hardware installation for video capture devices (Aja, Kona, Black Magic)",
+        "Management of iNews, Wide Orbit, Florical Systems, Omneon, Streambox, Miranda",
+        "Research, quoting, acquisition and configuration of new network technology",
+        "Repair, installation and updates of software and hardware for PCs and Macs"
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "July 2001 \u2013 March 2007",
+      "responsibilities": [
+        "Develop, maintain and support in\u2011house applications",
+        "Software licensing, OS updates for desktops and servers",
+        "Technical support for 25 users",
+        "Supervised two employees",
+        "Developed inventory tracking program for 300 branch offices",
+        "Network administration for LAN with 30 desktops and 5 Windows 2003 servers",
+        "Active Directory, DHCP and DNS administration",
+        "FTP server implementation for large file transfer",
+        "Distributed File System (DFS) implementation",
+        "Microsoft Exchange Server 2003 administration and daily backup",
+        "Certification Authority installation for web applications",
+        "Maintenance and backup of Sybase SQL Anywhere 9.0",
+        "Desktop application development (Power Builder 6.5, 9.0)",
+        "Technical support for 300 branch offices",
+        "Software and hardware installation and updates"
+      ]
+    },
+    {
+      "title": "Information Systems Administrator",
+      "company": "Company Name",
+      "duration": "January 2001 \u2013 July 2001",
+      "responsibilities": [
+        "Technical support for 10 network users and 100 branch offices",
+        "Implemented Terminal Services for new branches in Colombia",
+        "Daily backup of Sybase SQL Anywhere 7.0, Microsoft SQL Server 2000, QuickBooks Pro, and in\u2011house program",
+        "Network administration and FTP service for 100 branches",
+        "Windows 2000 Server and Active Directory administration",
+        "Microsoft SQL Server 2000 administration",
+        "Software and hardware installation and updates"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Inventory Tracking Program",
+      "description": "Developed a program to track inventory of all hardware distributed to 300 branch offices and created a user manual for the in\u2011house application.",
+      "technologies": [
+        "Power Builder",
+        "Windows Server",
+        "Active Directory",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Company Application Development",
+      "description": "Designed and implemented multiple company applications for internal use, including workflow automation and data management.",
+      "technologies": [
+        "Windows Server",
+        "Active Directory",
+        "SQL",
+        "Adobe Products"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Successful fifteen years of experience in IT Management and Technical Support. Skilled in installation, configuration, migration and implementation of server platforms. Dedicated IT Manager well\u2011versed in analyzing and mitigating risk, finding cost\u2011effective solutions, strategic planning, designing and budgeting for new products. Excellent troubleshooting skills in network, servers and software applications.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Active Directory",
+    "Adobe",
+    "Antivirus",
+    "Backup",
+    "Budgeting",
+    "Business processes",
+    "Call center",
+    "Capacity planning",
+    "Cisco",
+    "Computer assembly",
+    "Hardware",
+    "Contracts",
+    "Direct Attached Storage",
+    "Database",
+    "Dell",
+    "Designing",
+    "Desktops",
+    "Documentation",
+    "Firewall",
+    "HP",
+    "Hiring",
+    "Information systems",
+    "ISO 9000",
+    "Leadership",
+    "Linux",
+    "Logistics",
+    "Mac OS",
+    "Managing",
+    "Access",
+    "Microsoft Exchange",
+    "Microsoft Office",
+    "Microsoft Project",
+    "Microsoft SQL",
+    "Microsoft Visio",
+    "Windows",
+    "Enterprise",
+    "NAS",
+    "Network Attached Storage",
+    "Network Printers",
+    "Networking",
+    "New product development",
+    "Operating Systems",
+    "PBX",
+    "PCI",
+    "Phone System",
+    "Policies",
+    "Project Management",
+    "Quality",
+    "Quality assurance",
+    "Quality improvement",
+    "QuickBooks Pro",
+    "Research",
+    "Robotic",
+    "Safety",
+    "Storage Area Network",
+    "SAN",
+    "Scheduling",
+    "Servers",
+    "Symantec",
+    "Teamwork",
+    "Technical analysis",
+    "Phones",
+    "Troubleshooting",
+    "Upgrade",
+    "Vision",
+    "Web Portal",
+    "WAN"
+  ],
+  "tools": [
+    "Backup Exec",
+    "Cisco",
+    "Dell",
+    "HP",
+    "Microsoft Exchange Server",
+    "Microsoft SQL Server",
+    "Symantec",
+    "QuickBooks Pro",
+    "NAS",
+    "SAN",
+    "PBX",
+    "VOIP",
+    "Hyper\u2011V",
+    "Windows",
+    "Linux",
+    "Mac OS",
+    "Active Directory",
+    "Microsoft Office",
+    "Microsoft Project",
+    "Microsoft Visio",
+    "Adobe",
+    "Antivirus",
+    "Firewall",
+    "Direct Attached Storage",
+    "Network Attached Storage",
+    "Network Printers",
+    "Web Portal"
+  ],
+  "certifications": [
+    "Microsoft Certified Professional",
+    "Microsoft Office Professional",
+    "Microsoft Project Professional",
+    "Microsoft Visio Professional",
+    "Microsoft SQL Server"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Phoenix",
+      "graduation_year": "2000"
+    },
+    {
+      "degree": "Associate of Science",
+      "institution": "American River College",
+      "graduation_year": "1993"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "July 2000 \u2013 Current",
+      "responsibilities": [
+        "Provided leadership, vision and management to the IT department.",
+        "Developed and monitored the capital budget and approved department expenditures.",
+        "Managed, monitored and maintained network infrastructure and phone system.",
+        "Oversaw hardware and software configuration, installation and maintenance.",
+        "Managed IT staff scheduling, performance reviews, training, hiring and disciplinary actions.",
+        "Maintained PCI DSS compliance and managed technology documents, maintenance agreements and service contracts.",
+        "Researched new technologies and performed capacity planning.",
+        "Improved business processes through technical analysis to save cost and time."
+      ]
+    },
+    {
+      "title": "Computer Manufacturing Supervisor",
+      "company": "Company Name",
+      "duration": "September 1998 \u2013 September 1999",
+      "responsibilities": [
+        "Supervised a team of 25 assemblers, 3 testers and 6 technicians.",
+        "Organized daily computer assembly and testing for production.",
+        "Implemented safety, performance and policy procedures.",
+        "Ensured employee training and monitored software/hardware compatibility.",
+        "Managed documentation control for all hardware and software.",
+        "Coordinated issue resolution and effective communication with engineering, logistics and management."
+      ]
+    },
+    {
+      "title": "Quality Assurance Supervisor",
+      "company": "Company Name",
+      "duration": "April 1995 \u2013 March 1998",
+      "responsibilities": [
+        "Supervised a team of 15 quality inspectors and 8 software evaluators.",
+        "Hired, interviewed and promoted candidates for new positions.",
+        "Coordinated quality assurance for new product development and prototypes.",
+        "Monitored software/hardware compatibility and reliability.",
+        "Managed documentation control and vendor evaluations.",
+        "Counseled employees to improve morale, productivity and teamwork.",
+        "Implemented ISO 9000 compliance procedures and safety policies."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "PCI Data Security Standard Compliance",
+      "description": "Guided the company to comply with PCI DSS and achieved certification.",
+      "technologies": [
+        "PCI DSS",
+        "Security policies"
+      ]
+    },
+    {
+      "name": "Analog Phone System to VOIP Migration",
+      "description": "Migrated the analog phone system to VOIP, saving over $40k per year.",
+      "technologies": [
+        "VOIP",
+        "PBX",
+        "Phone System"
+      ]
+    },
+    {
+      "name": "Physical Server Migration to Hyper\u2011V",
+      "description": "Migrated 80% of physical servers to Hyper\u2011V to reduce costs and improve productivity.",
+      "technologies": [
+        "Hyper\u2011V",
+        "Virtualization",
+        "Servers"
+      ]
+    }
+  ]
+}

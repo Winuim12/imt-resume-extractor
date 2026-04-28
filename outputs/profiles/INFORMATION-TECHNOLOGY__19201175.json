@@ -1,0 +1,87 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Recent graduate seeking opportunity in hardware and software support. Systematic IT professional proficient in network, project and emergency management. Able to install hardware, patch software and configure internal systems. Complex problem\u2011solver with strong planning and communication skills, aiming to transition into a database administrator role.",
+  "total_experience_years": 4.0,
+  "skills": [
+    "Hardware updates",
+    "Process improvement implementation",
+    "Permissions management",
+    "Software licenses and patches",
+    "Excellent problem solving skills",
+    "Operating systems",
+    "Task estimation",
+    "GUI and tools",
+    "Knowledge of streaming video platforms",
+    "Timeline management",
+    "Operational support",
+    "Windows operating systems"
+  ],
+  "tools": [
+    "Microsoft software systems",
+    "Microsoft Windows"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "GED",
+      "institution": "Fremont Adult & Continuing Education",
+      "graduation_year": "2019"
+    },
+    {
+      "degree": "Information Technology",
+      "institution": "Unitek College - Fremont",
+      "graduation_year": "2019"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "02/2019 \u2013 Current",
+      "responsibilities": [
+        "Coordinated installation of Microsoft software systems and collaborated with user experience team on design and implementation of new features.",
+        "Maintained hardware and software systems with latest patches and licenses.",
+        "Provided on\u2011site technical support post\u2011implementation and recommended product changes to managers.",
+        "Trained new employees on support processes, procedures and knowledge base.",
+        "Mentored technical engineers and support professionals for professional development.",
+        "Documented and escalated support cases to higher levels when unresolved."
+      ]
+    },
+    {
+      "title": "Shift Leader",
+      "company": "Company Name",
+      "duration": "11/2016 \u2013 Current",
+      "responsibilities": [
+        "Assigned daily tasks to employees and monitored task completion.",
+        "Restocked work stations and display cases.",
+        "Managed inventory and maintained clean, safe environment.",
+        "Handled currency and credit transactions accurately.",
+        "Ensured compliance with cash, security, inventory, and labor policies."
+      ]
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": "Company Name",
+      "duration": "04/2017 \u2013 09/2017",
+      "responsibilities": [
+        "Followed up with customers on purchases and promotions.",
+        "Operated POS system to process an average of 50 customer purchases.",
+        "Answered customer inquiries regarding merchandise and pricing."
+      ]
+    },
+    {
+      "title": "Chef",
+      "company": "Company Name",
+      "duration": "06/2016 \u2013 02/2017",
+      "responsibilities": [
+        "Prepared and cooked meals according to menu specifications.",
+        "Maintained food safety standards and proper storage procedures."
+      ]
+    }
+  ],
+  "projects": []
+}

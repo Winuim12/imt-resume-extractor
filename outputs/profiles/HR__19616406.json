@@ -1,0 +1,85 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Experienced HR Manager with 10 years of comprehensive HR experience across employee relations, benefits, payroll, compliance, and safety.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Employee Relations",
+    "Benefits Administration",
+    "Payroll Administration",
+    "Recruitment & Hiring",
+    "Onboarding",
+    "Compliance (EEOC, AAP, FAA/DOT, Workers Compensation)",
+    "Training Management",
+    "Performance Reviews",
+    "Disciplinary Action",
+    "Unemployment Administration",
+    "Workers Compensation Claims",
+    "Safety & OSHA Reporting",
+    "HRIS",
+    "HR Policies",
+    "Staff Coaching & Training",
+    "Benefits Enrollment",
+    "401k Administration",
+    "Payroll Law",
+    "Timekeeping Systems",
+    "I-9 & E-Verify",
+    "COBRA",
+    "Audit Reporting",
+    "MIS Reports",
+    "Drug Screening Program",
+    "Notary Services"
+  ],
+  "tools": [
+    "HRIS",
+    "Payroll System",
+    "Timekeeping System",
+    "Training Management Software",
+    "MIS Reports",
+    "I-9 & E-Verify",
+    "COBRA Notification System",
+    "5500 Filing System",
+    "QDRO Documentation",
+    "FAA Audit Coordination",
+    "WorkOne Unemployment System"
+  ],
+  "certifications": [
+    "Human Resources Certificate, Indiana University"
+  ],
+  "education": [
+    {
+      "degree": "Psychology (1 year of study)",
+      "institution": "Indiana University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Human Resources Certificate",
+      "institution": "Indiana University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Director",
+      "company": "Company Name",
+      "duration": "May 2005 \u2013 Current",
+      "responsibilities": [
+        "Led onboarding, hiring, and recruiting initiatives, including advertising, staffing agency coordination, applicant administration, interviews, and pre-employment testing.",
+        "Managed benefits administration for health, dental, vision, life, disability, and employee assistance programs, including enrollment, changes, terminations, COBRA, and 5500 filings.",
+        "Administered 401(k) plan, overseeing eligibility, enrollment meetings, deferral calculations, loans, distributions, and compliance documentation.",
+        "Handled payroll processing, compliance with payroll law, garnishments, levies, child support orders, and timekeeping system updates.",
+        "Coordinated temporary staffing, including placement, documentation, drug testing, background checks, safety training, and system setup.",
+        "Managed training systems: entered new hires, set up training courses and sessions, tracked completions, and maintained training records.",
+        "Conducted annual performance reviews, provided managerial support, and managed disciplinary actions and terminations.",
+        "Administered unemployment claims, gathered evidence, and coordinated hearings with WorkOne and administrative law judges.",
+        "Oversaw workers compensation claims, served as first responder, coordinated with safety director, and maintained OSHA reporting.",
+        "Led FAA/DOT drug screening program, administered training, tracked random screens, and coordinated audits.",
+        "Implemented EEOC and AAP compliance, managed postings, filings, tracking, and annual reporting."
+      ]
+    }
+  ],
+  "projects": []
+}

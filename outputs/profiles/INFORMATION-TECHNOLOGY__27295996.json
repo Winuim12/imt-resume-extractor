@@ -1,0 +1,180 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Seasoned IT professional with over 16 years of experience leading technology strategy, operations, and application support across enterprise environments.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Active Directory",
+    "DHCP",
+    "DNS",
+    "WINS",
+    "GPO",
+    "backups",
+    "budgeting",
+    "Citrix",
+    "XenApp",
+    "VMware",
+    "Hyper\u2011V",
+    "Dynamic CRM",
+    "Dynamic GP",
+    "ERP",
+    "Crystal Reports",
+    "Data Analysis",
+    "Databases",
+    "Disaster Recovery",
+    "documentation",
+    "Financial Management",
+    "firewalls",
+    "imaging",
+    "inventory control",
+    "LAN",
+    "WAN",
+    "Linux",
+    "Microsoft Exchange",
+    "Office365",
+    "Office",
+    "Microsoft SQL",
+    "Windows",
+    "Migration",
+    "negotiating",
+    "enterprise",
+    "network",
+    "PBX",
+    "printer",
+    "processes",
+    "procurement",
+    "project planning",
+    "project management",
+    "purchasing",
+    "Reporting",
+    "research",
+    "Sage",
+    "sales reports",
+    "servers",
+    "strategic plans",
+    "strategic planning",
+    "supervision",
+    "technical support",
+    "cloud",
+    "Azure"
+  ],
+  "tools": [
+    "Citrix XenApp",
+    "Citrix NetScaler",
+    "VMware vSphere",
+    "Hyper\u2011V",
+    "EMC Avamar",
+    "Arkeia backup",
+    "Mitel 5000 IP PBX",
+    "MultiTech FaxFinder",
+    "Microsoft Exchange 2007/2010",
+    "Office365",
+    "Sage MAS100/200",
+    "Pivotal CRM",
+    "Salesforce PaaS",
+    "Crystal Reports",
+    "Scribe",
+    "Microsoft SQL Server",
+    "Spiceworks",
+    "Norton Ghost",
+    "Macrium Reflect",
+    "Acronis",
+    "FOG",
+    "Clonezilla"
+  ],
+  "certifications": [
+    "Citrix XenApp 6.5 Basic Administration",
+    "IT Security Essentials",
+    "Spiceworks 101: Foundations & Lab Introduction to SQL"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Applied Science",
+      "institution": "Hennepin Technical College",
+      "graduation_year": "2010"
+    },
+    {
+      "degree": "Business Management",
+      "institution": null,
+      "graduation_year": "2006"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Zaporizhzhya Pedagogical College",
+      "graduation_year": "1999"
+    },
+    {
+      "degree": "IT Security Essentials Certificate",
+      "institution": "Buchach University of Business and Management",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "IT Director",
+      "company": "Company Name",
+      "duration": "August 2015 \u2013 Present",
+      "responsibilities": [
+        "Developed and executed long\u2011term IT strategy and budgets.",
+        "Managed IT operations, project planning, and resource allocation.",
+        "Oversaw procurement, vendor negotiations, and hardware/software deployments.",
+        "Implemented IT policies, security, disaster recovery, and service level agreements.",
+        "Provided end\u2011user support and managed help desk operations."
+      ]
+    },
+    {
+      "title": "Business Application Specialist",
+      "company": "Company Name",
+      "duration": "August 2013 \u2013 August 2015",
+      "responsibilities": [
+        "Supported distributed business applications (CRM, Sage, Salesforce).",
+        "Improved security standards and documented disaster recovery plans.",
+        "Conducted data analysis, migration, and performance monitoring for Microsoft SQL databases.",
+        "Provided application training and technical support."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "February 2011 \u2013 August 2013",
+      "responsibilities": [
+        "Managed VMware vSphere and Citrix XenApp environments.",
+        "Supported Microsoft Exchange, Office365, and network infrastructure.",
+        "Performed backups, restores, and security administration.",
+        "Trained users and maintained documentation."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist I",
+      "company": "Company Name",
+      "duration": "October 2010 \u2013 January 2011",
+      "responsibilities": [
+        "Administered imaging solutions and desktop support.",
+        "Managed Active Directory, security policies, and domain controllers.",
+        "Maintained campus network and provided user training."
+      ]
+    },
+    {
+      "title": "Network Assistant",
+      "company": "Company Name",
+      "duration": "February 2010 \u2013 July 2010",
+      "responsibilities": [
+        "Assessed network performance and recommended upgrades.",
+        "Supported technical standards and resolved user network issues."
+      ]
+    },
+    {
+      "title": "General Manager",
+      "company": "Company Name",
+      "duration": "July 2004 \u2013 January 2006",
+      "responsibilities": [
+        "Supervised 25 office personnel and managed inventory.",
+        "Prepared sales reports and contributed to company advertising."
+      ]
+    }
+  ],
+  "projects": []
+}

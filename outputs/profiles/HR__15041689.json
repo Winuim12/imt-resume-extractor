@@ -1,0 +1,126 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "HR Professional with over 15 years of progressive experience in multi\u2011unit businesses, skilled in developing and implementing HR plans, conflict resolution, employment compliance, and staffing strategy.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "ADP",
+    "Benefits administration",
+    "Counseling",
+    "Database management",
+    "Employee relations",
+    "Hiring",
+    "HRIS",
+    "HR strategy",
+    "Meetings",
+    "Enterprise systems",
+    "Newspapers",
+    "Payroll",
+    "PeopleSoft 8.0",
+    "PeopleSoft HRMS",
+    "Performance management",
+    "Personnel",
+    "Policies",
+    "Processes",
+    "Recruitment",
+    "Reporting",
+    "Safety",
+    "TV",
+    "Conflict resolution",
+    "Employment protocol compliance",
+    "Staffing needs"
+  ],
+  "tools": [
+    "ADP Enterprise",
+    "PeopleSoft 8.0",
+    "PeopleSoft HRMS",
+    "Simplex/Winstar timekeeping system"
+  ],
+  "certifications": [
+    "PHR"
+  ],
+  "education": [
+    {
+      "degree": "Mathematics and Computer Science",
+      "institution": "Newberry College",
+      "graduation_year": null
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Batesburg Leesville High School",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Director",
+      "company": "Company Name",
+      "duration": "November 2007 \u2013 October 2014",
+      "responsibilities": [
+        "Planned, organized, and implemented HR for New Kent horse track and 8 off\u2011track betting sites (~650 employees).",
+        "Reviewed federal and state laws to ensure compliance.",
+        "Provided employee relations guidance and conducted investigations.",
+        "Created and updated HR policies and procedures.",
+        "Assessed performance and issued disciplinary notices.",
+        "Developed job descriptions in compliance with FLSA.",
+        "Managed FMLA, STD/LTD, and Workers\u2019 Compensation.",
+        "Handled WC claims and OSHA reporting.",
+        "Represented the company in unemployment, EEOC, and related hearings.",
+        "Administered benefits for 125 eligible employees, including reconciliation and monthly payments.",
+        "Recruited and hired seasonal employees and conducted new\u2011hire orientations.",
+        "Maintained HRIS (ADP Enterprise) and employee files.",
+        "Partnered on workforce reduction actions and severance packages.",
+        "Managed company donations and coordinated volunteer work."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "October 2004 \u2013 March 2008",
+      "responsibilities": [
+        "Managed FMLA, STD, LTD, and Workers\u2019 Compensation for a division of 30 TV stations and 1 communications company (~2,000 employees).",
+        "Maintained job requisition database and supported recruitment/retention.",
+        "Ensured EEO broad outreach and performance management planning.",
+        "Organized and trained field HR for annual benefits enrollment.",
+        "Delivered monthly HR reports to division HR Director and Corporate HR VP.",
+        "Provided employee relations counseling and investigations.",
+        "Participated in wellness, community outreach, and employee engagement initiatives.",
+        "Coordinated annual HR conference with corporate HR team."
+      ]
+    },
+    {
+      "title": "Benefits Administrator",
+      "company": "Company Name",
+      "duration": "January 2004 \u2013 October 2004",
+      "responsibilities": [
+        "Administered benefit plans for 27 newspapers and TV stations (~3,500 employees).",
+        "Processed daily enrollments using PeopleSoft 8.0.",
+        "Assisted corporate and field HR with benefits issues.",
+        "Supported the Benefits Director in planning and implementing annual open enrollment.",
+        "Ensured compliance with rules, regulations, and HIPAA."
+      ]
+    },
+    {
+      "title": "HR Coordinator",
+      "company": "Company Name",
+      "duration": "February 2001 \u2013 January 2004",
+      "responsibilities": [
+        "Managed HR for 4 daily and 2 weekly newspapers (~400 employees).",
+        "Reported payroll biweekly using Simplex/Winstar timekeeping system.",
+        "Recruited for open positions and managed onboarding.",
+        "Provided policy and procedure assistance to employees and managers.",
+        "Organized annual open enrollment for benefits.",
+        "Designed weekly and monthly HR and payroll reports.",
+        "Maintained PeopleSoft HRMS database and personnel files.",
+        "Responded to employment/wage verifications and conducted exit interviews.",
+        "Handled unemployment claims and completed wage surveys.",
+        "Administered COBRA, STD, LTD, WC files, and OSHA reporting.",
+        "Conducted annual anti\u2011harassment and safety training."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,153 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Dedicated and focused Administrative Assistant who excels at prioritizing, completing multiple tasks simultaneously, and following through to achieve project goals.",
+  "total_experience_years": 32.0,
+  "skills": [
+    "Administrative Support",
+    "Human Resources",
+    "Benefits Administration",
+    "SAP",
+    "PeopleSoft",
+    "KRONOS",
+    "Microsoft Office (Word, Excel, PowerPoint, Outlook, Access)",
+    "Lotus Notes",
+    "Internet Software",
+    "Training & Instruction",
+    "Travel Coordination",
+    "Event Planning",
+    "Report Writing",
+    "Data Management",
+    "Confidential Records Management",
+    "Security Administration",
+    "Problem Solving",
+    "Communication",
+    "Organization",
+    "Scheduling",
+    "Executive Presentation Development",
+    "Proofreading",
+    "Attention to Detail",
+    "Self-Directed",
+    "Team Player"
+  ],
+  "tools": [
+    "SAP",
+    "PeopleSoft",
+    "KRONOS",
+    "Lotus Notes",
+    "Microsoft Office Suite",
+    "Microsoft Access",
+    "Microsoft Outlook",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Windows",
+    "Remedy"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Diploma",
+      "institution": "Virginia High School",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Administrative Assistant Director, Human Resources Manager, Production Manager, Engineering Manager, Technical Services Manager, Information Technology Manager",
+      "company": "Company Name",
+      "duration": "January 2012 \u2013 January 2015",
+      "responsibilities": [
+        "Provided administrative support to production departments, IT, and Human Resources.",
+        "Created purchase requisitions, work orders, and goods receipts using proprietary software interfaced with SAP.",
+        "Established and maintained complete files and records.",
+        "Composed and typed reports and correspondence.",
+        "Maintained personnel files and responded to employee inquiries.",
+        "Generated travel and expense reports.",
+        "Organized meetings and prepared training materials."
+      ]
+    },
+    {
+      "title": "SAP Site Security Administrator / SAP Training Records Coordinator",
+      "company": "Company Name",
+      "duration": "January 2004 \u2013 January 2009",
+      "responsibilities": [
+        "Supported all Human Resources functions and generated reports from PeopleSoft and Access personnel databases.",
+        "Compiled statistics for site Safety Reports and managed Excellence Recognition Awards programs.",
+        "Entered training data into Registrar, authored user manual, and maintained training records for 150+ end users.",
+        "Entered purchase requisitions and work orders in SAP.",
+        "Delivered system security and authorization failure training.",
+        "Created and maintained SAP User Master Records for over 150 end users.",
+        "Diagnosed and resolved SAP access problems related to authorization failures.",
+        "Raised, resolved, and closed Remedy tickets.",
+        "Made domestic and international travel arrangements and processed invoices.",
+        "Created and maintained local site organization chart and expedited tuition reimbursements."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Company Name",
+      "duration": "January 1998 \u2013 January 2009",
+      "responsibilities": [
+        "Managed general administrative duties, including document preparation, database entry, and calendar maintenance."
+      ]
+    },
+    {
+      "title": "Computer Instructor",
+      "company": "Company Name",
+      "duration": "January 1996 \u2013 January 2001",
+      "responsibilities": [
+        "Provided instruction on Microsoft Word and Excel.",
+        "Taught the course \u201cIntroduction to Computers via Microsoft Windows.\u201d"
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Company Name",
+      "duration": "January 1996 \u2013 January 1997",
+      "responsibilities": [
+        "Provided general secretarial and accounts payable services."
+      ]
+    },
+    {
+      "title": "Department Secretary / Office Manager / Payroll Clerk / Compensation Assistant",
+      "company": "Company Name",
+      "duration": "January 1989 \u2013 January 1995",
+      "responsibilities": [
+        "Prepared letters, reports, and documents from rough copies.",
+        "Entered and retrieved information from computer databases.",
+        "Analyzed industry data to identify business opportunities.",
+        "Maintained complete files and departmental calendars.",
+        "Processed personnel record changes and provided training to Management Orientation Program participants.",
+        "Calculated wage increases and responded to employee inquiries."
+      ]
+    },
+    {
+      "title": "Secretary",
+      "company": "Company Name",
+      "duration": "January 1988 \u2013 January 1989",
+      "responsibilities": [
+        "Answered phones, processed mail, filed documents, and scheduled appointments.",
+        "Managed itineraries for candidates, including interviews and travel arrangements.",
+        "Prepared employment requisitions and announcements for vacancies.",
+        "Coordinated on\u2011 and off\u2011site training and development activities.",
+        "Assisted with company newsletter preparation."
+      ]
+    },
+    {
+      "title": "Employee Benefits Assistant",
+      "company": "Company Name",
+      "duration": "January 1979 \u2013 January 1988",
+      "responsibilities": [
+        "Communicated benefits plans to employees.",
+        "Maintained enrollment records through payroll system and prepared plan reports.",
+        "Administered Group Service Recognition program and organized Service Awards Banquet.",
+        "Served as liaison with area hospitals for blood donor program."
+      ]
+    }
+  ],
+  "projects": []
+}

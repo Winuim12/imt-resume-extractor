@@ -1,0 +1,121 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": "Chicago, IL",
+  "department": "HR",
+  "summary": "Chicago HR generalist offering recruitment, attendance management, payroll processing, MIS, employee engagement, and employee master data management. Highly driven to achieve company goals.",
+  "total_experience_years": 6.0,
+  "skills": [
+    "Recruitment",
+    "Payroll Processing",
+    "MIS",
+    "Employee Engagement",
+    "SAP HCM",
+    "SAP ECC",
+    "Attendance Management",
+    "Employee Master Data",
+    "Interviewing",
+    "Offer Negotiation",
+    "Employee Training",
+    "Benefits Administration",
+    "HRIS",
+    "Microsoft Office",
+    "Excel",
+    "PowerPoint",
+    "Word",
+    "Outlook",
+    "SAP Payroll",
+    "SAP HCM",
+    "SAP HCM",
+    "SAP HCM"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "SAP ECC",
+    "SAP HCM",
+    "Google Search",
+    "Yahoo Search",
+    "LinkedIn Search"
+  ],
+  "certifications": [
+    "FSMS Lead Auditor Course by URS (2011)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Cardiff University",
+      "graduation_year": "2010"
+    },
+    {
+      "degree": "MBA",
+      "institution": "MIT School of Business",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "MGM College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Executive",
+      "company": "Company Name",
+      "duration": "05/2014 \u2013 04/2016",
+      "responsibilities": [
+        "Managed end\u2011to\u2011end recruitment, including job postings, candidate sourcing, screening, interviewing, and offer negotiations.",
+        "Developed MINT system for recruitment workflow and maintained recruitment MIS reports.",
+        "Coordinated onboarding, medical checks, and joining processes via SAP.",
+        "Processed payroll for 2,500 employees bi\u2011weekly and monthly, handling pre\u2011payroll, payroll, and post\u2011payroll activities.",
+        "Maintained employee master data in SAP HCM and generated payroll and HR reports."
+      ]
+    },
+    {
+      "title": "HR Executive",
+      "company": "Company Name",
+      "duration": "01/2012 \u2013 03/2014",
+      "responsibilities": [
+        "Created and updated job descriptions, coordinated with hiring managers, and posted openings on job portals.",
+        "Sourced candidates from portals, social media, agencies, and referrals; conducted HR interview rounds.",
+        "Prepared offer letters, negotiated terms, and managed medical checks and appointment letters.",
+        "Prepared IJP forms, processed IJP releases, and published office orders.",
+        "Generated monthly recruitment MIS and trend analysis reports."
+      ]
+    },
+    {
+      "title": "Associate",
+      "company": "Company Name",
+      "duration": "02/2010 \u2013 05/2011",
+      "responsibilities": [
+        "Supported HR functions including employee data maintenance, payroll assistance, and HR reporting.",
+        "Assisted in documentation and implementation of ISO 9000 processes."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "MINT Recruitment Workflow System",
+      "description": "Designed and implemented a system to track recruitment workflow, incorporating selection and offer policies.",
+      "technologies": [
+        "SAP HCM",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Rewards & Recognition Program",
+      "description": "Created a program to improve employee retention and engagement.",
+      "technologies": [
+        "SAP HCM",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Employee Engagement Initiatives",
+      "description": "Led various engagement activities such as team building, awards, and office trips.",
+      "technologies": [
+        "Microsoft Office"
+      ]
+    }
+  ]
+}

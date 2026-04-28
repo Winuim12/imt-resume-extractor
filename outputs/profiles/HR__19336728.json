@@ -1,0 +1,83 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "New graduate seeking work as a Counselor able to facilitate both individual and group therapy sessions to help participants overcome obstacles. Detail-oriented with superior interpersonal skills.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "High energy",
+    "Sound judgment",
+    "Compassionate",
+    "Conflict resolution training",
+    "Exceptional problem solver",
+    "Excellent communication skills",
+    "Excellent writing skills",
+    "Customer service skills",
+    "Administrative support",
+    "Repairs",
+    "Spreadsheet management"
+  ],
+  "tools": [
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "Internet"
+  ],
+  "certifications": [
+    "EMT Certification"
+  ],
+  "education": [
+    {
+      "degree": "Bachelors of Art",
+      "institution": "Cleveland State University",
+      "graduation_year": "April 2018"
+    },
+    {
+      "degree": "Associate Degree",
+      "institution": "Bryant & Stratton College",
+      "graduation_year": "April 2016"
+    },
+    {
+      "degree": "EMT Certification",
+      "institution": "Cuyahoga Community College",
+      "graduation_year": "2003"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant Intern",
+      "company": "Company Name",
+      "duration": "February 2016 \u2013 March 2016",
+      "responsibilities": [
+        "Provided administrative support to the Human Resources Director",
+        "Verified I-9 documentation for new hires",
+        "Submitted online investigation requests and assisted with background checks",
+        "Updated HR spreadsheet with employee change requests and processed paperwork"
+      ]
+    },
+    {
+      "title": "Owner, Operator",
+      "company": "Company Name",
+      "duration": "August 2012 \u2013 Current",
+      "responsibilities": [
+        "Managed fashion retail store independently",
+        "Provided professional support to staff",
+        "Assisted retail store in exhibiting innovative products"
+      ]
+    },
+    {
+      "title": "Preservation Technician I",
+      "company": "Company Name",
+      "duration": "October 2004 \u2013 May 2013",
+      "responsibilities": [
+        "Assembled fabricated phase boxes, portfolios, and custom enclosures for protecting historic and fragile library materials",
+        "Performed archival sound repairs, including rebinding books in original covers",
+        "Prepared and submitted books for additional processing at the bindery",
+        "Designed complex enclosures for special projects"
+      ]
+    }
+  ],
+  "projects": []
+}

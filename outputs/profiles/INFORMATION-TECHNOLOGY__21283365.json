@@ -1,0 +1,131 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Solutions\u2011oriented IT leader with nearly 28 years of experience managing large, 24x7 IT environments, designing data centers, deploying SaaS and hybrid cloud solutions, and leading cross\u2011functional teams across multiple regions.",
+  "total_experience_years": 28.0,
+  "skills": [
+    "Leadership",
+    "Communication",
+    "Project Management",
+    "Technical Support",
+    "Budget Management",
+    "Cloud Architecture",
+    "Network Design & Implementation",
+    "VOIP",
+    "Cyber Security",
+    "NIST HITRUST/HIPAA",
+    "RFP Development",
+    "Emerging Technologies",
+    "ERP",
+    "Desktop Support",
+    "Accounting",
+    "HR",
+    "Vendor Management"
+  ],
+  "tools": [
+    "SaaS",
+    "Hybrid Cloud",
+    "Data Center Design",
+    "Cisco Routers",
+    "Cisco Firewalls",
+    "Windows Server",
+    "ERP Systems",
+    "VOIP Systems",
+    "Network Monitoring Tools"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "M.S. in Information Technology",
+      "institution": "CSUF IT Fullerton",
+      "graduation_year": null
+    },
+    {
+      "degree": "B.S. in Information Technology",
+      "institution": "UOP (University of Phoenix)",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Information Technology",
+      "company": "Adsystech",
+      "duration": "Sep 2005 \u2013 Current",
+      "responsibilities": [
+        "Designed and deployed the company\u2019s first data center for a new SaaS product.",
+        "Led the transition from software sales to SaaS subscription model, generating recurring revenue.",
+        "Implemented hybrid cloud environment and cyber\u2011security policies.",
+        "Built and managed teams for data center operations and technical support.",
+        "Oversaw network design, monitoring, and maintenance.",
+        "Managed budgets, project management, and RFP responses."
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "Sep 2003 \u2013 Sep 2005",
+      "responsibilities": [
+        "Managed a $120M IT budget for county\u2011wide human services programs.",
+        "Served as project manager for a $2.5M system rollout to ~2,000 users.",
+        "Led a bi\u2011county steering committee for RFP release and vendor selection.",
+        "Supervised network administrators and designed high\u2011level network architecture.",
+        "Ensured compliance with HITECH/HIPAA security protocols."
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "Sep 1998 \u2013 Mar 2003",
+      "responsibilities": [
+        "Managed national point\u2011of\u2011sale network across 100+ retail locations and 5 distribution centers.",
+        "Oversaw ERP, accounting, and HR systems at corporate and manufacturing sites.",
+        "Acted as liaison between vendors, operations staff, and CFO on major projects.",
+        "Implemented Cisco routers/firewalls, Windows Server, and desktop support."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Center Design & Deployment",
+      "description": "Designed and built the first data center to support a new SaaS product.",
+      "technologies": [
+        "Data Center Infrastructure",
+        "SaaS",
+        "Hybrid Cloud",
+        "Cisco Routers",
+        "Cisco Firewalls",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "Hybrid Cloud Environment",
+      "description": "Implemented a hybrid cloud solution to enhance scalability and cost efficiency.",
+      "technologies": [
+        "Hybrid Cloud",
+        "Cloud Monitoring",
+        "Security Policies"
+      ]
+    },
+    {
+      "name": "County\u2011Wide System Rollout",
+      "description": "Led the deployment of a $2.5M system to 2,000 users across Los Angeles County.",
+      "technologies": [
+        "Project Management",
+        "Network Design",
+        "Security Compliance"
+      ]
+    },
+    {
+      "name": "National POS Network Management",
+      "description": "Managed infrastructure and strategic planning for a national point\u2011of\u2011sale network.",
+      "technologies": [
+        "POS Systems",
+        "ERP",
+        "Network Security"
+      ]
+    }
+  ]
+}

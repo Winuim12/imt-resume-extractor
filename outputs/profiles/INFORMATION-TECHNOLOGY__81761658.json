@@ -1,0 +1,180 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "IT Manager with 26+ years of experience in infrastructure management, project leadership, and client relations across corporate and remote environments.",
+  "total_experience_years": 26.0,
+  "skills": [
+    "Antivirus",
+    "Backup Exec",
+    "Backup",
+    "budget",
+    "Cisco Router",
+    "Cisco",
+    "Citrix",
+    "hardware",
+    "contracts",
+    "client",
+    "clients",
+    "customer satisfaction",
+    "database applications",
+    "Database Management",
+    "DELL",
+    "direction",
+    "disaster recovery",
+    "document management",
+    "Email",
+    "employee training",
+    "Ethernet",
+    "Firewall",
+    "help desk",
+    "image",
+    "imaging",
+    "Information Systems",
+    "Information Technology",
+    "Local Area Networks",
+    "leadership",
+    "Linux",
+    "logging",
+    "Mac",
+    "Director",
+    "managing",
+    "Exchange",
+    "Microsoft Office Suite",
+    "Office",
+    "Microsoft Office products",
+    "SharePoint",
+    "Windows 9",
+    "2000",
+    "NT",
+    "migration",
+    "Network",
+    "Networking",
+    "PACS",
+    "personnel",
+    "Phone System",
+    "policies",
+    "processes",
+    "Property Management",
+    "quality",
+    "Radiology",
+    "reporting",
+    "Research",
+    "sales",
+    "software installation",
+    "supervision",
+    "Switch",
+    "Symantec",
+    "TCP/IP",
+    "user support",
+    "technical training",
+    "technical documentation",
+    "phone",
+    "Toshiba",
+    "Trend",
+    "upgrades",
+    "upgrade",
+    "VPN",
+    "Vista",
+    "voice mail",
+    "website",
+    "Windows Server",
+    "workflow"
+  ],
+  "tools": [
+    "Backup Exec",
+    "Cisco Router",
+    "Citrix",
+    "DELL",
+    "Exchange",
+    "Microsoft Office Suite",
+    "SharePoint",
+    "Windows Server",
+    "Symantec",
+    "VPN",
+    "Firewall",
+    "Switch",
+    "TCP/IP",
+    "Antivirus"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science in CyberSecurity",
+      "institution": "University of Maryland University College",
+      "graduation_year": "May 2015"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Information Systems",
+      "institution": "Middle Tennessee State University",
+      "graduation_year": "August 1993"
+    }
+  ],
+  "experience": [
+    {
+      "title": "IT Manager",
+      "company": "Company Name",
+      "duration": "December 2013 \u2013 Current",
+      "responsibilities": [
+        "Stabilized and managed infrastructure and applications for corporate and remote facilities.",
+        "Created standard hardware and software lists and managed procurement.",
+        "Prepared fiscal year IT budget and performed IT audits with recommendations.",
+        "Administered IT systems, managed projects, and defined employee training programs.",
+        "Maintained production database applications and analyzed system performance for upgrades.",
+        "Reduced downtime by diagnosing and resolving complex issues.",
+        "Negotiated vendor contracts and streamlined internal communication platforms.",
+        "Conducted vulnerability assessments, security audits, and implemented VoIP phone system.",
+        "Managed corporate website and collaborated with departments on technology needs.",
+        "Provided end\u2011user support for in\u2011office and remote users."
+      ]
+    },
+    {
+      "title": "Senior Technical Analyst",
+      "company": "Company Name",
+      "duration": "October 2010 \u2013 December 2013",
+      "responsibilities": [
+        "Led a help desk team serving over 30 clients, ensuring high customer satisfaction.",
+        "Monitored ticket queues, escalated issues, and maintained communication with clients.",
+        "Administered IT systems, analyzed performance, and recommended infrastructure upgrades.",
+        "Developed technical documentation, help desk policies, and budget plans.",
+        "Acted as account owner for select accounts and coordinated technical training."
+      ]
+    },
+    {
+      "title": "Director of Information Technology",
+      "company": "Company Name",
+      "duration": "January 2010 \u2013 October 2010",
+      "responsibilities": [
+        "Managed corporate network, ensured high availability, and developed backup/disaster recovery plans.",
+        "Administered MPLS network, coordinated remote office construction, and implemented monitoring.",
+        "Managed corporate phone and voicemail systems and provided support to all personnel.",
+        "Communicated technical matters to the President/CEO."
+      ]
+    },
+    {
+      "title": "Director of Information Technology",
+      "company": "Company Name",
+      "duration": "June 2004 \u2013 December 2009",
+      "responsibilities": [
+        "Oversaw corporate network, disaster recovery, and backup procedures for 68 LANs.",
+        "Implemented document management and incident reporting systems.",
+        "Managed IT staff, created policies, and prepared annual IT budget.",
+        "Negotiated vendor contracts, provided end\u2011user training, and reduced costs on cell phones and travel."
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "company": "Company Name",
+      "duration": "June 2000 \u2013 December 2003",
+      "responsibilities": [
+        "Led installation team for radiology department, gathering requirements and ensuring quality.",
+        "Coordinated with sales, vendors, and hospital staff to meet project timelines.",
+        "Ensured HIPAA compliance, investigated DICOM compatibility, and deployed standard PC images.",
+        "Developed help desk procedures and communicated project needs to management."
+      ]
+    }
+  ],
+  "projects": []
+}

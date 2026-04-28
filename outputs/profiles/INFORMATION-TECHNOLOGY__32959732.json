@@ -1,0 +1,203 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "A distinguished Director of Information Technology with expertise in network design and management, ERP implementation, cloud technologies, and internet technologies. Proven ability to implement standards, processes, and procedures that improve business functionality, build and lead high\u2011performing teams, and foster strong client relationships.",
+  "total_experience_years": 12.0,
+  "skills": [
+    "Small business development",
+    "Project management",
+    "Leadership/communication",
+    "Business operations organization",
+    "Client account management",
+    "Negotiations",
+    "Budgeting",
+    "Employee relations",
+    "Self\u2011motivation",
+    "Collaboration",
+    "Decisiveness",
+    "Enterprise platforms",
+    "Forecasting",
+    "Product lifecycle management (PLM)",
+    "Hardware and software upgrade planning",
+    "Product requirements documentation",
+    "Self\u2011direction",
+    "Scrum methodology",
+    "Performance criteria tracking",
+    "Enterprise Resource Planning (ERP)",
+    "Education software",
+    "Accounting systems",
+    "Learning Management Systems (LMS)",
+    "Manufacturing systems",
+    "Customer Relationship Management (CRM)",
+    "Enterprise back\u2011office systems",
+    "Microsoft Server",
+    "Microsoft SQL Server",
+    "Microsoft Exchange",
+    "Microsoft SharePoint",
+    "Linux",
+    "Storage Area Network",
+    "Active Directory",
+    "Microsoft Terminal Services",
+    "Microsoft Remote Desktop Services",
+    "Citrix",
+    "Juniper switches, routers, firewalls",
+    "Netgear switches, routers, firewalls",
+    "Cisco switches, routers, firewalls",
+    "Solarwinds network monitoring",
+    "Sophos Unified Threat Management",
+    "IDERA SQL Management",
+    "WebSense",
+    "Virtual System",
+    "VMware",
+    "Hyper\u2011V",
+    "Cloud phone systems",
+    "Cloud storage and backup",
+    "Amazon Web Services",
+    "Microsoft Azure",
+    "Office 365 (O365)",
+    "Microsoft Office suite",
+    "Sophos Anti\u2011Virus",
+    "Sophos Mobile Device Management",
+    "DeepFreeze Desktop Management"
+  ],
+  "tools": [
+    "Microsoft Server",
+    "Microsoft SQL Server",
+    "Microsoft Exchange",
+    "Microsoft SharePoint",
+    "Linux",
+    "Storage Area Network",
+    "Active Directory",
+    "Microsoft Terminal Services",
+    "Microsoft Remote Desktop Services",
+    "Citrix",
+    "Juniper switches, routers, firewalls",
+    "Netgear switches, routers, firewalls",
+    "Cisco switches, routers, firewalls",
+    "Solarwinds network monitoring tools",
+    "Sophos Unified Threat Management",
+    "IDERA SQL Management",
+    "WebSense",
+    "Virtual System",
+    "VMware",
+    "Hyper\u2011V",
+    "Cloud based phone systems",
+    "Cloud based storage and backup",
+    "Amazon Web Services",
+    "Microsoft Azure",
+    "Office 365 (O365)",
+    "Microsoft Office suite",
+    "Sophos Anti\u2011Virus",
+    "Sophos Mobile Device Management",
+    "DeepFreeze Desktop Management"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Business Administration",
+      "institution": "Walden University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Essex",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Director, Information Technology",
+      "company": "Weston Educational Group Inc",
+      "duration": "02/2015 \u2013 11/2016",
+      "responsibilities": [
+        "Led enterprise\u2011wide IT strategy and operations for a multi\u2011campus educational organization.",
+        "Oversaw implementation of a new Student Information System and CRM for two colleges.",
+        "Directed migration of staff and faculty to Office 365 and cloud\u2011based storage.",
+        "Implemented a web\u2011based support ticketing system and cloud\u2011phone solution.",
+        "Managed vendor relationships, budgeting, and negotiations to achieve 45% increase in customer satisfaction."
+      ]
+    },
+    {
+      "title": "Senior Manager, Student Information System",
+      "company": "American Career College and West Coast University",
+      "duration": "07/2009 \u2013 02/2015",
+      "responsibilities": [
+        "Managed IT operations for campus\u2011wide education software and student/faculty portals.",
+        "Coordinated ERP and accounting system implementations (Sage Platinum, Great Plains, SAP Business One).",
+        "Directed learning management system deployments (Dialoge EDU, eCollege, Moodle Rooms).",
+        "Led cloud migration initiatives and off\u2011shore support teams."
+      ]
+    },
+    {
+      "title": "President",
+      "company": "Aldreteem Inc",
+      "duration": "01/2005 \u2013 08/2009",
+      "responsibilities": [
+        "Oversaw all client services and business development functions.",
+        "Implemented rapid\u2011deployment processes for ERP solutions.",
+        "Established offshore support teams and client\u2011services departments.",
+        "Managed budgeting, negotiations, and performance tracking."
+      ]
+    },
+    {
+      "title": "Director, Client Services",
+      "company": "BatchMaster Software Inc",
+      "duration": "03/2001 \u2013 12/2004",
+      "responsibilities": [
+        "Created and led the Client Services group to drive sales and support.",
+        "Developed rapid\u2011implementation methodology reducing deployment time to 4 weeks.",
+        "Established offshore support teams and customer satisfaction surveys."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Student Information System & CRM Implementation",
+      "description": "Led the end\u2011to\u2011end deployment of a new Student Information System and Customer Relations Management system for two colleges, achieving a 45% increase in customer satisfaction.",
+      "technologies": [
+        "Campus Nexus Student",
+        "Campus Nexus CRM",
+        "Microsoft Office 365",
+        "Microsoft SharePoint",
+        "Microsoft SQL Server",
+        "Active Directory"
+      ]
+    },
+    {
+      "name": "Office 365 Migration",
+      "description": "Directed the migration of staff and faculty to Office 365, including data migration, user training, and security configuration.",
+      "technologies": [
+        "Office 365 (O365)",
+        "Microsoft Exchange",
+        "Microsoft SharePoint",
+        "Active Directory",
+        "Microsoft Remote Desktop Services"
+      ]
+    },
+    {
+      "name": "Web\u2011Based Support Ticketing System",
+      "description": "Implemented a new web\u2011based support ticketing system to streamline incident management and improve response times.",
+      "technologies": [
+        "Microsoft SharePoint",
+        "Microsoft SQL Server",
+        "Active Directory",
+        "Citrix"
+      ]
+    },
+    {
+      "name": "Rapid Implementation Module",
+      "description": "Developed a rapid\u2011implementation process that reduced ERP deployment time from months to 4 weeks.",
+      "technologies": [
+        "BatchMaster",
+        "Sage Platinum",
+        "SAP Business One",
+        "Microsoft Great Plains",
+        "VMware",
+        "Hyper\u2011V"
+      ]
+    }
+  ]
+}

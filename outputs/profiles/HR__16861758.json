@@ -1,0 +1,118 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "HR Assistant with extensive experience in employee onboarding, background checks, HR record maintenance, and quality assurance. Skilled in organizational tasks, problem solving, active listening, and maintaining confidentiality while supporting management, employees, and vendors.",
+  "total_experience_years": 24.0,
+  "skills": [
+    "Strong organizational skills",
+    "Sharp problem solver",
+    "Active listening skills",
+    "Courteous demeanor",
+    "Energetic work attitude",
+    "Professional and friendly",
+    "Careful and active listener",
+    "Multi\u2011tasking"
+  ],
+  "tools": [],
+  "certifications": [
+    "Certified Nursing Assistant",
+    "Certified Nursing Assistant 2"
+  ],
+  "education": [
+    {
+      "degree": "Nursing (continuing education)",
+      "institution": "Edgecombe Community College",
+      "graduation_year": "Present"
+    },
+    {
+      "degree": "Certified Nursing Assistant",
+      "institution": "Nash Community College",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant",
+      "company": null,
+      "duration": "April 2008 \u2013 Current",
+      "responsibilities": [
+        "Assembled employee new hire packs",
+        "Monitored and tracked employee probationary periods",
+        "Conducted background and reference checks",
+        "Served as first point of contact for vacancy inquiries",
+        "Maintained HR records and systems",
+        "Tracked employee anniversaries and awards",
+        "Developed reports for HR Director on clinical staff quotas",
+        "Screened phone calls, emails, letters, and personal visits",
+        "Performed quality assurance tracking/monitoring quarterly"
+      ]
+    },
+    {
+      "title": "Client Service Representative",
+      "company": null,
+      "duration": "July 2007 \u2013 April 2008",
+      "responsibilities": [
+        "Scheduled aides and nurses for various clients",
+        "Completed DNA collections and orientation for field staff new hires",
+        "Verified payroll for field staff employees",
+        "Created files for clients and employees",
+        "Executed on\u2011call responsibilities and scheduling",
+        "Maintained compliance rules for various clients",
+        "Updated and typed physician orders",
+        "Attended CAP meetings with managers"
+      ]
+    },
+    {
+      "title": "Assistant / Office Manager",
+      "company": null,
+      "duration": "October 2005 \u2013 October 2006",
+      "responsibilities": [
+        "Scheduled client appointments and answered telephone for two offices",
+        "Arranged hospital admission and laboratory services",
+        "Recorded medical history and vital signs",
+        "Prepared clients for examination and assisted physicians",
+        "Collected and prepared laboratory specimens",
+        "Disposed of contaminated supplies and sterilized instruments",
+        "Assisted doctors during procedures such as pap smears and endometrial biopsies",
+        "Entered client insurance information into database",
+        "Maintained files and completed prenatal records",
+        "Faxed and filed insurance updates",
+        "Participated in in\u2011services with organizations such as Komen Foundation"
+      ]
+    },
+    {
+      "title": "Obstetrician Technician",
+      "company": null,
+      "duration": "May 2000 \u2013 June 2006",
+      "responsibilities": [
+        "Set up patients on fetal monitors",
+        "Scheduled clients for cesarean section deliveries",
+        "Entered patient data into database systems",
+        "Cleaned and sterilized instruments",
+        "Ordered supplies for labor and delivery",
+        "Measured vital signs and recorded patient data",
+        "Supervised release of information to physicians and insurers",
+        "Reviewed medical records for completeness and accuracy",
+        "Ensured compliance with Joint Commission and regulatory agencies",
+        "Supervised filing and issuance of records",
+        "Evaluated and revised medical record procedures",
+        "Reviewed, coded, and indexed patient records"
+      ]
+    },
+    {
+      "title": "Pharmacy Technician",
+      "company": null,
+      "duration": "March 1999 \u2013 January 2000",
+      "responsibilities": [
+        "Retrieved patient information from computer systems",
+        "Provided client information to pharmacists and healthcare facilities",
+        "Filled prescriptions with pharmacist assistance",
+        "Answered phones and coordinated inventory"
+      ]
+    }
+  ],
+  "projects": []
+}

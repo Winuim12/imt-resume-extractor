@@ -1,0 +1,173 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Strategic, motivational, and solutions-focused leader with an MBA and extensive experience in analyzing systems/processes and implementing mission-critical infrastructure improvements. Broad-based experience in the healthcare industry including regulatory/corporate compliance, strategic planning, and contract negotiations. Proven track record of success in developing solutions that significantly improve the efficiency of business operations.",
+  "total_experience_years": 19.0,
+  "skills": [
+    "ADR",
+    "advertising",
+    "Arcserve",
+    "Asset Management",
+    "Backup Exec",
+    "banking",
+    "Budget Management",
+    "business operations",
+    "Cable",
+    "CCNA",
+    "Cisco",
+    "CNA 5.1",
+    "Change Management",
+    "Conflict Resolution",
+    "corporate accounting",
+    "Customer Relations",
+    "disaster recovery",
+    "educational programs",
+    "Employee Relations",
+    "financial",
+    "Ghost",
+    "information systems",
+    "Innovation",
+    "instruction",
+    "internal audits",
+    "inventory management",
+    "ITIL",
+    "Leadership Training",
+    "regulatory compliance",
+    "loss prevention",
+    "marketing",
+    "market",
+    "Windows",
+    "Enterprise",
+    "network",
+    "Novell NetWare",
+    "packaging",
+    "Performance Management",
+    "policies",
+    "procurement",
+    "Project Management",
+    "public relations",
+    "purchasing",
+    "quality",
+    "scheduling",
+    "Staff Development",
+    "strategic",
+    "Strategic Planning",
+    "surveys",
+    "Symantec",
+    "TCP/IP",
+    "technical support",
+    "telecommunication",
+    "VoIP",
+    "website",
+    "workflow"
+  ],
+  "tools": [
+    "Windows 2000",
+    "Windows XP",
+    "Windows 7",
+    "Novell NetWare 4.x",
+    "Novell NetWare 5.x",
+    "Novell NetWare 6.x",
+    "Allscripts EMR",
+    "McKesson EMR",
+    "TCP/IP",
+    "Enterprise Networks",
+    "Enterprise Virus Protection",
+    "Asset Management",
+    "ITIL",
+    "Arcserve",
+    "Backup Exec",
+    "Net Backup",
+    "Symantec Ghost",
+    "Cable Installation",
+    "Cable Management",
+    "LANDesk",
+    "Windows Server 2000",
+    "Windows Server 2003",
+    "Windows Server 2008",
+    "HIPAA/HITEC"
+  ],
+  "certifications": [
+    "Cisco Certified Network Associate (CCNA/CCAI)",
+    "Leadership Training",
+    "ITIL Foundations Certification",
+    "Sniffer University \u2013 Sniffer Distributed Training",
+    "Certified Novell Administrator (CNA 5.1)",
+    "HIPAA/HITECH Regulation"
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Keller Graduate School of Management",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "DeVry University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Practice Manager",
+      "company": null,
+      "duration": "2020 \u2013 2023",
+      "responsibilities": [
+        "Developed annual planning, budgeting, and productivity strategies.",
+        "Prepared comprehensive business and financial reports.",
+        "Implemented initiatives that increased top-line growth by 15%.",
+        "Managed cost containment, cash control, asset protection, loss prevention, and inventory.",
+        "Ensured compliance with regulatory and corporate standards.",
+        "Deployed new hospital initiatives and built a robust client base."
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": null,
+      "duration": "Feb 2012 \u2013 Sep 2013",
+      "responsibilities": [
+        "Ensured regulatory compliance and integrity of health information systems.",
+        "Provided support during surveys, ADR, and internal audits.",
+        "Mentored and developed clinical employees.",
+        "Oversaw compliance department operations."
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": null,
+      "duration": "Sep 2008 \u2013 May 2011",
+      "responsibilities": [
+        "Revised technology initiatives and strategic/operations plans.",
+        "Provided technical support for EMR projects (Allscripts and McKesson).",
+        "Developed processes, manuals, and standard operating procedures.",
+        "Standardized purchasing, procurement, inventory, and network operations.",
+        "Championed operational changes and developed training collateral.",
+        "Delivered classroom instruction and conducted clinical visits."
+      ]
+    },
+    {
+      "title": "Marketing Director",
+      "company": null,
+      "duration": "Feb 2007 \u2013 Sep 2008",
+      "responsibilities": [
+        "Led marketing initiatives and campaigns.",
+        "Oversaw communication strategies and public relations."
+      ]
+    },
+    {
+      "title": "Director of Information Systems",
+      "company": null,
+      "duration": "Jan 2004 \u2013 Feb 2007",
+      "responsibilities": [
+        "Implemented disaster recovery plan and established equipment lifecycles.",
+        "Delivered training on information systems and bandwidth optimization.",
+        "Boosted bandwidth by 30% and reduced maintenance costs.",
+        "Implemented Verizon cell plan and integrated Field Force Manager."
+      ]
+    }
+  ],
+  "projects": []
+}

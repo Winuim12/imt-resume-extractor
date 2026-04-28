@@ -1,0 +1,142 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Skillful and dedicated Executive Assistant with extensive experience in coordinating, planning, and supporting daily operational and administrative functions in highly confidential environments. Focused, results\u2011driven professional seeking an administrative position in HR.",
+  "total_experience_years": 29.0,
+  "skills": [
+    "accountant",
+    "administrative support",
+    "benefits",
+    "billing",
+    "brochures",
+    "budget",
+    "bi",
+    "charts",
+    "contracts",
+    "copying",
+    "clients",
+    "documentation",
+    "Drafting",
+    "Engineer",
+    "senior management",
+    "finance",
+    "forms",
+    "Human Resource",
+    "Human Resources",
+    "HR",
+    "insurance",
+    "letters",
+    "Lotus Notes",
+    "Director",
+    "managing",
+    "materials",
+    "meetings",
+    "Access",
+    "Excel",
+    "office",
+    "PowerPoint",
+    "Word",
+    "Oracle",
+    "organizing",
+    "payroll",
+    "personnel",
+    "policies",
+    "purchasing",
+    "quality control",
+    "Recruiting",
+    "research",
+    "Safety",
+    "SAP",
+    "scanning",
+    "seminars",
+    "shipping",
+    "Six Sigma",
+    "SOP",
+    "Staffing",
+    "tax",
+    "transportation",
+    "utilities"
+  ],
+  "tools": [
+    "Word",
+    "Excel",
+    "Access",
+    "PowerPoint",
+    "SAP",
+    "Lotus Notes",
+    "Oracle"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "Centenary College",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Bachelor of Science in Business Administration",
+      "institution": "Business Administration",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Executive Assistant HR",
+      "company": "Company Name",
+      "duration": "01/2014 \u2013 Present",
+      "responsibilities": [
+        "Provided administrative support to the President of a home\u2011care service provider.",
+        "Managed calendar, processed requisitions, and organized company meetings.",
+        "Administered pre\u2011employment training and testing.",
+        "Handled bi\u2011weekly payroll for 100 employees.",
+        "Maintained organization charts, staffing/workforce plans, and HR audit files.",
+        "Coordinated new hire processing with Recruiting and Staffing.",
+        "Supported all HR administrative functions."
+      ]
+    },
+    {
+      "title": "Biller",
+      "company": "Company Name",
+      "duration": "12/1999 \u2013 05/2004",
+      "responsibilities": [
+        "Processed incoming and outgoing shipments.",
+        "Analyzed billing issues and recommended corrective actions.",
+        "Assisted dock personnel and suppliers with shortages and overages.",
+        "Supported special projects as needed."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Company Name",
+      "duration": "10/1997 \u2013 08/2013",
+      "responsibilities": [
+        "Assisted senior leaders across Engineering, Construction, HS&E, and HR.",
+        "Managed documentation control for construction projects and new hire training.",
+        "Supported purchasing, utilities payment, and accounts payable.",
+        "Organized travel for senior management and international employees.",
+        "Prepared monthly capital project reports and utility usage summaries.",
+        "Coordinated meetings, corporate functions, and internal training seminars.",
+        "Implemented electronic systems and revised SOPs.",
+        "Maintained safety training logs and coordinated plant safety training.",
+        "Led green projects using Six Sigma Lean processes.",
+        "Acted as liaison between construction teams, city officials, and subcontractors."
+      ]
+    },
+    {
+      "title": "Senior Assistant Underwriter",
+      "company": "Company Name",
+      "duration": "03/1994 \u2013 07/1996",
+      "responsibilities": [
+        "Reviewed applications, letters, and cancellation policies.",
+        "Advised clients on policy documentation and correspondence.",
+        "Prepared, reviewed, and issued renewals and new business policies.",
+        "Developed quality control procedures for finance contracts.",
+        "Implemented automated monitoring systems."
+      ]
+    }
+  ],
+  "projects": []
+}

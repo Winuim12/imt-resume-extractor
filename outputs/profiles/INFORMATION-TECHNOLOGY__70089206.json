@@ -1,0 +1,174 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Highly skilled and results-oriented IT specialist with extensive experience in Software Development, Software Configuration Management, Project Management, System Planning & Specification Development, CMMI5, Quality Assurance and Testing.",
+  "total_experience_years": 35.0,
+  "skills": [
+    "Configuration Management",
+    "Process Development",
+    "Process Improvement",
+    "Database Management",
+    "Software Development",
+    "Software Testing",
+    "Serena Version Manager",
+    "Serena Business Manager",
+    "Serena Business Administrator",
+    "Reflections",
+    "WinSCP",
+    "JavaScript",
+    "LINUX",
+    "Microsoft Access",
+    "Office",
+    "SharePoint",
+    "Enterprise",
+    "Oracle",
+    "PL/SQL",
+    "Oracle SQL",
+    "C",
+    "SAS",
+    "Visual Basic"
+  ],
+  "tools": [
+    "Serena Version Manager",
+    "WinSCP",
+    "Reflections",
+    "SharePoint",
+    "Serena Business Manager",
+    "Serena Business Administrator",
+    "LINUX",
+    "Oracle",
+    "PL/SQL",
+    "Oracle SQL",
+    "Visual Basic",
+    "JavaScript",
+    "Microsoft Access",
+    "Office"
+  ],
+  "certifications": [
+    "Serena Business Manager Composer",
+    "Serena Business Manager Administrator",
+    "Configuration and Release Management Training",
+    "Unix Programming",
+    "Oracle 10G Programming",
+    "Oracle JDeveloper",
+    "Java Programming",
+    "Object Oriented Programming",
+    "Intro to UNIX Systems",
+    "Advanced UNIX",
+    "Learning PERL",
+    "Advanced C Language Programming",
+    "Advanced PL/SQL Programming",
+    "Fundamentals of SAS",
+    "SQL Processing with SAS",
+    "SAS Programming",
+    "Table Processing with SAS",
+    "Output Delivery Systems",
+    "Utilizing VAX/VMS",
+    "Demand Terminal Language",
+    "Package References",
+    "Objects and Modules"
+  ],
+  "education": [
+    {
+      "degree": "Applied Probability and Statistics",
+      "institution": "University of Maryland",
+      "graduation_year": null
+    },
+    {
+      "degree": "Survey Theory",
+      "institution": "USDA Graduate School",
+      "graduation_year": null
+    },
+    {
+      "degree": "Master of Science in Urban Regional Planning",
+      "institution": "Indiana University of Pennsylvania",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Arts in Physical Geography",
+      "institution": "Indiana University of Pennsylvania",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "August 2006 \u2013 Current",
+      "responsibilities": [
+        "Track and control over 150 change requests per month.",
+        "Manage repository for software and customer requirements documents, agreements, and governance specifications.",
+        "Document and communicate defects and problems with stakeholders and developers.",
+        "Develop and report critical metrics related to CRSMB change request activity.",
+        "Ensure all activities involved in software design, coding, and testing completed before releasing software for independent testing and deployment into production.",
+        "Deploy application software to test and production environments using code management tools.",
+        "Manage logging change requests into tracking system and assign work activities to branch members.",
+        "Evaluate adequacy of current CM processes and procedures and recommend improvements.",
+        "Coordinate and communicate with developers, subject matter personnel, stakeholders, database management support, and project managers.",
+        "Perform platform testing and performance testing during migration to Serena Business Management (SBM) system.",
+        "Collaborate in design of SBM Workflow.",
+        "Administrator for SBM system.",
+        "Proficiency with Serena Version Manager, WinSCP, Reflections for migration and staging of application software to testing and production Linux environment.",
+        "Maintain branch's SharePoint site, ensuring current documentation and resources available.",
+        "Document CM procedures and provide training to new CM staff members and division members.",
+        "Execute test scripts as needed in implementation and deployment of software related test and production project development.",
+        "Ensure software releases performed in compliance with CMMI guidelines.",
+        "Solve technology related issues by researching potential problems and offering solutions in deployment of software and change request tracking.",
+        "Ensure each CM change request passed regulated security checks.",
+        "Maintain well\u2011established, documented, repeatable processes within CMMI standards."
+      ]
+    },
+    {
+      "title": "Computer Specialist",
+      "company": "Company Name",
+      "duration": "August 1996 \u2013 August 2006",
+      "responsibilities": [
+        "Detailed and refined requirements, wrote algorithms, developed programs and command procedures.",
+        "Developed solutions to improve software performance.",
+        "Enhanced testing procedures.",
+        "Performed software testing, debugging, and validation using internally developed test scripts, test plans, and results criteria.",
+        "Developed and delivered software products.",
+        "Communicated with IT staff and subject matter on project requirements.",
+        "Conducted program demonstrations with team members prior to release.",
+        "Performed extensive database testing, automated testing and data validation supporting MAF/TIGER database migration to Oracle.",
+        "Developed database test scenarios and supporting software in Pro C and Oracle to validate migration to Oracle platform.",
+        "Worked extensively in PL/SQL, SQL, Shell scripting in Linux, JavaScript, SAS, and Visual Basic.",
+        "Attended meetings with division managers to review project status and proposed changes.",
+        "Created status reports and posted to GEO website for management review.",
+        "Designed and maintained branch website."
+      ]
+    },
+    {
+      "title": "Computer Specialist",
+      "company": "Company Name",
+      "duration": "July 1994 \u2013 August 1996",
+      "responsibilities": [
+        "Designed and developed electronic questionnaires, \"instruments\", for Computer Assisted Survey Information Collection (CASIC) activities.",
+        "Led meetings with subject matter staff to review project status and proposed changes.",
+        "Met with subject matter staff and sponsor on details and development of programming specifications, design and testing of CAI.",
+        "Delivered status reports to stakeholders for budgeting and planning.",
+        "Collaborated with program sponsor to draft project schedules and plans.",
+        "Served as single point of contact for project scheduling and changes.",
+        "Program Manager of the Survey of Inmates of Local Jails."
+      ]
+    },
+    {
+      "title": "Mathematical Statistician",
+      "company": "Company Name",
+      "duration": "February 1988 \u2013 July 1994",
+      "responsibilities": [
+        "Worked in Research & Methodology Branch of Industry Division.",
+        "Collaborated on statistical methodology for designing ratio estimation procedures.",
+        "Developed estimation and variance methodologies.",
+        "Created sampling frame and maintained probability proportional-to-size (PPS) sampling for surveys.",
+        "Designed computer algorithms for assigning sampling weights, adjusting for nonresponse, and calculating estimates, variances, and relative standard sampling errors.",
+        "Developed computer software for survey sample selection.",
+        "Provided programming expertise to assist subject matter analysts with software and instruments for data reviews."
+      ]
+    }
+  ],
+  "projects": []
+}

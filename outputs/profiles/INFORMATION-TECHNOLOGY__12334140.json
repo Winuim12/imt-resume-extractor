@@ -1,0 +1,88 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Experienced and knowledgeable Information Technology Professional seeking to contribute training and acquired skills within a Tier One Technical Support and/or Help Desk role.",
+  "total_experience_years": 6.0,
+  "skills": [
+    "Basic Programming",
+    "hardware",
+    "help desk support",
+    "IBM",
+    "IBM Software",
+    "Lotus 2.1",
+    "Macros",
+    "MS-DOS",
+    "Network",
+    "networking",
+    "Novell Netware",
+    "Novell Netware 4.11",
+    "Programming",
+    "technical training",
+    "telephone",
+    "troubleshooting",
+    "Word Processing"
+  ],
+  "tools": [
+    "IBM",
+    "IBM Software",
+    "Lotus 2.1",
+    "WordPerfect 5.1",
+    "MS-DOS",
+    "Novell Netware 4.11",
+    "Office"
+  ],
+  "certifications": [
+    "NTSA Defensive Driving Certification"
+  ],
+  "education": [
+    {
+      "degree": "B.S.B.A",
+      "institution": "Shippensburg University of Pennsylvania",
+      "graduation_year": "1993"
+    },
+    {
+      "degree": "A.A",
+      "institution": "John L. Grove College of Business",
+      "graduation_year": "1991"
+    },
+    {
+      "degree": null,
+      "institution": "KnowledgeSoft, Inc., Mechanicsburg, PA",
+      "graduation_year": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Production Associate",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": []
+    },
+    {
+      "title": "Information Technology Technician",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Provided computer help desk support via telephone communications with end-users.",
+        "Performed diagnostics and troubleshooting of system issues.",
+        "Documented help desk tickets and resolutions.",
+        "Maintained equipment inventory lists."
+      ]
+    },
+    {
+      "title": "Information Technology Technician",
+      "company": "Company Name",
+      "duration": null,
+      "responsibilities": [
+        "Provided computer help desk support and technical training on hardware/software to end users.",
+        "Documented help desk tickets and resolutions.",
+        "Assisted in daily administration of a Novell Netware 4.11 Network.",
+        "Performed set-up, break-down, and transport of agency equipment as needed."
+      ]
+    }
+  ],
+  "projects": []
+}

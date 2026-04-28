@@ -1,0 +1,130 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "To continue work in the Information Technology field while developing my skills in Information Systems and Networking.",
+  "total_experience_years": 15.5,
+  "skills": [
+    "A+",
+    "Active Directory",
+    "Cisco Certified Network Associate",
+    "DHCP",
+    "Email",
+    "Fax",
+    "Ghost",
+    "IP",
+    "LANs",
+    "Microsoft Certified Professional",
+    "MCSE",
+    "Network",
+    "Networking",
+    "Printers",
+    "Protocols",
+    "Routers",
+    "Scanners",
+    "Servers",
+    "Switches",
+    "Telecommunications",
+    "Troubleshooting",
+    "Video Conferencing",
+    "Windows",
+    "Windows Server"
+  ],
+  "tools": [
+    "Ghost Server",
+    "KBOX Server",
+    "Intermapper",
+    "Polycom QDX 6000",
+    "Tandberg",
+    "Ghost",
+    "KBOX",
+    "Intermapper"
+  ],
+  "certifications": [
+    "CompTIA A+",
+    "CompTIA Network+",
+    "CompTIA Security+",
+    "MCSE",
+    "CCNA",
+    "Certified Ethical Hacker"
+  ],
+  "education": [
+    {
+      "degree": "M.A.",
+      "institution": "George Mason University",
+      "graduation_year": "1982"
+    },
+    {
+      "degree": "B.S.",
+      "institution": "George Mason University",
+      "graduation_year": null
+    },
+    {
+      "degree": "A.A.S.",
+      "institution": "Northern Virginia Community College (NVCC), Alexandria",
+      "graduation_year": "2001"
+    },
+    {
+      "degree": "A.A.S.",
+      "institution": "Virginia Commonwealth University, Richmond",
+      "graduation_year": "2001"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "April 2015 \u2013 Current",
+      "responsibilities": [
+        "Set up and maintained wired and wireless network infrastructure.",
+        "Configured and maintained user computers, email accounts, and Android phones.",
+        "Managed network security and user access controls.",
+        "Maintained security on company machines."
+      ]
+    },
+    {
+      "title": "Computer Technical Specialist",
+      "company": "Company Name",
+      "duration": "September 2007 \u2013 January 2014",
+      "responsibilities": [
+        "Installed and maintained software on faculty/staff computers (Windows/Mac).",
+        "Troubleshot hardware/software issues and network connectivity.",
+        "Managed printers, scanners, fax machines, and PDAs.",
+        "Assisted network administrators with routers, switches, servers, DHCP, and Active Directory.",
+        "Captured and pushed images via Ghost server; deployed software via KBOX server.",
+        "Maintained classroom projectors and smart board devices.",
+        "Installed and troubleshot video conferencing systems (Polycom QDX 6000, Tandberg).",
+        "Set up virtual machines and client software."
+      ]
+    },
+    {
+      "title": "Senior Computer Network Support Technician",
+      "company": "City, State",
+      "duration": "November 2001 \u2013 September 2007",
+      "responsibilities": [
+        "Provided statewide telecommunications support and on\u2011site problem analysis.",
+        "Supported local and wide area networking, router/switch/server configuration.",
+        "Troubleshot network components and diagnosed topology/protocol issues.",
+        "Installed and maintained video conferencing systems (Meeting Point).",
+        "Resolved computer hardware/software/network issues."
+      ]
+    },
+    {
+      "title": "Junior Network Administrator",
+      "company": "Company Name",
+      "duration": "September 1999 \u2013 November 2001",
+      "responsibilities": [
+        "Installed and removed network programs in a teaching/testing facility.",
+        "Assigned user rights and permissions.",
+        "Troubleshot hardware/software on the network.",
+        "Configured IP addresses via DHCP.",
+        "Maintained compatibility of new hardware/software (routers, switches, servers, workstations).",
+        "Reorganized LANs for performance.",
+        "Installed and maintained network wiring."
+      ]
+    }
+  ],
+  "projects": []
+}

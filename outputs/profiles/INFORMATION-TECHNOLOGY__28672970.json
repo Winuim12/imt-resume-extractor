@@ -1,0 +1,141 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Visionary and highly accomplished Information Technology executive with over 20 years of experience in high-performance, multi-faceted environments.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "Leadership",
+    "Change Management",
+    "Infrastructure Design",
+    "Strategic Planning",
+    "Project Management",
+    "Technical Support",
+    "Network Administration",
+    "ERP Implementation",
+    "Telecom Systems",
+    "Software Development",
+    "Windows OS Migration",
+    "Office Suite",
+    "Cisco Certified",
+    "Mentoring",
+    "Coaching",
+    "Vendor Management",
+    "Budgeting",
+    "Policy Development",
+    "Training",
+    "Service Level Agreements",
+    "Security",
+    "Data Recovery",
+    "Virtualization",
+    "Business Analysis"
+  ],
+  "tools": [
+    "Windows 7",
+    "Office 2010",
+    "Windows XP",
+    "Windows 98",
+    "MS Office",
+    "Wordperfect",
+    "IP Hybrid Telecom System",
+    "ERP System",
+    "Cisco Equipment",
+    "Virtualization (VMware)",
+    "Service Level Agreements (SLA)"
+  ],
+  "certifications": [
+    "Cisco Certified Engineer"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Santo Tomas - Manila Philippines",
+      "graduation_year": "1985"
+    },
+    {
+      "degree": "Associates Degree",
+      "institution": "Baruch College",
+      "graduation_year": "1995"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Information Technology",
+      "company": null,
+      "duration": "08/2005 to Current",
+      "responsibilities": [
+        "Managed software development and infrastructure projects.",
+        "Oversaw daily operations and vendor relationships.",
+        "Defined project requirements and aligned efforts with client and corporate needs.",
+        "Developed change management processes, release control, maintenance, support, and employee training.",
+        "Conducted needs analysis for infrastructure and software.",
+        "Established corporate policies for staff technology usage.",
+        "Provided 24/7 technical support, SLAs, and root cause analysis.",
+        "Directed a team of 7 IT professionals across 18 branches.",
+        "Collaborated with Accounting, HR, and Finance to derive data-driven decisions.",
+        "Implemented companywide Windows 7 & Office 2010 conversion within 4 months.",
+        "Standardized software applications and hardware infrastructure.",
+        "Negotiated vendor contracts reducing IT expenditures by $300K per year.",
+        "Implemented a $1.5 million ERP system to standardize business processes.",
+        "Designed and installed an IP hybrid telecom system, saving $160K annually."
+      ]
+    },
+    {
+      "title": "Manager of Information",
+      "company": null,
+      "duration": "02/2003 to 07/2005",
+      "responsibilities": [
+        "Led IT department planning and implementation.",
+        "Developed strategic and tactical IT plans.",
+        "Oversaw electronic records, security, and data recovery processes.",
+        "Facilitated communication among staff, management, and vendors.",
+        "Supervised 6 IT staff.",
+        "Trained users on secure system usage.",
+        "Developed system policies and change management protocols.",
+        "Converted phone system to IP telephony, reducing costs by 30%.",
+        "Virtualized servers, increasing efficiency and reducing downtime.",
+        "Migrated legacy applications, standardizing software usage."
+      ]
+    },
+    {
+      "title": "Senior Systems Analyst/Project Manager",
+      "company": null,
+      "duration": "07/1998 to 01/2003",
+      "responsibilities": [
+        "Planned and implemented IT projects.",
+        "Managed vendor relationships.",
+        "Evaluated hardware and software acquisition.",
+        "Maintained system updates.",
+        "Assessed network and email security.",
+        "Standardized and migrated Windows 98 to XP and Wordperfect to MS Office.",
+        "Consolidated networked workstations and printers."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Windows 7 & Office 2010 Migration",
+      "description": "Completed a companywide conversion of operating systems and office suites for 675 employees within 4 months.",
+      "technologies": [
+        "Windows 7",
+        "Office 2010"
+      ]
+    },
+    {
+      "name": "ERP System Implementation",
+      "description": "Implemented a $1.5 million ERP system to standardize business processes across the organization.",
+      "technologies": [
+        "ERP System"
+      ]
+    },
+    {
+      "name": "IP Hybrid Telecom System",
+      "description": "Designed and installed an IP hybrid telecom system to standardize the phone network and reduce annual telecom costs.",
+      "technologies": [
+        "IP Telephony"
+      ]
+    }
+  ]
+}

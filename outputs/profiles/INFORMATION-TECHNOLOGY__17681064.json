@@ -1,0 +1,123 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "15+ years of leadership in IT, specializing in vendor management, contract negotiations, project management, and business relationship management. Proven track record of saving millions in vendor costs, improving system uptime, and delivering executive-level technical presentations.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Vendor Management",
+    "Contract Negotiation",
+    "Project Management",
+    "Change Management",
+    "Business Relationship Management",
+    "Strategic Sourcing",
+    "RFI/RFP/MSA/SOW",
+    "Vendor Selection",
+    "Cloud Computing",
+    "ITIL",
+    "Pega",
+    "Oracle",
+    "Salesforce",
+    "Cisco",
+    "CRM",
+    "Customer Service",
+    "Business Systems",
+    "Enterprise Applications",
+    "Performance Metrics",
+    "SLA",
+    "Budgeting",
+    "Leadership",
+    "Executive Presentations",
+    "Technical Support",
+    "VoIP",
+    "Email",
+    "E-Business",
+    "Investment Banking",
+    "Insurance",
+    "Finance"
+  ],
+  "tools": [
+    "Oracle EBS Suite",
+    "Salesforce",
+    "Oracle (OMCS)",
+    "Cisco",
+    "Infosys",
+    "Accenture",
+    "MindTree",
+    "Presidio",
+    "Genpact",
+    "TechDemocracy",
+    "Tata",
+    "Pegasystems",
+    "Amdocs",
+    "ITIL v3",
+    "Pega"
+  ],
+  "certifications": [
+    "ITIL v3 Foundation",
+    "ITIL v3 Practitioner",
+    "Pega Certified Project Management",
+    "Project Manager Certification"
+  ],
+  "education": [
+    {
+      "degree": "MBA, Masters in Business Administration",
+      "institution": "Adelphi University",
+      "graduation_year": null
+    },
+    {
+      "degree": "B.S. in Management and Economics",
+      "institution": "State University of New York",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Senior Manager",
+      "company": null,
+      "duration": "April 2013 \u2013 February 2015",
+      "responsibilities": [
+        "Led vendor selection and contract negotiations for technology vendors.",
+        "Directed major sourcing projects for Oracle EBS Suite and other enterprise applications.",
+        "Managed vendor performance via scorecards and SLAs.",
+        "Implemented onsite, onshore, and offshore talent sourcing models.",
+        "Achieved annual savings of $2.75 million through renegotiated support agreements."
+      ]
+    },
+    {
+      "title": "Information Technology Director",
+      "company": null,
+      "duration": "January 2000 \u2013 February 2013",
+      "responsibilities": [
+        "Researched, selected, and managed multiple vendor relationships.",
+        "Improved contact center uptime from 99.93% to 99.99% through proactive maintenance.",
+        "Directed a Business Relationship Management team integrated within business units.",
+        "Managed over 45 IT projects, delivering on time and within budget.",
+        "Maintained top system performance ratings and improved customer satisfaction scores."
+      ]
+    },
+    {
+      "title": "Business Systems Delivery Consultant",
+      "company": null,
+      "duration": "January 1999 \u2013 January 2000",
+      "responsibilities": [
+        "Started a technology support team for over 110 business applications.",
+        "Managed system implementations and project costings.",
+        "Communicated with executive stakeholders."
+      ]
+    },
+    {
+      "title": "Client Services Manager",
+      "company": null,
+      "duration": "January 1998 \u2013 January 1999",
+      "responsibilities": [
+        "Provided consulting services to Fortune 500 clients in finance and insurance.",
+        "Implemented customized CRM applications for money transfer reconciliations.",
+        "Supported sales team in closing major new accounts."
+      ]
+    }
+  ],
+  "projects": []
+}

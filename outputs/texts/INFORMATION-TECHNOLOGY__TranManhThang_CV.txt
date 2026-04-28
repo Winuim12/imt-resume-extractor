@@ -1,0 +1,44 @@
+Tran Manh Thang
+Ho Chi Minh City•tmtzoos1234@gmail.com•032 612 0342
+Github: github.com/Winuim12
+INTRODUCTION
+Computer Science student specializing in Applied Artificial Intelligence with hands-on experience in
+Automatic Speech Recognition (ASR) and Retrieval-Augmented Generation (RAG). Experienced in
+building end-to-end AI pipelines including data preprocessing, model integration, hybrid retrieval, and
+system deployment.
+EDUCA TION
+Ho Chi Minh City University of T echnology , VNUHCM
+Major: Applied Artificial Intelligence
+GPA: 3.5/4.0
+IETLS: 6.5
+TECHNICAL SKILLS
+Languages: Python
+AI/ML: ASR, RAG, Speech Translation
+Frameworks: WhisperX, PyTorch, Hugging Face, LangChain
+Vector DB: Chroma
+LLM Tools: Ollama
+Tools: FFmpeg, Git, Linux
+PROJECT
+End-to-End ASR & Speech T ranslation Pipeline
+•Developed an automated ASR pipeline using WhisperX with timestamp alignment and optional
+speaker diarization to handle multi-speaker audio scenarios.
+•Integrated a fine-tuned Whisper model to perform segment-level Vietnamese–English speech
+translation, ensuring consistent decoding and efficient inference on GPU/CPU environments.
+•Implemented Vietnamese spelling correction using Gemini API with batch processing and retry
+handling, and generated structured outputs including JSON, SRT, and VTT formats.
+•Designed a modular CLI-based architecture for audio normalization (via FFmpeg), configurable
+batch inference, and end-to-end processing from raw audio to subtitle generation.
+University Regulation Question-Answering System (RAG)
+•Built a domain-specific Retrieval-Augmented Generation system for university regulation ques-
+tion answering, supporting structured filtering and contextual query understanding.
+•Implemented markdown-aware and recursive document chunking strategies to preserve semantic
+structure while optimizing retrieval granularity.
+•Developed a hybrid retrieval pipeline combining dense vector search (Chroma) and BM25 ranking
+to improve relevance and robustness of retrieved documents.
+•Integrated LLM-based query analysis, contextual response generation, and conversational me-
+mory to support multi-turn dialogue and intent-aware responses.
+SKILLS & INTERESTS
+Languages:Vietnamese (Native), English (Working proficiency)
+Interests:Sketching, Badminton, Working Out
+Other Skills:Microsoft Office Specialist (MOS): Excel, Word, PowerPoint
+1

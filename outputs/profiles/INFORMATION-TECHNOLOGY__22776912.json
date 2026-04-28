@@ -1,0 +1,176 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Strategic leader with 15+ years of experience in IT architecture, security, compliance, and infrastructure across multiple industries. Proven track record in driving digital transformation, managing large-scale deployments, and building high\u2011performing teams.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Accounting systems",
+    "Application Development",
+    "B2B",
+    "Backup",
+    "Broadband",
+    "Budgeting",
+    "Business Analysis",
+    "Citrix",
+    "Consulting",
+    "Contract Negotiation",
+    "CRM",
+    "Data Entry",
+    "Data Integration",
+    "Data Modeling",
+    "Data Warehouses",
+    "Databases",
+    "Disaster Recovery",
+    "E-commerce",
+    "EDI",
+    "ERP",
+    "Faxing",
+    "ISO",
+    "IT Support",
+    "ITIL",
+    "LAN",
+    "Leadership",
+    "Lean Manufacturing",
+    "Loan Origination",
+    "Marketing",
+    "Mentor",
+    "Messaging",
+    "Office",
+    "Migration",
+    "Modeling",
+    "NEC",
+    "Network",
+    "Nortel",
+    "PBX",
+    "Policies",
+    "Printers",
+    "Security Analysis",
+    "Servers",
+    "SQL",
+    "Strategic Planning",
+    "Supply Chain",
+    "Telecom",
+    "VPN",
+    "VoIP",
+    "Websites",
+    "WAN"
+  ],
+  "tools": [
+    "Cloud Technology",
+    "Digital PBX",
+    "Cellular",
+    "Smart Devices",
+    "VoIP",
+    "ERP",
+    "Websites",
+    "Intranets",
+    "Enterprise Application Development",
+    "Enterprise Data Warehouses",
+    "SQL Repositories",
+    "Enterprise Backup",
+    "Recovery",
+    "Storage",
+    "Security Analysis",
+    "LAN",
+    "WAN",
+    "Citrix",
+    "Virtual Servers",
+    "Point-to-Point Wireless Antenna",
+    "WiFi",
+    "Mobile App Deployment",
+    "Retail POS",
+    "Bar\u2011Coding",
+    "Business Analysis",
+    "Process Modeling",
+    "Lean Technology",
+    "Zero\u2011Based Budgeting",
+    "ITIL",
+    "Project Management",
+    "Network Management",
+    "Asset Management",
+    "Change Management",
+    "Security Governance",
+    "IT Consulting"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BS",
+      "institution": "Western Oregon University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Technology",
+      "institution": "Belford University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Limited Energy Journeyman",
+      "institution": "Portland Community College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Information Technology / Chief Technology Officer",
+      "company": "Company Name",
+      "duration": "January 2007 \u2013 January 2015",
+      "responsibilities": [
+        "Provided vision and leadership for strategic IT initiatives aligned with corporate goals.",
+        "Designed scalable, secure infrastructure for multi\u2011state expansion.",
+        "Managed vendor relationships and negotiated contracts.",
+        "Led migration of physical servers to virtual and cloud platforms.",
+        "Implemented enterprise\u2011wide VoIP, ERP, CRM, and data\u2011integration solutions.",
+        "Developed disaster recovery and business continuity plans.",
+        "Oversaw security risk monitoring and compliance initiatives."
+      ]
+    },
+    {
+      "title": "Manager/Director",
+      "company": "Company Name",
+      "duration": "January 2000 \u2013 January 2006",
+      "responsibilities": [
+        "Directed IT strategy for an international spa manufacturing company.",
+        "Rebuilt infrastructure without disrupting daily operations.",
+        "Implemented Nortel PBX with VoIP, MAS200\u2011500 accounting, and supply\u2011chain security systems.",
+        "Designed and launched e\u2011commerce platforms (B2B, B2C, EDI).",
+        "Introduced Lean Manufacturing and Lean Office practices.",
+        "Established VPN connectivity between headquarters and retail stores."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Server Virtualization & Cloud Migration",
+      "description": "Migrated on\u2011premises servers to virtual and cloud environments, improving reliability and reducing costs.",
+      "technologies": [
+        "Virtualization",
+        "Cloud",
+        "MPLS",
+        "VoIP"
+      ]
+    },
+    {
+      "name": "Enterprise VoIP Deployment",
+      "description": "Designed and implemented NEC VoIP phone system company\u2011wide, integrating with mobile devices and unified communications.",
+      "technologies": [
+        "VoIP",
+        "NEC",
+        "Unified Communications"
+      ]
+    },
+    {
+      "name": "CRM & ERP Integration",
+      "description": "Deployed CRM system integrated with Loan Origination Software and ERP, enabling seamless data flow and reporting.",
+      "technologies": [
+        "CRM",
+        "ERP",
+        "SQL",
+        "Data Integration"
+      ]
+    }
+  ]
+}

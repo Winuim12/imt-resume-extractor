@@ -1,0 +1,123 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Energetic, Bilingual Human Resources Professional offering ~11 years of extensive and successful experience administering various HR plans and procedures. Emphasis on recruitment/retention, management and HR principles & practices. Expertise in employee relations and organization development through education, and experience, seeks a similar role to produce immediate growth contribution to a rewarding company.",
+  "total_experience_years": 11.0,
+  "skills": [
+    "ADA",
+    "ADP",
+    "benefits",
+    "clarify",
+    "employee relations",
+    "human resource",
+    "HR",
+    "insurance",
+    "law enforcement",
+    "mediation",
+    "MS Office",
+    "SharePoint",
+    "organizational",
+    "performance management",
+    "personnel",
+    "policies",
+    "promotion",
+    "recruiting",
+    "employee handbooks",
+    "vendor management"
+  ],
+  "tools": [
+    "ADP",
+    "ADA",
+    "MS Office",
+    "SharePoint"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BBA",
+      "institution": "Sam Houston State University",
+      "graduation_year": "2004"
+    },
+    {
+      "degree": "Associate of Science",
+      "institution": "North Harris Community College",
+      "graduation_year": "2000"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "12/2014 to Current",
+      "responsibilities": [
+        "Developed HR policies, procedures, plans and budgets.",
+        "Ensured workforce safety and managed recruitment, development, and compensation.",
+        "Built an employee\u2011oriented culture focused on quality, continuous improvement and high performance.",
+        "Conducted new employee orientation to foster positive attitudes toward organizational objectives.",
+        "Acted as liaison between management and employees, handling questions, interpreting contracts, and resolving work\u2011related problems.",
+        "Served on the executive management team, advising on compensation, benefits, compliance, organizational development, HRIS, training & development, and employee relations.",
+        "Reviewed and commented on documents, taking steps to cure deficiencies.",
+        "Created and implemented exit and interview program processes.",
+        "Ran bi\u2011weekly payroll.",
+        "Increased employee base by 15% to meet staffing needs."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "02/2013 to 12/2014",
+      "responsibilities": [
+        "Administered HR plans and procedures for all personnel and assisted in developing and implementing personnel policies and procedures.",
+        "Conducted recruitment for exempt, non\u2011exempt, and temporary personnel.",
+        "Assisted in evaluating departmental reports, decisions, and results relative to goals.",
+        "Recommended new approaches, policies, and procedures to improve efficiency.",
+        "Conducted employment verifications and investigations.",
+        "Developed company personnel policies, SOPs, and employee handbooks.",
+        "Educated employees on group health plans, voluntary benefits, and 401(k) plans.",
+        "Developed and facilitated new\u2011hire orientations.",
+        "Enforced company policies and procedures across all HR activities.",
+        "Facilitated criminal background checks for new hires.",
+        "Managed the employee offer process with 100% compliance at the exempt level.",
+        "Processed unemployment claims and represented the company at hearings."
+      ]
+    },
+    {
+      "title": "Human Resource Manager",
+      "company": "Company Name",
+      "duration": "10/2008 to 01/2013",
+      "responsibilities": [
+        "Developed, implemented, and coordinated HR policies and procedures for recruiting, wage/salary administration, and health programs.",
+        "Directed the employee performance management program.",
+        "Promoted formal performance discussions covering objectives and career development.",
+        "Partnered with management on employee relations issues such as terminations, suspensions, EEOC claims, and rule interpretations.",
+        "Educated employees on group health plans, voluntary benefits, and 401(k) plans.",
+        "Developed company personnel policies, SOPs, and handbooks.",
+        "Facilitated new\u2011hire orientations.",
+        "Conducted employment verifications and investigations.",
+        "Enforced company policies and procedures across all HR activities.",
+        "Facilitated criminal background checks for new hires.",
+        "Managed leave administration, vendor management, disability programs, and health benefits.",
+        "Liaised with insurance carriers to resolve employee benefit issues.",
+        "Processed unemployment claims and represented the company at hearings."
+      ]
+    },
+    {
+      "title": "Staffing Manager",
+      "company": "Company Name",
+      "duration": "10/2004 to 09/2008",
+      "responsibilities": [
+        "Conducted background checks on candidates via law enforcement, previous employers, and references.",
+        "Explained compensation, benefits, schedules, working conditions, and promotion opportunities to candidates.",
+        "Coordinated employment offers with management and extended offers to selected candidates.",
+        "Reviewed final paid hours for compliance with timesheets and state laws.",
+        "Evaluated timecards for accuracy on regular and overtime hours.",
+        "Reviewed HR paperwork for accuracy and completeness.",
+        "Completed employment verifications and unemployment paperwork in a timely manner."
+      ]
+    }
+  ],
+  "projects": []
+}

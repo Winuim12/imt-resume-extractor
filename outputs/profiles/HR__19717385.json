@@ -1,0 +1,130 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "An enthusiastic student, highly motivated and committed to developing personally and professionally. Have the ability to learn quickly, work efficiently and use my educational knowledge effectively in work settings. Skilled in research, multi-tasking, time management and communication. Experienced in human resource / organisational management, counselling and business development.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Microsoft Excel",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "Excellent communication",
+    "Organisational",
+    "SPSS",
+    "Data Entry",
+    "Research"
+  ],
+  "tools": [
+    "Microsoft Excel",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "SPSS"
+  ],
+  "certifications": [
+    "Foundation Course on Education of Children with Learning Disabilities, Certified by Rehabilitation Council of India (2014)",
+    "TA-101. Introduction to Transactional Analysis (2015)",
+    "Hypnotism and its Application in practice (2015)",
+    "Bio Ethics in Research (2014)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Arts",
+      "institution": "Alliant International University",
+      "graduation_year": "2018"
+    },
+    {
+      "degree": "Master of Science",
+      "institution": "California School of Professional Psychology",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Amrita Viswa Vidhyapeetham",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Intern",
+      "company": "Company Name",
+      "duration": "Jul 2016 \u2013 Present",
+      "responsibilities": [
+        "Managed candidate screening and credential verification.",
+        "Conducted background checks and license verification.",
+        "Pre\u2011screened applicants from job boards.",
+        "Handled candidate communication and badge issuance.",
+        "Supported hiring process and team goals."
+      ]
+    },
+    {
+      "title": "Bookstore Volunteer",
+      "company": "Company Name",
+      "duration": "Feb 2016 \u2013 Jul 2016",
+      "responsibilities": [
+        "Opened and closed store, balanced cash.",
+        "Maintained transaction records.",
+        "Organised books and assisted customers."
+      ]
+    },
+    {
+      "title": "Assistant to the General Manager",
+      "company": "Company Name",
+      "duration": "Apr 2015 \u2013 Nov 2015",
+      "responsibilities": [
+        "Managed daily operations and strategic activities.",
+        "Reviewed invoices and expense reports.",
+        "Counselled staff and provided feedback.",
+        "Prepared meeting minutes and handled inquiries."
+      ]
+    },
+    {
+      "title": "Student Intern",
+      "company": "Company Name",
+      "duration": "Jan 2015 \u2013 Feb 2015",
+      "responsibilities": [
+        "Provided administrative assistance.",
+        "Conducted and scored psychological tests.",
+        "Collected and organised client data."
+      ]
+    },
+    {
+      "title": "Intern",
+      "company": "Company Name",
+      "duration": "Dec 2014 \u2013 Jan 2015",
+      "responsibilities": [
+        "Assisted families in poverty line programs.",
+        "Counselled individuals on family and legal issues."
+      ]
+    },
+    {
+      "title": "Summer Intern",
+      "company": "Company Name",
+      "duration": "May 2014 \u2013 Jun 2014",
+      "responsibilities": [
+        "Participated in de\u2011addiction, special school, psychiatric clinic, and counselling centre rotations.",
+        "Collected client information and observed therapy sessions."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Autosuggestion as a Mediator in Weight Management in Female College Students",
+      "description": "Master's thesis exploring the effect of autosuggestion on weight management.",
+      "technologies": []
+    },
+    {
+      "name": "Mindfulness and Burnout of Teachers in State Board and Matriculation Schools",
+      "description": "Master's project investigating the relationship between mindfulness and burnout among teachers.",
+      "technologies": []
+    },
+    {
+      "name": "Relation between Indian Zodiac and Personality Types (MBTI)",
+      "description": "Master's project examining the correlation between zodiac signs and MBTI personality types.",
+      "technologies": []
+    }
+  ]
+}

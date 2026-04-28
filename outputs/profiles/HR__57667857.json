@@ -1,0 +1,110 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Detail-oriented 25\u2011year human resources professional who excels under tight deadlines, proactively streamlining processes to find the perfect applicant.",
+  "total_experience_years": 25.0,
+  "skills": [
+    "interpersonal skills",
+    "coaching",
+    "recruiting",
+    "talent assessment",
+    "background checks",
+    "training and development",
+    "hiring and retention",
+    "compensation/payroll",
+    "employee relations",
+    "regulatory compliance",
+    "affirmative action compliance",
+    "new hire orientation",
+    "mediation",
+    "ADA compliance",
+    "benefits",
+    "budgeting",
+    "performance appraisals",
+    "labor relations",
+    "networking",
+    "organizational development",
+    "HR policies",
+    "HR analytics",
+    "talent acquisition"
+  ],
+  "tools": [
+    "PeopleFluent",
+    "Taleo",
+    "HRIS"
+  ],
+  "certifications": [
+    "PHR State Certified"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts (BAAS)",
+      "institution": "Dallas Baptist University",
+      "graduation_year": null
+    },
+    {
+      "degree": "High School Diploma",
+      "institution": "Leland High School",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Consultant",
+      "company": null,
+      "duration": "07/2015 \u2013 Current",
+      "responsibilities": [
+        "Consulted Fortune 500 companies on HR strategy and career development.",
+        "Provided executive recruiting for banking professionals.",
+        "Advised on talent acquisition, retention, and compliance."
+      ]
+    },
+    {
+      "title": "Director of Customer Strategies \u2013 Heart Walks",
+      "company": null,
+      "duration": "10/2014 \u2013 05/2015",
+      "responsibilities": [
+        "Recruited and interviewed applicants for the Customer Strategies Team.",
+        "Managed customer experience initiatives across six states.",
+        "Implemented integrated advertising campaigns and online presence."
+      ]
+    },
+    {
+      "title": "Human Resources \u2013 Recruiter",
+      "company": null,
+      "duration": "06/2014 \u2013 05/2015",
+      "responsibilities": [
+        "Recruited 100\u2013200 applicants per month.",
+        "Advised managers on policy and compliance.",
+        "Created and modified job descriptions and HR policies.",
+        "Conducted exit interviews and facilitated talent reviews."
+      ]
+    },
+    {
+      "title": "Talent Attraction",
+      "company": null,
+      "duration": "09/2012 \u2013 05/2014",
+      "responsibilities": [
+        "Conducted background checks and reference checks.",
+        "Managed new hire orientation and onboarding.",
+        "Developed recruiting strategies and maintained HR documentation.",
+        "Advised on equal employment opportunity and affirmative action."
+      ]
+    },
+    {
+      "title": "Assistant Vice\u2011President \u2013 Human Resources",
+      "company": null,
+      "duration": "02/1999 \u2013 05/2012",
+      "responsibilities": [
+        "Implemented recruiting strategies and managed hiring processes.",
+        "Maintained employment records and HRIS data.",
+        "Provided training on interviewing, performance appraisal, and counseling.",
+        "Advised on labor relations, compensation, and benefits."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,92 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Organized DBA professional with over 6 years of experience supporting Oracle, SQL Server, and AWS infrastructure, strong analytical and problem\u2011solving skills, and a commitment to delivering quality services.",
+  "total_experience_years": 6.0,
+  "skills": [
+    "Oracle Database Administration",
+    "SQL Server Administration",
+    "AWS RDS & EC2",
+    "Backup & Recovery (RMAN, Data Pump)",
+    "Performance Tuning (AWR, ASH, TKPROF)",
+    "Database Migration",
+    "Security (TDE, Data Redaction, Oracle OEM)",
+    "High Availability (RAC, Data Guard, Golden Gate)",
+    "S3 Cross\u2011Region Replication",
+    "MySQL Administration",
+    "UNIX Shell Scripting",
+    "Ksh, Bash",
+    "PL/SQL",
+    "SQL*Plus",
+    "Oracle Enterprise Manager",
+    "ASM & ACFS",
+    "Transportable Tablespaces",
+    "SQL*Loader",
+    "Crontab",
+    "DBMS_JOBS & DBMS_SCHEDULER"
+  ],
+  "tools": [
+    "Oracle Enterprise Manager",
+    "RMAN",
+    "Data Pump",
+    "Export/Import",
+    "Toad",
+    "Putty",
+    "WinSCP",
+    "Crontab",
+    "DBMS_JOBS",
+    "DBMS_SCHEDULER"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University Of Buea",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "03/2018 \u2013 Current",
+      "responsibilities": [
+        "Production support, installation, configuration, migration, backup, recovery, performance tuning, cloning, security, upgrades, and patches for Oracle databases.",
+        "Planned and upgraded Oracle databases from 11.2.0.4 to 12.2.0 and managed OEM 13c monitoring.",
+        "Implemented RMAN backup strategies and scheduled backups with Crontab.",
+        "Upgraded MySQL from 5.6 to 5.7 and optimized performance with mysqld_multi.",
+        "Migrated databases to AWS using Database Migration Service and maintained RDS/EC2 instances.",
+        "Created snapshots, Elastic IPs, EBS volumes, security groups, and performed cross\u2011region replication with S3."
+      ]
+    },
+    {
+      "title": "Database Administrator",
+      "company": "Company Name",
+      "duration": "12/2014 \u2013 Current",
+      "responsibilities": [
+        "Resolved web application issues and provided database performance tuning using EXPLAIN PLAN, TKPROF, STATSPACK, AWR, and SQL TRACE.",
+        "Managed physical, logical, and active standby databases with Data Guard and RAC for disaster recovery.",
+        "Generated ASH, ADDM, and AWR reports to analyze wait events and optimize queries.",
+        "Implemented high\u2011availability solutions (RAC, ASM, ACFS) and migrated databases to RAC.",
+        "Performed backup and recovery operations with RMAN, Data Pump, and logical backups.",
+        "Maintained AWS RDS/EC2 instances, snapshots, and security groups."
+      ]
+    },
+    {
+      "title": "Oracle Database Administrator",
+      "company": "Company Name",
+      "duration": "07/2012 \u2013 10/2014",
+      "responsibilities": [
+        "Prepared technical architecture proposals and migrated standalone databases to RAC.",
+        "Provided senior technical support, performance tuning, and high\u2011availability maintenance.",
+        "Managed physical, logical, and active standby databases with Data Guard.",
+        "Implemented security measures (TDE, auditing) and applied PSU/CPU patches.",
+        "Replicated data in real time using Golden Gate and managed backup strategies with RMAN and Data Pump."
+      ]
+    }
+  ],
+  "projects": []
+}

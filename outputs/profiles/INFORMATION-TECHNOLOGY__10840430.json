@@ -1,0 +1,144 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Motivated Information Technology and Cyber security professional with outstanding managerial and customer service skills, excellent written and verbal communication skills, seeks challenging position with an organization where I can make a big impact with my multifaceted experience, training and education. Excellent record of problem solving and achieving results in high-operations-tempo environments. Successful team leader and highly-motivated mentor with proven dedication to self and subordinate improvement.",
+  "total_experience_years": 25.0,
+  "skills": [
+    "Air Force",
+    "budget",
+    "oral communication",
+    "hardware",
+    "computer operations",
+    "configuration management",
+    "cost analysis",
+    "data management",
+    "direction",
+    "documentation",
+    "edge",
+    "feasibility studies",
+    "forms",
+    "functional",
+    "government",
+    "information systems",
+    "information technology",
+    "computer support",
+    "meetings",
+    "office",
+    "enterprise",
+    "network",
+    "personnel",
+    "policies",
+    "problem resolution",
+    "procurement",
+    "project management",
+    "publications",
+    "software development",
+    "strategic",
+    "systems administration",
+    "systems analysis",
+    "systems development",
+    "systems integration",
+    "training manuals",
+    "trend analysis",
+    "written communication",
+    "cyber security",
+    "info sec",
+    "net ops",
+    "security tools",
+    "ACAS",
+    "SCADA",
+    "authority to connect",
+    "authority to operate"
+  ],
+  "tools": [
+    "ACAS",
+    "SCADA",
+    "GIG",
+    "DISA",
+    "DOD Information Assurance",
+    "Computer Network Defense",
+    "Computer Network Threat",
+    "Authority to Connect",
+    "Authority to Operate"
+  ],
+  "certifications": [
+    "Security+ Certified",
+    "Cyber 200 Advance Continuing Education Course",
+    "Basic Computer Operations Planner's Course",
+    "DISA Action Officers Course",
+    "DOD Information Assurance Boot Camp",
+    "Computer Network Defense/Computer Network Threat"
+  ],
+  "education": [
+    {
+      "degree": "M.S. Public Administration, Government Law",
+      "institution": "Sul Ross University",
+      "graduation_year": null
+    },
+    {
+      "degree": "B.S. Psychology, Education",
+      "institution": "Morgan State University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Branch Chief Information Technology Specialist",
+      "company": null,
+      "duration": "07/2014 \u2013 Current",
+      "responsibilities": [
+        "Oversee and manage multiple enterprise-level IT programs for the Headquarters Air Force command.",
+        "Serve as senior technical advisor and evaluator for cutting\u2011edge technology programs.",
+        "Establish and maintain relationships with functional area managers, program managers, commanders, contractors, vendors, and DoD/non\u2011DoD agencies.",
+        "Research and recommend innovative approaches to resolve major IT problems.",
+        "Perform project management tasks including feasibility studies, systems analysis, development, implementation, integration, and problem resolution."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist (INFOSEC/NETOPS)",
+      "company": null,
+      "duration": "08/2009 \u2013 07/2014",
+      "responsibilities": [
+        "Developed operations plans and orders supporting cyber requirements at strategic, operational, and tactical levels.",
+        "Enabled crisis action planning and development of cyber strike packages.",
+        "Collaborated with DISA and other partners to implement directives for Global Information Grid operations.",
+        "Developed information operations and computer network operations plans, including defensive planning.",
+        "Recommended posture for GIG to respond to emerging threats and supported DTN\u2011China operation planning.",
+        "Coordinated mission parameters with US/Allied/Coalition partners and provided intrusion response planning.",
+        "Made substantive recommendations to NetOps policy, doctrine, and capability development.",
+        "Analyzed ongoing Net/Ops events, malicious activity, and trend analysis."
+      ]
+    },
+    {
+      "title": "Senior Technical Analyst",
+      "company": null,
+      "duration": "09/2006 \u2013 08/2009",
+      "responsibilities": [
+        "Technical lead on digital media projects, guiding teams to solutions leveraging technical capabilities.",
+        "Defined requirements for computer\u2011based systems supporting electronic publishing Air Force\u2011wide.",
+        "Ensured accurate and timely publication of electronic publications and forms.",
+        "Documented requirements for systems administration and information tasking orders.",
+        "Served as technical lead on electronic publishing development and integration teams.",
+        "Established policies and procedures to manage the Air Force Electronic Publishing Program.",
+        "Analyzed software development, configuration management, testing, maintenance, training manuals, tutorials, procedures, and reports."
+      ]
+    },
+    {
+      "title": "IT Specialist",
+      "company": null,
+      "duration": "08/1998 \u2013 09/2006",
+      "responsibilities": [
+        "Managed computer support, cost analysis, and acquisition to support ANG work plans.",
+        "Led teams to execute Air National Guard budget for computers and associated technologies.",
+        "Formulated, justified, and defended assigned programs and projects.",
+        "Demonstrated knowledge of cost comparison procedures, directives, and communications.",
+        "Advised ANG components on acquisition, procurement, maintenance, and feasibility of IT hardware and software.",
+        "Performed analysis and evaluation of hardware and software to provide optimal technical solutions."
+      ]
+    }
+  ],
+  "projects": []
+}

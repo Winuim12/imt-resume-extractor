@@ -1,0 +1,94 @@
+{
+  "candidate_name": "Sumankumari",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Human Resource Professional with over 4 years of experience in recruitment, organization development, time management, training & development, performance management, employee engagement, TPM & audit. Assistant Manager \u2013 HR (Generalist) with VARROC Polymers Pvt. Ltd, skilled in SAP HR, HRM, and team building.",
+  "total_experience_years": 5.0,
+  "skills": [
+    "Recruitment",
+    "Organization Development",
+    "Time Management",
+    "Training & Development",
+    "Performance Management",
+    "Employee Engagement",
+    "TPM",
+    "Audit",
+    "Payroll",
+    "Benefits",
+    "Personal Administration",
+    "ESS",
+    "Performance Appraisal",
+    "SAP HR",
+    "SAP R/3 4.7",
+    "MS Office",
+    "SQL",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Windows 95/98/2000/XP"
+  ],
+  "tools": [
+    "SAP R/3 4.7",
+    "MS Office",
+    "SQL",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Windows OS"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Education (B.Ed)",
+      "institution": "Magadh University",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "MBA Human Resource",
+      "institution": "Xavier Institute of Social Service",
+      "graduation_year": "2008"
+    },
+    {
+      "degree": "Bachelor of Science (B.Sc) Biotechnology",
+      "institution": "Ranchi University",
+      "graduation_year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Assistant Manager - HR",
+      "company": "VARROC Polymers Pvt. Ltd",
+      "duration": "09/2012 to 08/2013",
+      "responsibilities": [
+        "Managed recruitment, training & development, performance appraisal, and employee engagement.",
+        "Administered SAP HR (PA30, PA40, PA10, PA20) and configured personnel structures.",
+        "Handled statutory compliance, grievance resolution, and TPM initiatives.",
+        "Conducted audits (ISO/TS 16949, EMS-OHSAS) and coordinated with clients."
+      ]
+    },
+    {
+      "title": "Assistant Manager - HR",
+      "company": "VARROC Polymers Pvt. Ltd",
+      "duration": "07/2010 to 07/2011",
+      "responsibilities": [
+        "Maintained HR database and generated management reports.",
+        "Supported HR administration of pay, bonus, attendance, and leave in SAP.",
+        "Oversaw full recruitment cycle and onboarding.",
+        "Implemented training & development programs and HR initiatives."
+      ]
+    },
+    {
+      "title": "Assistant Manager - HR",
+      "company": "VARROC Polymers Pvt. Ltd",
+      "duration": "05/2008 to 05/2010",
+      "responsibilities": [
+        "Led recruitment process, sourced and interviewed candidates.",
+        "Coordinated with clients for profile suitability and scheduling.",
+        "Maintained client relationships and recruitment records."
+      ]
+    }
+  ],
+  "projects": []
+}

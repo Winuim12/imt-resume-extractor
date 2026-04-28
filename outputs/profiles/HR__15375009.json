@@ -1,0 +1,174 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Senior HR professional with a continuous improvement approach to building and supporting organizations. Driven HR Manager bringing an innovative approach to human resource management while creating a team-driven environment that fosters room for development and growth. Dedicated HR professional with strong grasp of employment laws, compliance issues and benefits plans. Successfully introduces process improvements and staff-development initiatives to drive corporate goal attainment. Creative Business Partner dedicated to developing unique employee orientation and training programs that will generate a loyal and knowledgeable staff.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "administrative",
+    "ADP",
+    "backup",
+    "Benefits",
+    "bookkeeping",
+    "clarify",
+    "competitive",
+    "customer service",
+    "database",
+    "delivery",
+    "documentation",
+    "employee relations",
+    "filing",
+    "government",
+    "HR",
+    "human resources",
+    "human resource",
+    "insurance",
+    "job analysis",
+    "labor relations",
+    "law enforcement",
+    "Team building",
+    "letters",
+    "market",
+    "meetings",
+    "mail",
+    "office",
+    "Payroll processing",
+    "payroll",
+    "personnel",
+    "policies",
+    "processes",
+    "Project management",
+    "proposal",
+    "quality",
+    "recruiting",
+    "recruitment",
+    "safety",
+    "strategy",
+    "employee handbooks",
+    "vendor management",
+    "vision",
+    "year-end"
+  ],
+  "tools": [
+    "ADP",
+    "database"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Phoenix - San Jose Learning Center",
+      "graduation_year": "2009"
+    },
+    {
+      "degree": "MBA",
+      "institution": "University of Phoenix",
+      "graduation_year": "2010"
+    },
+    {
+      "degree": "MBA Human Resources",
+      "institution": "Notre Dame de Namur University",
+      "graduation_year": "2018"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "06/2016 to Current",
+      "responsibilities": [
+        "Developed and evolved the department's mission, workflows and structure.",
+        "Implemented the company's first sourcing tracking system.",
+        "Built a comprehensive recruiting strategy, filling 50+ positions in 9 months.",
+        "Reduced cost per hire and average days to fill positions.",
+        "Achieved turnover reduction goals.",
+        "Coordinated new benefit programs and educated employees on plans.",
+        "Managed leave administration and vendor relationships.",
+        "Created a new employee evaluation process improving performance.",
+        "Handled disputes, terminations, and disciplinary procedures.",
+        "Audited workplace policies and enforced company procedures."
+      ]
+    },
+    {
+      "title": "Sr. HR Generalist",
+      "company": "Company Name",
+      "duration": "01/2015 to 05/2016",
+      "responsibilities": [
+        "Liaised between directors, middle management and front-line staff.",
+        "Developed personnel policies, SOPs and employee handbooks.",
+        "Established and monitored pay scales.",
+        "Audited workplace policies and procedures.",
+        "Educated employees on benefits and retirement plans.",
+        "Built recruiting strategy and managed rewards programs.",
+        "Conducted job analysis and evaluations.",
+        "Developed orientation programs including safety training.",
+        "Managed leave administration and vendor relationships."
+      ]
+    },
+    {
+      "title": "Benefits Administrator",
+      "company": "Company Name",
+      "duration": "01/2014 to 06/2014",
+      "responsibilities": [
+        "Partnered with brokers to minimize cost increases for health plans.",
+        "Organized district-wide benefits fair.",
+        "Provided customer service to 2,500 employees and retirees.",
+        "Educated employees on group health plans and retirement plans."
+      ]
+    },
+    {
+      "title": "Human Resources Supervisor",
+      "company": "Company Name",
+      "duration": "08/2013 to 02/2014",
+      "responsibilities": [
+        "Led safety training for 55 staff members.",
+        "Handled disputes, terminations, and disciplinary procedures.",
+        "Coordinated work activities related to compensation and labor relations.",
+        "Developed policies, SOPs and handbooks.",
+        "Facilitated new-hire orientations.",
+        "Audited workplace policies.",
+        "Educated employees on benefits and retirement plans.",
+        "Built recruiting strategy and orientation programs."
+      ]
+    },
+    {
+      "title": "Human Resources Generalist/Administrative Assistant",
+      "company": "Company Name",
+      "duration": "02/2013 to 08/2013",
+      "responsibilities": [
+        "Conducted background checks and evaluated timecards.",
+        "Updated presentation documents for compensation committee.",
+        "Captured exit interview feedback.",
+        "Supported new hire orientations and departmental meetings.",
+        "Implemented tracking database for professional development.",
+        "Coordinated employment offers and extended offers.",
+        "Researched payroll, COBRA, disability and FMLA issues.",
+        "Reviewed HR paperwork for accuracy.",
+        "Managed leave administration and vendor relationships.",
+        "Developed policies, SOPs and handbooks."
+      ]
+    },
+    {
+      "title": "Human Resources Assistant",
+      "company": "Company Name",
+      "duration": "09/2008 to 02/2013",
+      "responsibilities": [
+        "Performed administrative functions including filing, mail, and bookkeeping.",
+        "Managed exit interviews and paperwork.",
+        "Provided backup payroll support.",
+        "Recruited and screened candidates.",
+        "Facilitated new-hire orientations.",
+        "Conducted employment verifications and investigations.",
+        "Implemented tracking database for professional development.",
+        "Entered personnel data into central database.",
+        "Coordinated new hire pre-interviews.",
+        "Assisted with year-end processes and data audits.",
+        "Prepared compliance reports and proposal requests.",
+        "Addressed payroll inquiries and sent notices."
+      ]
+    }
+  ],
+  "projects": []
+}

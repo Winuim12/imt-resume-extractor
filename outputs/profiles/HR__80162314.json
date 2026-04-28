@@ -1,0 +1,97 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Dependable Self-motivated and assertive Human Resources Professional with innovative solutions and personal accountability who incorporates quality decision making to facilitate success and who promotes a team-oriented and open-door environment that is conducive to a successful staff.",
+  "total_experience_years": 6.0,
+  "skills": [
+    "Staff Recruitment & Retention",
+    "Employee Relations",
+    "Retirement",
+    "Payroll",
+    "Health and Welfare",
+    "HR Program/Project Management",
+    "Orientation & On-boarding",
+    "Training & Development",
+    "Performance Management",
+    "Leave of Absence and Ethics",
+    "HR Policies & Procedures",
+    "Organizational Development",
+    "People Skills",
+    "Communication"
+  ],
+  "tools": [
+    "HRMS",
+    "Reporting Tools"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Art",
+      "institution": "Concordia University",
+      "graduation_year": "May 2012"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "University of Colombo",
+      "graduation_year": "April 2007"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Professional",
+      "company": "Company Name",
+      "duration": "04/2013 - 06/2014",
+      "responsibilities": [
+        "Responded to and resolved employee and leader inquiries regarding benefits, payroll, HR policies, and general transactions via phone, email, and face-to-face interactions.",
+        "Acted as first point of contact for employee/manager questions, confirming employment with external agencies and liaising with third parties.",
+        "Trained new employees on procedures and policies.",
+        "Handled highly sensitive and confidential information, acting as liaison between customers and second-level support.",
+        "Assisted employees with leave matters, including short-term and long-term disability, resignations, and work environment issues.",
+        "Documented inquiries and resolutions in the HRMS database for future reference.",
+        "Escalated complex issues to team leaders or specialists as appropriate.",
+        "Processed HR and payroll transactions, ensuring accuracy of employee levels, pay, and benefits."
+      ]
+    },
+    {
+      "title": "HR Assistant",
+      "company": "Company Name",
+      "duration": "07/2011 - 05/2013",
+      "responsibilities": [
+        "Trained under senior management to create HR policies and procedures.",
+        "Recruited employees and managed group benefits databases.",
+        "Developed orientation, training, and incentive programs.",
+        "Managed leave-of-absence programs and personnel records.",
+        "Administered benefits enrollment and HR budget.",
+        "Facilitated criminal background checks and employee rewards programs.",
+        "Updated key HR metrics using HRMS reporting tools."
+      ]
+    },
+    {
+      "title": "Client/Advisor Professional",
+      "company": "Company Name",
+      "duration": "11/2011 - 07/2012",
+      "responsibilities": [
+        "Assisted advisors and clients with processing and maintaining financial products and services.",
+        "Provided guidance on consumer lending products and other financial offerings.",
+        "Collaborated with intra-company teams to complete customer cases and product offerings.",
+        "Guided advisors and clients through estate settlement, ownership changes, marital status changes, and beneficiary changes."
+      ]
+    },
+    {
+      "title": "Personal Banker",
+      "company": "Company Name",
+      "duration": "09/2008 - 09/2011",
+      "responsibilities": [
+        "Provided customer assistance for personal, business, and consumer lending products.",
+        "Collaborated with partners in private banking, insurance, mortgage, investment, and retirement to increase solutions and profits.",
+        "Coached tellers and customer representatives to maximize service and sales solutions.",
+        "Improved branch customer satisfaction scores and achieved successful survey outcomes.",
+        "Originated, opened, and maintained consumer loans."
+      ]
+    }
+  ],
+  "projects": []
+}

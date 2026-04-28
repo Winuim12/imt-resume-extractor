@@ -1,0 +1,158 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Experienced human resources professional with working knowledge of state and federal employment laws and regulations, dedicated to improving employee satisfaction, management-employee relations, and working conditions through commitment, communication, confidentiality, and a sense of urgency. Looking for a company to share my skills and knowledge with where I can grow as a HR professional.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "On-boarding",
+    "Staffing and recruiting",
+    "Payroll entry",
+    "ADA compliance",
+    "Administrative assistance",
+    "Benefits administration",
+    "Ceridian",
+    "Charts",
+    "Coaching",
+    "Consulting",
+    "Counseling",
+    "CPR certified",
+    "Customer service",
+    "Employee relations",
+    "Special events",
+    "Financial management",
+    "First Aid",
+    "Food safety",
+    "Hiring",
+    "Human resources",
+    "HR law",
+    "Insurance",
+    "Kronos",
+    "Long-term care",
+    "Mechanic",
+    "Meetings",
+    "Payroll",
+    "Performance reviews",
+    "Personnel",
+    "Policies",
+    "Quality assurance",
+    "Recruitment",
+    "Repairs",
+    "Safety",
+    "Scheduling",
+    "Staffing",
+    "Supervisor",
+    "Supervisory",
+    "Training programs"
+  ],
+  "tools": [
+    "Kronos",
+    "Ulti-Pro",
+    "Ceridian"
+  ],
+  "certifications": [
+    "OSHA 10-hr General Industry Safety and Health (Issued 2/26/2016)",
+    "First Aid & CPR Certified (Issued 9/8/2015, expires 9/2017)",
+    "HR Law Seminar (July 2016)",
+    "Payroll Law Seminar (July 2016)"
+  ],
+  "education": [
+    {
+      "degree": "Masters of Art",
+      "institution": "Ashford University",
+      "graduation_year": "December 2012"
+    },
+    {
+      "degree": "Bachelors of Art",
+      "institution": "Wisconsin Lutheran College",
+      "graduation_year": "May 2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Representative",
+      "company": "Company Name",
+      "duration": "11/2016 \u2013 Current",
+      "responsibilities": [
+        "Designed communication boards for each value stream",
+        "Led special projects",
+        "Recruited for maintenance and intern positions",
+        "Trained administrative assistants"
+      ]
+    },
+    {
+      "title": "Human Resources Supervisor / Staffing Coordinator / Human Resource Representative",
+      "company": "Company Name",
+      "duration": "06/2013 \u2013 09/2016",
+      "responsibilities": [
+        "Filled 11 maintenance positions in 3 months",
+        "Shut down a 100\u2011employee plant in 3 days and secured employment for 90% of employees within 60 days",
+        "Reopened a 30\u2011employee plant in 30 days",
+        "Facilitated benefit open enrollment for 700 employees",
+        "Supervised direct reports, conducted performance reviews, and coordinated work assignments",
+        "Recruited and hired candidates following EEO and ADA guidelines",
+        "Coordinated staffing for multiple locations",
+        "Provided counseling and dispute resolution",
+        "Organized meetings on benefits, employee relations, safety, and training",
+        "Reported staffing information to upper management",
+        "Audited and generated affirmative action reports",
+        "Reviewed and authorized salary changes and payroll entries",
+        "Acted as liaison with employment agencies",
+        "Maintained employee records and locker assignments",
+        "Resolved employee complaints with union",
+        "Served as HR advisor during managerial vacancy"
+      ]
+    },
+    {
+      "title": "Special Education Assistant",
+      "company": "Company Name",
+      "duration": "10/2011 \u2013 06/2013",
+      "responsibilities": [
+        "Supported special education programs and student services"
+      ]
+    },
+    {
+      "title": "Foodservices Director",
+      "company": "Company Name",
+      "duration": "06/2011 \u2013 07/2011",
+      "responsibilities": [
+        "Oversaw foodservice operations and staff"
+      ]
+    },
+    {
+      "title": "Quality Assurance Auditor / Assembler",
+      "company": "Company Name",
+      "duration": "08/2010 \u2013 05/2011",
+      "responsibilities": [
+        "Conducted quality assurance audits and performed assembly tasks"
+      ]
+    },
+    {
+      "title": "Dietary Manager",
+      "company": "Company Name",
+      "duration": "03/2007 \u2013 04/2010",
+      "responsibilities": [
+        "Trained staff in food safety and regulations",
+        "Supervised a 20\u2011employee department in long\u2011term care",
+        "Maintained a deficiency\u2011free dietary department for 3 years",
+        "Planned special events for up to 300 people",
+        "Completed MDS assessments for Medicare reimbursement",
+        "Maintained financial and production records"
+      ]
+    },
+    {
+      "title": "Senior Team Leader / Administrative Assistant",
+      "company": "Company Name",
+      "duration": "08/2001 \u2013 05/2005",
+      "responsibilities": [
+        "Supervised student employees, including hiring, training, and scheduling",
+        "Created a late\u2011night student restaurant called \"The Brickhouse Grill\"",
+        "Developed interview questions and training manuals",
+        "Conducted monthly meetings and food safety training"
+      ]
+    }
+  ],
+  "projects": []
+}

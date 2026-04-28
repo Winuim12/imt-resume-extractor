@@ -1,0 +1,114 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Experienced professional with background in Human Resources, Administrative, and Customer Service environments. Proficient in MS Excel, Word, Power Point, Share Point, Taleo, Autonomy, One Note, SAP, Visio, OrgPlus, and Outlook. Able to effectively manage project tasks and implement processes to support immediate and long-term objectives.",
+  "total_experience_years": 8.0,
+  "skills": [
+    "Excel",
+    "Outlook",
+    "Power Point",
+    "Visio",
+    "One Note",
+    "Share Point",
+    "SAP",
+    "Advise HR",
+    "Siebel",
+    "TALX",
+    "Autonomy",
+    "Survey Monkey",
+    "Taleo",
+    "Word",
+    "OrgPlus"
+  ],
+  "tools": [
+    "Excel",
+    "Outlook",
+    "Power Point",
+    "Visio",
+    "One Note",
+    "Share Point",
+    "SAP",
+    "Advise HR",
+    "Siebel",
+    "TALX",
+    "Autonomy",
+    "Survey Monkey",
+    "Taleo",
+    "Word",
+    "OrgPlus"
+  ],
+  "certifications": [
+    "Prosci Change Management Certification (2015)",
+    "Herrmann Brain Dominance Instrument (2014)",
+    "Interview Skills Selection and Development (2014)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor",
+      "institution": "University of Phoenix",
+      "graduation_year": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Analyst",
+      "company": null,
+      "duration": "October 2012 to July 2015",
+      "responsibilities": [
+        "Provided transactional HR and employee relations services to managers and employees at Kraft Foods.",
+        "Supported process integration during Kraft merger and executed revised HR methods.",
+        "Led Workforce Solutions Intake group, guiding HR task questions, scheduling, and process improvement.",
+        "Managed SharePoint site updates and served as point of contact for IS and technical concerns.",
+        "Oversaw clean\u2011up, categorization, and scanning of over 3,500 employee files.",
+        "Implemented processes for adding employee documentation via Autonomy database.",
+        "Monitored and analyzed manager transaction requests and employee relation data, producing quarterly reports.",
+        "Acted as main contact for Kraft Foods Scholarship program, improving application and policy processes.",
+        "Participated in projects such as onboarding improvement, NY wage letter distribution, and severance support."
+      ]
+    },
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "January 2012 to October 2012",
+      "responsibilities": [
+        "Supported Workforce Solutions group with organization announcements and administrative tasks.",
+        "Consulted managers/employees on HR transactions including policy questions, terminations, new hires, and compensation changes.",
+        "Served as main contact for Illinois unemployment office, managing claims and data verification.",
+        "Assisted severance process by creating disability letters and preparing severance exhibits.",
+        "Generated ad hoc reports using SAP."
+      ]
+    },
+    {
+      "title": "Senior HR Coordinator Sales",
+      "company": null,
+      "duration": "February 2008 to January 2012",
+      "responsibilities": [
+        "Managed schedules, travel, and meeting preparation for Area VP Sales.",
+        "Created Sales Newsletter to promote communication within sales group.",
+        "Analyzed yearly goal progress using Gallup Survey Systems.",
+        "Handled onboarding via Taleo for Chicago and Kansas City Customer Logistics Group.",
+        "Distributed unemployment claims and verified U.S. employee claims.",
+        "Developed improved monthly HR reports covering rosters, open positions, hours worked, new hires, promotions, terminations, risk management, and education.",
+        "Submitted HR Online transaction requests and ensured timely completion.",
+        "Confirmed vacation relief program payouts and maintained payables for background verifications."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": null,
+      "duration": "September 2007 to February 2008",
+      "responsibilities": [
+        "Maintained and updated Team Sites for Central Area retail accounts and Outlook distribution lists.",
+        "Ran allocation and incentive contest reports, distributing to sales teams weekly.",
+        "Formatted and posted quarterly sales priority decks using Power Point.",
+        "Managed customer business team updates and monthly mailings.",
+        "Assisted Retail Leads with sales priority data collection and posting.",
+        "Planned and organized materials for sales meetings and handled A/P for Service Center and Retail."
+      ]
+    }
+  ],
+  "projects": []
+}

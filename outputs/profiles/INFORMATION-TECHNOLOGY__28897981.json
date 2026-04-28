@@ -1,0 +1,182 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Experienced Systems Analyst with diverse industry experience in government, maritime, forestry, research and development. Professional expertise includes systems applications, disaster recovery planning, and customer support across multiple platforms.",
+  "total_experience_years": 32.0,
+  "skills": [
+    "Communication",
+    "Interpersonal skills",
+    "Technology adoption",
+    "Content Management Systems",
+    "Drupal",
+    "SharePoint",
+    "MS Office",
+    "MS Access",
+    "Adobe Suite",
+    "Linux",
+    "Windows",
+    "Mac",
+    "Team collaboration",
+    "Innovation",
+    "Research",
+    "Problem solving"
+  ],
+  "tools": [
+    "MS SharePoint",
+    "MS Access",
+    "MS Office",
+    "Adobe Suite",
+    "Skype",
+    "WebEx",
+    "Adobe Connect",
+    "MS Lync",
+    "Drupal",
+    "Linux",
+    "Windows",
+    "Mac",
+    "Apache",
+    "MySQL",
+    "PHP",
+    "HTML",
+    "CSS",
+    "Citrix",
+    "Ubuntu",
+    "eBook conversion tools",
+    "eReaders"
+  ],
+  "certifications": [
+    "ITIL Foundation"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Warner Pacific University",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Eastern Washington University",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist (Web), GS-11",
+      "company": null,
+      "duration": "08/2013 \u2013 02/2016",
+      "responsibilities": [
+        "Coordinated planning and resource allocation for the Forest Service Climate Change Resource Center.",
+        "Improved training guides and migrated web services to a Drupal-based CMS on Linux.",
+        "Established prototype training sites and expanded knowledge base for Drupal, SharePoint, and eBooks.",
+        "Trained departments on MS SharePoint for centralized document management.",
+        "Ensured compliance with federal web regulations, copyright, and Section 508."
+      ]
+    },
+    {
+      "title": "Computer Assistant, GS-5",
+      "company": null,
+      "duration": "03/2010 \u2013 08/2013",
+      "responsibilities": [
+        "Managed internet and intranet sites and maintained the Research Information Tracking System.",
+        "Administered SharePoint sites and provided training to staff and new site owners.",
+        "Converted print publications to eBook format with embedded media for eReaders."
+      ]
+    },
+    {
+      "title": "Computer Department Intern",
+      "company": null,
+      "duration": "09/2008 \u2013 06/2009",
+      "responsibilities": [
+        "Designed a web-based IT assets inventory system using Linux, Apache, MySQL, PHP, HTML, and CSS.",
+        "Supported school district technical staff with projects, software migration, and server upgrades.",
+        "Established a fleet of Linux laptops, saving the district over $250,000.",
+        "Installed and maintained network hardware/software across multiple campuses."
+      ]
+    },
+    {
+      "title": "Database Intern",
+      "company": null,
+      "duration": "06/2008 \u2013 08/2009",
+      "responsibilities": [
+        "Created a patient tracking system in MS Access for a naturopathic clinic."
+      ]
+    },
+    {
+      "title": "Office/Building Manager",
+      "company": null,
+      "duration": "01/2005 \u2013 10/2005",
+      "responsibilities": [
+        "Managed church office operations, newsletters, and event coordination for a charter school."
+      ]
+    },
+    {
+      "title": "Geek Squad Technician",
+      "company": null,
+      "duration": "10/2004 \u2013 12/2004",
+      "responsibilities": [
+        "Provided computer troubleshooting, hardware upgrades, virus removal, and sales support."
+      ]
+    },
+    {
+      "title": "Marine Science Technician (E-6)",
+      "company": null,
+      "duration": "11/1984 \u2013 05/2004",
+      "responsibilities": [
+        "Delivered level I\u2013III IT support for 400 Coast Guard workstations across campuses, ships, and remote stations.",
+        "Conducted training, backups, and user profile management.",
+        "Built and maintained relationships with vendors and service providers.",
+        "Developed multiple MS Access databases to track operational data."
+      ]
+    },
+    {
+      "title": "Level I\u2013III Customer Support",
+      "company": null,
+      "duration": "09/2014 \u2013 09/2019",
+      "responsibilities": [
+        "Provided tiered customer support and resolved technical issues for end users."
+      ]
+    },
+    {
+      "title": "Regional System Manager",
+      "company": null,
+      "duration": "09/2014 \u2013 09/2019",
+      "responsibilities": [
+        "Oversaw system administration for a regional network of 400 workstations.",
+        "Implemented system upgrades and ensured system reliability."
+      ]
+    },
+    {
+      "title": "System Administrator",
+      "company": null,
+      "duration": "09/2015 \u2013 09/2020",
+      "responsibilities": [
+        "Managed system configurations, security patches, and performance monitoring."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Regional Examination Center (REC) Merchant Mariner Database",
+      "description": "Key developer and supporter of a database system adopted by multiple Coast Guard examination centers.",
+      "technologies": []
+    },
+    {
+      "name": "IT Assets Inventory Tracking System",
+      "description": "Web-based inventory system for tracking IT assets in a school district.",
+      "technologies": []
+    },
+    {
+      "name": "Patient Tracking System",
+      "description": "MS Access database for tracking patient information in a naturopathic clinic.",
+      "technologies": []
+    },
+    {
+      "name": "eBook Conversion Project",
+      "description": "Converted print publications to eBook format with embedded video and audio for eReaders.",
+      "technologies": []
+    }
+  ]
+}

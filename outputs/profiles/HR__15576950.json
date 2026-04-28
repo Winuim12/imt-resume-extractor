@@ -1,0 +1,152 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Staffing and recruiting professional with interviewing expertise, recruiting, personnel records maintenance, affirmative action compliance, fluent in [Language], detail-oriented, Microsoft Office Suite expert, people-oriented.",
+  "total_experience_years": 18.0,
+  "skills": [
+    "Benefits",
+    "central point of contact",
+    "clerical",
+    "conferences",
+    "CPR",
+    "customer service",
+    "data entry",
+    "directing",
+    "documentation",
+    "fashion",
+    "faxes",
+    "focus",
+    "hiring",
+    "human resources",
+    "HR",
+    "insurance",
+    "inventory",
+    "meetings",
+    "access",
+    "office",
+    "neat",
+    "policies",
+    "processes",
+    "receptionist",
+    "reception",
+    "Recruitment",
+    "recruiting",
+    "Reporting",
+    "SAP",
+    "Spanish",
+    "staffing",
+    "taking messages",
+    "telephone",
+    "telephones",
+    "phone",
+    "Type"
+  ],
+  "tools": [
+    "Microsoft Office Suite",
+    "SAP",
+    "E-Verify",
+    "I-9 Verification",
+    "ADHOC",
+    "Training and Events",
+    "e-Recruitment"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Diploma",
+      "institution": "Rogers High School",
+      "graduation_year": "2001"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist",
+      "company": null,
+      "duration": "07/2015 to Current",
+      "responsibilities": [
+        "Assisted with the establishment of the hiring process used at George's Employment and Training Center.",
+        "Created and implemented the first electronic hiring process, reducing time to hire from 1 hour to 30 minutes.",
+        "Developed the first electronic application for production hiring.",
+        "Explained terms of position to new hires.",
+        "Onboarded new employees, administering paperwork, E-Verify, and I-9 Verification.",
+        "Maintained relationships with HR managers to stay abreast of hiring needs.",
+        "Coordinated driver-recruiting process."
+      ]
+    },
+    {
+      "title": "HR Specialist",
+      "company": null,
+      "duration": "10/2010 to 07/2015",
+      "responsibilities": [
+        "Assisted managers with staffing and compliance for 16 area locations.",
+        "Ensured compliance training completion and tracked assignments, evaluations, system access, and terminations for a temp pool of over 100 people.",
+        "Developed and piloted the first electronic application for production hiring.",
+        "Collaborated to develop detailed processes for non-discretionary, discretionary, and professional hiring.",
+        "Reviewed I-9 and E-Verify for errors and completed E-Verify on new hires.",
+        "Used SAP, ADHOC, Training and Events, and e-Recruitment for data entry and reporting."
+      ]
+    },
+    {
+      "title": "HR/Benefits Clerk",
+      "company": null,
+      "duration": "03/2009 to 10/2010",
+      "responsibilities": [
+        "Analyzed employment data and prepared required reports.",
+        "Developed reports on employee headcount, monthly HR reports, and quarterly training reports.",
+        "Managed all aspects of the employee life cycle, including onboarding and offboarding.",
+        "Communicated duties, compensation, benefits, and working conditions to new hires.",
+        "Ensured new hire files were complete and accurate.",
+        "Worked extensively in SAP and verified data accuracy.",
+        "Explained HR policies and procedures to employees.",
+        "Conducted exit interviews and managed 401(k), FMLA, and benefits administration.",
+        "Generated employee-tracking reports and managed orientation and open enrollment communications."
+      ]
+    },
+    {
+      "title": "HR Clerk",
+      "company": null,
+      "duration": "08/2007 to 03/2009",
+      "responsibilities": [
+        "Maintained open position postings and customer service focus with employees and applicants.",
+        "Verified applicant references and employment history.",
+        "Handled routine inquiries via multiple line telephones.",
+        "Distributed employment documentation to plant locations.",
+        "Maintained accurate information on outgoing files.",
+        "Entered initial data and prepared for hire in SAP, including rejecting and updating recruitment side data.",
+        "Generated reports and verified application completeness.",
+        "Assisted applicants in completing applications and translated in Spanish when necessary.",
+        "Ensured compliance with all laws."
+      ]
+    },
+    {
+      "title": "Receptionist",
+      "company": null,
+      "duration": "10/2006 to 03/2007",
+      "responsibilities": [
+        "Managed the receptionist area, greeting visitors and responding to telephone and in-person requests.",
+        "Maintained the front desk and reception area.",
+        "Served as central point of contact for outside vendors.",
+        "Handled copies, faxes, and correspondence.",
+        "Posted open positions and worked with a diverse labor pool.",
+        "Ensured application compliance and explained the application process.",
+        "Scheduled interviews and onboarding."
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": null,
+      "duration": "09/2005 to 10/2006",
+      "responsibilities": [
+        "Greeted and received visitors.",
+        "Answered heavy phone traffic.",
+        "Maintained inventory of office supplies.",
+        "Coordinated CPR classes for customers and staff.",
+        "Assisted staff in coordinating meetings and telephone conferences."
+      ]
+    }
+  ],
+  "projects": []
+}

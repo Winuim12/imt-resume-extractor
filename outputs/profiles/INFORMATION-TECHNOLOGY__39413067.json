@@ -1,0 +1,152 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Highly skilled IT specialist and consultant with extensive experience in business operations, infrastructure management, software/hardware support, PC and server administration, and software development.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Active Directory",
+    "C++",
+    "C#",
+    "Java",
+    "PHP",
+    "SQL",
+    "MS SQL",
+    "HTML",
+    "XML",
+    "Windows 7",
+    "Windows 8.1",
+    "Windows XP",
+    "Windows 2000",
+    "Vista",
+    "Network Administration",
+    "Network Security",
+    "Novell Network",
+    "LAN",
+    "WLAN",
+    "PC Repair",
+    "Server Administration",
+    "Microsoft Office",
+    "Document Management",
+    "Graphics",
+    "Imaging",
+    "Website Design",
+    "Software Design",
+    "System Administration",
+    "Migration",
+    "Upgrading",
+    "Batch Scripting",
+    "SCCM",
+    "Consulting",
+    "Client Support",
+    "Project Management",
+    "Training",
+    "Reporting",
+    "Process Improvement",
+    "Information Security",
+    "Information Technology"
+  ],
+  "tools": [
+    "Microsoft System Center Configuration Manager (SCCM)",
+    "Microsoft Active Directory",
+    "Windows Server 2012",
+    "Windows Server 2008",
+    "Microsoft Terminal Services",
+    "Microsoft Office 2010",
+    "Microsoft Office",
+    "Windows Server",
+    "MS SQL Server",
+    "SQL",
+    "PHP",
+    "C++",
+    "C#",
+    "Java",
+    "HTML",
+    "XML",
+    "Batch Scripting",
+    "Network hardware",
+    "Network equipment",
+    "Novell Network"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Associate of Applied Science",
+      "institution": "Minnesota School of Business",
+      "graduation_year": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Freelance IT Consultant",
+      "company": null,
+      "duration": "04/2012 \u2013 Current",
+      "responsibilities": [
+        "Collaborated with vendors to secure equipment and software within budget.",
+        "Designed and implemented a PC/laptop re\u2011imaging process reducing OS installation time from 14 hours to 1.5 hours.",
+        "Provided expert technical support and problem resolution for all customers."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "04/2012 \u2013 Current",
+      "responsibilities": [
+        "Acted as liaison between departments to meet technology and security standards.",
+        "Developed and managed project plans, reporting status to senior leadership.",
+        "Implemented business plan reducing operational costs by 81%.",
+        "Trained 400+ employees on Windows 7/8.1 and Microsoft Office.",
+        "Upgraded network hardware/software and managed remote client support.",
+        "Migrated from Novell Network to Microsoft Active Directory on Windows Server 2012.",
+        "Wrote batch scripts enabling 200+ clients to access Terminal Services."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant Network Solution/Owner",
+      "company": null,
+      "duration": "04/2007 \u2013 12/2012",
+      "responsibilities": [
+        "Consulted on business software and hardware solutions.",
+        "Acted as liaison between clients, vendors, and distributors.",
+        "Configured LAN/WLAN, designed, tested, installed, and monitored client networks.",
+        "Analyzed system data for infected computers and servers.",
+        "Sold and installed network equipment to improve database response times."
+      ]
+    },
+    {
+      "title": "Help Desk Specialist",
+      "company": null,
+      "duration": "08/2011 \u2013 04/2012",
+      "responsibilities": [
+        "Provided technical support for network applications and client-side interfaces.",
+        "Served as OS expert, improving reliability of education software and databases.",
+        "Recommended and implemented technologies within district budget.",
+        "Assisted migration from Novell Network to Microsoft Active Directory on Windows Server 2008.",
+        "Re\u2011imaged 3,000 computers to Windows 7 Professional from Windows XP."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "PC and Laptop Re\u2011Imaging Process",
+      "description": "Reduced OS installation and configuration time from 14 hours to 1.5 hours per computer.",
+      "technologies": [
+        "Windows 7",
+        "Windows 8.1",
+        "Batch Scripting",
+        "SCCM"
+      ]
+    },
+    {
+      "name": "Novell to Microsoft Active Directory Migration",
+      "description": "Migrated entire organization from Novell Network to Microsoft Active Directory on Windows Server 2012.",
+      "technologies": [
+        "Microsoft Active Directory",
+        "Windows Server 2012",
+        "SCCM"
+      ]
+    }
+  ]
+}

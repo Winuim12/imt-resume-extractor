@@ -1,0 +1,154 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": null,
+  "total_experience_years": 24.0,
+  "skills": [
+    "Oracle Database Administration",
+    "PL/SQL",
+    "SQL",
+    "Database Security",
+    "Risk Assessment",
+    "Patch Management",
+    "Backup & Recovery",
+    "Performance Tuning",
+    "Disaster Recovery",
+    "Scripting (UNIX Shell)",
+    "Database Consolidation",
+    "Capacity Planning",
+    "Security Monitoring",
+    "Vulnerability Assessment",
+    "Database Auditing",
+    "Data Modeling",
+    "Training & Mentoring",
+    "Project Management",
+    "Compliance (NIST, CIS, DoD)",
+    "Anti\u2011Money Laundering"
+  ],
+  "tools": [
+    "Oracle Enterprise Manager",
+    "Oracle RDBMS",
+    "Oracle Grid Control",
+    "Oracle ASM",
+    "TKPROF",
+    "OEM",
+    "STATSPACK",
+    "DBArtisan",
+    "Tivoli",
+    "COGNOS",
+    "Oracle Guardium",
+    "PL/SQL",
+    "SQLLoader",
+    "UNIX Shell Scripts",
+    "PeopleSoft",
+    "IBM"
+  ],
+  "certifications": [
+    "Oracle Certified Professional (OCP) 8.0, 8i, 9i, 10g, 11g",
+    "Certified Information Systems Security Professional (CISSP)",
+    "Certified Information Security Manager (CISM)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "College of Saint Rose",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "City, State",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist / Information Security Officer",
+      "company": "Company Name",
+      "duration": "October 2010 \u2013 July 2015",
+      "responsibilities": [
+        "Implemented Oracle database security controls and policies",
+        "Conducted risk assessments and developed mitigation plans",
+        "Managed patching and vulnerability assessments",
+        "Designed and maintained backup and recovery solutions",
+        "Performed database performance tuning and capacity planning",
+        "Developed security monitoring scripts",
+        "Led database consolidation and migration projects",
+        "Provided training and mentoring on database security"
+      ]
+    },
+    {
+      "title": "Vice President",
+      "company": "Company Name",
+      "duration": "April 2002 \u2013 September 2010",
+      "responsibilities": [
+        "Oversaw enterprise database operations and security",
+        "Led database consolidation and migration initiatives",
+        "Managed backup, recovery, and disaster recovery strategies",
+        "Conducted vulnerability assessments and patch management",
+        "Implemented database auditing and security monitoring",
+        "Developed risk assessment and compliance programs (NIST, CIS, DoD)",
+        "Directed anti\u2011money laundering database solutions",
+        "Provided training and project management for database teams"
+      ]
+    },
+    {
+      "title": "Database Manager",
+      "company": "Company Name",
+      "duration": "2000 \u2013 2002",
+      "responsibilities": [
+        "Managed database operations and security",
+        "Led database consolidation and migration projects",
+        "Implemented backup and recovery solutions",
+        "Performed performance tuning and capacity planning",
+        "Developed data models and database designs",
+        "Provided training and mentoring to staff"
+      ]
+    },
+    {
+      "title": "Senior Database Administrator",
+      "company": "Company Name",
+      "duration": "1999 \u2013 2000",
+      "responsibilities": [
+        "Managed database operations and security",
+        "Led database consolidation and migration projects",
+        "Implemented backup and recovery solutions",
+        "Performed performance tuning and capacity planning",
+        "Developed data models and database designs"
+      ]
+    },
+    {
+      "title": "Database Administrator",
+      "company": "Company Name",
+      "duration": "1996 \u2013 1997",
+      "responsibilities": [
+        "Managed database operations",
+        "Performed database performance tuning",
+        "Implemented backup and recovery solutions"
+      ]
+    },
+    {
+      "title": "Senior Database Administrator",
+      "company": "Company Name",
+      "duration": "1997 \u2013 1999",
+      "responsibilities": [
+        "Managed database operations and security",
+        "Led database consolidation and migration projects",
+        "Implemented backup and recovery solutions"
+      ]
+    },
+    {
+      "title": "Associate Computer Programmer / Analyst",
+      "company": "Company Name",
+      "duration": "1991 \u2013 1996",
+      "responsibilities": [
+        "Developed software solutions using SQL and PL/SQL",
+        "Performed data modeling and database design",
+        "Provided training and support to end users"
+      ]
+    }
+  ],
+  "projects": []
+}

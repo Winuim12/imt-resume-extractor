@@ -1,0 +1,144 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Information Technology Director with 16 years of experience leading IT operations for a large law firm, managing staff, implementing and upgrading core systems, ensuring data security and compliance, and driving cost\u2011effective vendor negotiations.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "backup",
+    "billing",
+    "budget",
+    "business operations",
+    "CRM",
+    "dictation",
+    "disaster recovery",
+    "document management",
+    "Ethernet",
+    "GroupWise",
+    "Internet Protocols",
+    "Microsoft Office",
+    "Outlook",
+    "negotiation",
+    "pricing",
+    "project management",
+    "relationship management",
+    "scanner",
+    "strategic planning",
+    "technical training",
+    "team leader",
+    "VPN",
+    "VOIP",
+    "Word Perfect",
+    "security officer",
+    "HIPAA compliance",
+    "vulnerability audit"
+  ],
+  "tools": [
+    "Microsoft Office 2000",
+    "Microsoft Office 2007",
+    "GroupWise",
+    "Outlook",
+    "Worldox",
+    "Audix",
+    "VOIP",
+    "VPN",
+    "RDP",
+    "Dropbox",
+    "Microsoft Office Mobile",
+    "LinkedIn",
+    "Business Card Scanner",
+    "Twitter",
+    "Ethernet",
+    "Internet",
+    "disaster recovery plan",
+    "failover configuration"
+  ],
+  "certifications": [
+    "Various Technical Training Certification Courses"
+  ],
+  "education": [
+    {
+      "degree": "Associate's Degree",
+      "institution": "Harrisburg Area Community College",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate's Degree",
+      "institution": null,
+      "graduation_year": null
+    },
+    {
+      "degree": "MBA",
+      "institution": "Elizabethtown College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Director",
+      "company": "Company Name",
+      "duration": "April 1999 \u2013 January 2015",
+      "responsibilities": [
+        "Led IT operations for the largest law firm in Central Pennsylvania, supporting 275 office users across six locations and 200 remote users.",
+        "Managed a team of seven IT professionals and participated in multiple project implementation teams.",
+        "Oversaw maintenance and implementation of voice and data communications, ensuring security, stability, and budget compliance.",
+        "Negotiated vendor contracts to secure competitive pricing for circuits and services.",
+        "Planned and executed upgrades of core systems, including time and billing, Microsoft Office suites, GroupWise, Worldox, and Audix voice messaging.",
+        "Implemented VOIP systems, mobile applications, and secure remote access solutions (VPN, RDP).",
+        "Developed and maintained data security policies, HIPAA compliance, vulnerability audits, and disaster recovery plans.",
+        "Served as Security Officer, establishing technical security systems and procedures.",
+        "Managed full project lifecycles from requirements gathering to deployment and user training."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "VOIP Implementation",
+      "description": "Deployed VOIP systems at two regional offices to improve voice communication efficiency.",
+      "technologies": [
+        "VOIP",
+        "Ethernet",
+        "Internet"
+      ]
+    },
+    {
+      "name": "Mobile Application Deployment",
+      "description": "Implemented mobile apps for attorneys, including VPN, RDP, dictation, Dropbox, and Office Mobile Suite.",
+      "technologies": [
+        "VPN",
+        "RDP",
+        "Dropbox",
+        "Microsoft Office Mobile"
+      ]
+    },
+    {
+      "name": "Core System Upgrades",
+      "description": "Upgraded time and billing, Microsoft Office, GroupWise, Worldox, and Audix voice messaging systems.",
+      "technologies": [
+        "Microsoft Office 2000",
+        "Microsoft Office 2007",
+        "GroupWise",
+        "Outlook",
+        "Worldox",
+        "Audix"
+      ]
+    },
+    {
+      "name": "CRM Implementation",
+      "description": "Assisted Marketing in implementing a firm\u2011wide Customer Relationship Management system.",
+      "technologies": [
+        "CRM"
+      ]
+    },
+    {
+      "name": "Disaster Recovery Plan",
+      "description": "Authored and maintained the firm's business/continuity/disaster recovery plan for IT applications and systems.",
+      "technologies": [
+        "disaster recovery plan",
+        "failover configuration"
+      ]
+    }
+  ]
+}

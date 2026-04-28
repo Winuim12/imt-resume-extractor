@@ -1,0 +1,96 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Information Security Analyst/Systems professional with over 16 years of diverse experience across analysis, troubleshooting, management and testing of complex IT systems, including cyber security, intrusion detection, system administration, and military cyber operations.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Windows",
+    "Unix",
+    "Linux",
+    "VMWare",
+    "Wireshark",
+    "Snort",
+    "TCPDump",
+    "EnCase",
+    "Bash Programming",
+    "router configuration",
+    "switch configuration",
+    "computer networking",
+    "intrusion analysis",
+    "firewalls"
+  ],
+  "tools": [
+    "Windows",
+    "Unix",
+    "Linux",
+    "VMWare",
+    "Wireshark",
+    "Snort",
+    "TCPDump",
+    "EnCase",
+    "Bash",
+    "routers",
+    "switches",
+    "wireless controllers"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "CompTIA Network+",
+    "Certified Computer Forensics Examiner",
+    "Certified Digital Media Collector"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Park University",
+      "graduation_year": "2018"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "05/2009 \u2013 Current",
+      "responsibilities": [
+        "Provide electronic surveillance of information systems and perform digital evidence analysis (DEA).",
+        "Offer technical analytical support to computer surveillance activities.",
+        "Conduct traffic analysis against adversary tactics, techniques, and protocols.",
+        "Configure and install routers, switches, and wireless controllers.",
+        "Draft training materials and organize training sessions for 6 employees."
+      ]
+    },
+    {
+      "title": "Network Security Analyst",
+      "company": null,
+      "duration": "08/2008 \u2013 05/2009",
+      "responsibilities": [
+        "Analyzed software, hardware, and network systems for various transmission systems.",
+        "Identified, reported, and resolved network security violations."
+      ]
+    },
+    {
+      "title": "Corporate Security",
+      "company": null,
+      "duration": "11/2007 \u2013 08/2008",
+      "responsibilities": [
+        "Ensured compliance with PCI, HIPAA, ISO 27001, and Sarbanes\u2011Oxley standards.",
+        "Responded to client technical support requests via phone and email."
+      ]
+    },
+    {
+      "title": "Network Security Analyst",
+      "company": null,
+      "duration": "11/2003 \u2013 11/2007",
+      "responsibilities": [
+        "Identified and responded to threats against Air Force worldwide computer networks on unclassified and classified entities (NIPR and SIPR).",
+        "Provided immediate analysis and verification of network activity using ASIM and Cisco IDS.",
+        "Detected network intrusions and applied countermeasures.",
+        "Analyzed trends of all network activity and provided daily activity reports to management and headquarters."
+      ]
+    }
+  ],
+  "projects": []
+}

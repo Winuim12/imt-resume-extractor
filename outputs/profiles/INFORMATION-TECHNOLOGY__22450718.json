@@ -1,0 +1,113 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Quality-driven Systems Administrator with nearly 7 years of experience aligning business systems with policies and guidelines. Strong analytical, problem\u2011solving, and communication skills, with a proven track record of improving system reliability and customer satisfaction.",
+  "total_experience_years": 7.0,
+  "skills": [
+    "analytical",
+    "communication",
+    "interpersonal",
+    "problem\u2011solving",
+    "team player",
+    "self\u2011starter",
+    "documentation",
+    "troubleshooting",
+    "root cause analysis",
+    "system debugging",
+    "performance monitoring",
+    "network management",
+    "hardware maintenance",
+    "software maintenance",
+    "database administration",
+    "J2EE",
+    "LDAP",
+    "Linux",
+    "Unix",
+    "Windows",
+    "Oracle",
+    "COTS",
+    "Remedy",
+    "Virtual Machine",
+    "MS Office",
+    "Excel",
+    "PowerPoint",
+    "Word",
+    "Outlook",
+    "network security",
+    "policy implementation",
+    "requirements analysis",
+    "functional analysis",
+    "validation",
+    "integration",
+    "project coordination"
+  ],
+  "tools": [
+    "J2EE",
+    "Oracle",
+    "Unix O/S",
+    "Linux",
+    "LDAP",
+    "Remedy",
+    "Virtual Machine",
+    "MS Office",
+    "Windows",
+    "COTS",
+    "network monitoring tools",
+    "system monitoring tools",
+    "backup utilities",
+    "ticketing system"
+  ],
+  "certifications": [
+    "CompTIA Security+ CE SY0-401"
+  ],
+  "education": [
+    {
+      "degree": "Bachelors of Science",
+      "institution": "Prairie View A&M University",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "Sep 2013 \u2013 Dec 2015",
+      "responsibilities": [
+        "Maintained and troubleshot complex infrastructure, providing first\u2011level help desk support.",
+        "Diagnosed and isolated hardware failures, coordinating replacements with vendors.",
+        "Monitored network and system performance, optimizing utilization and ensuring uptime.",
+        "Performed operating system and application monitoring, including COTS and custom software.",
+        "Documented incidents and maintained shift logs and ticketing records.",
+        "Analyzed customer needs, generated requirements, and implemented functional plans."
+      ]
+    },
+    {
+      "title": "Systems Engineer",
+      "company": "Company Name",
+      "duration": "May 2010 \u2013 Sep 2013",
+      "responsibilities": [
+        "Obtained mission\u2011related certifications and trained team members on application services.",
+        "Conducted system health analysis, low\u2011level testing, and problem analysis for servers and desktops.",
+        "Coordinated design and integration with partners, ensuring requirements were met.",
+        "Developed bug fixes and patch sets for web applications.",
+        "Diagnosed UNIX and Windows processing issues and implemented solutions.",
+        "Maintained network, system, and data availability through preventative maintenance."
+      ]
+    },
+    {
+      "title": "Systems Engineer Associate",
+      "company": "Company Name",
+      "duration": "Feb 2009 \u2013 May 2010",
+      "responsibilities": [
+        "Coordinated weekly seminars and delivered training for the VA\u201195 Technical Resource Center.",
+        "Created and updated electronic training content for the technical library.",
+        "Served as Windows SME, researching and recommending COTS products for closed\u2011caption video.",
+        "Managed candidate recruitment data and assisted with HR paperwork."
+      ]
+    }
+  ],
+  "projects": []
+}

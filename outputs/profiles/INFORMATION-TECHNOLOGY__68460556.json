@@ -1,0 +1,83 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Entry level Information Technology Management professional seeking to leverage education and technical skills to support company operations and continuous learning.",
+  "total_experience_years": 1.5,
+  "skills": [
+    "American Sign Language",
+    "communication",
+    "customer service",
+    "databases",
+    "English",
+    "Excel",
+    "PowerPoint",
+    "Microsoft Word",
+    "problem solving",
+    "Real-Time",
+    "repairs",
+    "translation",
+    "website"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "PowerPoint",
+    "Excel"
+  ],
+  "certifications": [
+    "Dean's List (above 3.50 GPA)",
+    "Bloomsburg University Career Intensive Boot Camp"
+  ],
+  "education": [
+    {
+      "degree": "Information and Technology Management",
+      "institution": "Bloomsburg University of Pennsylvania",
+      "graduation_year": "December 2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Intern",
+      "company": "Company Name",
+      "duration": "06/2012 \u2013 08/2012",
+      "responsibilities": [
+        "Participated in human and technology interaction management with supervisor.",
+        "Developed an interface between website and databases via Excel to improve access for House of Representatives and Senators.",
+        "Completed workshops and lectures on the history of the Library of Congress."
+      ]
+    },
+    {
+      "title": "Media Student Assistant",
+      "company": "Company Name",
+      "duration": "02/2012 \u2013 08/2012",
+      "responsibilities": [
+        "Set up and maintained the Computer Aided Real-Time translation (CART) system in classrooms and various locations.",
+        "Assisted staff, faculty, and students with equipment repairs, customer service, and technology problems.",
+        "Verified classroom equipment and technology readiness daily."
+      ]
+    },
+    {
+      "title": "Student Assistant",
+      "company": "Company Name",
+      "duration": "10/2014 \u2013 05/2015",
+      "responsibilities": [
+        "Provided assistance to students with weak study areas.",
+        "Analyzed student performance to improve understanding of specific weak areas within American Sign Language courses.",
+        "Contributed to improving students' ASL receptive and expressive skills."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Website-Database Interface",
+      "description": "Developed an interface between a website and databases using Excel to provide House of Representatives and Senators with more effective and easier access to information.",
+      "technologies": [
+        "Excel",
+        "Website",
+        "Database"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "To obtain a position in the information technology, personnel development, or computer science field to help manage, develop, and support projects and individuals.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Python",
+    "Visual Basic",
+    "C#",
+    "Java",
+    "JavaScript",
+    "Web Design",
+    "Game Design",
+    "Help Desk",
+    "Network Configuration",
+    "Hardware Repair",
+    "Software Repair",
+    "Router/Switch Configuration",
+    "Wireless Controllers",
+    "LMS Support",
+    "Teacher Training",
+    "Mobile App Development",
+    "Project Management",
+    "Educational Technology",
+    "Google Suite",
+    "Microsoft Office"
+  ],
+  "tools": [
+    "Python",
+    "Visual Basic",
+    "C#",
+    "Java",
+    "JavaScript",
+    "Google Suite",
+    "Microsoft Office",
+    "Cisco",
+    "A+ Certification",
+    "Router",
+    "Switch",
+    "Wireless Controller",
+    "LMS"
+  ],
+  "certifications": [
+    "Comptia - Strata IT Fundamentals",
+    "Microsoft Technology Associate - Network Fundamentals",
+    "Microsoft Technology Associate - Windows O.S. Fundamentals",
+    "Microsoft Technology Associate - Software Development",
+    "Microsoft Technology Associate - Web Development"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Murray State University",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "Master of Arts",
+      "institution": "Murray State University",
+      "graduation_year": "2013"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Murray State University",
+      "graduation_year": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Adjunct Information Technology Instructor",
+      "company": "Company Name",
+      "duration": "01/2014 to Current",
+      "responsibilities": [
+        "Taught courses in Python, Visual Basic, and C#.",
+        "Served on CIT advisory board to improve and recruit students to KCTCS CIT program."
+      ]
+    },
+    {
+      "title": "Information Technology Instructor and School Technology Coordinator",
+      "company": "Company Name",
+      "duration": "11/2011 to Current",
+      "responsibilities": [
+        "Met educational needs of high school students.",
+        "Instructed classes on A+ certification, Cisco certification, web design, programming, game design, and help desk.",
+        "Taught programming courses in C#, Python, Java, and JavaScript, and various web frameworks.",
+        "Provided LMS support, teacher technology training, and maintained school website.",
+        "Developed mobile applications with students to meet district needs.",
+        "Supervised help desk, maintained support tickets, and led technology troubleshooting."
+      ]
+    },
+    {
+      "title": "Geek Squad Agent",
+      "company": "Company Name",
+      "duration": "04/2007 to 09/2010",
+      "responsibilities": [
+        "Set up, tested, and configured networks, desktops, laptops, and printers.",
+        "Coordinated hardware and software repair processes with vendors.",
+        "Trained new employees in diagnostic and repair procedures.",
+        "Analyzed software, hardware, and network systems.",
+        "Configured and installed routers, switches, and wireless controllers."
+      ]
+    }
+  ],
+  "projects": []
+}

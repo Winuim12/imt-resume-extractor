@@ -1,0 +1,121 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Highly organized and detail-oriented Staff Assistant with more than 14 years of experience supplying thorough, organized administrative support to 10+ senior executives.",
+  "total_experience_years": 23.0,
+  "skills": [
+    "75 WPM typing speed",
+    "Excellent communication skills",
+    "Articulate and well-spoken",
+    "Accurate and detailed",
+    "Advanced clerical knowledge",
+    "HIPAA compliance",
+    "Works well under pressure",
+    "Accounting",
+    "Audio",
+    "Backup",
+    "Billing",
+    "Conferences",
+    "Content",
+    "Customer service",
+    "Data entry",
+    "Directing",
+    "Electronics",
+    "Fax",
+    "Filing",
+    "Information Technology",
+    "Inventory",
+    "Law",
+    "Lotus Notes",
+    "Managing",
+    "Materials",
+    "Meetings",
+    "Excel",
+    "Exchange",
+    "Mail",
+    "Office",
+    "Microsoft Word",
+    "Multi-line telephone",
+    "Multi-tasking",
+    "Organizing",
+    "Copier",
+    "Procurement",
+    "Receptionist",
+    "Reception",
+    "Scheduling",
+    "Supervisor",
+    "Telephone",
+    "70 WPM"
+  ],
+  "tools": [
+    "dCal",
+    "Lotus Notes",
+    "shared calendaring systems",
+    "PARIS",
+    "A/V electronics",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Exchange"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Associate of Arts",
+      "institution": "Southwest Virginia Community College",
+      "graduation_year": "2000"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Staff Assistant",
+      "company": null,
+      "duration": "08/2007 to Current",
+      "responsibilities": [
+        "Provide administrative support to the Office of Information Technology and CISO.",
+        "Manage calendaring and scheduling across multiple systems (dCal, Lotus Notes, shared calendars).",
+        "Screen and triage telephone calls, interview callers, and route inquiries.",
+        "Prepare materials, travel arrangements, expense summaries, and reconciliations.",
+        "Take minutes at meetings and coordinate staff leave reports.",
+        "Process procurement card receipts in PARIS and liaise with vendors.",
+        "Support audio/visual conferences, train users, and operate A/V equipment.",
+        "Order and manage office, conference room, and break room supplies.",
+        "Cover reception duties, including handling mail, visitors, and scheduling.",
+        "Organize and maintain departmental files and documents."
+      ]
+    },
+    {
+      "title": "Receptionist",
+      "company": null,
+      "duration": "09/2006 to 08/2007",
+      "responsibilities": [
+        "Answer and direct incoming calls, disburse parking passes and visitor badges.",
+        "Greet visitors, accept packages, and maintain telephone directory.",
+        "Provide support to Staff Assistants and manage mail distribution."
+      ]
+    },
+    {
+      "title": "Deputy Clerk",
+      "company": null,
+      "duration": "2003 to 2006",
+      "responsibilities": [
+        "File and maintain court documents, including warrants and garnishments.",
+        "Collect court fines and costs, perform data entry at 70 WPM.",
+        "Provide courtroom support to the judge and manage court system communications."
+      ]
+    },
+    {
+      "title": "Legal Secretary",
+      "company": null,
+      "duration": "01/2000 to 01/2003",
+      "responsibilities": [
+        "Prepare court motions and orders, handle billing and accounting.",
+        "Communicate extensively with courts and law offices.",
+        "Manage incoming/outgoing calls, greet visitors, and obtain signatures on financial documents."
+      ]
+    }
+  ],
+  "projects": []
+}

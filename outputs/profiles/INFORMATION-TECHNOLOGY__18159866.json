@@ -1,0 +1,144 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "High-energy results oriented Chief Information Officer offering global professional experience in managing complex information technology environments and cross-cultural teams while effectively aligning and supporting key company initiatives.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "Strategic Planning",
+    "Results-Oriented",
+    "Self-Motivated",
+    "Customer-Oriented",
+    "Project and Program Management",
+    "Change Implementation",
+    "Team Leadership",
+    "Time and Resources Optimization",
+    "Business Theory",
+    "Budgeting",
+    "Data Processing",
+    "Hardware Platforms",
+    "Enterprise Software Applications",
+    "Cloud SaaS",
+    "IaaS",
+    "Computer Systems Integration",
+    "Systems Design and Development",
+    "IT Planning",
+    "Organization",
+    "Development",
+    "Project Management Principles",
+    "Human Resource Management",
+    "Leadership"
+  ],
+  "tools": [
+    "Oracle",
+    "MAPICS",
+    "MANMAN MRPII",
+    "RF Devices",
+    "Wireless Inventory Control",
+    "Web Applications"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "B.S",
+      "institution": "University of Texas at El Paso",
+      "graduation_year": "1983"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Vice President of Global Information Technology",
+      "company": "Company Name",
+      "duration": "06/2004 to Current",
+      "responsibilities": [
+        "Responsible for all aspects of Information Technology globally with a staff of 70 employees worldwide.",
+        "Eliminated high dependency on consulting firm supporting an ERP system globally, creating self-sufficiency and generating $2.5 million in annual savings.",
+        "Planned and delivered M&A integration projects, enabling anticipated benefits through system migration and technology integration.",
+        "Delivered a single global suite of applications with seamless integration, eliminating duplicity and streamlining business processes.",
+        "Introduced Project Life Cycle management system to Engineering and New Product Development teams, speeding product introduction.",
+        "Enabled effective analysis and decision making through improved analytical capabilities delivered in a single repository of reporting.",
+        "Formed the company's first IT Steering Committee for strategic planning and priority recommendations.",
+        "Deployed reliable, scalable, fault-tolerant technical infrastructure with maximum uptime and redundancy.",
+        "Provided high-performance, high-availability, and secure networks for global voice, data, and video communications."
+      ]
+    },
+    {
+      "title": "Director of Information Technology",
+      "company": "Company Name",
+      "duration": "01/2002 to 06/2004",
+      "responsibilities": [
+        "Managed a large ERP implementation project and technical infrastructure operations for a distributor of DVD and VHS movies.",
+        "Led a staff of 20 IT professionals, implementing new technology and business applications.",
+        "Completed Oracle applications implementation on time after taking over a delayed project.",
+        "Restructured technical infrastructure to support the new ERP system across all US locations.",
+        "Led analysis, design, and deployment of web applications for real-time customer access.",
+        "Implemented wireless inventory control solution using RF devices.",
+        "Developed new technical support model and policies for processing support requests.",
+        "Hired and mentored IT personnel for post-production support of the ERP system.",
+        "Trained overseas personnel on Oracle application implementation and configuration."
+      ]
+    },
+    {
+      "title": "Practice Director",
+      "company": "Company Name",
+      "duration": "01/1995 to 01/2002",
+      "responsibilities": [
+        "Managed projects ranging from $500K to $10M, achieving an average budget savings of 20%.",
+        "Coordinated a practice of 22 consultants.",
+        "Prepared RFP responses for large-scale implementation projects.",
+        "Performed full lifecycle project management for permanent employees and contractors.",
+        "Participated in business development of over $24M in new contracts at Oracle Corporation.",
+        "Completed large-scale implementations of Oracle's ERP suite for Fortune 100 clients.",
+        "Conducted functional and technical architecture assessments and provided solution designs.",
+        "Served as subject matter expert for Supply Chain, Manufacturing, and Financial aspects.",
+        "Managed multi-national virtual teams and achieved project benchmarks ahead of schedule."
+      ]
+    },
+    {
+      "title": "Information Systems Director",
+      "company": "Company Name",
+      "duration": "01/1993 to 01/1995",
+      "responsibilities": [
+        "Managed business applications and technical infrastructure operations for a 2,800-employee manufacturing and distribution company.",
+        "Negotiated contracts, directed long-range planning, and monitored budgets up to $8M.",
+        "Implemented Manufacturing and Financial systems domestically and overseas.",
+        "Implemented Oracle Financials, improving financial reporting accuracy and reducing past due accounts.",
+        "Implemented manufacturing applications at facilities in Monterrey, Mexico, improving supply chain performance."
+      ]
+    },
+    {
+      "title": "Information Systems Director",
+      "company": "Company Name",
+      "duration": "01/1990 to 01/1993",
+      "responsibilities": [
+        "Supported corporate-wide projects in technology selection, delivery, and management.",
+        "Supervised fiscal responsibility, resource management, project management, and administrative detail.",
+        "Implemented MAPICS, enhancing supply chain capabilities.",
+        "Deployed new hardware and software architecture company-wide.",
+        "Implemented Electronic Data Interchange with preferred partners.",
+        "Implemented statistical performance measurements for productivity monitoring."
+      ]
+    },
+    {
+      "title": "Information Systems & Technology Manager",
+      "company": "Company Name",
+      "duration": "01/1985 to 01/1990",
+      "responsibilities": [
+        "Managed systems design and development from business requirements analysis to day-to-day management.",
+        "Implemented MANMAN MRPII and RF-based inventory control solutions.",
+        "Developed new technical support model and policies."
+      ]
+    },
+    {
+      "title": "Systems Design & Development Lead",
+      "company": "Company Name",
+      "duration": "01/1984 to 01/1985",
+      "responsibilities": [
+        "Performed systems design and development from business requirements analysis through day-to-day management."
+      ]
+    }
+  ],
+  "projects": []
+}

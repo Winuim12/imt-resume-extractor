@@ -1,0 +1,159 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "I am obsessed with technology. It's power to change everything. Technology fuels my passion and commitment to helping organizations do what they set out to. When I engage, I bring fresh ideas that help your team galvanize performance. Refine your strategy. Spark new energy. The future\u2014and how we get there\u2014depends on those who build, connect, create and transform our world. Accomplished with over 10 years of information technology support experience.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Issue escalation",
+    "Reporting and analysis",
+    "Quality control",
+    "Schematic understanding",
+    "Critical thinking",
+    "Data management",
+    "Network Administration",
+    "Experience in leadership",
+    "Improvement plan knowledge",
+    "Supervision",
+    "Hardware repair",
+    "Computer configurations",
+    "System upgrades",
+    "New program installations",
+    "Organizational leadership",
+    "Troubleshooting and Maintenance",
+    "Equipment repair",
+    "Power and hand tool use",
+    "Preventative maintenance",
+    "Telecommunications systems",
+    "Component repairs",
+    "Multitasking",
+    "Part inspections",
+    "Friendly, positive attitude",
+    "LAN and WAN configurations",
+    "Server and System Administration",
+    "End-User Training",
+    "Program installations",
+    "Software testing",
+    "Server improvements",
+    "Data backups",
+    "Project management",
+    "Security technologies",
+    "Network configuration",
+    "Time management",
+    "Active Directory knowledge",
+    "Cybersecurity analysis",
+    "System Administration",
+    "Microsoft Office",
+    "MS Office",
+    "Apple iOS Technician",
+    "Help desk assistance",
+    "Application software testing",
+    "Mechanical abilities",
+    "Information Systems Security Professional",
+    "Advanced knowledge of Windows OS",
+    "Advanced knowledge of Google Chrome OS",
+    "Soldering",
+    "Database management",
+    "Technical knowledge of server system softwares"
+  ],
+  "tools": [
+    "Windows OS",
+    "Google Chrome OS",
+    "Active Directory",
+    "Microsoft Office",
+    "MS Office",
+    "Apple iOS",
+    "Linux",
+    "VMWare",
+    "Diagnostic tools"
+  ],
+  "certifications": [
+    "FAA Aircraft Dispatcher License",
+    "Certificate Cybersecurity Policy For Aviation And Internet",
+    "GOOGLE I.T SUPPORT Certificate",
+    "IT Security: Defense against the digital dark arts",
+    "Operating System and You: Becoming a power user",
+    "The Bits and Bytes of Computer Networking",
+    "System Administration and IT Infrastructure Service",
+    "Technical Support Fundamentals"
+  ],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "The Federal Polytechnic, Ado-Ekiti",
+      "graduation_year": "2003"
+    },
+    {
+      "degree": "FAA Aircraft Dispatcher License",
+      "institution": "Phoenix East Aviation",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Certificate",
+      "institution": "University Of Colorado At Boulder",
+      "graduation_year": "07/2020"
+    },
+    {
+      "degree": "Certificate",
+      "institution": "GOOGLE I.T SUPPORT",
+      "graduation_year": "03/2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Specialist",
+      "company": null,
+      "duration": "11/2011 - Current",
+      "responsibilities": [
+        "Assisted clients with new computer and network equipment purchases.",
+        "Updated or installed software for customers to ensure computer efficiency.",
+        "Performed diagnostics and backups to prevent data loss.",
+        "Installed hardware components such as motherboards, processors, and graphics cards.",
+        "Configured network drivers and connected peripherals.",
+        "Upgraded laptops/desktops to improve speed and performance.",
+        "Repaired Apple and Windows devices with screen or liquid damage.",
+        "Explained technology details to users of all backgrounds.",
+        "Provided Tier 1 IT support via email, live chat, and telephone.",
+        "Disassembled systems for troubleshooting and repair.",
+        "Improved company IT uptime and reduced costs."
+      ]
+    },
+    {
+      "title": "Quality Control Inspector Contractor",
+      "company": null,
+      "duration": "04/2019 - Current",
+      "responsibilities": [
+        "Collaborated with engineers to resolve design and testing issues.",
+        "Implemented best practices for defect prevention.",
+        "Conducted non-destructive tests and visual inspections.",
+        "Documented nonconformities and recommended corrective actions."
+      ]
+    },
+    {
+      "title": "Network Analyst",
+      "company": null,
+      "duration": "06/2016 - 05/2018",
+      "responsibilities": [
+        "Identified and resolved operational performance issues.",
+        "Supported servers, storage, network equipment, and PCs.",
+        "Analyzed performance data and provided actionable solutions.",
+        "Educated personnel on company policies to improve customer retention.",
+        "Provided senior technical support for network applications.",
+        "Monitored project budgets and resource usage."
+      ]
+    },
+    {
+      "title": "Quality Control Manager",
+      "company": null,
+      "duration": "07/2013 - 08/2015",
+      "responsibilities": [
+        "Ensured compliance with company and federal regulations.",
+        "Managed scheduling and directed team members toward goals.",
+        "Monitored quality control of finished products."
+      ]
+    }
+  ],
+  "projects": []
+}

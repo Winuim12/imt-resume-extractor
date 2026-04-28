@@ -1,0 +1,107 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Experienced Human Resources Business Partner with expertise in partnering with Line of Business Leaders to provide guidance on human capital strategies to include, but not limited to, employee relations, talent management, compensation, etc., in order to meet business goals and objectives.",
+  "total_experience_years": 36.0,
+  "skills": [
+    "Project management",
+    "Matrix management",
+    "Talent management",
+    "Employee relations",
+    "Performance management",
+    "Compensation",
+    "Employment law",
+    "Manager coaching and training",
+    "Presentation/Facilitation",
+    "Title VII",
+    "ADA",
+    "Mid - Senior level Coaching/Consultation",
+    "HR Policy Interpretation",
+    "Collaboration/Partnering",
+    "Relationship Building"
+  ],
+  "tools": [],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Masters of Arts",
+      "institution": "Webster University",
+      "graduation_year": "2004"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Houston",
+      "graduation_year": "2001"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Partner",
+      "company": null,
+      "duration": "June 2007 \u2013 Current",
+      "responsibilities": [
+        "Provide strategic HR guidance and oversight for assigned line of business.",
+        "Collaborate with senior leadership to influence organizational design and management practices.",
+        "Lead project teams on human capital initiatives such as retention, rewards, and performance management.",
+        "Coach and develop managers on performance management and HR policies.",
+        "Facilitate resolution of complex issues and interpretation of policies.",
+        "Partner with stakeholders in integration efforts and workforce initiatives.",
+        "Create and facilitate virtual presentations across multiple states and time zones."
+      ]
+    },
+    {
+      "title": "Associate People Services Officer",
+      "company": null,
+      "duration": "November 2001 \u2013 May 2007",
+      "responsibilities": [
+        "Provide strategic HR guidance and oversight for assigned line of business.",
+        "Coach and develop managers on performance management.",
+        "Facilitate resolution of complex issues and interpretation of policies.",
+        "Create and facilitate virtual presentations on policy interpretation, recruiting, compensation tools, and leaves of absence.",
+        "Provide consultation to senior management on complex issues.",
+        "Advise managers on compensation, review job descriptions, and make salary recommendations.",
+        "Interpret and enforce HR policies, including FMLA, ADA, Title VII, and ADEA."
+      ]
+    },
+    {
+      "title": "Human Resource Consultant",
+      "company": null,
+      "duration": "March 2001 \u2013 November 2001",
+      "responsibilities": [
+        "Coach and develop managers on performance management.",
+        "Facilitate virtual presentations on policy interpretation, recruiting, compensation tools, and leaves of absence.",
+        "Provide consultation to front line management.",
+        "Advise managers on compensation and job descriptions.",
+        "Interpret and enforce HR policies, including FMLA, ADA, Title VII, and ADEA."
+      ]
+    },
+    {
+      "title": "Human Resources Consultant",
+      "company": null,
+      "duration": "September 1999 \u2013 May 2001",
+      "responsibilities": [
+        "Coach and develop managers on performance management.",
+        "Facilitate virtual presentations on policy interpretation, recruiting, compensation tools, and leaves of absence.",
+        "Provide consultation to front line management.",
+        "Advise managers on compensation and job descriptions.",
+        "Interpret and enforce HR policies, including FMLA, ADA, Title VII, and ADEA."
+      ]
+    },
+    {
+      "title": "Human Resources Consultant",
+      "company": null,
+      "duration": "August 1990 \u2013 September 1999",
+      "responsibilities": [
+        "Coach and develop managers on performance management.",
+        "Facilitate virtual presentations on policy interpretation, recruiting, compensation tools, and leaves of absence.",
+        "Provide consultation to front line management.",
+        "Advise managers on compensation and job descriptions.",
+        "Interpret and enforce HR policies, including FMLA, ADA, Title VII, and ADEA."
+      ]
+    }
+  ],
+  "projects": []
+}

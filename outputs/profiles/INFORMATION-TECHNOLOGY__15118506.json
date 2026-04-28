@@ -1,0 +1,137 @@
+{
+  "candidate_name": "Robert R Jordan",
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Innovative executive and technology professional with strong work ethic and excellent communication skills, experienced in high-volume, multi\u2011unit retail and business operations. Seeking a high\u2011level position in a professional business environment.",
+  "total_experience_years": 23.0,
+  "skills": [
+    "Microsoft Server",
+    "Microsoft Exchange",
+    "VMware ESXi",
+    "VMware vCenter",
+    "VMware Horizon View",
+    "Microsoft Hyper\u2011V",
+    "Cisco UCM",
+    "Cisco Unity",
+    "Help Desk",
+    "ITIL Service Catalog",
+    "Vendor Management",
+    "Budgeting",
+    "Project Management",
+    "SLA Management",
+    "Asset Management",
+    "Virtual Desktop Infrastructure",
+    "Network Administration",
+    "Security Management"
+  ],
+  "tools": [
+    "Microsoft Server 2003",
+    "Microsoft Server 2008",
+    "Microsoft Server 2012",
+    "Exchange Server 2007",
+    "Exchange Server 2010",
+    "VMware ESXi",
+    "VMware vCenter",
+    "VMware Horizon View 5.x",
+    "VMware Horizon View 6.x",
+    "VMware Horizon View 7.x",
+    "Microsoft Hyper\u2011V",
+    "Cisco UCM",
+    "Cisco Unity",
+    "TrendMicro agentless security",
+    "ITIL framework",
+    "Cisco routing and switching",
+    "VoIP",
+    "Camera infrastructure"
+  ],
+  "certifications": [
+    "VMware Certified Professional 5 \u2013 Data Center Virtualization",
+    "VMware Certified Professional 5 \u2013 Desktop Virtualization",
+    "ITIL Foundation Certified",
+    "Microsoft Certified Professional \u2013 Server 2012"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Cardinal Stritch University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Information Technology",
+      "company": "Company Name",
+      "duration": "11/2012 \u2013 Current",
+      "responsibilities": [
+        "Developed and implemented IT strategy for the organization.",
+        "Hired, trained, and managed IT staff.",
+        "Negotiated vendor contracts and managed changes to meet business needs.",
+        "Exceeded executive goals, achieving time and financial gains.",
+        "Set annual technology budgets."
+      ]
+    },
+    {
+      "title": "IT Administrator",
+      "company": "Company Name",
+      "duration": "03/2008 \u2013 11/2012",
+      "responsibilities": [
+        "Planned, installed, and managed Microsoft domain and Exchange environments.",
+        "Upgraded infrastructure to Server 2012 and Exchange 2010.",
+        "Implemented VMware platform, converting all physical servers to virtual.",
+        "Deployed VMware Horizon View VDI, migrating 120 users to zero\u2011client.",
+        "Maintained Cisco routing, switching, VoIP, and camera infrastructure.",
+        "Managed help desk for 260 end users using ITIL framework.",
+        "Performed break/fix for computers, printers, security, and A/V systems."
+      ]
+    },
+    {
+      "title": "New Car Sales",
+      "company": "Company Name",
+      "duration": "08/2005 \u2013 02/2008",
+      "responsibilities": [
+        "Recognized by Toyota as a top salesperson in the Chicago region."
+      ]
+    },
+    {
+      "title": "IT Consultant",
+      "company": "Company Name",
+      "duration": "01/2000 \u2013 08/2005",
+      "responsibilities": [
+        "Provided IT consultation and implementation for retail cash register networks.",
+        "Managed a team of 10+ independent contractors on contract projects.",
+        "Acted as project manager for equipment and software rollouts for Wal\u2011Mart, Marsh\u2011Maxx, and Toys 'R Us."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dealership Management System Conversion",
+      "description": "Led the conversion of the dealership to a new DMS, managing sub\u2011committees, mapping processes, and ensuring secure data sharing with third\u2011party vendors.",
+      "technologies": [
+        "DMS",
+        "ERP concepts",
+        "Security protocols"
+      ]
+    },
+    {
+      "name": "Paperless Workflow Implementation",
+      "description": "Created a digital storage process that reduced administrative time by 50% and saved $30,000 annually.",
+      "technologies": [
+        "Document management",
+        "Digital storage"
+      ]
+    },
+    {
+      "name": "Smart Motors Virtual Environment",
+      "description": "Designed and deployed a VMware ESXi virtual environment with Horizon View for 120 users, including security and TrendMicro agentless security.",
+      "technologies": [
+        "VMware ESXi",
+        "VMware vCenter",
+        "VMware Horizon View",
+        "TrendMicro"
+      ]
+    }
+  ]
+}

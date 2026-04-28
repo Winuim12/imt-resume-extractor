@@ -1,0 +1,117 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Experienced IT Coordinator and Paralegal with over 17 years in legal and information technology environments. Skilled in IT operations support, project coordination, data analysis, and executive assistance, with a strong focus on process improvement and client service.",
+  "total_experience_years": 17.0,
+  "skills": [
+    "Executive and Legal Support",
+    "Business Analysis",
+    "Strong Communication",
+    "Business Operations",
+    "Detail Oriented",
+    "Documentation",
+    "Time Management",
+    "Information Technology Support",
+    "Leadership",
+    "Legal Terminology",
+    "Managerial Experience",
+    "Meeting Organization",
+    "Advanced Problem Solving",
+    "Paralegal",
+    "Performance Appraisals",
+    "Personnel Management",
+    "Presentations",
+    "Processes",
+    "Procurement",
+    "Project Management",
+    "Legal Research"
+  ],
+  "tools": [
+    "LexisNexis",
+    "Westlaw",
+    "Concordance",
+    "CaseMap",
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Access",
+    "Project",
+    "Cisco",
+    "Encase",
+    "FTK"
+  ],
+  "certifications": [
+    "CFTC - Computer Forensics Technician Certification",
+    "CFAC - Computer Forensics Analyst Certification",
+    "Certificate of Completion, Paralegal Studies",
+    "Certificate of Completion, Cisco Studies",
+    "Encase and FTK Certification Candidate",
+    "CCNA",
+    "CCNA-Security",
+    "CCNA-Voice"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Strayer University",
+      "graduation_year": "2008"
+    },
+    {
+      "degree": "CFTC - Computer Forensics Technician Certification",
+      "institution": "College of Lake County",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "CFAC - Computer Forensics Analyst Certification",
+      "institution": "College of Lake County",
+      "graduation_year": "2014"
+    },
+    {
+      "degree": "Certificate of Completion, Paralegal Studies",
+      "institution": "College of Lake County",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Coordinator",
+      "company": "Company Name",
+      "duration": "01/2014 \u2013 Current",
+      "responsibilities": [
+        "Supported the CIO and senior leadership with calendar management and project documentation.",
+        "Acted as SPOC for in\u2011house IT operations assessment.",
+        "Maintained client and vendor files, handling confidential material.",
+        "Assisted business resiliency management program development.",
+        "Coordinated IT town halls and employee engagement initiatives.",
+        "Collected and analyzed data on IT business communication and vulnerabilities."
+      ]
+    },
+    {
+      "title": "Executive Assistant, Contractor",
+      "company": "Company Name",
+      "duration": "01/2013 \u2013 09/2013",
+      "responsibilities": [
+        "Provided executive support to Vice Presidents and the Quality department.",
+        "Managed travel, facilities, and program logistics.",
+        "Oversaw VP calendar and scheduling.",
+        "On\u2011boarded employees and managed hardware/software procurement."
+      ]
+    },
+    {
+      "title": "Legal Administrative Supervisor",
+      "company": "Company Name",
+      "duration": "10/2006 \u2013 07/2012",
+      "responsibilities": [
+        "Supervised temporary staff and coordinated administrative functions in the Law School Division.",
+        "Supported VP of Sales, Director of Sales, and attorneys with projects and reports.",
+        "Prepared workflow reports, timekeeping, and performance appraisals.",
+        "Conducted research, organized data, and prepared correspondence and presentations.",
+        "Managed client meetings, tracking, and follow\u2011up."
+      ]
+    }
+  ],
+  "projects": []
+}

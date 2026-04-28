@@ -1,0 +1,110 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "A seasoned Human Resources professional with a Masters qualification in Human Resources and over 10 years of experience in staffing, technology recruiting, and talent acquisition across large firms, start-ups, and non\u2011profit organizations. Proven track record in high\u2011volume recruiting, strategic sourcing, and partnership with hiring managers to deliver top IT talent. Strong expertise in recruitment lifecycle, ATS (Taleo), and diversity hiring.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Sourcing",
+    "Interviewing",
+    "Applicant Tracking Systems",
+    "HR Policies",
+    "Employee Relations",
+    "Onboarding",
+    "Coaching",
+    "Networking",
+    "Diversity Hiring",
+    "Negotiation",
+    "Technical Recruiting",
+    "IT Recruiting",
+    "Staffing",
+    "HRIS",
+    "Taleo",
+    "Candidate Assessment",
+    "Reference Checking",
+    "Job Profiling",
+    "Job Posting",
+    "Candidate Engagement",
+    "Project Coordination"
+  ],
+  "tools": [
+    "Taleo",
+    "Dice",
+    "Monster",
+    "HotJobs",
+    "Applicant Tracking System"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Post Graduate Diploma in Management",
+      "institution": "Balaji Institute of Modern Management",
+      "graduation_year": "2002"
+    },
+    {
+      "degree": "Masters in Labor Laws and Labor Welfare",
+      "institution": "Symbiosis Law College",
+      "graduation_year": "2002"
+    },
+    {
+      "degree": "Bachelor of Commerce",
+      "institution": "H. P. State University",
+      "graduation_year": "2000"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Volunteer HR",
+      "company": "iVolunteer",
+      "duration": "06/2009 \u2013 10/2015",
+      "responsibilities": [
+        "Performed job profiling and created job postings.",
+        "Researched job boards and resume databases to source candidates.",
+        "Conducted candidate suitability analysis and scheduled interviews.",
+        "Monitored contract renewals and performed reference checks.",
+        "Developed global recruiting presentations for international HR teams.",
+        "Managed behavioral fitment for non\u2011profit recruitment."
+      ]
+    },
+    {
+      "title": "Technical Recruiter",
+      "company": "Unknown",
+      "duration": "01/2007 \u2013 01/2008",
+      "responsibilities": [
+        "Recruited candidates via internet research, internal database, cold calling, referrals, and job fairs.",
+        "Checked references, negotiated terms, coordinated interview processes, and closed offers.",
+        "Recruited senior software/database developers with focus on C/C++, .NET, Java/J2EE, SQL Server, and Oracle.",
+        "Generated revenue and ranked among top recruiters in the region.",
+        "Mentored new recruiters and provided ongoing training."
+      ]
+    },
+    {
+      "title": "Technical Recruiter",
+      "company": "Company Name",
+      "duration": "03/2006 \u2013 01/2007",
+      "responsibilities": [
+        "Full\u2011life\u2011cycle recruiting including networking, screening, interviewing, and closing.",
+        "Recruited across a wide skill set including Java, Microsoft technologies, Oracle, SAP, and quality testing.",
+        "Managed candidate logistics and client feedback.",
+        "Utilized sourcing techniques such as internet recruiting, direct sourcing, and proprietary searches."
+      ]
+    },
+    {
+      "title": "Senior Executive",
+      "company": "Company Name",
+      "duration": "06/2002 \u2013 06/2005",
+      "responsibilities": [
+        "Handled recruitment and induction for a development sector organization.",
+        "Managed recruitment scheduling, posting, screening, and initial interviews.",
+        "Coordinated interview teams and conducted new\u2011hire paperwork and orientation.",
+        "Facilitated internal employee communications and HR policy liaison.",
+        "Supported HR projects and tasks across the organization."
+      ]
+    }
+  ],
+  "projects": []
+}

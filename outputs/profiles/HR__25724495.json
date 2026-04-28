@@ -1,0 +1,132 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": "San Francisco Bay Area",
+  "department": "HR",
+  "summary": "Holistic HR Professional with 5 years 7 months experience in Human Resources vertical in areas of recruitment, employee relations and performance management.",
+  "total_experience_years": 5.58,
+  "skills": [
+    "Staffing",
+    "Recruiting",
+    "Interviewing",
+    "HRIS",
+    "Onboarding",
+    "Offboarding",
+    "Report Writing",
+    "Employee Relations",
+    "New Employee Orientations",
+    "Performance Management",
+    "Payroll",
+    "People Soft",
+    "Hirecraft",
+    "PowerPoint",
+    "Excel",
+    "MIS",
+    "Negotiation",
+    "Attrition Analysis",
+    "Forecasting",
+    "Training",
+    "Legal",
+    "Leadership",
+    "Communication",
+    "Team Management",
+    "Problem Solving"
+  ],
+  "tools": [
+    "Microsoft Office Suite",
+    "PowerPoint",
+    "Excel",
+    "People Soft",
+    "Hirecraft",
+    "HRIS"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "ICFAI Business School",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Bharati Vidyapeeth College Of Engineering",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Regional HR Manager",
+      "company": "Company Name",
+      "duration": "Aug 2015 \u2013 Dec 2016",
+      "responsibilities": [
+        "Managed HR functions for Andhra Pradesh/Telangana states for Assets & Liability vertical.",
+        "Led a team of two HR Executives and acted as HR Business Partner.",
+        "Handled end\u2011to\u2011end recruitment cycle, including sourcing, interviewing, offer negotiation, and onboarding.",
+        "Maintained HRIS, payroll inclusion, and monthly recruitment reports.",
+        "Prepared performance management reports, PIP, termination letters, and investigation reports.",
+        "Conducted employee relations, grievance investigations, and training needs analysis."
+      ]
+    },
+    {
+      "title": "Employee Relationship Manager",
+      "company": "Company Name",
+      "duration": "May 2013 \u2013 Jun 2015",
+      "responsibilities": [
+        "Conducted branch visits and maintained visit trackers.",
+        "Handled employee queries on policies, transfers, salary, and leaves.",
+        "Managed HRIS updates and induction sessions.",
+        "Prepared preliminary investigation reports for grievances.",
+        "Led performance appraisal cycle and talent panels."
+      ]
+    },
+    {
+      "title": "Recruitment Manager",
+      "company": "Company Name",
+      "duration": "May 2011 \u2013 Apr 2013",
+      "responsibilities": [
+        "Oversaw recruitment for Rajasthan RBG, RIBG, and GOG.",
+        "Managed full recruitment life cycle and onboarding.",
+        "Produced monthly recruitment reports and annual attrition forecasts.",
+        "Utilized Hirecraft for interview and candidate management.",
+        "Coordinated mass recruitment drives and campus recruitment."
+      ]
+    },
+    {
+      "title": "Intern",
+      "company": "Company Name",
+      "duration": "Mar 2010 \u2013 Jun 2010",
+      "responsibilities": [
+        "Sourced applicants via mass mailing and job postings.",
+        "Coordinated interviews and salary negotiations with clients."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Applicant Experience at ICICI Bank",
+      "description": "Enhanced recruitment experience for applicants, leading to improved candidate satisfaction.",
+      "technologies": [
+        "HRIS",
+        "People Soft",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Female Workforce Attrition Analysis",
+      "description": "Analyzed attrition at mid\u2011managerial level and recommended retention strategies adopted in policy.",
+      "technologies": [
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Recruitment & Onboarding Process Streamlining at IndusInd Bank",
+      "description": "Suggested changes to the e\u2011joining portal to improve efficiency.",
+      "technologies": [
+        "HRIS",
+        "PowerPoint"
+      ]
+    }
+  ]
+}

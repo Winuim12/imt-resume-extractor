@@ -1,0 +1,136 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "A results-driven and business minded technology leader with 20+ years of experience in technology and software development. Passionate about developing people and teams to reach their greatest potential, partnering with business to drive strategy from conception to execution, and building a culture of innovation and engagement.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "People Centered Leadership",
+    "Strategic & Tactical Planning",
+    "Software Engineering",
+    "Designing & Architecting Systems",
+    "Coaching and Talent Development",
+    "Building a Culture of Innovation and Engagement",
+    "Transformation and Change Advocate"
+  ],
+  "tools": [
+    "AWS",
+    "AWS Connect",
+    "Microservices/Containers",
+    "Robotic Process Automation (RPA)",
+    "Mulesoft",
+    "Salesforce Service Cloud",
+    "Salesforce Marketing Cloud",
+    "Oracle EBS",
+    "GAINS",
+    ".NET",
+    "WCF",
+    "SQL Server",
+    "RESTful APIs"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Mini MBA",
+      "institution": "Boston University",
+      "graduation_year": null
+    },
+    {
+      "degree": "BS",
+      "institution": "Anjuman Engineering College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Vice President Information Technology - Software Engineering",
+      "company": "Company Name",
+      "duration": "03/2018 to Current",
+      "responsibilities": [
+        "Lead all aspects of IT application development and corporate systems teams, managing 100+ associates and a $20M budget.",
+        "Directed technology transformation to cloud and microservices architecture on AWS, improving speed to market by ~20%.",
+        "Implemented robotic process automation, projecting $2-3M annual savings.",
+        "Supported company-wide Fit for Growth initiatives to enhance customer and associate experience."
+      ]
+    },
+    {
+      "title": "Assistant Vice President - Solutions Delivery",
+      "company": "Company Name",
+      "duration": "07/2015 to 03/2018",
+      "responsibilities": [
+        "Defined product vision for core systems architecture across national contact centers, retail locations, and mobile technicians.",
+        "Drove adoption of agile methodologies and built high-performance autonomous product teams.",
+        "Delivered customer engagement initiatives including the 'watch us on our way' app, multi-modal self-service, chat bots, and IVR via AWS Connect.",
+        "Launched 'Road to Innovation' program to promote emerging technologies.",
+        "Led architecture of first cloud-based end-to-end claim solution and migrated legacy AS-400 to Salesforce Service Cloud."
+      ]
+    },
+    {
+      "title": "Director Of Technology",
+      "company": "Company Name",
+      "duration": "04/2013 to 07/2015",
+      "responsibilities": [
+        "Delivered web-responsive digital portals for policyholders, agents, and claim adjusters.",
+        "Upgraded safelite.com to a modern responsive site, increasing self-service usage from 15% to ~60%.",
+        "Designed and implemented a services layer with RESTful APIs for partner integration.",
+        "Implemented end-to-end IVR solution and integrated with partner websites.",
+        "Oversaw new inventory management and forecasting systems to Oracle EBS and GAINS."
+      ]
+    },
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "02/2008 to 04/2013",
+      "responsibilities": [
+        "Transformed IT teams and systems across multiple business units from legacy platforms to modern architectures.",
+        "Re-platformed point of sale, pricing, scheduling, and inventory systems to a distributed .NET/WCF architecture.",
+        "Implemented new glass claims management system, migrating 200+ carriers from mainframe to .NET C# and SQL Server."
+      ]
+    },
+    {
+      "title": "Team Lead",
+      "company": "Company Name",
+      "duration": "06/2003 to 02/2008",
+      "responsibilities": [
+        "Led technology initiatives and supported development teams."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": "04/1998 to 06/2003",
+      "responsibilities": [
+        "Provided IT consulting services."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cloud-Based End-to-End Claim Solution",
+      "description": "Designed and delivered a cloud-based claim processing platform on AWS, replacing legacy AS-400 and integrating with Salesforce Service Cloud.",
+      "technologies": []
+    },
+    {
+      "name": "\"Watch Us On Our Way\" Mobile App",
+      "description": "Developed a mobile application for real-time vehicle tracking and customer engagement.",
+      "technologies": []
+    },
+    {
+      "name": "Robotic Process Automation Implementation",
+      "description": "Implemented RPA across business processes, achieving projected $2-3M annual cost savings.",
+      "technologies": []
+    },
+    {
+      "name": "Mulesoft Integration Platform",
+      "description": "Oversaw deployment of Mulesoft for enterprise integration, enabling seamless data flow between systems.",
+      "technologies": []
+    },
+    {
+      "name": "Salesforce Service Cloud Migration",
+      "description": "Migrated legacy AS-400 case management to Salesforce Service Cloud and integrated sales data into BI platforms.",
+      "technologies": []
+    }
+  ]
+}

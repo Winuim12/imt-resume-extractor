@@ -1,0 +1,121 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Motivated professional seeking a career in outside sales. Self\u2011starting, driven, persuasive, and positive attitude is sure to be an asset to any company. Trilingual: English, Spanish and French. Exceptional listening skills and customer\u2011focused attitude has proven to have profitable outcomes.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "Sales",
+    "Lead development",
+    "Persuasive communication",
+    "Multi\u2011tasking",
+    "Project management",
+    "Payroll administration",
+    "HRIS expertise",
+    "Staff training",
+    "Client relations",
+    "Internal auditing",
+    "Reporting",
+    "Business development",
+    "HR coordination",
+    "Event coordination",
+    "Expatriate liaison",
+    "Compensation analysis",
+    "Communication",
+    "Gift program management"
+  ],
+  "tools": [
+    "Ultimate Software",
+    "Kronos Time and Attendance",
+    "Paychex",
+    "NETtime",
+    "Microsoft Office",
+    "Blackboard"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Northern Illinois University",
+      "graduation_year": "2004"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Coordinator",
+      "company": "Company Name",
+      "duration": "January 2011 \u2013 Current",
+      "responsibilities": [
+        "Reviewed federal and state laws to ensure company compliance across 9 offices.",
+        "Maintained I\u20119 records and addressed employee and management inquiries.",
+        "Collaborated with senior management to develop fair and consistent HR policies.",
+        "Managed over 285 confidential personnel records.",
+        "Ran the semi\u2011monthly payroll process and processed salary changes.",
+        "Led implementation of time and attendance, onboarding, and core payroll systems, reducing cost and time.",
+        "Conducted yearly open enrollment training sessions on benefit program updates.",
+        "Worked with outside vendors to enhance employee programs.",
+        "Supported 285 employees at all levels, including executive leadership.",
+        "Conducted new\u2011hire orientation and ensured completion of all paperwork.",
+        "Created monthly and weekly headcount reports for executives.",
+        "Arranged travel itineraries for candidates and new hires.",
+        "Managed and maintained all time and attendance records.",
+        "Served as HRIS administrator and provided on\u2011site training.",
+        "Coordinated events and served as expatriate liaison.",
+        "Prepared yearly compensation spreadsheets for executive review.",
+        "Communicated with employees via email and intranet announcements.",
+        "Maintained company congratulatory gift programs and dinners."
+      ]
+    },
+    {
+      "title": "Server",
+      "company": "Company Name",
+      "duration": "October 2009 \u2013 January 2011",
+      "responsibilities": [
+        "Coordinated ticket times with executive chef and managed multiple tables.",
+        "Delivered 5\u2011star dining experiences and ensured guest satisfaction.",
+        "Delegated critical tasks to expos and bussers while maintaining a professional attitude.",
+        "Trained dozens of waiters and waitresses in essential serving skills.",
+        "Achieved average tips between 18%\u201325% based on sales."
+      ]
+    },
+    {
+      "title": "Server",
+      "company": "Company Name",
+      "duration": "July 2004 \u2013 October 2009",
+      "responsibilities": [
+        "Coordinated ticket times with executive chef and managed multiple tables.",
+        "Delivered 5\u2011star dining experiences and ensured guest satisfaction.",
+        "Delegated critical tasks to expos and bussers while maintaining a professional attitude.",
+        "Trained dozens of waiters and waitresses in essential serving skills.",
+        "Achieved average tips between 18%\u201325% based on sales."
+      ]
+    },
+    {
+      "title": "Instructor",
+      "company": "Company Name",
+      "duration": "August 2004 \u2013 August 2006",
+      "responsibilities": [
+        "Instructed two first\u2011year university French classes.",
+        "Created and administered assignments and exams.",
+        "Recorded grades using the Blackboard system.",
+        "Led study groups to maximize student results.",
+        "Recommended for additional courses and required graduate coursework.",
+        "Held at least six office hours per week."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Payroll and Timekeeping System Implementation",
+      "description": "Led the key implementation of time and attendance, onboarding, and core payroll systems, resulting in reduced overall cost and processing time.",
+      "technologies": [
+        "Ultimate Software",
+        "Kronos Time and Attendance",
+        "Paychex",
+        "NETtime"
+      ]
+    }
+  ]
+}

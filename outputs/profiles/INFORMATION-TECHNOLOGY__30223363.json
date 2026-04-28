@@ -1,0 +1,153 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Business Systems Analyst with extensive experience in marketing database solutions, CRM, data integration, and IT support across multiple regions.",
+  "total_experience_years": null,
+  "skills": [
+    "SQL",
+    "UML",
+    "C++",
+    "Core Java",
+    "Perl",
+    "HTML",
+    "XML",
+    "PHP",
+    "SAP Web Intelligence",
+    "Informatica",
+    "MS Visio",
+    "MS Project",
+    "Rational Rose",
+    "Business Objects",
+    "Netezza",
+    "MS SQL Server",
+    "Oracle",
+    "Linux",
+    "Windows",
+    "Data Integration",
+    "Data Quality",
+    "CRM",
+    "Marketing Database",
+    "Project Management",
+    "Requirements Gathering",
+    "QA",
+    "Documentation",
+    "Business Analysis",
+    "Change Management",
+    "Data Warehouse",
+    "SharePoint",
+    "Ghosting",
+    "G-Disking"
+  ],
+  "tools": [
+    "SAP Web Intelligence",
+    "Informatica Data Explorer",
+    "MS Visio",
+    "MS Project",
+    "Rational Rose",
+    "Business Objects",
+    "SQL",
+    "UML",
+    "C++",
+    "Core Java",
+    "Perl",
+    "HTML",
+    "XML",
+    "PHP",
+    "Windows XP/Vista/7",
+    "Linux",
+    "Netezza",
+    "MS SQL Server 2005/2008",
+    "Oracle 9i/10g",
+    "HEAT ticketing system",
+    "Sys-Aid ticketing software",
+    "Ghosting",
+    "G-Disking"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MS in Information Management",
+      "institution": "University of Maryland",
+      "graduation_year": "Dec 2011"
+    },
+    {
+      "degree": "B.E in Computer Engineering",
+      "institution": "Mumbai University",
+      "graduation_year": "May 2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Business Systems Analyst I",
+      "company": "Merkle",
+      "duration": "09/2014 to Current",
+      "responsibilities": [
+        "Lead BSA on client team for multi\u2011regional database marketing programs.",
+        "Acted as primary contact for clients, partners, and stakeholders.",
+        "Defined campaign audience requirements, program specifications, and business rules.",
+        "Managed project artifacts such as Business Requirement Documents and Functional Requirement Documents.",
+        "Performed gap analysis, root\u2011cause analysis, and QA of deliverables.",
+        "Coordinated change management and deployment across SMB CRM and Consumer Global Marketing Database solutions."
+      ]
+    },
+    {
+      "title": "IT Analyst Intern",
+      "company": null,
+      "duration": "05/2011 to 12/2011",
+      "responsibilities": [
+        "Provided IT support and analysis for client systems.",
+        "Managed user access and SharePoint configuration.",
+        "Assisted with data integration and reporting using SQL and Business Objects.",
+        "Documented functional specifications and liaised with development teams."
+      ]
+    },
+    {
+      "title": "IT Support",
+      "company": null,
+      "duration": "05/2010 to 07/2010",
+      "responsibilities": [
+        "Performed system maintenance and user access management on Windows and Linux platforms.",
+        "Executed Ghosting and G\u2011Disking procedures for hardware upkeep.",
+        "Provided general IT support and troubleshooting."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "SMB CRM Marketing Database Solution",
+      "description": "Designed and implemented a small\u2011to\u2011medium business CRM marketing database to support segmentation and ROI analysis.",
+      "technologies": [
+        "MS SQL Server",
+        "Business Objects",
+        "SAP Web Intelligence",
+        "SharePoint",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Consumer Global Marketing Database Solution",
+      "description": "Developed a global marketing database for consumer segmentation and campaign management across multiple regions.",
+      "technologies": [
+        "Oracle",
+        "Informatica",
+        "MS SQL Server",
+        "CRM",
+        "Data Integration"
+      ]
+    },
+    {
+      "name": "Dell Financial Services Project",
+      "description": "Implemented a CRM marketing solution for Dell Financial Services, focusing on warranty and customer relationship management.",
+      "technologies": [
+        "Oracle",
+        "MS SQL Server",
+        "SAP",
+        "Business Objects",
+        "CRM"
+      ]
+    }
+  ]
+}

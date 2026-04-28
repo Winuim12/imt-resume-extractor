@@ -1,0 +1,167 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Versatile Systems Administrator with strong troubleshooting skills in networking, end\u2011user support, and network security. Experienced in server management, systems analysis, and IT infrastructure, with a systematic approach to solving complex problems and a proven track record of collaborating with cross\u2011functional teams.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Active Directory",
+    "Group Policy Objects",
+    "PowerShell",
+    "VBScript",
+    "Microsoft Exchange",
+    "VMware",
+    "Office 365",
+    "Azure",
+    "Storage Management",
+    "Enterprise Backup",
+    "Disaster Recovery",
+    "Cacti",
+    "SolarWinds",
+    "SCCM",
+    "Veeam",
+    "Symantec NetBackup",
+    "Symantec Backup Exec",
+    "VRanger",
+    "DataDomain",
+    "McAfee",
+    "ISA",
+    "Cisco ASA",
+    "VPN",
+    "DNS",
+    "DHCP",
+    "LDAP",
+    "TMG",
+    "NMap",
+    "ZenMap",
+    "HTML",
+    "CSS",
+    "Java",
+    "JSP",
+    "C++",
+    "VB.NET",
+    "Bash",
+    "T\u2011SQL",
+    "SQL"
+  ],
+  "tools": [
+    "VMware vSphere",
+    "Veeam Backup & Replication",
+    "SolarWinds Network Performance Monitor",
+    "System Center Configuration Manager (SCCM)",
+    "Symantec NetBackup",
+    "Symantec Backup Exec",
+    "VRanger",
+    "DataDomain",
+    "Microsoft Azure",
+    "Microsoft Office 365",
+    "Microsoft Exchange Online",
+    "Microsoft Windows Server 2003/2008/2012/2016",
+    "Microsoft Windows 7/8/10",
+    "Microsoft Office 2007/2010/2013",
+    "McAfee Anti\u2011Virus",
+    "ISA Server",
+    "Cisco ASA",
+    "TFS (Team Foundation Server)",
+    "Visual Studio MVC 4",
+    ".NET Framework 4/4.5",
+    "HTML5",
+    "CSS3",
+    "Cacti",
+    "Wi\u2011Fi network tools"
+  ],
+  "certifications": [
+    "CompTIA Network+ (2014)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Florida International University",
+      "graduation_year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Technician I",
+      "company": "Company Name",
+      "duration": "Aug 2007 \u2013 Current",
+      "responsibilities": [
+        "Migrated and managed user accounts in Office 365 and Exchange Online.",
+        "Created and maintained virtual machines for domain controllers, ADFS, and Azure IaaS.",
+        "Implemented and supported StorSimple and Twinstrata iSCSI cloud arrays.",
+        "Led Office 365 migration planning, documentation, and cost\u2011benefit analysis.",
+        "Developed PowerShell and VBScript automation for system provisioning and testing.",
+        "Configured and supported Linux machines for open Wi\u2011Fi network projects, including Cacti traffic monitoring.",
+        "Designed and documented enterprise backup solutions (Symantec NetBackup, Backup Exec, VRanger).",
+        "Managed VMware vSphere infrastructure and VDI deployments.",
+        "Performed disaster recovery planning, testing, and documentation.",
+        "Provided end\u2011user training and support for new systems and upgrades."
+      ]
+    },
+    {
+      "title": "Information Services Liaison, T",
+      "company": "Company Name",
+      "duration": "Aug 2005 \u2013 Aug 2007",
+      "responsibilities": [
+        "Troubleshot hardware and software issues via phone and remote administration.",
+        "Installed and maintained McAfee anti\u2011virus and backup software on desktops.",
+        "Developed and maintained SharePoint and IIS web sites.",
+        "Supported SMS and managed LAN/WAN connectivity, including DNS, DHCP, ISA, and VPN.",
+        "Administered Active Directory accounts, permissions, and NTFS security.",
+        "Configured and maintained servers, workstations, printers, and scanners in a Windows Enterprise environment.",
+        "Managed Windows Server 2000/2003, Windows XP/Vista, and Microsoft Office XP/2003/2007."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Office 365 Migration",
+      "description": "Planned, documented, and executed migration of on\u2011prem Exchange to Office 365, including user account management, data migration, and cost\u2011benefit analysis.",
+      "technologies": [
+        "Office 365",
+        "Exchange Online",
+        "PowerShell",
+        "Azure"
+      ]
+    },
+    {
+      "name": "Hyperion Phase 1 & MiamiBiz Phase 2",
+      "description": "Developed test scripts, QA plans, and performed debugging for enterprise applications using TFS.",
+      "technologies": [
+        "Team Foundation Server",
+        "PowerShell",
+        "VBScript"
+      ]
+    },
+    {
+      "name": "Enterprise Backup System Acquisition",
+      "description": "Designed and documented backup infrastructure, evaluated vendors, and implemented Symantec NetBackup and Backup Exec solutions.",
+      "technologies": [
+        "Symantec NetBackup",
+        "Symantec Backup Exec",
+        "VRanger",
+        "DataDomain"
+      ]
+    },
+    {
+      "name": "Wireless Network Traffic Analysis",
+      "description": "Configured Cacti and SolarWinds to monitor and analyze Wi\u2011Fi traffic for performance and security.",
+      "technologies": [
+        "Cacti",
+        "SolarWinds",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Disaster Recovery Plan",
+      "description": "Collaborated on development and testing of disaster recovery procedures for critical systems.",
+      "technologies": [
+        "VMware",
+        "Veeam",
+        "Azure"
+      ]
+    }
+  ]
+}

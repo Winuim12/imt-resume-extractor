@@ -1,0 +1,128 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Results-driven IT executive management professional with 20 years of experience in diverse industries, including healthcare and marketing. Expertise includes team leadership, technical architecture, training and development, disaster recovery planning, and information protection analysis. Dynamic, resourceful, and extremely driven individual with a deep passion for creating and delivering programs and solutions that empower a team, company, and customer to meet and exceed desired expectations.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "Infrastructure Management",
+    "Data Center Operations",
+    "Project Management",
+    "Team Building/Coaching",
+    "Vendor Management and Negotiation",
+    "Budget Management",
+    "Policy/Program Development",
+    "LAN/WAN",
+    "SAN",
+    "Firewalls and Routers"
+  ],
+  "tools": [
+    "Cisco ASA",
+    "8x8",
+    "MS Exchange",
+    "MS Exchange Online",
+    "Symantec Ghost",
+    "Intrinsic Swimage",
+    "Legato Networker",
+    "Qualstar Jukebox",
+    "Sage MAS500",
+    "CRM Dynamics"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Troy State University",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate of Science",
+      "institution": "Community College of the Air Force",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Vice President Information Technology Infrastructure Operations",
+      "company": null,
+      "duration": "06/2008 to Current",
+      "responsibilities": [
+        "Reduced overall network bandwidth costs over 15% through ISP consolidation and management.",
+        "Managed cloud-based phone system (8x8) and on-premise phone systems across multiple remote locations.",
+        "Oversaw infrastructure operations annual budget, including equipment and software license procurement.",
+        "Led, mentored, and developed a team of infrastructure engineers, architects, and administrators across multiple geographic locations.",
+        "Managed multiple datacenters, on-premise network and server, and cloud presence.",
+        "Managed vendor relationships, contracts, negotiations, and change management.",
+        "Migrated over 700 users from on-prem Exchange servers to MS Exchange Online under a single domain.",
+        "Planned and executed migration of on-prem SaaS servers and applications to cloud-based solutions.",
+        "Led design, development, implementation of infrastructure hardware, software, and network components, and disaster recovery/business continuity practices.",
+        "Managed offshore delivery center infrastructure and IT operations.",
+        "Documented and executed company-wide IT policies."
+      ]
+    },
+    {
+      "title": "Director of Network Operations",
+      "company": null,
+      "duration": "07/2006 to 06/2008",
+      "responsibilities": [
+        "Maintained Nortel BCM telephony servers, including analog and VoIP phones.",
+        "Provided technical support to designers, marketing, sales, suppliers, engineers, and other team members during product development and implementation.",
+        "Monitored equipment functioning and made necessary modifications to ensure conformance with specifications.",
+        "Built, tested, and modified product prototypes using computer simulation models.",
+        "Stored, retrieved, and manipulated data for analysis of system capabilities and requirements.",
+        "Set up, maintained, and monitored over 90 remote branch office locations with IPsec tunnel to Chicago via Cisco ASA.",
+        "Managed Entrapass Security system for access control to suite doors.",
+        "Configured and supported multiple CRM and ERP systems (Sage MAS500, CRM Dynamics) and converted QuickBooks database to Sage MAS 500."
+      ]
+    },
+    {
+      "title": "Information Operations Specialist",
+      "company": null,
+      "duration": "02/2005 to 07/2006",
+      "responsibilities": [
+        "Administered Microsoft 2000/2003 environment with 50 Proliant servers, including patch management and account maintenance.",
+        "Maintained Cisco Call Manager Application and Unity Server, providing VOIP services to the user community.",
+        "Built new PC deployment image using Symantec Ghost and Intrinsic Swimage, creating silent install packages for third\u2011party applications.",
+        "Implemented backup procedures using Legato Networker tape backup and Qualstar Jukebox, achieving HIPAA compliance."
+      ]
+    },
+    {
+      "title": "Customer Care Representative - Help Desk Technician",
+      "company": null,
+      "duration": "09/2003 to 02/2005",
+      "responsibilities": [
+        "Supported LawInContext, BakerMaks, and Client Matter Intake System (CMIS).",
+        "Provided regression testing of proprietary law document management software.",
+        "Administered Linux\u2011based system hosting an internal Knowledge Base Portal for help desk agents."
+      ]
+    },
+    {
+      "title": "System Administrator",
+      "company": null,
+      "duration": "10/1998 to 12/2001",
+      "responsibilities": [
+        "Administered enterprise servers across Sun Solaris, Red Hat Linux, FreeBSD, SCO Unix, and Windows NT/2000.",
+        "Developed and maintained UNIX shell scripts to automate help desk tasks.",
+        "Attended IBM Emerging Leaders workshop.",
+        "Designed and developed a UNIX login reauthorization program using C, shell scripting, Oracle, and web development, clearing 40,000 unauthorized logins."
+      ]
+    },
+    {
+      "title": "Healthcare Systems Specialist",
+      "company": null,
+      "duration": "02/1993 to 11/1998",
+      "responsibilities": [
+        "Maintained records of goods ordered and received.",
+        "Reviewed, evaluated, and approved specifications for bids.",
+        "Controlled purchasing department budgets.",
+        "Maintained and administered computer networks and related environments.",
+        "Performed data backups and disaster recovery operations.",
+        "Designed, configured, and tested computer hardware, networking software, and operating systems.",
+        "Attended Air Force Airman Leadership School, graduating as honor graduate."
+      ]
+    }
+  ],
+  "projects": []
+}

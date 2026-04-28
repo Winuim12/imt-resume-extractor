@@ -1,0 +1,123 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "MBA graduate with experience in business analysis, IT internships, and executive leadership across healthcare and retail sectors. Skilled in data analysis, web development, and project management, with a focus on leveraging technology to drive business outcomes.",
+  "total_experience_years": 7.33,
+  "skills": [
+    "Chinese",
+    "English",
+    "Japanese",
+    "Microsoft Office",
+    "Excel",
+    "PowerPoint",
+    "Word",
+    "Outlook",
+    "SQL",
+    "Adobe Suite",
+    "Flash",
+    "Photoshop",
+    "Illustrator",
+    "3D Max",
+    "PHP",
+    "Java",
+    "C#",
+    "Visual Basic",
+    "HTML",
+    "Programming",
+    "CRM",
+    "ERP",
+    "RFID",
+    "E-Commerce",
+    "EPC",
+    "Financial Accounting",
+    "Human Resources",
+    "Business Marketing",
+    "International Trade",
+    "App Development",
+    "SEM",
+    "Analysis",
+    "QMS Statistics",
+    "Healthcare"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Excel",
+    "PowerPoint",
+    "Word",
+    "Outlook",
+    "SQL",
+    "Adobe Suite",
+    "Flash",
+    "Photoshop",
+    "Illustrator",
+    "3D Max",
+    "CRM",
+    "ERP",
+    "RFID",
+    "E-Commerce",
+    "EPC"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "Metropolitan State University",
+      "graduation_year": "2016"
+    },
+    {
+      "degree": "Bachelor of Science in Information Management",
+      "institution": "National Taipei University of Nursing and Health Science",
+      "graduation_year": "2015"
+    },
+    {
+      "degree": "English Language Program",
+      "institution": "Global Language Institute",
+      "graduation_year": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Intern",
+      "company": null,
+      "duration": "July 2014 \u2013 September 2014",
+      "responsibilities": [
+        "Examined problems between users and systems.",
+        "Worked at different stations of hospital, including ER, Registration, Pharmacy, Central Sterile Supplies Department (CSSD), and Medical Supplies store room."
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company": null,
+      "duration": "September 2013 \u2013 December 2015",
+      "responsibilities": [
+        "Worked with Tourism Bureau to publish 'Taiwan Hot Spring Voucher' to promote Taiwan.",
+        "Generated 3K followers on Facebook Fan page within 3 months.",
+        "Built and designed official website."
+      ]
+    },
+    {
+      "title": "Chief Executive Officer",
+      "company": null,
+      "duration": "May 2012 \u2013 January 2015",
+      "responsibilities": [
+        "Expanded five new business sites, two located at large-scale department stores in the country.",
+        "Planned cultural events, including Simple Life Festival in Taipei and Shanghai China.",
+        "Launched limited edition custom dress with bloggers, created record sales; 100 customer dresses sold out within 4 hours.",
+        "Increased sales by 25% in two quarters."
+      ]
+    },
+    {
+      "title": "Campus Youth E- Service Volunteer",
+      "company": null,
+      "duration": "September 2011 \u2013 June 2013",
+      "responsibilities": [
+        "Planned summer and winter camps for kids lacking educational resources.",
+        "Team lead and Recorder."
+      ]
+    }
+  ],
+  "projects": []
+}

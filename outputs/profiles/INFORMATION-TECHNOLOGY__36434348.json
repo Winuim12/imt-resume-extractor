@@ -1,0 +1,171 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Quality-driven Information Technology Manager with over 10 years experience aligning business systems with business policies and guidelines while managing IT support and application development operations. Looking to bring strong management, analytical and problem-solving skills to an industry-leading technology company.",
+  "total_experience_years": 31.0,
+  "skills": [
+    "ASP.NET",
+    "Active Directory",
+    "Adobe Acrobat",
+    "Adobe Dreamweaver",
+    "Adobe Photoshop",
+    "application design",
+    "billing systems",
+    "Business Objects",
+    "business operations",
+    "C++",
+    "client-server",
+    "communication skills",
+    "hardware",
+    "Crystal Reports",
+    "databases",
+    "database development",
+    "database design",
+    "disaster recovery",
+    "forms",
+    "functional",
+    "government",
+    "grants",
+    "help desk support",
+    "HTML",
+    "computer support",
+    "leadership",
+    "marketing materials",
+    "Microsoft Access",
+    "Microsoft Office",
+    "Microsoft SharePoint",
+    "Windows",
+    "migration",
+    "Oracle database",
+    "PL/SQL",
+    "personnel management",
+    "police",
+    "profit",
+    "project management",
+    "purchasing",
+    "report writing",
+    "requirements gathering",
+    "SAP",
+    "SDLC",
+    "servers",
+    "software development",
+    "Microsoft SQL Server",
+    "SQL",
+    "strategy",
+    "strategic planning",
+    "system administration",
+    "user manuals",
+    "training materials",
+    "troubleshooting",
+    "upgrade",
+    "Visual Basic",
+    "Web Intelligence",
+    "web development",
+    "Windows Server",
+    "workflow"
+  ],
+  "tools": [
+    "HTML",
+    "Adobe Acrobat",
+    "Adobe Dreamweaver",
+    "Adobe Photoshop",
+    "ASP.NET",
+    "Windows Server 2008",
+    "Windows Server 2012",
+    "Active Directory",
+    "SQL",
+    "Microsoft Office",
+    "SAP Business Objects/Web Intelligence",
+    "Microsoft SharePoint",
+    "Visual Basic",
+    "Crystal Reports 9",
+    "Oracle database",
+    "PL/SQL",
+    "Microsoft SQL Server",
+    "Windows Server"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "University of Illinois",
+      "graduation_year": "May 2003"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Illinois",
+      "graduation_year": "May 1995"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Manager",
+      "company": "Company Name",
+      "duration": "April 2005 \u2013 Current",
+      "responsibilities": [
+        "Managed computer support staff for a college serving over 150 employees.",
+        "Planned and implemented major upgrades to the college\u2019s computing environment.",
+        "Participated in IT Governance to develop infrastructure and security policies.",
+        "Oversaw help desk support, troubleshooting hardware, software, and Windows servers.",
+        "Managed multiple projects to develop applications and IT solutions for faculty, staff, and students.",
+        "Administered data needs, including data security, database development/maintenance, and report generation.",
+        "Responsible for purchasing appropriate computing equipment."
+      ]
+    },
+    {
+      "title": "System Analyst",
+      "company": "Company Name",
+      "duration": "June 2003 \u2013 April 2005",
+      "responsibilities": [
+        "Managed staff for new system migration project.",
+        "Generated SQL for data population and complex report writing using PL/SQL and Crystal Reports 9.",
+        "Maintained and improved existing databases.",
+        "Created tools using Visual Basic and SQL to assist Housing Specialists."
+      ]
+    },
+    {
+      "title": "Graduate Assistant-Technical Writer",
+      "company": "Company Name",
+      "duration": "January 2002 \u2013 May 2003",
+      "responsibilities": [
+        "Developed user manuals and training materials for computer systems used by police personnel.",
+        "Tested web and client-server applications to ensure user requirements were met.",
+        "Utilized web development tools to create online user manuals."
+      ]
+    },
+    {
+      "title": "Co-Founder, Business Manager",
+      "company": "Company Name",
+      "duration": "December 2001 \u2013 Current",
+      "responsibilities": [
+        "Managed all aspects of business operations for a non-profit performance arts organization.",
+        "Developed marketing materials for community outreach.",
+        "Wrote grants to secure funding for youth and out-of-school programs."
+      ]
+    },
+    {
+      "title": "Applications Developer",
+      "company": "Company Name",
+      "duration": "October 2000 \u2013 July 2001",
+      "responsibilities": [
+        "Documented user requirements for rewriting billing systems.",
+        "Led development team in requirements gathering.",
+        "Provided support for billing systems, troubleshooting complex queries."
+      ]
+    },
+    {
+      "title": "Programmer Analyst",
+      "company": "Company Name",
+      "duration": "June 1995 \u2013 September 2000",
+      "responsibilities": [
+        "Performed tasks in all stages of the SDLC for a disability claims system.",
+        "Created Oracle database objects (views, queries, PL/SQL, SQL) for reporting.",
+        "Developed testing strategy and led testing team for the system."
+      ]
+    }
+  ],
+  "projects": []
+}

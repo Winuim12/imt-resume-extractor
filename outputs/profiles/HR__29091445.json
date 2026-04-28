@@ -1,0 +1,110 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Professional with extensive experience in Human Resources within the Oil & Gas industry, seeking to leverage strong organizational, administrative, and communication skills to support organizational and personal goals.",
+  "total_experience_years": 20.0,
+  "skills": [
+    "MS Office",
+    "SAP",
+    "Applicant Tracking System",
+    "Organizational skills",
+    "Administrative skills",
+    "Communication",
+    "Training",
+    "Benefits administration",
+    "Employee relations",
+    "Policy development",
+    "Process invoices",
+    "Business operations"
+  ],
+  "tools": [
+    "MS Office",
+    "SAP",
+    "Applicant Tracking System"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "A.A. General Studies",
+      "institution": "San Jacinto College",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "B.A. Business Management",
+      "institution": "University of Houston Downtown",
+      "graduation_year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "01/2009 \u2013 Current",
+      "responsibilities": [
+        "Mobilized high\u2011volume employees overseas for short/long\u2011term assignments.",
+        "Served as point of contact from assignment initiation to completion.",
+        "Implemented HR policies, procedures, and guidance for field managers.",
+        "Created compensation packages including uplifts, per diem, and benefits.",
+        "Managed employee relations, policy development, training, recruitment, payroll, and benefits.",
+        "Assisted in rewriting international assignment policies.",
+        "Conducted interviews and trained new hires.",
+        "Administered the Goods and Services review program biannually.",
+        "Evaluated new hire documents and provided staff training.",
+        "Prepared and presented training seminars to HR professionals.",
+        "Resolved employee issues related to benefits, payroll, HR systems, and administration.",
+        "Managed assignments across Germany, Kuwait, Brazil, Australia, Italy, Mexico, China, Zambia, and Angola."
+      ]
+    },
+    {
+      "title": "HR Associate Mobilization Coordinator",
+      "company": "Company Name",
+      "duration": "01/2007 \u2013 01/2009",
+      "responsibilities": [
+        "Handled unemployment and workers' compensation claims and maintained personnel files.",
+        "Responded sensitively to employee concerns.",
+        "Presented company policies, procedures, and benefits to new hires.",
+        "Assisted in writing policies and procedures.",
+        "Arranged medical appointments, travel, housing, and tax briefings for assignments.",
+        "Prepared personnel transfer paperwork and correspondence.",
+        "Applied for entry and work visas.",
+        "Managed assignments in Nigeria, Chad, Indonesia, Algeria, Canada, and Qatar."
+      ]
+    },
+    {
+      "title": "Administrative Specialist / Tax Assistant",
+      "company": "Company Name",
+      "duration": "01/2005 \u2013 01/2007",
+      "responsibilities": [
+        "Managed the Tax Equalization Program for expats and inpats.",
+        "Collected and verified check payments for payroll endorsement.",
+        "Assisted expats with tax forms and inquiries.",
+        "Processed reimbursement requests for P&I and IRS notices.",
+        "Initiated move notices and administered Certificate of Coverage program.",
+        "Ordered office supplies from vendors.",
+        "Composed correspondence via email or certified mail.",
+        "Backed up timesheet keeper and web panel initiator.",
+        "Processed invoices and overhead financial numbers."
+      ]
+    },
+    {
+      "title": "Administrative Associate",
+      "company": "Company Name",
+      "duration": "01/2003 \u2013 01/2005",
+      "responsibilities": [
+        "Provided administrative support to a department.",
+        "Completed tasks per standard procedures.",
+        "Supported general business operations with administrative activities.",
+        "Compiled, copied, sorted, and filed office records.",
+        "Distributed departmental and employee mail.",
+        "Set up pouch mail for new projects.",
+        "Took passport and visa pictures.",
+        "Notified payroll, HR, and A&F of employee assignments.",
+        "Maintained a clean and organized office area."
+      ]
+    }
+  ],
+  "projects": []
+}

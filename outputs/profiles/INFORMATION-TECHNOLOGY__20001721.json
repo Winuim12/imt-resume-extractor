@@ -1,0 +1,129 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Results-driven Database Administrator with extensive education in programming, relational database management and computer technology maintenance.",
+  "total_experience_years": 12.0,
+  "skills": [
+    "Database servers",
+    "Structured query language (SQL)",
+    "Programming and design",
+    "Document management",
+    "Collaborative skills",
+    "Analytical skills",
+    "Customer needs assessment",
+    "Problem solving",
+    "Object-oriented design",
+    "Windows",
+    "Unix",
+    "Linux",
+    "Mac OSX",
+    "VMWare",
+    "HTTP/Apache",
+    "DNS/BIND",
+    "SSH",
+    "SNMP",
+    "DHCP",
+    "FTP",
+    "Microsoft Word",
+    "Excel",
+    "Access",
+    "SQL Server",
+    "VBA",
+    "Visual Studio"
+  ],
+  "tools": [
+    "Windows",
+    "Unix",
+    "Linux",
+    "Mac OSX",
+    "VMWare",
+    "HTTP/Apache",
+    "DNS/BIND",
+    "SSH",
+    "SNMP",
+    "DNS",
+    "DHCP",
+    "FTP",
+    "Microsoft Word",
+    "Excel",
+    "Access",
+    "SQL Server",
+    "VBA",
+    "Visual Studio"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "San Diego State University",
+      "graduation_year": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "INFORMATION TECHNOLOGY STUDENT",
+      "company": "Company Name",
+      "duration": "January 2014 \u2013 Current",
+      "responsibilities": [
+        "Presented various projects including VPN, RDMS, and IT proposals to several classes and instructors.",
+        "Worked independently and as part of a team to achieve equitable outcomes."
+      ]
+    },
+    {
+      "title": "FORECLOSURE PROCESSOR PARALEGAL",
+      "company": "Company Name",
+      "duration": "September 2010 \u2013 October 2013",
+      "responsibilities": [
+        "Reviewed specialty loan portfolio for compliance with reporting requirements.",
+        "Communicated regularly with management regarding portfolio performance and new loan transaction quality.",
+        "Maintained confidentiality of bank records and client information.",
+        "Scanned and filed forms, reports, correspondence and receipts.",
+        "Entered information into computer databases.",
+        "Reviewed files for completeness and accuracy.",
+        "Examined Deeds of Trust to determine grantor, grantee, trustee and loan amount.",
+        "Coordinated with multiple departments regarding responsive documents and retention.",
+        "Researched bankruptcy loan files to confirm federal guideline compliance.",
+        "Supported attorneys with generating and filing pleadings, motions and court documents."
+      ]
+    },
+    {
+      "title": "TOEFL/TESL INSTRUCTOR",
+      "company": "Company Name",
+      "duration": "February 2008 \u2013 May 2008",
+      "responsibilities": [
+        "Developed course plans to meet academic, intellectual and social needs of students.",
+        "Implemented interactive learning mediums to increase student understanding.",
+        "Performed student background reviews to tailor lessons.",
+        "Developed, administered and corrected tests and quizzes.",
+        "Combined discipline plan with effective measures to increase concentration and participation."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "VPN Implementation",
+      "description": "Designed and presented a VPN project to classes and instructors.",
+      "technologies": [
+        "VPN"
+      ]
+    },
+    {
+      "name": "RDMS Project",
+      "description": "Developed a relational database management system project for academic presentation.",
+      "technologies": [
+        "RDMS",
+        "SQL"
+      ]
+    },
+    {
+      "name": "IT Proposal Development",
+      "description": "Created IT proposals for academic coursework.",
+      "technologies": [
+        "IT"
+      ]
+    }
+  ]
+}

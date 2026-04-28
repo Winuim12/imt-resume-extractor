@@ -1,0 +1,126 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "To obtain a challenging career in the human resource field where I can utilize my capabilities and experiences to achieve goals as well as my personal development.",
+  "total_experience_years": 18.0,
+  "skills": [
+    "cash handling",
+    "customer service",
+    "data entry",
+    "employee relations",
+    "hiring",
+    "inventory management",
+    "mailing",
+    "Microsoft Office (Word, Excel, PowerPoint, Access)",
+    "payroll processing",
+    "recruitment",
+    "scheduling",
+    "staffing",
+    "typing",
+    "fax",
+    "copier",
+    "printer",
+    "phone handling"
+  ],
+  "tools": [
+    "ADP",
+    "E-time",
+    "Microsoft Office Suite",
+    "Access",
+    "Excel",
+    "Word",
+    "PowerPoint",
+    "fax machine",
+    "copier",
+    "printer"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "AS",
+      "institution": "Albany State Technical College",
+      "graduation_year": "Present"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Coordinator",
+      "company": "Company Name",
+      "duration": "Feb 2015 \u2013 Present",
+      "responsibilities": [
+        "Managed employee orientation and benefits enrollment communications.",
+        "Ensured accurate payroll disbursement and PTO/vacation record keeping.",
+        "Explained HR policies to employees and conducted exit interviews.",
+        "Facilitated year\u2011end talent reviews with HR partners.",
+        "Selected and interviewed candidates for open positions.",
+        "Assessed performance and issued disciplinary notices.",
+        "Handled 401(k), FMLA, and workers' compensation claims.",
+        "Maintained personnel files in compliance with federal and state law.",
+        "Generated monthly employee tracking reports.",
+        "Organized schedules, phone lists, and business card orders.",
+        "Ran queries and reports via ADP system.",
+        "Drafted department\u2011specific employee announcements.",
+        "Created social media initiatives for recruitment.",
+        "Completed payroll for over 65 employees with 95% accuracy."
+      ]
+    },
+    {
+      "title": "Payroll/Staffing Coordinator",
+      "company": "Company Name",
+      "duration": "Jun 2012 \u2013 Present",
+      "responsibilities": [
+        "Maintained personal employment files and processed payroll.",
+        "Set up E\u2011time for employees and reconciled payroll journals.",
+        "Managed PTO balances and onboarding functions.",
+        "Maintained OSHA logs and filed workers' compensation claims.",
+        "Acted as employee relations liaison with clients and supervisors.",
+        "Tracked credentials for compliance.",
+        "Coordinated staffing needs and monitored overtime.",
+        "Facilitated orientation and conducted competency checks."
+      ]
+    },
+    {
+      "title": "Tax Clerk/Secretary",
+      "company": "Company Name",
+      "duration": "Aug 2007 \u2013 Jun 2012",
+      "responsibilities": [
+        "Created control logs and filed documents in sequence.",
+        "Maintained production records and submitted required reports.",
+        "Set up informal review appointments for property owners.",
+        "Performed receptionist duties: answered phones, used computers, copiers, printers, faxes.",
+        "Determined correct mailing addresses for returned mail.",
+        "Performed data entry tasks."
+      ]
+    },
+    {
+      "title": "General Appraisal/Data Entry Clerk",
+      "company": "Company Name",
+      "duration": "Nov 2006 \u2013 Jul 2007",
+      "responsibilities": [
+        "Associated field cards with appropriate maps for field work.",
+        "Filed documents and maintained production records.",
+        "Set up informal review appointments for property owners.",
+        "Handled receptionist duties: answered phones, used computers, copiers, printers, faxes.",
+        "Determined correct mailing addresses for returned mail.",
+        "Performed data entry."
+      ]
+    },
+    {
+      "title": "Customer Service Rep",
+      "company": "Company Name",
+      "duration": "Jan 2005 \u2013 Jan 2006",
+      "responsibilities": [
+        "Received cash and recorded transactions.",
+        "Cashed checks, issued receipts, and prepared reports.",
+        "Verified cash register totals against cash on hand.",
+        "Compiled cash receipts and guest\u2011bill reports.",
+        "Provided information on department locations and activities.",
+        "Answered phones and performed general office duties."
+      ]
+    }
+  ],
+  "projects": []
+}

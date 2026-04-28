@@ -1,0 +1,84 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Human Resources Manager Certified Professional in Human Resources (PHR) with extensive background in workforce planning, employee development, compensation and benefits, risk management, labor relations, HR technology, global HR, talent management, and change management. Demonstrated success in negotiating win\u2011win situations, strategic business management, and change management.",
+  "total_experience_years": 17.0,
+  "skills": [
+    "HR Strategic Planning",
+    "Training & Development",
+    "Performance Management",
+    "Organizational Development",
+    "Mediation & Advocacy",
+    "Staff Recruitment & Retention",
+    "Employee Relations",
+    "Alternative Dispute Resolution (ADR)",
+    "Benefits Administration",
+    "Project Management",
+    "Orientation & On-Boarding",
+    "HR Policies & Procedures",
+    "Employment Law",
+    "FMLA/ADA/EEO/WC",
+    "HRIS Technologies",
+    "Microsoft Access"
+  ],
+  "tools": [
+    "HRIS Technologies",
+    "Microsoft Access"
+  ],
+  "certifications": [
+    "Certified Professional in Human Resources (PHR)"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science (MS)",
+      "institution": "Keller Graduate School of Management, Devry University",
+      "graduation_year": "2016"
+    },
+    {
+      "degree": "Bachelor of Science (BS)",
+      "institution": "Franklin University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR & Safety Manager",
+      "company": "Company Name",
+      "duration": "January 2013 \u2013 January 2014",
+      "responsibilities": [
+        "Consolidated two small group medical plans into a large group plan, saving 75% on premium increases.",
+        "Expanded benefit offerings with new dental, term\u2011life, vision discount, EAP, and short\u2011term disability options.",
+        "Streamlined unemployment and Ohio BWC systems to reduce costs and improve consistency."
+      ]
+    },
+    {
+      "title": "Site Supervisor (HR Generalist)",
+      "company": "Company Name",
+      "duration": "January 2011 \u2013 January 2013",
+      "responsibilities": [
+        "Recruited, trained, and developed a high\u2011performance team, improving productivity by 70% and reducing turnover by 50%.",
+        "Designed a new performance evaluation form and process to enhance annual review administration."
+      ]
+    },
+    {
+      "title": "Senior Bill Pay Support Associate",
+      "company": "Company Name",
+      "duration": "January 2008 \u2013 January 2011",
+      "responsibilities": []
+    },
+    {
+      "title": "Commissioned Officer (NCO)",
+      "company": "Company Name",
+      "duration": "January 1997 \u2013 January 2006",
+      "responsibilities": [
+        "Managed HR functions for a 1,000\u2011person medical company, including scheduling, training, and documentation.",
+        "Automated manual documentation processes using Microsoft Access, eliminating lost documents and improving tracking.",
+        "Served as Joint Commission and ACO inspector, achieving 100% accreditation scores."
+      ]
+    }
+  ],
+  "projects": []
+}

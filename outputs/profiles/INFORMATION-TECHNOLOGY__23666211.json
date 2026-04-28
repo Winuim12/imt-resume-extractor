@@ -1,0 +1,103 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Qualified Training Manager with over 10 years of experience in training, development, and operations. Expert in MS Office, curriculum design, and leadership development. Proven ability to create and implement training programs, manage large teams, and deliver results in both civilian and military environments.",
+  "total_experience_years": 12.0,
+  "skills": [
+    "Administrative",
+    "Consultant",
+    "Course Development",
+    "Client Management",
+    "Delivery",
+    "Instructor",
+    "Leadership Development",
+    "Leadership and Development",
+    "Curriculum Development",
+    "Trainer Workshops",
+    "Training and Development",
+    "Supervision",
+    "Policy Development",
+    "Certified Train the Trainer",
+    "Management of Remote Employees",
+    "Talent Development",
+    "Military & Civilian Training",
+    "Master Black Belt Instructor",
+    "Operations Management",
+    "Cross-functional Team Management",
+    "Training Manual Contributor",
+    "Call Center Management",
+    "Customer Service Management",
+    "Microsoft Office Suite"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint"
+  ],
+  "certifications": [
+    "Certified Train the Trainer (T3)",
+    "Master Black Belt Instructor"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts (Equivalent)",
+      "institution": "University of the South",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "Associates (Equivalent) Office Automation/Computer Specialist",
+      "institution": "Coleman University",
+      "graduation_year": "1989"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Training Manager",
+      "company": "Company Name",
+      "duration": "08/2011 to 09/2015",
+      "responsibilities": [
+        "Designed and implemented training programs for staff across multiple locations.",
+        "Developed performance metrics and career development plans.",
+        "Supervised a team of 70 classroom facilitators.",
+        "Created training materials, multimedia aids, and evaluation processes.",
+        "Managed budgets, logistics, and resource allocation for training events."
+      ]
+    },
+    {
+      "title": "Owner/Partner Defense Contractor",
+      "company": "Company Name",
+      "duration": "10/2006 to 07/2011",
+      "responsibilities": [
+        "Trained employees for high-level security and military intelligence operations.",
+        "Recruited personnel for special assignments and conducted briefings.",
+        "Developed business plans, budgets, and cost proposals.",
+        "Created lesson plans and customized programs for U.S. government security agencies."
+      ]
+    },
+    {
+      "title": "Program Administrator II, Project Manager. Training Specialist II: US Army (CISAC)",
+      "company": "Company Name",
+      "duration": "01/2004 to 09/2006",
+      "responsibilities": [
+        "Modernized inventory and cataloging processes for classified files.",
+        "Managed project scheduling and procurement of RFP/RFQ opportunities.",
+        "Provided instruction for CISAC 35L/97B courses using various teaching methods.",
+        "Coached officers and soldiers to improve counterintelligence performance."
+      ]
+    },
+    {
+      "title": "Role Player",
+      "company": "Company Name",
+      "duration": "01/2003 to 01/2004",
+      "responsibilities": [
+        "Served as a role player for CISAC training exercises.",
+        "Developed new scenarios for field training exercises.",
+        "Executed quality assurance programs and prepared standard operating procedures."
+      ]
+    }
+  ],
+  "projects": []
+}

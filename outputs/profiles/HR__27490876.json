@@ -1,0 +1,112 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Applicant Screening, Background Checks, Benefits Administration, Compliance, Compensation, Drug Testing, EEO Inquiries, Employee Relations, Event Planning, Full-Cycle Recruitment, Interviewing, Investigations, New Hire Orientation, Performance Evaluations, Reference Checks, Policy & Procedure Administration, Training and Development, Worker's Compensation, Unemployment Claims.",
+  "total_experience_years": 17.0,
+  "skills": [
+    "administrative",
+    "ad",
+    "arbitration",
+    "agency",
+    "budget",
+    "Consultant",
+    "database",
+    "Employee Relations",
+    "hiring",
+    "HRIS",
+    "Human Resource",
+    "human resources",
+    "HR",
+    "team building",
+    "Leadership",
+    "materials",
+    "meetings",
+    "newsletter",
+    "organizational",
+    "performance management",
+    "personnel",
+    "presentations",
+    "processes",
+    "recruiting",
+    "recruitment",
+    "reporting",
+    "staffing",
+    "teacher"
+  ],
+  "tools": [
+    "HRIS applicant tracking database"
+  ],
+  "certifications": [
+    "SHRM Class Certificate"
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "University of Phoenix",
+      "graduation_year": "2006"
+    },
+    {
+      "degree": "BS",
+      "institution": "Old Dominion University",
+      "graduation_year": "1993"
+    },
+    {
+      "degree": "SHRM Class Certificate",
+      "institution": "VCU School of Business",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Coordinator",
+      "company": null,
+      "duration": "January 2014 \u2013 Current",
+      "responsibilities": [
+        "Developed and coordinated comprehensive recruitment, selection, and placement programs for teacher vacancies across multiple schools.",
+        "Conducted applicant screening, interviews, and recruitment presentations at job fairs and on-campus events.",
+        "Ensured compliance with federal, state, and school board policies and administrative procedures.",
+        "Counseled employees on personnel concerns and assisted in grievance arbitration.",
+        "Collaborated with other HR coordinators to forecast recruitment needs and manage travel for out-of-state recruitment."
+      ]
+    },
+    {
+      "title": "Human Resources Consultant",
+      "company": null,
+      "duration": "January 2011 \u2013 January 2014",
+      "responsibilities": [
+        "Investigated employee relations complaints and recommended resolutions.",
+        "Provided counsel to managers and employees on performance management and policy issues.",
+        "Managed the Employee Relations Hotline and investigation process.",
+        "Coordinated recruitment processes, including ad review, applicant screening, and pre\u2011employment checks.",
+        "Maintained data in HRIS applicant tracking database and participated in job fairs."
+      ]
+    },
+    {
+      "title": "Human Resources Manager/Coordinator",
+      "company": null,
+      "duration": "January 2007 \u2013 January 2010",
+      "responsibilities": [
+        "Established the HR department for a new start\u2011up hospital.",
+        "Recruited senior executives and managed full\u2011cycle recruitment.",
+        "Developed affirmative action and EEO programs, and maintained compliance records.",
+        "Conducted new employee orientation, managed identification badges, and handled unemployment claims.",
+        "Hosted staff town\u2011hall meetings and facilitated employee surveys."
+      ]
+    },
+    {
+      "title": "Human Resources Manager",
+      "company": null,
+      "duration": "January 2006 \u2013 January 2007",
+      "responsibilities": [
+        "Managed a staff of HR employees and oversaw HR functions.",
+        "Developed and distributed employee newsletters and managed workers' compensation.",
+        "Coached management on performance issues and HR compliance.",
+        "Coordinated employee events such as team building and recognition programs."
+      ]
+    }
+  ],
+  "projects": []
+}

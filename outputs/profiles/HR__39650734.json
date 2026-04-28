@@ -1,0 +1,84 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Hard Worker, Dedicated, Detailed Oriented, Experienced, Organized, and Highly Motivated.",
+  "total_experience_years": 5.0,
+  "skills": [
+    "Employment Law",
+    "HR Policies & Procedures",
+    "Training & Development",
+    "Performance Management",
+    "Employee Relations and Mediation",
+    "Benefits Administration",
+    "Orientation & On-Boarding",
+    "Organizational Development",
+    "Staff Life Cycle",
+    "Professional Communication",
+    "Interpersonal Skills",
+    "Bilingual Thai & English",
+    "Customer Service",
+    "Adaptability",
+    "Decision Making"
+  ],
+  "tools": [
+    "PeopleSoft Enterprise Human Resources",
+    "MS Office (Word, Excel, PowerPoint, Access, Outlook)",
+    "E\u2011Mailing tools (MS Outlook, Windows Outlook, Yahoo, Google)",
+    "Job boards and networking sites"
+  ],
+  "certifications": [
+    "Professional in Human Resources (aPHR) \u2013 expected 2017",
+    "Member of Society for Human Resource Management (SHRM)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "The University of Thai Chamber of Commerce",
+      "graduation_year": "2007"
+    },
+    {
+      "degree": "Master of Science",
+      "institution": "Strayer University",
+      "graduation_year": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant",
+      "company": "Company Name",
+      "duration": "04/2014 to 02/2016",
+      "responsibilities": [
+        "Organized patient charts and digitized records to improve workflow.",
+        "Processed payroll via Paychex, tracked vacation/sick time, and resolved payroll issues.",
+        "Edited and authored the employee handbook covering policies, FMLA, benefits, and disciplinary procedures.",
+        "Developed SOPs and recruiting strategies, conducted interviews, and performed background checks.",
+        "Prepared personnel reports and managed budget comparisons to control expenses."
+      ]
+    },
+    {
+      "title": "General Manager",
+      "company": "Company Name",
+      "duration": "02/2013 to Current",
+      "responsibilities": [
+        "Recruited and trained new hires to support extended operating hours.",
+        "Managed inventory, ordered supplies, and processed payroll for restaurant staff.",
+        "Implemented cost\u2011saving initiatives with vendors and wholesale suppliers.",
+        "Designed a modernized menu to increase marketability and profitability.",
+        "Created and maintained a recycling program to improve sustainability."
+      ]
+    },
+    {
+      "title": "Hostess and Waitress",
+      "company": "Company Name",
+      "duration": "04/2010 to 11/2016",
+      "responsibilities": [
+        "Provided front\u2011of\u2011house service and assisted with staff scheduling.",
+        "Maintained quality standards for food and service during peak periods."
+      ]
+    }
+  ],
+  "projects": []
+}

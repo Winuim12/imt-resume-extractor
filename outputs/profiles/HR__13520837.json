@@ -1,0 +1,100 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Motivated business partner who communicates and collaborates effectively with all levels of personnel, relying on outstanding interpersonal and customer service skills, strong time management, and a commitment to delivering high\u2011quality work.",
+  "total_experience_years": 15.5,
+  "skills": [
+    "administrative",
+    "benefits",
+    "cash handling",
+    "coaching",
+    "interpersonal skills",
+    "customer service",
+    "data entry",
+    "decision making",
+    "employee relations",
+    "hiring",
+    "HRIS",
+    "human resources",
+    "interpretation",
+    "labor relations",
+    "leadership",
+    "merchandising",
+    "negotiations",
+    "organizational",
+    "payroll",
+    "performance reviews",
+    "personnel",
+    "policies",
+    "problem resolution",
+    "reconciling",
+    "recruiting",
+    "reporting",
+    "sales",
+    "sound",
+    "employee development",
+    "communication",
+    "time management",
+    "confidentiality",
+    "teamwork"
+  ],
+  "tools": [
+    "Applicant Tracking System (ATS)",
+    "HRIS"
+  ],
+  "certifications": [
+    "Human Resources Certificate, Mountain States Employers Council"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "Colorado State University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Representative",
+      "company": "Company Name",
+      "duration": "11/2008 \u2013 02/2016",
+      "responsibilities": [
+        "Managed employee orientation and benefits enrollment for 1200+ employees, including executive leadership.",
+        "Designed and distributed new employee packages via mail and email.",
+        "Drafted department\u2011specific employee announcements.",
+        "Resolved personnel issues related to HR matters, benefits, payroll, and collective bargaining agreements.",
+        "Collaborated with hiring managers to recruit qualified candidates and provided hiring recommendations.",
+        "Managed onboarding and orientation for hourly employees, onboarding 731 hires over 5 years.",
+        "Customized and implemented an Applicant Tracking System for all North American plants.",
+        "Managed employee referral and HR outreach programs to enhance candidate experience.",
+        "Coordinated interview scheduling, phone screens, candidate testing, and travel arrangements.",
+        "Maintained candidate records, job postings, and provided weekly recruiting activity reports."
+      ]
+    },
+    {
+      "title": "Clerk Typist",
+      "company": "Company Name",
+      "duration": "08/2008 \u2013 11/2008",
+      "responsibilities": [
+        "Prepared correspondence and completed data entry for public records and departmental reporting.",
+        "Registered sex offenders and maintained confidentiality in all duties."
+      ]
+    },
+    {
+      "title": "Sr. Merchandise Assistant / Replenishment Leader / Office Associate",
+      "company": "Company Name",
+      "duration": "02/2002 \u2013 08/2008",
+      "responsibilities": [
+        "Managed women's soft lines departments and replenishment team in a $3M big\u2011box store.",
+        "Implemented merchandising and loss control strategies.",
+        "Coached, motivated, and trained hourly teams.",
+        "Handled cash procedures and daily opening/closing operations.",
+        "Resolved customer issues to drive sales and customer satisfaction.",
+        "Reconciled timecards, conducted performance reviews, and maintained confidentiality."
+      ]
+    }
+  ],
+  "projects": []
+}

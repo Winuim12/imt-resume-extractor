@@ -1,0 +1,116 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Analytical IT Support Technician with over 8 years of experience in network, hardware, and operating system troubleshooting, web design, and customer service. Proven ability to resolve complex issues quickly and exceed performance standards.",
+  "total_experience_years": 8.0,
+  "skills": [
+    "Network troubleshooting",
+    "Hardware troubleshooting",
+    "Operating system support",
+    "Web design",
+    "WordPress",
+    "Expressions Web",
+    "Active Directory",
+    "SharePoint",
+    "Cisco Telephony",
+    "Bomgar",
+    "Visio",
+    "Queue Monitoring",
+    "SAP",
+    "MobileIron",
+    "HPSM",
+    "IOS",
+    "VDI",
+    "Server room operations",
+    "Documentation"
+  ],
+  "tools": [
+    "SharePoint",
+    "Cisco Telephony",
+    "Bomgar",
+    "Visio",
+    "Queue Monitoring",
+    "SAP",
+    "Active Directory",
+    "MobileIron",
+    "HPSM",
+    "IOS",
+    "WordPress",
+    "Expressions Web"
+  ],
+  "certifications": [
+    "IC3 Internet and Computing Core Certification"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Management Information Systems",
+      "institution": "William Woods University",
+      "graduation_year": "May 2014"
+    }
+  ],
+  "experience": [
+    {
+      "title": "IT Support Technician",
+      "company": "Company Name",
+      "duration": "12/2014 \u2013 Current",
+      "responsibilities": [
+        "Provide technical assistance for computer systems, software, and hardware.",
+        "Respond to queries in person or over the phone.",
+        "Troubleshoot IOS and other operating systems.",
+        "Train computer users on system usage.",
+        "Maintain daily performance of computer systems.",
+        "Process 15\u201320 inbound and outbound technical support calls daily."
+      ]
+    },
+    {
+      "title": "Network Assistant Intern",
+      "company": "Company Name",
+      "duration": "01/2014 \u2013 05/2014",
+      "responsibilities": [
+        "Assisted university network administrator with wireless, VDI, and patchwork.",
+        "Managed network infrastructure, hardware, and server room operations."
+      ]
+    },
+    {
+      "title": "Technology Assistant Intern",
+      "company": "Company Name",
+      "duration": "08/2013 \u2013 05/2014",
+      "responsibilities": [
+        "Maintained a 489\u2011page university website.",
+        "Managed daily work orders for the university help desk.",
+        "Attended administrative technology meetings.",
+        "Deployed hardware and software to students and faculty."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Website Development",
+      "description": "Designed multiple websites using WordPress and Expressions Web, converting desktop sites to mobile and creating documentation for clients.",
+      "technologies": [
+        "WordPress",
+        "Expressions Web",
+        "HTML/CSS",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Accounting and Financial Tracking System",
+      "description": "Compiled and developed a new accounting system for small to medium firms.",
+      "technologies": [
+        "Database Design",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Usability Testing",
+      "description": "Developed and administered usability tests to ensure quality customer assurance.",
+      "technologies": [
+        "User Testing Tools"
+      ]
+    }
+  ]
+}

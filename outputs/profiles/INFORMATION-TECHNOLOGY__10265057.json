@@ -1,0 +1,153 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "RF Systems Engineer with over 15 years of experience in RF hardware design, manufacturing operations, and data analysis. Skilled in DFM procedures, EVT/DVT/PVT verification, and leading cross\u2011functional technical projects. Proficient in programming, data mining, and performance prediction for satellite and radar systems.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "big data",
+    "C",
+    "C++",
+    "charts",
+    "Circuit design",
+    "hardware",
+    "Data acquisition",
+    "data analyst",
+    "data collection",
+    "data mining",
+    "databases",
+    "dBm",
+    "DTI",
+    "design software",
+    "documentation",
+    "functional",
+    "GSM",
+    "innovation",
+    "Java",
+    "LabView",
+    "Team leader",
+    "Logic Analyzer",
+    "Mac",
+    "manufacturing processes",
+    "Matlab",
+    "Excel",
+    "Microsoft office",
+    "Office",
+    "Microwave",
+    "Radar",
+    "NCs",
+    "Network",
+    "dB",
+    "packaging",
+    "pivot tables",
+    "Programming",
+    "project design",
+    "proposals",
+    "Publication",
+    "Python",
+    "quality",
+    "requirement",
+    "research",
+    "SAS",
+    "self\u2011starter",
+    "Spectrum analyzer",
+    "SPSS",
+    "SQL",
+    "SSL",
+    "statistics",
+    "surveys",
+    "system design",
+    "troubleshooting",
+    "validation"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Office for Mac",
+    "Pages",
+    "Numbers",
+    "Keynote",
+    "Ansoft Designer",
+    "AWR Microwave Office",
+    "Spectrum analyzer",
+    "Vector Network/Signal Analyzer",
+    "Logic Analyzer",
+    "C/C++ compiler",
+    "Python interpreter",
+    "Java Development Kit",
+    "Matlab",
+    "LabView",
+    "SPICE",
+    "NI Multisim",
+    "Eagle",
+    "PCB Artiest"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "M.S. Electrical and Computer Engineering",
+      "institution": "Purdue University",
+      "graduation_year": "Dec. 2013"
+    },
+    {
+      "degree": "B.S. Electrical and Computer Engineering",
+      "institution": "Purdue University",
+      "graduation_year": "Dec. 2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "RF Systems Engineer",
+      "company": "Company Name",
+      "duration": "May 2014 \u2013 Current",
+      "responsibilities": [
+        "Lead end\u2011to\u2011end design, development, testing, and validation of RF systems for satellite communications.",
+        "Develop DFM procedures, checklists, and requirements for antennas, receivers, filters, and amplifiers.",
+        "Perform EVT, DVT, and PVT verifications and drive root\u2011cause analysis using FA processes.",
+        "Manage test/production readiness reviews and quality requirements for post\u2011ramp qualification.",
+        "Coordinate with suppliers to provide technical specifications and testing requirements.",
+        "Analyze RF performance (NF, Gain, IP3, 1dB\u2011comp, spurious) and optimize system design.",
+        "Monitor manufacturing processes to reduce losses and improve quality."
+      ]
+    },
+    {
+      "title": "System Data Analyst",
+      "company": "Company Name",
+      "duration": "Aug 2011 \u2013 Dec 2013",
+      "responsibilities": [
+        "Prioritized and extracted big data from Purdue University\u2019s SQL database, ensuring accuracy and completeness.",
+        "Developed data collection systems and statistical tools using Excel, SAS, and SPSS.",
+        "Created complex charts, temporary databases, and pivot tables for publication.",
+        "Designed custom reports and identified additional data collection needs.",
+        "Provided documentation and support for non\u2011routine statistical inquiries."
+      ]
+    },
+    {
+      "title": "Electrical/Validation Engineer",
+      "company": "Company Name",
+      "duration": "May 2011 \u2013 Aug 2011",
+      "responsibilities": [
+        "Defined data requirements for PCBA EVT, DVT, and PVT assembly of touch\u2011pad devices.",
+        "Implemented automated tests for sensitivity, EMI, ESD, and other reliability metrics.",
+        "Analyzed IC packaging test yields and field return data to identify root causes.",
+        "Developed reliability testing procedures (storage, thermal, drop, tap).",
+        "Debugged and troubleshot products in-house and at contract manufacturer sites."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "5.8 GHz Laptop\u2011Based Radar System",
+      "description": "Designed and evaluated a laptop\u2011based radar system operating in FMCW and CW modes, capable of Doppler shift, ranging, and SAR measurement in the ISM band with +13 dBm transmit power.",
+      "technologies": [
+        "Matlab",
+        "Radar",
+        "FMCW",
+        "CW",
+        "ISMB frequency band",
+        "Signal processing"
+      ]
+    }
+  ]
+}

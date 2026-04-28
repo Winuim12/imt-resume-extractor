@@ -1,0 +1,165 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Seeking a position in the field of Bio-Pharma where I can utilize and contribute my skills in an ingenious manner.",
+  "total_experience_years": 6.5,
+  "skills": [
+    "Microbial testing",
+    "Endotoxin LAL test",
+    "Nano particle size and charge analysis",
+    "Protein extraction",
+    "HPLC handling",
+    "Chromatography techniques",
+    "Polymerase chain reaction (PCR)",
+    "EPIC care",
+    "Method development",
+    "Method validation",
+    "Method verification",
+    "Method transfer",
+    "Wet chemistry techniques",
+    "MS Office",
+    "Efficient internet browsing",
+    "SAS programming",
+    "Basic biotechnology",
+    "Calibration",
+    "Cell culture",
+    "Chemistry",
+    "DNA isolation",
+    "Documentation",
+    "ELISA",
+    "Electrophoresis gel documentation",
+    "FT-IR",
+    "GC",
+    "HPLC",
+    "Imaging",
+    "ISO compliance",
+    "Laboratory equipment",
+    "PAGE",
+    "PCR",
+    "SOP creation",
+    "UV",
+    "Validation",
+    "Weighing"
+  ],
+  "tools": [
+    "EPIC Care",
+    "Malvern Nano ZS 90",
+    "HPLC",
+    "UPLC",
+    "UV spectrophotometer",
+    "FT-IR spectrometer",
+    "Dissolution apparatus",
+    "pH meter",
+    "Analytical balances",
+    "GC",
+    "LC/MS",
+    "TLC",
+    "KF coulometer",
+    "UV-VIS spectrophotometer",
+    "SAS",
+    "MS Office"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Pharmacy",
+      "institution": "JSS College of Pharmacy",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "Bachelor of Pharmacy",
+      "institution": "Kakatiya University",
+      "graduation_year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "EPIC Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "04/2017 to 06/2017",
+      "responsibilities": [
+        "Supported physicians and nurses with updating work list and flowsheet information.",
+        "Provided instructions to staff on the use of EPIC Care.",
+        "Provided support during the go-live."
+      ]
+    },
+    {
+      "title": "Research Associate",
+      "company": "Company Name",
+      "duration": "01/2016 to 11/2016",
+      "responsibilities": [
+        "Studied Tera Spectra and Tera imaging.",
+        "Performed analytical testing, method development, and method validation.",
+        "Maintained and calibrated analytical instruments (HPLC, UPLC, UV, FT-IR, dissolution apparatus, pH meter, analytical balances).",
+        "Conducted capillary electrophoresis and PCR techniques.",
+        "Created SOPs for instrumental analysis.",
+        "Recorded laboratory data and prepared reports complying with FDA, ISO, cGMP.",
+        "Prepared titanium dioxide nanoparticles with blank terahertz scanning reflectometer."
+      ]
+    },
+    {
+      "title": "Research Associate",
+      "company": "Company Name",
+      "duration": "11/2013 to 12/2015",
+      "responsibilities": [
+        "Determined thickness profiles and validated analytical methods.",
+        "Used capillary electrophoresis and GC chromatography.",
+        "Developed new analytical methods and SOPs.",
+        "Performed technical laboratory functions and instrument calibration.",
+        "Prepared reports complying with FDA, ISO, cGMP.",
+        "Contributed to development of new antibiotic compounds."
+      ]
+    },
+    {
+      "title": "Research Associate",
+      "company": "Company Name",
+      "duration": "12/2010 to 04/2012",
+      "responsibilities": [
+        "Isolated, identified, and bioprocessed secondary metabolites from soil microorganisms.",
+        "Screened soil actinomycetes and performed taxonomical studies.",
+        "Conducted morphological and cultural characterization.",
+        "Performed genomic DNA isolation, PCR, and cloning of polyene CYP gene.",
+        "Bioprocessed antibiotic production and evaluated biological activities.",
+        "Maintained fundamental lab procedures and documented results."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nanotechnology THz Biological Imaging",
+      "description": "Developed and applied terahertz imaging techniques for nanotechnology research, including calibration of imaging systems and analysis of nanoparticle interactions.",
+      "technologies": [
+        "THz imaging",
+        "Nanoparticle analysis",
+        "HPLC",
+        "UPLC",
+        "FT-IR"
+      ]
+    },
+    {
+      "name": "Titanium Dioxide Nanoparticles with Terahertz Scanning Reflectometer",
+      "description": "Fabricated TiO2 nanoparticles and characterized them using terahertz scanning reflectometry to assess surface properties and thickness profiles.",
+      "technologies": [
+        "Titanium dioxide synthesis",
+        "Terahertz scanning reflectometry",
+        "Capillary electrophoresis",
+        "GC"
+      ]
+    },
+    {
+      "name": "Isolation and Characterization of Soil-Derived Antibiotics",
+      "description": "Isolated actinomycetes from soil samples, performed genomic and biochemical analyses, and evaluated antimicrobial activity of secondary metabolites.",
+      "technologies": [
+        "DNA isolation",
+        "PCR",
+        "Cloning",
+        "Antimicrobial assays",
+        "SDS-PAGE",
+        "Cell culture"
+      ]
+    }
+  ]
+}

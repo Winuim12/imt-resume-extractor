@@ -1,0 +1,157 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Process-driven Information Security Leader with 5 years of IT and security experience, adept at governance, risk analysis, and cross-functional process improvement. Proven ability to lead geographically diverse teams, implement enterprise security solutions, and drive cost-effective technology investments.",
+  "total_experience_years": 5.0,
+  "skills": [
+    "Active Directory",
+    "AD",
+    "Anti-Virus",
+    "Business Process Improvement",
+    "Coaching",
+    "Compliance Management",
+    "Contract Negotiations",
+    "Encryption",
+    "Disaster Recovery",
+    "DNS",
+    "Firewall",
+    "IDS",
+    "Imaging",
+    "Information Security",
+    "Linux",
+    "Mac",
+    "Microsoft Exchange",
+    "Network Security",
+    "Proxy",
+    "Red Hat",
+    "Risk Management",
+    "VPN",
+    "White-Glove Support",
+    "Tier 2/3 Support",
+    "Ticketing Systems",
+    "N-Central",
+    "Symantec PGP",
+    "McAfee",
+    "RSA Tokens",
+    "NOC",
+    "GPO",
+    "SSO",
+    "Forest Creation",
+    "User Administration",
+    "Vulnerability Assessment",
+    "Forensic Imaging",
+    "SOX Governance",
+    "Vendor Negotiation",
+    "Incident Management",
+    "Policy Development",
+    "Security Architecture",
+    "Risk-Based Methodology",
+    "Mobile Security",
+    "Physical Security",
+    "Disaster Recovery Planning",
+    "Security Awareness",
+    "Change Management",
+    "Training",
+    "Development"
+  ],
+  "tools": [
+    "Active Directory",
+    "DNS",
+    "TCP/IP",
+    "Microsoft Exchange",
+    "Rapid7 Vulnerability Assessment Platform",
+    "Firewall",
+    "IDS/IPS",
+    "Web Filter/Proxy",
+    "Mail",
+    "RSA Tokens",
+    "Numara Footprints",
+    "Kayako",
+    "N-Central",
+    "Symantec PGP",
+    "McAfee EEPC",
+    "Symantec",
+    "McAfee",
+    "Red Hat",
+    "Windows XP",
+    "Windows 7",
+    "Mac OS X",
+    "Linux"
+  ],
+  "certifications": [
+    "Comptia A",
+    "Comptia Security"
+  ],
+  "education": [
+    {
+      "degree": "Associates of Arts and Sciences (AAS) \u2013 Business Administration Software Technology",
+      "institution": "Heald College",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associates of Arts (AA) \u2013 Information Technology",
+      "institution": "Heald College",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate of Applied Sciences (AAS) \u2013 Network Security",
+      "institution": "Heald College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Provisioning Technician",
+      "company": "Company Name",
+      "duration": "08/2013 \u2013 11/2013",
+      "responsibilities": [
+        "Served as technical lead and tier 2 escalation resource for multiple applications and operating systems.",
+        "Supported Windows, Linux, and Mac environments.",
+        "Administered RSA soft and hard tokens.",
+        "Led executive support team providing white\u2011glove support for director level and above.",
+        "Managed Active Directory administration including SSO integration, forest creation, and user administration."
+      ]
+    },
+    {
+      "title": "Information Technology Provisioning Technician",
+      "company": "Company Name",
+      "duration": "10/2012 \u2013 08/2013",
+      "responsibilities": [
+        "Researched and resolved AD issues, advanced administration, and GPO creation.",
+        "Provided remote and local support to over 7,000 employees, contractors, and consultants.",
+        "Served as tier 2 and tier 3 support when needed.",
+        "Utilized ticketing systems (Numara Footprints and Kayako) to track customer issues.",
+        "Provisioned, troubleshot, and repaired laptops, desktops, MiFi devices, and corporate cellular phones.",
+        "Managed the network operations center servicing over 100 clients across multiple geographic locations."
+      ]
+    },
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": "12/2011 \u2013 02/2013",
+      "responsibilities": [
+        "Utilized N\u2011Central monitoring and patch management platform to audit and report on customer compliance and software usage.",
+        "Architected, implemented, and documented Exchange and Active Directory deployments.",
+        "Tracked utilization metrics to increase revenue."
+      ]
+    },
+    {
+      "title": "Information Security & Compliance Manager",
+      "company": "SolarCity, San Mateo, CA",
+      "duration": "November 2013 \u2013 Present",
+      "responsibilities": [
+        "Responsible for enterprise information security architecture, risk management, and SOX compliance.",
+        "Designed security architecture and applied security technologies across the organization.",
+        "Implemented forensic imaging solution for collection and analysis.",
+        "Maintained IT SOX governance and compliance.",
+        "Deployed vulnerability assessment platform and managed firewall, proxy, IDS/IPS, and VPN.",
+        "Negotiated vendor contracts and reduced total cost of ownership for anti\u2011virus solutions.",
+        "Administered disk encryption migration from Symantec PGP to new solutions."
+      ]
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,110 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "I am an ethical, team oriented and policy driven individual with experience in AP/AR, Human Resource Administration, Auditing, Documentation experience, Property Management (96 Units) and a vast number of computer skills.",
+  "total_experience_years": 16.0,
+  "skills": [
+    "Accounts Payable",
+    "Accounts Receivable",
+    "Customer Service",
+    "Microsoft Suite",
+    "SAP",
+    "Solomon",
+    "Quickbooks",
+    "ERP",
+    "Telecommunication",
+    "Active Listening",
+    "Organizational",
+    "Communication",
+    "Multitasking",
+    "Training",
+    "Scheduling",
+    "Data Reporting"
+  ],
+  "tools": [
+    "SAP",
+    "Microsoft Suite",
+    "Quickbooks",
+    "Solomon",
+    "ERP"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "BSBA",
+      "institution": "CTU Online",
+      "graduation_year": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Clerk",
+      "company": "Company Name",
+      "duration": "04/2015 to 06/2015",
+      "responsibilities": [
+        "Managed receptionist area, greeting visitors and handling phone and in\u2011person requests.",
+        "Prepared copies, faxes, and outgoing correspondence.",
+        "Organized files, developed spreadsheets, faxed reports, and scanned documents."
+      ]
+    },
+    {
+      "title": "Accounts Payable Clerk",
+      "company": "Company Name",
+      "duration": "02/2014 to 03/2014",
+      "responsibilities": [
+        "Received and verified invoices, matched purchase orders, and prepared invoice batches.",
+        "Managed weekly check mailings and maintained vendor files.",
+        "Handled customer service inquiries regarding payment status and missing invoices.",
+        "Collected documentation for the Auditing Department."
+      ]
+    },
+    {
+      "title": "Accounts Payable Clerk",
+      "company": "Company Name",
+      "duration": "12/2013 to 02/2014",
+      "responsibilities": [
+        "Audited Sprint bills for discrepancies in plan rates.",
+        "Performed calculations, bill analysis, and variance reporting in Excel.",
+        "Developed procedures for Sprint bill auditing."
+      ]
+    },
+    {
+      "title": "AP/AR Clerk",
+      "company": "Company Name",
+      "duration": "07/2013 to 11/2013",
+      "responsibilities": [
+        "Enhanced accounts receivable reporting and reconciliation procedures.",
+        "Processed debit, credit, and total accounts using specialized accounting software.",
+        "Received, recorded, and banked cash, checks, and vouchers.",
+        "Coded general ledger entries and processed vendor invoice payments.",
+        "Deposited third\u2011party checks and coordinated approval processes."
+      ]
+    },
+    {
+      "title": "Accounts Receivable Specialist III",
+      "company": "Company Name",
+      "duration": "08/2000 to 06/2011",
+      "responsibilities": [
+        "Posted overhead invoices to appropriate general ledger accounts.",
+        "Resolved accounts payable discrepancies and entered 50+ invoices daily.",
+        "Managed high\u2011volume inbound and outbound customer calls.",
+        "Implemented a credit card process for utilities and new vendor setup.",
+        "Completed journal entries and a scanning program for SOX compliance."
+      ]
+    },
+    {
+      "title": "Apartment Manager/Leasing",
+      "company": "Tipton Management - Pine Lake Village Apartments",
+      "duration": "08/1999 to 12/2000",
+      "responsibilities": [
+        "Leased, managed, and maintained 96% occupancy.",
+        "Paid bills within allocated budget and handled move\u2011ins and move\u2011outs.",
+        "Coordinated property rehab bids, evictions, renewal letters, and incentives."
+      ]
+    }
+  ],
+  "projects": []
+}

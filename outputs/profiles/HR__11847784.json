@@ -1,0 +1,127 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "15+ years of experience as an HR Classification/Compensation Lead and HR Specialist, managing recruitment, compensation, classification, training, and policy development across multi-state and statewide initiatives.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "Management consultation",
+    "Negotiation",
+    "E\u2011Recruitment",
+    "HR policies and procedures",
+    "Customer service",
+    "Microsoft Office",
+    "Problem solving",
+    "Budget negotiation",
+    "Training & development",
+    "Job analysis",
+    "Compensation analysis",
+    "Performance management",
+    "Recruitment"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "NeoGov"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "NC State University",
+      "graduation_year": "2007"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Specialist",
+      "company": "Company Name",
+      "duration": "03/2016 to 08/2017",
+      "responsibilities": [
+        "Managed full\u2011cycle recruitment for multi\u2011state needs.",
+        "Ensured candidate qualifications matched KSAs.",
+        "Completed pre\u2011employment processes (background checks, drug screens, reference checks).",
+        "Conducted onboarding and orientation.",
+        "Performed initial phone screens and recommended applicants for on\u2011site interviews.",
+        "Contacted candidates with salary/hourly wage offers.",
+        "Negotiated start dates."
+      ]
+    },
+    {
+      "title": "HR Analyst",
+      "company": "Company Name",
+      "duration": "08/2014 to 06/2015",
+      "responsibilities": [
+        "Analyzed 50+ roles (250+ positions) within 10 months.",
+        "Developed and implemented classification and level\u2011based system for IT, Security, and Radiation classes.",
+        "Conducted labor\u2011market studies and recommended compensation practices.",
+        "Reviewed, approved, and referred candidates for management selection.",
+        "Managed budget interactions for salary adjustments.",
+        "Reviewed and approved salary adjustments and status determinations."
+      ]
+    },
+    {
+      "title": "Manager, Classification/Compensation",
+      "company": "Company Name",
+      "duration": "03/2013 to 06/2013",
+      "responsibilities": [
+        "Reduced job analysis timeframe from four months to 11 days.",
+        "Established project management templates and communication plans.",
+        "Prioritized and assigned classification and compensation studies.",
+        "Coordinated recruitment of referrals from state officials.",
+        "Conducted statewide FLSA evaluations for appropriate designations.",
+        "Ensured legal and justified salary administration practices."
+      ]
+    },
+    {
+      "title": "Manager, Recruitment/Classification/Compensation",
+      "company": "Company Name",
+      "duration": "10/2012 to 02/2013",
+      "responsibilities": [
+        "Eliminated backlog of classification/compensation studies within four months.",
+        "Supervised recruitment for all occupational needs of the hospital.",
+        "Reviewed requests for occupational and individual position studies.",
+        "Implemented competency and skill\u2011based pay programs for nurses, mechanical trades, and institutional services."
+      ]
+    },
+    {
+      "title": "Senior HR Analyst",
+      "company": "Company Name",
+      "duration": "06/2004 to 01/2013",
+      "responsibilities": [
+        "Oversaw HR classification/compensation activities for 12 field managers and analysts.",
+        "Managed statewide competency\u2011based pay programs for nurses.",
+        "Qualified applicants and approved salary exceptions and adjustments.",
+        "Led statewide FLSA designation analysis for 18,000 employees.",
+        "Processed reduction\u2011in\u2011force activities.",
+        "Developed and delivered training on regulations, laws, and policies.",
+        "Ensured performance management initiatives were met."
+      ]
+    },
+    {
+      "title": "Senior HR Analyst",
+      "company": "Company Name",
+      "duration": "06/2000 to 05/2004",
+      "responsibilities": [
+        "Facilitated development of statewide policies for competency and skill\u2011based pay.",
+        "Partnered with managers to create technical and soft\u2011skills CBPs.",
+        "Managed statewide skill\u2011based pay program for machine operators."
+      ]
+    },
+    {
+      "title": "Training And Development Specialist",
+      "company": "Company Name",
+      "duration": "06/1996 to 05/2000",
+      "responsibilities": [
+        "Assessed educational/training needs.",
+        "Developed, delivered, and evaluated leadership, technical, and administrative training.",
+        "Led statewide initiatives such as performance\u2011based pay and evaluations.",
+        "Contributed to research on ethical practice of trainers."
+      ]
+    }
+  ],
+  "projects": []
+}

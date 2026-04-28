@@ -1,0 +1,112 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "A highly dedicated and accomplished human resources manager with a record of proficiency in employee relations, training and development programs, recruitment and onboarding, payroll management, benefits administration, HRMS database administration, job description development, wage/salary reviews, record keeping, and compliance. Proven leader in championing company values, vision, and expectations through effective communication and facilitation. Aligns HR strategy with business objectives, assesses and anticipates HR-related needs, communicates proactively within global HR teams and management, and seeks to develop highly effective integrated HR solutions.",
+  "total_experience_years": 7.0,
+  "skills": [
+    "benchmarking",
+    "benefits",
+    "bi",
+    "cost reduction",
+    "documentation",
+    "engineer",
+    "executive coaching",
+    "senior management",
+    "financial",
+    "FSA",
+    "HR",
+    "insurance",
+    "managing",
+    "office",
+    "new construction",
+    "payroll",
+    "performance reviews",
+    "performance management",
+    "permitting",
+    "policies",
+    "presenting",
+    "processes",
+    "program implementation",
+    "recruitment",
+    "renovations",
+    "RFP",
+    "safety",
+    "tax"
+  ],
+  "tools": [],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "M.B.A",
+      "institution": "University of Houston",
+      "graduation_year": "2011"
+    },
+    {
+      "degree": "B.B.A",
+      "institution": "Human Resource Management",
+      "graduation_year": null
+    },
+    {
+      "degree": "B.B.A",
+      "institution": "Management",
+      "graduation_year": null
+    },
+    {
+      "degree": "B.B.A",
+      "institution": "Marketing",
+      "graduation_year": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior HR Manager, HR Business Partner",
+      "company": null,
+      "duration": "January 2014 to January 2016",
+      "responsibilities": [
+        "Aligned HR strategy with business objectives and communicated proactively within global HR teams.",
+        "Managed full-cycle bi-weekly payroll, policy creation, training programs, employee handbook, and compliance training.",
+        "Oversaw benefits renewal, open enrollment, and negotiated with insurance brokers to achieve cost savings.",
+        "Provided workforce planning, succession planning, compensation benchmarking, and talent development.",
+        "Facilitated relocation support, visa processes, and cost-effective relocation management.",
+        "Earned 2013 individual award for global excellence."
+      ]
+    },
+    {
+      "title": "HR Manager",
+      "company": null,
+      "duration": "January 2012 to January 2013",
+      "responsibilities": [
+        "Built and managed HR functions across U.S. and Canadian locations.",
+        "Implemented payroll and benefits systems, including RFP and vendor selection.",
+        "Developed employee handbook, safety/compliance training, and orientation programs.",
+        "Managed benefits enrollment, policy updates, and compliance with laws."
+      ]
+    },
+    {
+      "title": "Quality Service Manager, HR Manager",
+      "company": null,
+      "duration": "January 2010 to January 2011",
+      "responsibilities": [
+        "Transferred from PEO to full-service payroll and benefits setup across 15 states and five localities.",
+        "Implemented FSA and commuter benefits, background check, and drug testing processes.",
+        "Managed payroll transition and ensured compliance with regulatory mandates.",
+        "Provided guidance on workforce planning, succession, and compensation."
+      ]
+    },
+    {
+      "title": "Assistant Property Manager",
+      "company": null,
+      "duration": "January 2007 to January 2010",
+      "responsibilities": [
+        "Oversaw fire life safety program, building operations, and code compliance.",
+        "Coordinated OSHA safety training and tracked attendance.",
+        "Supervised recruitment, orientation, and performance reviews of service staff.",
+        "Led green initiatives, LEED certification support, and campus sustainability programs."
+      ]
+    }
+  ],
+  "projects": []
+}

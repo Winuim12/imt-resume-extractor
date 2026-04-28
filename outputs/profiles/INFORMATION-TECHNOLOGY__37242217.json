@@ -1,0 +1,109 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Accomplished IT professional with 18+ years of experience in systems analysis, project management, and technology consulting across banking, healthcare, insurance, and government sectors. Proven track record in implementing business-critical solutions, leading cross\u2011functional teams, and driving process improvements.",
+  "total_experience_years": 18.0,
+  "skills": [
+    "Project Management",
+    "Systems Consulting",
+    "SOP & Policy Writing",
+    "Document Management",
+    "Web Design & Development",
+    "Risk Management",
+    "Task Coordination",
+    "Resource Utilization",
+    "Disaster Recovery Planning",
+    "Information Protection Analysis",
+    "Business Requirements Analysis",
+    "Email & File System Design",
+    "SEO & Digital Marketing",
+    "Training & Knowledge Transfer",
+    "Performance Tuning"
+  ],
+  "tools": [
+    "Microsoft Windows (7/8/2012)",
+    "Apple macOS & iOS",
+    "Unix/Linux (Ubuntu, Red Hat, CentOS, FreeBSD)",
+    "MS Exchange, SharePoint, IIS, Hyper\u2011V",
+    "Apache, WordPress, CloudFlare",
+    "Documentum, CoreDossier, Oracle Workflow",
+    "HTML5, CSS, JavaScript, PHP, Java, XML, C++, Visual Basic",
+    "Adobe CS6 (Acrobat, Photoshop, Illustrator, InDesign, Dreamweaver, Premiere, Flash, After Effects, Fireworks)",
+    "MS Office, MS Project, Office 365",
+    "MySQL, MS SQL, MS Access, Oracle 11i",
+    "Sage ACT!",
+    "Dell, HP, IBM, Cisco, SonicWall, NetGear, FortiGate"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Phoenix",
+      "graduation_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Consultant",
+      "company": "Company Name",
+      "duration": "January 2003 \u2013 Current",
+      "responsibilities": [
+        "Lead design, administration, and development of business\u2011critical IT systems for small to medium clients.",
+        "Manage end\u2011to\u2011end IT projects, including requirements gathering, design specifications, testing, and user adoption.",
+        "Develop and maintain web sites, email, file, database, mobile, and cloud\u2011based solutions.",
+        "Implement marketing and branding campaigns (SEO, Google AdWords, social media) to increase client exposure.",
+        "Create and enforce hardware/software maintenance procedures, upgrades, and end\u2011of\u2011life plans.",
+        "Serve as senior technical contact for client networks, servers, and cloud systems.",
+        "Prepare technical proposals, written reports, and presentations for clients."
+      ]
+    },
+    {
+      "title": "Systems & Document Administrator",
+      "company": "Company Name",
+      "duration": "January 1998 \u2013 January 2003",
+      "responsibilities": [
+        "Project lead for ERP system and multiple departmental initiatives.",
+        "Administered application servers supporting secure Internet communications and critical business systems.",
+        "Developed SOPs, policies, disaster recovery plans, and technical documentation in compliance with FDA requirements.",
+        "Implemented electronic document management system, enabling first global regulatory submissions and saving millions in revenue.",
+        "Managed web design, print advertising, multimedia, and presentation projects.",
+        "Provided Mac desktop support for DNA sequencing and robotic systems."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "BI/DW Deployment Program",
+      "description": "Managed complex business intelligence and data warehouse deployment, from requirement analysis to user adoption.",
+      "technologies": [
+        "SQL Server",
+        "SSRS",
+        "ETL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Electronic Regulatory Submissions",
+      "description": "Implemented and validated an electronic document management system for FDA submissions, achieving on\u2011time delivery and cost savings.",
+      "technologies": [
+        "Documentum",
+        "Oracle Workflow",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Client Marketing & Branding Campaigns",
+      "description": "Designed and launched web sites, SEO, Google AdWords, and social media strategies to increase client customer exposure.",
+      "technologies": [
+        "WordPress",
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Google Analytics"
+      ]
+    }
+  ]
+}

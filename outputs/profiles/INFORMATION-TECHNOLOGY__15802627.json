@@ -1,0 +1,135 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Senior Vice\u2011President and Chief Information Officer with nearly 30 years of experience leading IT strategy, network security, infrastructure, and business process improvement across retail, e\u2011commerce, and nonprofit sectors.",
+  "total_experience_years": 29.0,
+  "skills": [
+    "Business Continuity",
+    "Technology Infrastructure",
+    "File Management",
+    "LAN/WAN Architecture",
+    "Business Process Improvement",
+    "Cdm",
+    "Cisco",
+    "Contracts",
+    "Ecommerce",
+    "Fulfillment",
+    "Network Security",
+    "Opex",
+    "Procurement",
+    "Retail",
+    "Security",
+    "Case Management",
+    "Copy Machine",
+    "Disaster Recovery",
+    "Document Management",
+    "Enterprise Resource Planning",
+    "Lending",
+    "Operations",
+    "ROI",
+    "Server Virtualization",
+    "Active Directory",
+    "Databases",
+    "Directory Service",
+    "Exchange",
+    "Netware",
+    "Novell",
+    "Outlook",
+    "Backups",
+    "ITIL",
+    "Systems Engineer",
+    "Systems Security"
+  ],
+  "tools": [
+    "Cisco",
+    "Splashtop",
+    "VEEAM",
+    "Airwatch",
+    "Quantum Technologies"
+  ],
+  "certifications": [
+    "Microsoft Certified Systems Engineer",
+    "Certified Information Systems Security Professional (CISSP)",
+    "Certified Ethical Hacker (CEH) v8",
+    "Information Technology Infrastructure Library Foundations (ITIL)",
+    "Goodwill Industries International, Executive Development Program Graduate",
+    "Mobile Enterprise Executive Panelist",
+    "Gartner Summit Panelist",
+    "Enterprise CIO Forum Contributor",
+    "Wall Street Journal CIO Contributor (Candidate)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts in Geography",
+      "institution": "State University of New York at Stony Brook",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Arts in Sociology",
+      "institution": "State University of New York at Stony Brook",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelor of Science in Biochemistry",
+      "institution": "State University of New York at Stony Brook",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate of Arts in Geography",
+      "institution": "State University of New York at Stony Brook",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Vice\u2011President and Chief Information Officer",
+      "company": "Company Name",
+      "duration": "01/2009 \u2013 Current",
+      "responsibilities": [
+        "Developed IT strategy and roadmap aligned with business goals for Goodwill\u2019s retail, e\u2011commerce, employment, and mission services.",
+        "Led network security, IT operations, and business process improvement initiatives.",
+        "Designed and implemented second\u2011generation data centers and collocated sites.",
+        "Created business continuity and disaster recovery plans.",
+        "Optimized IT spend through CapEx/OpEx improvements and procurement processes.",
+        "Managed outsourcing, staff augmentation, and near\u2011shore sourcing to enhance service delivery."
+      ]
+    },
+    {
+      "title": "Vice\u2011President, Information Technology",
+      "company": "Company Name",
+      "duration": "01/2005 \u2013 01/2009",
+      "responsibilities": [
+        "Overhauled information gathering and distribution using portal technology and ERP principles.",
+        "Implemented a Managed Print Service to reduce printing costs.",
+        "Developed a proof\u2011of\u2011concept for micro\u2011lending with an international financial partner.",
+        "Authored a case study on non\u2011profit technology and achieved 43% cost savings.",
+        "Led the development of a home\u2011grown case management application and blade server platform."
+      ]
+    },
+    {
+      "title": "Manager/Senior Network Engineer, Information Technology",
+      "company": "Company Name",
+      "duration": "01/2001 \u2013 01/2005",
+      "responsibilities": [
+        "Secured and expanded wide\u2011area network infrastructure.",
+        "Designed and implemented a corporate\u2011wide Personal Information Manager with Microsoft Exchange/Outlook.",
+        "Migrated from Novell NetWare to Microsoft Windows/Active Directory, including directory services and file/print services.",
+        "Managed overall network performance, availability, and architecture."
+      ]
+    },
+    {
+      "title": "Network Administrator",
+      "company": "Company Name",
+      "duration": "01/1997 \u2013 01/2001",
+      "responsibilities": [
+        "Installed, configured, and maintained network and server systems.",
+        "Supported web presence and performed system backups.",
+        "Provided end\u2011user support for LAN\u2011based applications."
+      ]
+    }
+  ],
+  "projects": []
+}

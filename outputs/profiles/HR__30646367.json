@@ -1,0 +1,201 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Human Resources professional offering over 15 years of combined HR and payroll experience in manufacturing and academic settings, with expertise in payroll processing, benefits administration, unemployment claims, policy development, and safety compliance.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "ABRA",
+    "academic",
+    "benefits administration",
+    "billing",
+    "bi",
+    "Ceridian",
+    "conflict resolution",
+    "Crystal Reports",
+    "HRIS",
+    "Human Resources",
+    "HR",
+    "insurance",
+    "Process invoices",
+    "local government",
+    "materials",
+    "meetings",
+    "Excel",
+    "PowerPoint",
+    "Microsoft Word",
+    "Payroll",
+    "PeopleSoft",
+    "performance reviews",
+    "personnel",
+    "policies",
+    "QuickBooks",
+    "reporting",
+    "safety",
+    "sales",
+    "SAP",
+    "spreadsheets",
+    "tax",
+    "tax returns",
+    "written"
+  ],
+  "tools": [
+    "Paychex",
+    "Mastertax",
+    "ABRA",
+    "Time Star",
+    "InfoTronics",
+    "Store Master",
+    "Dominion",
+    "QuickBooks",
+    "Ceridian",
+    "PeopleSoft",
+    "SAP",
+    "Microsoft Word",
+    "Excel",
+    "PowerPoint",
+    "Crystal Reports"
+  ],
+  "certifications": [
+    "MIOSHA Level One Certification",
+    "General Industry Certification"
+  ],
+  "education": [
+    {
+      "degree": "B.B.A. in Human Resources",
+      "institution": "Baker College",
+      "graduation_year": null
+    },
+    {
+      "degree": null,
+      "institution": "Macomb Community College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Assistant/Payroll",
+      "company": null,
+      "duration": "01/2014 to 01/2014",
+      "responsibilities": [
+        "Prepared employee payroll and payroll tax information.",
+        "Administered employee benefits.",
+        "Represented employer in unemployment claims and hearings."
+      ]
+    },
+    {
+      "title": "Payroll & Benefits Coordinator",
+      "company": null,
+      "duration": "01/2013 to 01/2013",
+      "responsibilities": [
+        "Processed weekly payroll for 100 associates.",
+        "Handled garnishment, levy, and child support.",
+        "Entered new hire data into HRIS/Payroll system.",
+        "Assisted with annual benefits open enrollment.",
+        "Managed employee status changes and unemployment claims.",
+        "Established written policies and procedures.",
+        "Resolved employee conflicts.",
+        "Reported worker's compensation accidents.",
+        "Maintained OSHA 300 and OSHA 300A logs."
+      ]
+    },
+    {
+      "title": "Assistant Office Manager",
+      "company": null,
+      "duration": "01/2012 to 01/2013",
+      "responsibilities": [
+        "Calculated daily timesheets and processed payroll changes.",
+        "Responded to unemployment claims.",
+        "Maintained OSHA logs and worker's compensation reporting.",
+        "Processed monthly billing, customer payments, purchase orders, and invoices."
+      ]
+    },
+    {
+      "title": "HR Assistant/Payroll",
+      "company": null,
+      "duration": "01/2009 to 01/2012",
+      "responsibilities": [
+        "Processed weekly payroll for 100 associates.",
+        "Managed garnishment and child support.",
+        "Entered new hire data and handled status changes.",
+        "Assisted with benefits enrollment and policy development.",
+        "Resolved conflicts and maintained MSDS documents.",
+        "Coordinated quarterly meetings."
+      ]
+    },
+    {
+      "title": "Safety & Benefits Coordinator",
+      "company": null,
+      "duration": "01/2004 to 01/2009",
+      "responsibilities": [
+        "Determined benefit eligibility and maintained HRIS.",
+        "Audited insurance products and processed 401(k) events.",
+        "Recorded accidents and maintained OSHA logs.",
+        "Conducted safety training and random drug screens.",
+        "Represented company in unemployment hearings.",
+        "Coordinated benefits enrollment and recognition events."
+      ]
+    },
+    {
+      "title": "Payroll / Human Resources Assistant",
+      "company": null,
+      "duration": "01/2002 to 01/2004",
+      "responsibilities": [
+        "Processed payroll for 300 associates.",
+        "Handled garnishment and child support.",
+        "Entered new hires and managed status changes.",
+        "Distributed performance reviews.",
+        "Processed 401(k) payments and reported new hires to state.",
+        "Represented company in unemployment hearings."
+      ]
+    },
+    {
+      "title": "Human Resources / Payroll Assistant",
+      "company": null,
+      "duration": "01/2001 to 01/2002",
+      "responsibilities": [
+        "Acted as primary contact between HR and corporate payroll.",
+        "Prepared disciplinary actions for unionized plant.",
+        "Maintained attendance records and confidential files.",
+        "Reviewed applications and coordinated layoffs/recalls.",
+        "Coordinated annual service award program."
+      ]
+    },
+    {
+      "title": "Payroll Tax Analyst",
+      "company": null,
+      "duration": "01/1999 to 01/2001",
+      "responsibilities": [
+        "Computed quarterly unemployment tax returns for all states.",
+        "Prepared withholding information for EFT deposits.",
+        "Filed monthly and quarterly tax returns.",
+        "Compiled data for federal filings and annual reporting."
+      ]
+    },
+    {
+      "title": "Payroll Clerk / Human Resources Assistant",
+      "company": null,
+      "duration": "01/1996 to 01/1999",
+      "responsibilities": [
+        "Calculated bi-weekly payroll for 200+ employees.",
+        "Prepared tax returns and coordinated open enrollment.",
+        "Filed workers' compensation claims and unemployment determinations.",
+        "Managed direct deposit system and billing."
+      ]
+    },
+    {
+      "title": "Payroll Clerk / Human Resources Assistant",
+      "company": null,
+      "duration": "01/1996 to 01/1999",
+      "responsibilities": [
+        "Calculated weekly payroll for 350 employees.",
+        "Managed health care benefits eligibility and new hire orientations.",
+        "Reviewed applications and coordinated unemployment determinations.",
+        "Developed spreadsheets for employee reviews and insurance tracking."
+      ]
+    }
+  ],
+  "projects": []
+}

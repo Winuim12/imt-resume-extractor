@@ -1,0 +1,167 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Highly motivated PMO Manager with over 25 years of experience in IT project and portfolio management across corporate services, infrastructure, and clinical systems. Proven track record in leading multidisciplinary teams, implementing PMO methodologies, and driving large\u2011scale technology initiatives in healthcare settings.",
+  "total_experience_years": 25.0,
+  "skills": [
+    "Project Management",
+    "PMO Governance",
+    "Portfolio Management",
+    "IT Infrastructure",
+    "Clinical Portfolio Management",
+    "Stakeholder Communication",
+    "Conflict Resolution",
+    "Team Leadership",
+    "Training & Development",
+    "Budget Management",
+    "Resource Planning",
+    "Vendor Management",
+    "Change Management",
+    "Process Improvement"
+  ],
+  "tools": [
+    "Lawson",
+    "PeopleSoft",
+    "API",
+    "Infor",
+    "EPIC",
+    "Vantive",
+    "MUMPS",
+    "UNIX",
+    "MS SQL",
+    "SQL",
+    "VB/VBA",
+    ".NET",
+    "Enterprise Staff Scheduling",
+    "Radiology Information System",
+    "Halogen",
+    "Centralized Warehouse"
+  ],
+  "certifications": [
+    "Project Management Professional (PMP)",
+    "Project Management Advanced Certificate",
+    "Project Management Certification"
+  ],
+  "education": [
+    {
+      "degree": "B.A. in Foreign Languages and Literatures",
+      "institution": "Virginia Tech (VPI & SU)",
+      "graduation_year": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Manager, Information Technology Project Management Office",
+      "company": "Company Name",
+      "duration": "06/2008 \u2013 Current",
+      "responsibilities": [
+        "Lead portfolio of all PMO projects for Corporate Services and IT Infrastructure.",
+        "Manage two project teams, ensuring alignment with strategic goals and resource availability.",
+        "Produce monthly governance reports for executive committees.",
+        "Develop and enforce PMP certification for senior project managers.",
+        "Coordinate with EPIC PMO to optimize resource sharing and facility readiness."
+      ]
+    },
+    {
+      "title": "Project Manager / Application Systems Analyst III",
+      "company": "Company Name",
+      "duration": "06/2004 \u2013 06/2008",
+      "responsibilities": [
+        "Managed multi\u2011million dollar IT system implementations ($500k\u2013$4M).",
+        "Led cross\u2011functional teams of 60+ members for enterprise scheduling and radiology information systems.",
+        "Oversaw upgrades of API software tools and enterprise timekeeping systems.",
+        "Negotiated vendor contracts for HR recruiting and scheduling solutions."
+      ]
+    },
+    {
+      "title": "Systems Analyst II / Product Manager \u2013 Vantive (PeopleSoft)",
+      "company": "Company Name",
+      "duration": "05/2001 \u2013 06/2004",
+      "responsibilities": [
+        "Supported Vantive application across three nationwide call centers.",
+        "Conducted system upgrades and budget management.",
+        "Implemented VB/VBA customizations and maintained .NET web interface."
+      ]
+    },
+    {
+      "title": "Systems Analyst II / Project Manager",
+      "company": "Company Name",
+      "duration": "04/2000 \u2013 05/2001",
+      "responsibilities": [
+        "Managed patient accounting and clinical upgrades on MUMPS/UNIX IDX system.",
+        "Implemented new software on UNIFY database for finance and contract management.",
+        "Led testing and documentation for corporate IDX upgrades."
+      ]
+    },
+    {
+      "title": "Project Manager Intermediate / Software Analyst II",
+      "company": "Company Name",
+      "duration": "12/1998 \u2013 04/2000",
+      "responsibilities": [
+        "Financial analyst for McKesson HBOC Star Financials and backup for clinical system.",
+        "Coordinated GUI upgrade and EMR implementation on MS SQL 7.0.",
+        "Pioneered early EMR document scanning for medical and financial records."
+      ]
+    },
+    {
+      "title": "Systems Analyst / Programmer",
+      "company": "Company Name",
+      "duration": "05/1998 \u2013 12/1998",
+      "responsibilities": [
+        "Programmed SQL reports for HBOC clinical and financial systems.",
+        "Managed IMNET Electronic Medical Records implementation.",
+        "Supported MSSQL database for medical charting and physician sign\u2011off."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Enterprise Staff Scheduling Solution",
+      "description": "Led implementation of a company\u2011wide scheduling platform, coordinating 60+ cross\u2011departmental team members.",
+      "technologies": [
+        "Enterprise Scheduling Software",
+        "SQL",
+        "VB/VBA"
+      ]
+    },
+    {
+      "name": "Radiology Information System Upgrade",
+      "description": "Managed the complete replacement of dictation systems with a modern RIS.",
+      "technologies": [
+        "Radiology Information System",
+        "API",
+        "SQL"
+      ]
+    },
+    {
+      "name": "HR Recruiting System (Halogen)",
+      "description": "Oversaw deployment and vendor negotiations for a new HR recruiting platform.",
+      "technologies": [
+        "Halogen",
+        "HRIS",
+        "SQL"
+      ]
+    },
+    {
+      "name": "IMNET Electronic Medical Records Implementation",
+      "description": "Implemented EMR software on MS SQL 7.0, enabling electronic charting and physician sign\u2011off.",
+      "technologies": [
+        "IMNET",
+        "MS SQL",
+        "EMR"
+      ]
+    },
+    {
+      "name": "Vantive Call Center Deployment",
+      "description": "Brought up three new call centers on Vantive and maintained existing ones.",
+      "technologies": [
+        "Vantive",
+        "VB/VBA",
+        ".NET"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Quality-driven analytical professional who delivers consistent and successful results in HR affairs, including recruitment and retention, staff development, safety and health, mediation, conflict resolution, benefits and compensation, HR audit and records management, HR policies development and legal compliance.",
+  "total_experience_years": 15.0,
+  "skills": [
+    "ADP",
+    "Benefits",
+    "budget",
+    "databases",
+    "employee relations",
+    "special events",
+    "senior management",
+    "General Manager",
+    "hiring",
+    "HRIS",
+    "insurance",
+    "Kronos",
+    "labor relations",
+    "Lawson",
+    "leadership",
+    "managing",
+    "Medical Manager",
+    "meetings",
+    "Access",
+    "Excel",
+    "MS Office",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "newsletter",
+    "Oracle",
+    "organizational development",
+    "payroll",
+    "PeopleSoft",
+    "performance reviews",
+    "personnel",
+    "policies",
+    "Progress",
+    "QuickBooks",
+    "record keeping",
+    "recruiting",
+    "reporting",
+    "retail",
+    "safety",
+    "teamwork",
+    "troubleshoot"
+  ],
+  "tools": [
+    "Kronos",
+    "Lawson",
+    "PeopleSoft",
+    "QuickBooks",
+    "HBI",
+    "ADP",
+    "Oracle",
+    "EMR",
+    "Medical Manager",
+    "MS Office"
+  ],
+  "certifications": [
+    "Certified Mouth Swab- Drug test facilitator"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "University of Phoenix",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "BA",
+      "institution": "Interamerican University of Puerto Rico",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sr. HR Generalist",
+      "company": null,
+      "duration": "01/2012 to Current",
+      "responsibilities": [
+        "Managed HR support for 5 resorts in South and Central Florida, overseeing policies for 2000+ employees.",
+        "Planned and managed HR functions including employment, wage and salary administration, benefits, training, employee/labor relations, organizational development, and payroll.",
+        "Recommended and managed department budget within approved constraints.",
+        "Collaborated with Resort General Managers and served on the Resort Executive Team to align HR initiatives with resort goals."
+      ]
+    },
+    {
+      "title": "Office Manager",
+      "company": null,
+      "duration": "01/2010 to 01/2011",
+      "responsibilities": [
+        "Recruited, interviewed, and hired over 60 retail employees while monitoring payroll.",
+        "Managed workers compensation cases and maintained OSHA logs for all employees.",
+        "Maintained HRIS database and 200+ personnel files, administered PTO and sick time records for 4000 employees across four states.",
+        "Acted as liaison between benefit vendors and employees, issued workers compensation reports, and conducted new hire benefits orientation."
+      ]
+    },
+    {
+      "title": "HR Specialist",
+      "company": null,
+      "duration": "01/2008 to 01/2010",
+      "responsibilities": [
+        "Handled broad HR functions including job fairs, benefits administration, disciplinary actions, and HR record keeping.",
+        "Co-chaired flex-enrollment meetings, resolved employee-insurance carrier conflicts, and coordinated health fairs.",
+        "Developed HR policies, recruited employees, created group benefits databases, and designed orientation, training, and incentive programs."
+      ]
+    }
+  ],
+  "projects": []
+}

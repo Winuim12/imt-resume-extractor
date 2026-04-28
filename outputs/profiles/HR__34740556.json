@@ -1,0 +1,91 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Human Resources",
+  "summary": "Human Resources Professional with 8 years of experience in human resources and recruiting. Expertise in Employee Relations and Recruiting. Highly driven to achieve company goals.",
+  "total_experience_years": 8.0,
+  "skills": [
+    "Employment Law",
+    "FMLA/ADA/EEO/WC",
+    "HR Policies & Procedures",
+    "Staff Recruitment & Retention",
+    "Employee Relations",
+    "Benefits Administration",
+    "Orientation & On-Boarding",
+    "Training & Development",
+    "Organizational Development",
+    "Conflict Resolution",
+    "Mediation",
+    "Coaching",
+    "Hiring",
+    "Teambuilding",
+    "Legal Compliance",
+    "Compensation",
+    "Workers' Compensation",
+    "Workplace Safety/Security",
+    "Recruitment"
+  ],
+  "tools": [
+    "MS Office",
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Access",
+    "Outlook",
+    "PeopleSoft"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science (BS)",
+      "institution": "University of Southern Mississippi",
+      "graduation_year": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior HR Business Partner",
+      "company": "Company Name",
+      "duration": "August 2013 \u2013 Current",
+      "responsibilities": [
+        "Organized startup of a new call center and recruited, hired, and onboarded over 1,000 employees.",
+        "Administered HR activities, ensuring compliance with laws, regulations, policies, and procedures.",
+        "Performed benefits, compensation, recruiting, professional development, and employee relations functions.",
+        "Acted as liaison between employees and headquarters.",
+        "Prepared Personnel Action Notices and entered data into PeopleSoft.",
+        "Designed queries and prepared reports for management.",
+        "Facilitated new hire orientation sessions and maintained current knowledge of HR procedures and labor laws."
+      ]
+    },
+    {
+      "title": "HR & Safety Manager",
+      "company": "Company Name",
+      "duration": "August 2010 \u2013 August 2013",
+      "responsibilities": [
+        "Created HR policies and procedures; recruited employees; developed orientation, training, and incentive programs.",
+        "Managed leave-of-absence programs and personnel records; administered benefits enrollment.",
+        "Reorganized Waynesboro complex and established HR principles.",
+        "Structured training, compensation, benefits, incentives, and new\u2011employee orientation programs.",
+        "Fostered a teamwork/open\u2011door environment across the organization.",
+        "Managed workers' compensation program for four locations and trained managers on injury procedures.",
+        "Wrote trainings on disciplinary procedures, code of conduct, FMLA, attendance, and benefits.",
+        "Implemented I9 and eVerify procedures; ensured DOT, OSHA, and DEQ compliance.",
+        "Conducted pre\u2011employment, post\u2011accident, and random drug screens; managed staff reductions and disciplinary actions."
+      ]
+    },
+    {
+      "title": "HR Supervisor",
+      "company": "Company Name",
+      "duration": "August 2008 \u2013 August 2010",
+      "responsibilities": [
+        "Managed broad HR functions including training, benefits administration, disciplinary action, and HR records.",
+        "Trained managers on interviewing techniques and best practices; conducted workshops and coaching sessions.",
+        "Projected daily staffing needs and managed hourly cleaning staff and HR/safety clerks.",
+        "Managed new\u2011hire orientation program, including HR information and company resources."
+      ]
+    }
+  ],
+  "projects": []
+}

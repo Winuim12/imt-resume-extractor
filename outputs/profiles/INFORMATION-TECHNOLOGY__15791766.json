@@ -1,0 +1,131 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "INFORMATION-TECHNOLOGY",
+  "summary": "Technical Support Professional skilled at resolving complex customer service issues, troubleshooting technical problems, and driving productivity in fast\u2011paced environments.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "A+",
+    "Active Directory",
+    "Agile",
+    "Avaya",
+    "Call center",
+    "Communication",
+    "Critical thinking",
+    "Customer service",
+    "Decision\u2011making",
+    "Documentation",
+    "Help\u2011desk",
+    "Hardware",
+    "HP printers",
+    "IP",
+    "Laptop computers",
+    "Microsoft Certified Professional",
+    "MCSE",
+    "Office",
+    "MS Outlook",
+    "Windows",
+    "Windows OS",
+    "Windows 2000",
+    "Negotiating",
+    "Enterprise",
+    "Network",
+    "PBX",
+    "PC Hardware",
+    "Telephone systems",
+    "Copiers",
+    "Printers",
+    "Problem solving",
+    "Quality control",
+    "Risk analysis",
+    "Routers",
+    "Scheduling",
+    "Servers",
+    "SMS",
+    "Switches",
+    "TCP/IP",
+    "Tech support",
+    "Phones",
+    "Troubleshooting",
+    "Upgrades",
+    "VOIP",
+    "VPN",
+    "Xerox copiers"
+  ],
+  "tools": [
+    "Windows XP/7/8",
+    "Windows Server 2003/2008",
+    "Active Directory",
+    "MS Outlook 2007/2010",
+    "SCCM",
+    "Remote Desktop Connection (RDC)",
+    "System Management Software (SMS)",
+    "PC hardware/software",
+    "Printers",
+    "Copiers",
+    "Laptops",
+    "Mobile devices",
+    "Routers",
+    "Switches",
+    "Storage",
+    "VPN",
+    "VOIP",
+    "Wi\u2011Fi",
+    "Avaya PBX",
+    "Remedy",
+    "VNC",
+    "Remote tools"
+  ],
+  "certifications": [
+    "CompTIA Network+",
+    "CompTIA A+ Hardware/Software",
+    "Microsoft Certified Professional",
+    "MCSE \u2013 Windows 2000"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "Colorado Technical University",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Phoenix",
+      "graduation_year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Project Manager",
+      "company": "Company Name",
+      "duration": "07/2013 \u2013 Current",
+      "responsibilities": [
+        "Built and maintained relationships with service providers, dealers, and consumers.",
+        "Provided base\u2011level IT support to company personnel.",
+        "Defined project deliverables, monitored task status, and delivered status reports to stakeholders.",
+        "Collaborated with cross\u2011functional teams to draft project schedules and plans.",
+        "Monitored costs, timescales, and resources to achieve project goals.",
+        "Managed a team of 40 members, enforcing deadlines and ensuring project quality.",
+        "Partnered with various departments to address operational issues.",
+        "Planned, implemented, and managed project contracts, scheduling, risk analysis, and quality control."
+      ]
+    },
+    {
+      "title": "Information Technology Specialist",
+      "company": "Company Name",
+      "duration": "03/2004 \u2013 07/2013",
+      "responsibilities": [
+        "Trained new employees and explained protocols clearly and efficiently.",
+        "Researched and resolved issues on computer systems and databases.",
+        "Managed and supported workstations on TCP/IP, VPN, Wi\u2011Fi, and Active Directory.",
+        "Supported Avaya PBX telephone systems and integrated new technologies such as cloud printing.",
+        "Performed routine maintenance and upgrades on servers, workstations, copiers, and printers.",
+        "Acted as liaison to resolve technical issues for vendors, managers, and end users.",
+        "Developed and maintained support documentation, including troubleshooting steps and installation instructions."
+      ]
+    }
+  ],
+  "projects": []
+}

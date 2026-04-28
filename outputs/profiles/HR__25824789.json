@@ -1,0 +1,106 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Human Resources Manager with extensive experience in staff development, training, mediation, conflict resolution, benefits and compensation, HR records management, policy development, and legal compliance. Proven success in team building, personnel manual creation, special program coordination, job description development, and online state\u2011mandated training.",
+  "total_experience_years": 33.0,
+  "skills": [
+    "ADA",
+    "administrative",
+    "coaching",
+    "employee relations",
+    "training employees",
+    "English",
+    "special events",
+    "hiring",
+    "HRIS",
+    "human resources",
+    "HR",
+    "InDesign",
+    "leadership development",
+    "director",
+    "managing",
+    "mediation",
+    "Microsoft Office Suites",
+    "publisher",
+    "Sharepoint",
+    "newsletters",
+    "organizational development",
+    "PeopleSoft",
+    "performance management",
+    "policies",
+    "project management",
+    "quality",
+    "Quark",
+    "managing the restaurant",
+    "safety",
+    "scheduling",
+    "Spanish",
+    "supervision",
+    "teacher",
+    "teaching",
+    "training material",
+    "web design",
+    "workshops"
+  ],
+  "tools": [
+    "HRIS technologies",
+    "RedDot",
+    "Sharepoint",
+    "PeopleSoft",
+    "Microsoft Office Suites",
+    "InDesign",
+    "Quark",
+    "Publisher"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science (BS)",
+      "institution": "Texas Woman's University",
+      "graduation_year": "1999"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Manager",
+      "company": "Company Name",
+      "duration": "01/2007 to Current",
+      "responsibilities": [
+        "Developed, administered, and coordinated comprehensive training and development programs for university staff and faculty.",
+        "Implemented and maintained the Staff Performance Evaluation System.",
+        "Conducted exit interviews and established procedures for issue resolution.",
+        "Coordinated Service Awards, Staff Awards, and Retirement Recognition programs.",
+        "Managed New Employee Orientation and scheduling of special events and training.",
+        "Created HR newsletters using RedDot and Sharepoint.",
+        "Established job standards and evaluated subordinate staff."
+      ]
+    },
+    {
+      "title": "HR Representative III",
+      "company": "Company Name",
+      "duration": "01/2001 to 01/2007",
+      "responsibilities": [
+        "Trained over 250 time keepers on PeopleSoft Time and Labor module.",
+        "Administered FMLA program and managed HR records.",
+        "Provided leadership development training for faculty and staff.",
+        "Facilitated Spanish\u2011language training sessions.",
+        "Designed course materials and coordinated special programs/events."
+      ]
+    },
+    {
+      "title": "Restaurant Manager & Trainer",
+      "company": "Company Name",
+      "duration": "01/1993 to 01/2001",
+      "responsibilities": [
+        "Oversaw overall business performance and staff training.",
+        "Hired and trained wait, bar, and kitchen staff.",
+        "Facilitated Spanish\u2011language training and developed training materials.",
+        "Maintained quality, health, service, and safety standards."
+      ]
+    }
+  ],
+  "projects": []
+}

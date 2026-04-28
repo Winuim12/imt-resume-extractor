@@ -1,0 +1,112 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Innovative web development manager/analyst with extensive experience in program and project management. Skilled at identifying technology needs, creating solutions, and leading cross\u2011functional teams. Strong leader, team player, and data\u2011driven decision maker with a background in both industry and academia.",
+  "total_experience_years": 24.0,
+  "skills": [
+    "Project management",
+    "Program management",
+    "Process improvement",
+    "Requirements gathering",
+    "Team leadership",
+    "Strategic planning",
+    "Results\u2011oriented",
+    "Effective multitasking",
+    "Data analysis",
+    "Team building",
+    "Extensive technology experience"
+  ],
+  "tools": [
+    "Microsoft Front Page",
+    "Software Development Lifecycle Methodology",
+    "Web Design Standards",
+    "Intranet development tools"
+  ],
+  "certifications": [
+    "Microsoft Front Page Certified",
+    "Family Financial Planning Graduate Certificate",
+    "Certified Financial Planner (pending)"
+  ],
+  "education": [
+    {
+      "degree": "Graduate Certificate in Family Financial Planning",
+      "institution": "Iowa State University",
+      "graduation_year": "1998"
+    },
+    {
+      "degree": "B.S. in Marketing",
+      "institution": "Iowa State University",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Technology Manager/Analyst",
+      "company": "Company Name",
+      "duration": "07/2006 \u2013 Current",
+      "responsibilities": [
+        "Analyzed technology needs of the Graduate College and developed short\u2011 and long\u2011term goals.",
+        "Led the IT team for over eight years, overseeing multiple websites and software deployments.",
+        "Implemented Software Development Lifecycle methodology across projects.",
+        "Managed staff development through training and skill assessment.",
+        "Collected and reported data to campus groups and national agencies such as NSF and NIH.",
+        "Acted as communication liaison between faculty, staff, and central IT.",
+        "Represented the Graduate College on university task forces and councils."
+      ]
+    },
+    {
+      "title": "Manager",
+      "company": "Company Name",
+      "duration": "06/2003 \u2013 06/2006",
+      "responsibilities": [
+        "Assisted in running the largest Des Moines store in the district.",
+        "Managed a team of 25 employees and provided training.",
+        "Handled daily cash operations and reconciled accounts."
+      ]
+    },
+    {
+      "title": "Web Communications Manager",
+      "company": "Company Name",
+      "duration": "01/1999 \u2013 01/2003",
+      "responsibilities": [
+        "Developed and managed websites and web software projects within a $2M budget.",
+        "Directed project teams of managers and programmers for internal and external users.",
+        "Created project plans and secured approvals from marketing and executive leadership.",
+        "Led rollout of the first company\u2011wide intranet, completing one month ahead of schedule.",
+        "Developed a new corporate website from scratch and established corporate web design standards."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Company\u2011wide Intranet Rollout",
+      "description": "Led the development and deployment of the first company\u2011wide intranet, delivering the project one month ahead of schedule.",
+      "technologies": [
+        "Intranet development tools",
+        "Microsoft Front Page",
+        "Web Design Standards"
+      ]
+    },
+    {
+      "name": "Corporate Website Development",
+      "description": "Designed and launched a new corporate website from scratch, establishing brand consistency and improving user experience.",
+      "technologies": [
+        "Web development frameworks",
+        "Microsoft Front Page",
+        "Content Management System"
+      ]
+    },
+    {
+      "name": "Electronic Thesis/Dissertation Solution",
+      "description": "Implemented a comprehensive electronic thesis/dissertation system for Iowa State University, streamlining submission and review processes.",
+      "technologies": [
+        "Electronic document management",
+        "Custom web applications",
+        "University IT infrastructure"
+      ]
+    }
+  ]
+}

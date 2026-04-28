@@ -1,0 +1,127 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Seasoned project manager with a decade of experience leading IT infrastructure, application integrations, and enterprise resource planning initiatives. Skilled in strategic planning, change management, and cross-functional collaboration to deliver technology solutions that drive business growth.",
+  "total_experience_years": 10.0,
+  "skills": [
+    "A+",
+    "Acquisitions",
+    "Backup",
+    "Budget Planning",
+    "Business Development",
+    "Change Management",
+    "Conversion",
+    "Decision Making",
+    "Delivery",
+    "Direction",
+    "Disaster Planning",
+    "Documentation",
+    "ERP",
+    "Enterprise Resource Planning",
+    "Facilities Management",
+    "Financials",
+    "Forecasting",
+    "Help Desk",
+    "ITIL",
+    "Leadership",
+    "Team Building",
+    "Managing",
+    "Materials",
+    "Access Control",
+    "Microsoft Certified Professional",
+    "Network",
+    "Operations Management",
+    "Organizational",
+    "PC Systems",
+    "People Skills",
+    "Policies",
+    "POS",
+    "Process Design",
+    "Procurement",
+    "Project Management",
+    "Proposal Development",
+    "Sales",
+    "Scheduling",
+    "SDLC",
+    "SLA",
+    "Strategic Planning",
+    "Technical Support",
+    "User Training",
+    "Training Material",
+    "Upgrades",
+    "Windows Server",
+    "Workflow"
+  ],
+  "tools": [
+    "ERP",
+    "Windows Server",
+    "Windows Desktop",
+    "PMS",
+    "POS",
+    "Access Control Systems (Saflok, Ving, Salto, Amano Mc Gann)",
+    "ITIL",
+    "SLA",
+    "Budgeting Software",
+    "Project Management Tools"
+  ],
+  "certifications": [
+    "ITIL Foundation Course",
+    "Microsoft Certified Professional (MCP)",
+    "CompTIA A+",
+    "CompTIA N+"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of Phoenix",
+      "graduation_year": null
+    },
+    {
+      "degree": "Associate of Arts",
+      "institution": "Lake Sumter Community College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Corporate Project Manager",
+      "company": "Company Name",
+      "duration": "01/2014 - 01/2016",
+      "responsibilities": [
+        "Managed direct reports across multiple locations with $2M annual revenue.",
+        "Directed strategic direction, implementation, and support of ERP, facilities management, financials, forecasting, and procurement systems.",
+        "Established change management and help desk policies.",
+        "Designed new process workflows to improve on\u2011time delivery and increase monthly productivity by 20%.",
+        "Centralized support documentation and developed tools for opportunity tracking and proposal development.",
+        "Created and delivered training materials for new products and technologies."
+      ]
+    },
+    {
+      "title": "Director of Information Technology and Systems",
+      "company": "Company Name",
+      "duration": "01/2008 - 01/2014",
+      "responsibilities": [
+        "Led business development activities for IT and other company lines.",
+        "Provided executive leadership over company\u2011wide IT infrastructure.",
+        "Developed and delivered end\u2011user training sessions.",
+        "Implemented project management, workload planning, and performance metrics.",
+        "Installed access control systems (Saflok, Ving, Salto, Amano Mc Gann) in resort brands interfacing with PMS systems."
+      ]
+    },
+    {
+      "title": "Director of Information Technology and Systems",
+      "company": "Company Name",
+      "duration": "01/2006 - 01/2008",
+      "responsibilities": [
+        "Managed four hotels within a REIT, coordinating with management and ownership.",
+        "Provided first and second\u2011tier technical support for Windows Server/desktop and resort PMS/POS systems.",
+        "Oversaw operations management, including security, backup/recovery, disaster planning, and off\u2011hours coverage.",
+        "Managed a $1.4M capital budget and hotel conversion projects."
+      ]
+    }
+  ],
+  "projects": []
+}

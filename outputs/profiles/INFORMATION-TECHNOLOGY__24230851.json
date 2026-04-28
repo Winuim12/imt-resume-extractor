@@ -1,0 +1,100 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "Information Technology",
+  "summary": "Seasoned customer service professional with over a decade of experience in contact center operations, supervising teams of 20\u2013100 employees, and delivering high\u2011quality service across multiple communication channels. Proven ability to multitask, analyze processes, and lead teams to meet contractual and departmental goals.",
+  "total_experience_years": 12.0,
+  "skills": [
+    "Microsoft Office",
+    "Verint",
+    "Siebel",
+    "RTA",
+    "Avaya",
+    "Windows OS (Vista, 7, 8, 10)",
+    "Information Technology",
+    "Conflict Resolution",
+    "ISO 9001",
+    "Leadership",
+    "Performance Appraisals",
+    "Recruitment",
+    "Quality Control",
+    "Time Management",
+    "Telephone",
+    "E\u2011mail",
+    "Forms",
+    "Customer Service",
+    "Administrative",
+    "Budget",
+    "Coaching",
+    "Dispatching",
+    "Developer",
+    "Inspect",
+    "Safety Codes",
+    "Supervisory",
+    "Supervision",
+    "Written"
+  ],
+  "tools": [
+    "Microsoft Office",
+    "Verint",
+    "Siebel",
+    "RTA",
+    "Avaya",
+    "Windows OS"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "institution": "Eastern Kentucky University",
+      "graduation_year": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Customer Service Representative",
+      "company": "Company Name",
+      "duration": "08/2015 \u2013 Current",
+      "responsibilities": [
+        "Managed high call volumes while maintaining service quality.",
+        "Recorded customer interactions and resolved inquiries.",
+        "Processed orders, cancellations, and service changes.",
+        "Escalated unresolved issues to appropriate departments."
+      ]
+    },
+    {
+      "title": "Customer Service Supervisor",
+      "company": "Company Name",
+      "duration": "09/2014 \u2013 07/2015",
+      "responsibilities": [
+        "Supervised 20\u201360 CSRs across phone, e\u2011mail, and web\u2011chat.",
+        "Met contract goals and maintained service level metrics.",
+        "Coached and evaluated staff performance.",
+        "Handled recruitment, hiring, and onboarding."
+      ]
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": "Company Name",
+      "duration": "10/2013 \u2013 09/2014",
+      "responsibilities": [
+        "Handled large call volumes with accuracy and efficiency.",
+        "Maintained detailed records of customer interactions.",
+        "Processed orders, cancellations, and service changes."
+      ]
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": "Company Name",
+      "duration": "06/2011 \u2013 10/2013",
+      "responsibilities": [
+        "Managed 100 calls per day while ensuring quality service.",
+        "Recorded customer interactions and resolved conflicts.",
+        "Prepared contracts and processed service changes."
+      ]
+    }
+  ],
+  "projects": []
+}

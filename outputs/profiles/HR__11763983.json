@@ -1,0 +1,150 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "A people-oriented, results-driven professional with outstanding communication skills. Extensive experience delivering top-quality solutions for high-profile clients. Seeking to obtain a position which would allow me to apply my current knowledge, obtain new information and grow with a company.",
+  "total_experience_years": 22.0,
+  "skills": [
+    "ACA",
+    "ADP Payroll",
+    "AS400",
+    "benefits",
+    "benefits administration",
+    "consultation",
+    "ERP",
+    "hiring",
+    "HRIS",
+    "Internet Explorer",
+    "Kronos",
+    "labor relations",
+    "Excel",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "organization development",
+    "payroll",
+    "PeopleSoft",
+    "personnel policies",
+    "recruitment",
+    "SOX",
+    "employee handbook"
+  ],
+  "tools": [
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Darwin",
+    "Act",
+    "Attendance Advisor",
+    "ERP/AS400",
+    "HRIS",
+    "ADP Payroll",
+    "Paycor",
+    "Internet Explorer",
+    "Outlook",
+    "Kronos",
+    "IFAS",
+    "PeopleSoft",
+    "Epicor",
+    "Winpak",
+    "E2",
+    "WASP"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Walsh College",
+      "graduation_year": null
+    },
+    {
+      "degree": "Bachelors Degree",
+      "institution": "Walsh College",
+      "graduation_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "Sep 2014 to Current",
+      "responsibilities": [
+        "Built the department from the ground up as the first HR person.",
+        "Implemented policies and procedures to ensure compliance with State and Federal law.",
+        "Built relationships with Management and employees.",
+        "Provided advice and consultation to Supervisors and Executive Management for all employment related matters.",
+        "Administered employee benefits, payroll, workers compensation, FMLA and personal leave, unemployment and training.",
+        "Conducted workplace investigations from beginning to end.",
+        "Ensured compliance with ACA.",
+        "Facilitated employee engagement.",
+        "Recruited for open positions, conducted employee onboarding, and exit interviews.",
+        "Provided weekly and monthly reports to Managers and Executives."
+      ]
+    },
+    {
+      "title": "HR Representative",
+      "company": null,
+      "duration": "Jul 2014 to Aug 2014",
+      "responsibilities": [
+        "Administered employee benefits, unemployment, FMLA and short term disability leaves.",
+        "Processed wage progressions and revised manpower report weekly.",
+        "Provided advice and recommendations to managers regarding employee conduct, performance improvement, disciplinary actions and terminations.",
+        "Conducted grievance meetings with union representatives.",
+        "Maintained open communication with employees, managers and union representatives."
+      ]
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": null,
+      "duration": "Mar 2014 to Jul 2014",
+      "responsibilities": [
+        "Processed HR transaction requests from Chrysler facilities across the U.S. and Canada into the PeopleSoft HR system.",
+        "Ensured each request was complete and compliant with SOX guidelines."
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "company": null,
+      "duration": "Nov 2013 to Feb 2014",
+      "responsibilities": [
+        "Updated employee attendance and issued disciplinary action as necessary.",
+        "Scheduled and conducted hearings for employees regarding attendance and code of conduct violations.",
+        "Conducted workplace investigations, including interviewing claimants, accused, witnesses, collecting documentation, creating investigative reports and making recommendations.",
+        "Recruited for open positions, processed new hire and termination documents."
+      ]
+    },
+    {
+      "title": "HR Representative",
+      "company": null,
+      "duration": "Jul 2012 to Sep 2013",
+      "responsibilities": [
+        "Administered workers compensation claims, unemployment claims, wage progression, employee evaluations, exit interviews and leaves of absence.",
+        "Assisted with updating the attendance system, earned personal days, grievances, employee benefits and 401k.",
+        "Updated manpower report weekly and released to management.",
+        "Recruited open positions and conducted new hire orientations.",
+        "Worked closely with union representatives and managers."
+      ]
+    },
+    {
+      "title": "HR Manager",
+      "company": null,
+      "duration": "Jan 2002 to Jul 2012",
+      "responsibilities": [
+        "Provided advice and consultation on employment related matters including federal and state employment laws, employee handbooks, disciplinary action and termination.",
+        "Investigated and assisted in resolving employee and client complaints.",
+        "Served as a liaison for clients to resolve complex human resources problems with creative solutions.",
+        "Served as a consultant for all human resources matters, including unemployment, workers compensation, employee benefits, and employee perks.",
+        "Oversaw and administered all workers compensation claims from injury until closure.",
+        "Directed benefits administration.",
+        "Assisted clients in writing and implementing employee handbooks.",
+        "Ensured all HR items were completed by required deadlines.",
+        "Posted job openings, screened applicants, conducted interviews and provided recommendations for hiring decisions.",
+        "Conducted new hire orientation and ongoing training.",
+        "Maintained strong communication with other departments."
+      ]
+    }
+  ],
+  "projects": []
+}

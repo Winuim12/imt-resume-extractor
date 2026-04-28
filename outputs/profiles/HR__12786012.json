@@ -1,0 +1,136 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Certified Human Resources Professional with extensive employee relations experience in a full range of functions, as well as success in simultaneously managing multiple projects.",
+  "total_experience_years": 11.0,
+  "skills": [
+    "Employee relations",
+    "Compensation administration",
+    "Personnel records maintenance",
+    "New hire orientation",
+    "Hiring and retention",
+    "Training and development",
+    "Compensation/payroll",
+    "Staffing and recruiting",
+    "Off-boarding",
+    "Interviewing",
+    "Performance management",
+    "Benefits administration",
+    "Employment law",
+    "HRIS applications",
+    "Employee handbook development",
+    "Human resources audits",
+    "Confidentiality",
+    "HR policies and procedures",
+    "Human resources management",
+    "Interpersonal and coaching skills",
+    "Benchmarking",
+    "Conflict resolution",
+    "Direction",
+    "Policies",
+    "Processes",
+    "Recruitment",
+    "Research",
+    "Safety",
+    "Strategic",
+    "Training programs"
+  ],
+  "tools": [
+    "HRIS",
+    "Microsoft Excel"
+  ],
+  "certifications": [
+    "Certified Professional Human Resource Management"
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Keller Graduate School of Management",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "B.A",
+      "institution": "University of North Dakota",
+      "graduation_year": "2002"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Coordinator",
+      "company": "Company Name",
+      "duration": "03/2013 - Current",
+      "responsibilities": [
+        "Managed recruitment, selection, and staffing for full\u2011time employees.",
+        "Oversaw employee orientation and onboarding for full\u2011time staff.",
+        "Maintained job classification system with descriptions, objectives, and salary benchmarks.",
+        "Developed and administered personnel policies, procedures, and programs for the City.",
+        "Advised managers and employees on labor contracts, employment law, and policy matters.",
+        "Investigated complaints and facilitated conflict resolution.",
+        "Collaborated with departments on employee performance, behavior, and productivity issues.",
+        "Handled compensation, benefits, and performance management duties.",
+        "Managed City safety and workers\u2019 compensation processes.",
+        "Served as Chair of Benefit, Safety, and Wellness committees, ensuring compliance and program development.",
+        "Developed and administered leave of absence programs (FMLA, Salary Continuation, Parenting Leave, Military Leave).",
+        "Conducted research, prepared reports, and recommended solutions for complex HR issues.",
+        "Led special projects on HR initiatives, including software implementation, process improvements, training programs, onboarding, and exit interview processes."
+      ]
+    },
+    {
+      "title": "Independent HR Contractor",
+      "company": "Company Name",
+      "duration": "11/2012 - 12/2012",
+      "responsibilities": [
+        "Assisted HR with internal employee website mapping for benefits and company information.",
+        "Supported mapping project for Room & Board sales staff."
+      ]
+    },
+    {
+      "title": "Human Resource Assistant / HR Generalist",
+      "company": "Company Name",
+      "duration": "04/2005 - 07/2010",
+      "responsibilities": [
+        "Screened applicants, coordinated interview schedules, and prepared information packets.",
+        "Sent offer letters and verified paperwork.",
+        "Staffed contractor positions and facilitated orientation for contract employees.",
+        "Conducted new hire orientations for all employees.",
+        "Collaborated with management on employee relations issues.",
+        "Conducted exit interviews and processed termination paperwork.",
+        "Provided training and communication on HR programs, benefits, and processes.",
+        "Administered leaves of absence, short\u2011term disability, and workers\u2019 compensation.",
+        "Managed tuition reimbursement program."
+      ]
+    },
+    {
+      "title": "Receptionist / Administrative Assistant",
+      "company": "Company Name",
+      "duration": "11/2003 - 10/2004",
+      "responsibilities": [
+        "Maintained corporate phone list, EEO information, bus pass, and stamp inventories in Excel.",
+        "Ordered and approved office supply orders.",
+        "Coordinated with Memorial Blood Centers for NRG/ATT Blood Drive recruitment.",
+        "Oversaw security badge process.",
+        "Completed assigned special projects on time."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Orientation Process Revamp",
+      "description": "Revamped the orientation process for all new hires, implementing a company\u2011wide standardized program.",
+      "technologies": [
+        "HRIS",
+        "Onboarding tools"
+      ]
+    },
+    {
+      "name": "Passive Open Enrollment Process",
+      "description": "Introduced the first passive open enrollment process for benefits administration.",
+      "technologies": [
+        "HRIS"
+      ]
+    }
+  ]
+}

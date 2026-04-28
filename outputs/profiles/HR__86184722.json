@@ -1,0 +1,163 @@
+{
+  "candidate_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "department": "HR",
+  "summary": "Experienced HR Generalist with over 21 years of progressive HR and administrative experience, skilled in talent management, labor relations, HRIS, benefits administration, and process improvement.",
+  "total_experience_years": 21.0,
+  "skills": [
+    "Microsoft Office Suite",
+    "SAP",
+    "Kronos",
+    "IBM",
+    "ADP",
+    "ATS",
+    "MSS",
+    "HRSS",
+    "Oracle",
+    "Workbrain",
+    "HRIS",
+    "administrative",
+    "streamline",
+    "agency",
+    "auditing",
+    "benefits",
+    "budget",
+    "conferences",
+    "client",
+    "customer service",
+    "data entry",
+    "database",
+    "email",
+    "employee relations",
+    "special events",
+    "fax",
+    "filing",
+    "forms",
+    "inventory",
+    "labor relations",
+    "legal",
+    "meetings",
+    "access",
+    "internet research",
+    "organizational",
+    "payroll processing",
+    "performance management",
+    "personnel",
+    "policies",
+    "processes",
+    "quick",
+    "receptionist",
+    "record keeping",
+    "recording",
+    "recruiting",
+    "reporting",
+    "research",
+    "safety",
+    "staffing",
+    "strategic",
+    "phone",
+    "employee development"
+  ],
+  "tools": [
+    "Microsoft Office Suite",
+    "SAP",
+    "Kronos",
+    "IBM",
+    "ADP",
+    "ATS",
+    "MSS",
+    "HRSS",
+    "Oracle",
+    "Workbrain",
+    "HRIS"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "University of Phoenix",
+      "graduation_year": "2012"
+    },
+    {
+      "degree": "B.S., Public Administration",
+      "institution": "Virginia State University",
+      "graduation_year": "2007"
+    }
+  ],
+  "experience": [
+    {
+      "title": "HR Generalist",
+      "company": "Company Name",
+      "duration": "Jan 2015 \u2013 Current",
+      "responsibilities": [
+        "Provided strategic HR counsel and evaluated HR practices to recommend best-in-class solutions.",
+        "Partnered with Plant HR Manager on disability processing, relocation coordination, HR requisition, and PAF processes.",
+        "Managed employee files, performance plans, and record keeping.",
+        "Acted as Client Manager for Security and Cintas.",
+        "Executed labor and employee relations activities to drive productivity and efficiency.",
+        "Provided labor relations and grievance counsel throughout the plant.",
+        "Executed talent management processes including recruiting, staffing, and succession planning.",
+        "Collaborated with regional health and safety manager to improve safety performance and reduce workers' compensation costs.",
+        "Administered employee benefit and compensation programs.",
+        "Launched and managed a training database for employee performance and tracking.",
+        "Served as Super User for the plant's HRIS system.",
+        "Generated high participation in an employee engagement committee."
+      ]
+    },
+    {
+      "title": "Sr. Administrative Assistant",
+      "company": "Company Name",
+      "duration": "Jan 2012 \u2013 Jan 2015",
+      "responsibilities": [
+        "Created organizational and filing systems for efficient information access.",
+        "Conducted internet research on competitors and potential acquisitions.",
+        "Performed payroll processing, data entry, sick pay recording, budget support, and reconciliation.",
+        "Managed new hire orientation, training, and inventory supplies.",
+        "Processed confidential correspondence and forms.",
+        "Coordinated calendars, meetings, interviews, travel, and conferences.",
+        "Implemented a PM program and voice mail answering system.",
+        "Reorganized administrative procedures, reducing process time by 30%.",
+        "Improved customer service indicators by over 100% within 120 days."
+      ]
+    },
+    {
+      "title": "Human Resource Representative",
+      "company": "Company Name",
+      "duration": "Jan 2010 \u2013 Jan 2012",
+      "responsibilities": [
+        "Served as first point of contact for HR inquiries and escalations.",
+        "Processed terminations, new hires, manual checks, benefits, and LOA.",
+        "Maintained knowledge of legal requirements and government reporting regulations.",
+        "Reduced benefits program costs by 25% and improved customer experiences.",
+        "Achieved 100% compliance scores in auditing processes.",
+        "Instituted team concepts to support training, reducing internal rework by 75%."
+      ]
+    },
+    {
+      "title": "Human Resources Administrator",
+      "company": "Company Name",
+      "duration": "Jan 2005 \u2013 Jan 2010",
+      "responsibilities": [
+        "Responded to employee requests and interpreted company policies.",
+        "Implemented an employee recognition program.",
+        "Audited and revised employee records base.",
+        "Entered applications, set up files, and processed employment verification requests.",
+        "Handled employee benefits and HR questions.",
+        "Recruited and trained staff.",
+        "Coordinated team events, saving 40% on expenses.",
+        "Reduced turnover from 68% to 14% through improved orientation and training."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Employee Performance Tracking Database",
+      "description": "Launched and managed a training database for employee performance and tracking.",
+      "technologies": [
+        "HRIS"
+      ]
+    }
+  ]
+}
